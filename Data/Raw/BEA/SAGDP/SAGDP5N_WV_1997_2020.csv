@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "54000","West Virginia",5,SAGDP5N,1,"...","All industry total","Thousands of dollars",-78128,-68398,-81400,-95088,-87036,-92934,-108640,-113024,-137486,-123384,-114769,-110277,-135612,-125745,-157254,-160392,-153396,-143686,-136357,-142360,-130968,-126753,-133592,-2518063
+ "54000","West Virginia",5,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-45467,-45409,-58839,-68183,-59049,-59781,-72542,-74890,-100492,-89022,-78788,-72280,-100936,-93508,-120722,-122162,-115053,-107351,-101422,-103320,-95962,-87115,-93098,-2446696
+ "54000","West Virginia",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-4813,-4562,-9731,-20207,-8770,-4903,-11285,-6498,-14197,-13828,-11241,-12817,-15453,-14018,-12082,-20726,-14077,-11017,-13771,-12504,-14656,-10708,-15906,-68705
+ "54000","West Virginia",5,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-4813,-4562,-9731,-20207,-8770,-4903,-11285,-6498,-14197,-13828,-11241,-12817,-15453,-14018,-12082,-20726,-14077,-11017,-13771,-12504,-14656,-10708,-15906,-63554
+ "54000","West Virginia",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5151
+ "54000","West Virginia",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-74392
+ "54000","West Virginia",5,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7417
+ "54000","West Virginia",5,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20839
+ "54000","West Virginia",5,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46136
+ "54000","West Virginia",5,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13370
+ "54000","West Virginia",5,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-265118
+ "54000","West Virginia",5,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-6,-2,-218,-881,-2098,-3296,-2342,-1027,-1297,-415,-365,-365,-367,-391,-223848
+ "54000","West Virginia",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-215,-635,-1526,-1965,-1254,-502,-299,-269,-212,-212,-230,-309,-154168
+ "54000","West Virginia",5,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16117
+ "54000","West Virginia",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14712
+ "54000","West Virginia",5,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15419
+ "54000","West Virginia",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46241
+ "54000","West Virginia",5,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35639
+ "54000","West Virginia",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3924
+ "54000","West Virginia",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-215,-635,-1526,-1965,-1254,-502,-299,-269,-212,-212,-230,-309,-1956
+ "54000","West Virginia",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4847
+ "54000","West Virginia",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3687
+ "54000","West Virginia",5,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6859
+ "54000","West Virginia",5,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4766
+ "54000","West Virginia",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-6,-2,-3,-246,-573,-1330,-1088,-525,-999,-147,-153,-152,-137,-82,-69680
+ "54000","West Virginia",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13556
+ "54000","West Virginia",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-6,-2,-3,-4,-3,-3,-3,-3,-3,-17,-16,-12,-11,-11,-376
+ "54000","West Virginia",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-507
+ "54000","West Virginia",5,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2721
+ "54000","West Virginia",5,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7923
+ "54000","West Virginia",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-79,-416,-150,-754,-112,-570,0,0,0,0,0,-1447
+ "54000","West Virginia",5,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-164,-154,-1177,-330,-409,-426,-130,-137,-140,-126,-72,-25837
+ "54000","West Virginia",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17313
+ "54000","West Virginia",5,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-91854
+ "54000","West Virginia",5,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-15249,-1636,-16,0,0,0,0,0,0,0,0,-240766
+ "54000","West Virginia",5,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-1896,-1158,-1036,-1192,-2993,-3740,-3734,-7502,-5141,-6313,-5158,-3685,-5697,-3175,-2919,-4393,-2238,-1767,-1742,-2214,-2251,-2651,-2101,-94993
+ "54000","West Virginia",5,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-2,0,0,0,-443,-14,-221,-1,-5,-8,-8,-12,-15,-18,-21,-23,-21,-19,-21,-22,-14,-21,-25,-3779
+ "54000","West Virginia",5,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-1277,-849,-886,-832,-1412,-1318,-1459,-1631,-1745,-1157,-1316,-1300,-1747,-2087,-1621,-1546,-1586,-1515,-1618,-1883,-2158,-2584,-2043,-9833
+ "54000","West Virginia",5,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-617,-308,-150,-359,-1138,-2408,-2038,-5763,-3286,-4869,-3764,-2294,-3901,-1069,-1278,-2824,-631,-232,-103,-309,-79,-46,-33,-6630
+ "54000","West Virginia",5,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-16,-106,-104,-278,-69,-79,-35,0,0,0,0,0,0,0,0,0,0,-40579
+ "54000","West Virginia",5,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1770
+ "54000","West Virginia",5,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11103
+ "54000","West Virginia",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14942
+ "54000","West Virginia",5,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6357
+ "54000","West Virginia",5,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-127,-379,-1657,-2049,-990,-239,-248,13,-26,-12,-13,-13141
+ "54000","West Virginia",5,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7209
+ "54000","West Virginia",5,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1087
+ "54000","West Virginia",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-127,-379,-1657,-2049,-990,-239,-248,13,-26,-12,-13,-2625
+ "54000","West Virginia",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2220
+ "54000","West Virginia",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-38758,-39690,-48072,-46784,-47287,-51138,-57522,-60890,-81154,-68875,-62387,-55561,-63529,-68065,-67986,-73513,-72735,-71143,-72486,-80813,-76083,-73293,-74603,-142548
+ "54000","West Virginia",5,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-226,-260,-417,-371,-366,-352,-131,-117,-181,-109,-183,-341,-604,-1607,-1796,-1909,-1424,-1811,-1198,-1166,-1037,-925,-835,-32333
+ "54000","West Virginia",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-226,-260,-417,-371,-366,-352,-131,-117,-181,-109,-183,-341,-604,-1607,-1796,-1909,-1424,-1811,-1198,-1166,-1037,-925,-835,-8618
+ "54000","West Virginia",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4282
+ "54000","West Virginia",5,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18637
+ "54000","West Virginia",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-796
+ "54000","West Virginia",5,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-38532,-39429,-47654,-46413,-46921,-50786,-57391,-60772,-80973,-68766,-62204,-55219,-62925,-66458,-66189,-71604,-71311,-69332,-71288,-79648,-75046,-72368,-73767,-110215
+ "54000","West Virginia",5,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-38532,-39429,-47654,-46413,-46921,-50786,-57391,-60772,-80973,-68766,-62204,-55219,-62925,-66458,-66189,-71604,-71311,-69332,-71288,-79648,-75046,-72368,-73767,-104539
+ "54000","West Virginia",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5676
+ "54000","West Virginia",5,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-286508
+ "54000","West Virginia",5,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-200482
+ "54000","West Virginia",5,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-63765
+ "54000","West Virginia",5,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21762
+ "54000","West Virginia",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-114955
+ "54000","West Virginia",5,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10045
+ "54000","West Virginia",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75981
+ "54000","West Virginia",5,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65301
+ "54000","West Virginia",5,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10680
+ "54000","West Virginia",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4138,-32767,-19139,-23987,-21889,-12760,-7437,-2581,-83,-84,-635721
+ "54000","West Virginia",5,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13295
+ "54000","West Virginia",5,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4138,-32767,-19139,-23987,-21889,-12760,-7437,-2581,-83,-84,-622426
+ "54000","West Virginia",5,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-414291
+ "54000","West Virginia",5,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4138,-32767,-19139,-23987,-21889,-12760,-7437,-2581,-83,-84,-116127
+ "54000","West Virginia",5,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46221
+ "54000","West Virginia",5,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45786
+ "54000","West Virginia",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-206479
+ "54000","West Virginia",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23449
+ "54000","West Virginia",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5483
+ "54000","West Virginia",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17966
+ "54000","West Virginia",5,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-183030
+ "54000","West Virginia",5,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-48078
+ "54000","West Virginia",5,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-134952
+ "54000","West Virginia",5,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-89252
+ "54000","West Virginia",5,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-32661,-22990,-22561,-26904,-27987,-33153,-36098,-38134,-36994,-34362,-35980,-37997,-34675,-32236,-36532,-38230,-38343,-36334,-34934,-39041,-35006,-39638,-40494,-71367
+ "54000","West Virginia",5,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-543,-460,-472,-719,-832,-967,-1176,-955,-814,-775,-920,-1226,-1359,-1005,-1118,-1268,-1734,-1864,-1498,-1453,-1415,-1410,-1355,-1736
+ "54000","West Virginia",5,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "54000","West Virginia",5,SAGDP5N,86,"...","  State and local","Thousands of dollars",-32118,-22529,-22090,-26185,-27155,-32186,-34922,-37179,-36180,-33587,-35060,-36771,-33316,-31231,-35414,-36962,-36609,-34470,-33436,-37588,-33591,-38228,-39139,-69630
+ "54000","West Virginia",5,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-4813,-4562,-9731,-20207,-8770,-4903,-11285,-6498,-14197,-13828,-11241,-12817,-15453,-14018,-12082,-20726,-14077,-11017,-13771,-12504,-14656,-10708,-15906,-143097
+ "54000","West Virginia",5,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-15249,-1636,-16,0,0,0,0,0,0,0,0,-332620
+ "54000","West Virginia",5,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-1896,-1158,-1036,-1192,-2993,-3740,-3734,-7502,-5141,-6313,-5158,-3685,-5697,-3175,-2919,-4393,-2238,-1767,-1742,-2214,-2251,-2651,-2101,-108363
+ "54000","West Virginia",5,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-6,-2,-218,-1008,-2477,-4953,-4392,-2017,-1536,-664,-352,-391,-379,-404,-236989
+ "54000","West Virginia",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-4813,-4562,-9731,-20207,-8770,-4903,-11285,-6498,-14197,-13834,-11244,-13034,-16335,-16116,-15378,-23068,-15104,-12314,-14187,-12869,-15021,-11075,-16297,-632063
+ "54000","West Virginia",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-40654,-40847,-49108,-47976,-50279,-54878,-61257,-68392,-86295,-75188,-67545,-59246,-84602,-77392,-105344,-99094,-99950,-95037,-87236,-90451,-80942,-76039,-76801,-1814633
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

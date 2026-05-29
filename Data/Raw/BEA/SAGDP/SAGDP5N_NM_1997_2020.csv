@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "35000","New Mexico",6,SAGDP5N,1,"...","All industry total","Thousands of dollars",-125952,-144188,-181949,-166092,-199966,-167882,-201912,-192020,-273982,-223143,-198978,-211684,-265231,-264658,-288182,-280006,-301818,-373359,-244476,-269502,-272756,-291101,-319681,-3412522
+ "35000","New Mexico",6,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-92926,-112487,-150336,-136641,-170580,-135925,-165569,-151739,-211147,-167880,-149193,-160231,-196100,-195022,-214463,-209949,-224256,-302716,-181276,-201223,-200347,-211603,-230760,-3280670
+ "35000","New Mexico",6,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-33073,-51722,-79770,-68604,-83837,-63853,-79668,-67038,-99989,-70570,-59753,-63072,-69550,-77611,-74609,-80442,-93649,-174660,-63599,-80345,-79006,-96555,-117390,-386436
+ "35000","New Mexico",6,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-33073,-51722,-79770,-68604,-83837,-63853,-79668,-67038,-99989,-70570,-59753,-63072,-69550,-77611,-74609,-80442,-93649,-174660,-63599,-80345,-79006,-96555,-117390,-383101
+ "35000","New Mexico",6,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3335
+ "35000","New Mexico",6,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-199658
+ "35000","New Mexico",6,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22381
+ "35000","New Mexico",6,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8171
+ "35000","New Mexico",6,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-169106
+ "35000","New Mexico",6,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13143
+ "35000","New Mexico",6,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-372356
+ "35000","New Mexico",6,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-10,-4,-94,-311,-1112,-1241,-1190,-531,-1002,-379,-293,-305,-346,-383,-141630
+ "35000","New Mexico",6,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-91,-275,-989,-1089,-795,-396,-416,-350,-270,-280,-317,-360,-92904
+ "35000","New Mexico",6,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4586
+ "35000","New Mexico",6,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8046
+ "35000","New Mexico",6,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2686
+ "35000","New Mexico",6,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15924
+ "35000","New Mexico",6,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21108
+ "35000","New Mexico",6,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23579
+ "35000","New Mexico",6,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-91,-275,-989,-1089,-795,-396,-416,-350,-270,-280,-317,-360,-1903
+ "35000","New Mexico",6,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1552
+ "35000","New Mexico",6,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1281
+ "35000","New Mexico",6,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2002
+ "35000","New Mexico",6,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10238
+ "35000","New Mexico",6,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-10,-4,-3,-36,-123,-152,-396,-135,-586,-29,-23,-25,-29,-23,-48725
+ "35000","New Mexico",6,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23228
+ "35000","New Mexico",6,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-10,-4,-3,-5,-6,-9,-9,-3,-3,-14,-12,-12,-13,-14,-4961
+ "35000","New Mexico",6,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1328
+ "35000","New Mexico",6,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2581
+ "35000","New Mexico",6,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5822
+ "35000","New Mexico",6,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-23,-107,-42,-345,-76,-541,0,0,0,0,0,-4342
+ "35000","New Mexico",6,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-9,-11,-101,-41,-56,-42,-14,-11,-13,-16,-10,-4489
+ "35000","New Mexico",6,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1974
+ "35000","New Mexico",6,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-63639
+ "35000","New Mexico",6,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-17382,-1829,-17,0,0,0,0,0,0,0,0,-270309
+ "35000","New Mexico",6,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-2553,-2102,-2525,-2377,-22721,-3463,-13076,-3491,-4173,-4386,-3803,-4626,-5820,-7150,-5755,-5745,-5655,-5280,-5733,-5306,-5713,-6026,-5167,-105447
+ "35000","New Mexico",6,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-82,4,0,-4,-20731,-660,-10369,-70,-252,-383,-388,-581,-705,-845,-973,-1068,-965,-903,-990,-461,-491,-478,-540,-30400
+ "35000","New Mexico",6,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-2307,-2029,-2485,-2284,-1990,-2732,-2692,-3327,-3833,-3750,-3312,-3963,-5085,-6305,-4773,-4580,-4601,-4313,-4704,-4846,-5219,-5548,-4627,-20973
+ "35000","New Mexico",6,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-163,-77,-40,-89,-1,-71,0,0,0,-13,-40,-8,0,0,-8,-97,-89,-64,-40,0,-3,0,0,-22
+ "35000","New Mexico",6,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-15,-94,-88,-240,-63,-74,-30,0,0,0,0,0,0,0,0,0,0,-33490
+ "35000","New Mexico",6,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5808
+ "35000","New Mexico",6,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-748
+ "35000","New Mexico",6,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12070
+ "35000","New Mexico",6,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1937
+ "35000","New Mexico",6,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-194,-517,-2258,-3121,-1631,-371,-366,19,-40,-18,-18,-21564
+ "35000","New Mexico",6,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10299
+ "35000","New Mexico",6,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3837
+ "35000","New Mexico",6,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-194,-517,-2258,-3121,-1631,-371,-366,19,-40,-18,-18,-4153
+ "35000","New Mexico",6,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3275
+ "35000","New Mexico",6,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-57300,-58663,-68040,-65660,-64022,-68610,-72825,-81210,-106985,-92914,-85633,-92438,-102842,-104233,-110111,-107438,-107765,-107404,-102796,-110239,-113558,-108602,-107745,-238100
+ "35000","New Mexico",6,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-175,-182,-264,-231,-237,-313,-107,-91,-141,-94,-160,-144,-488,-1192,-1440,-1743,-1305,-1853,-1179,-1433,-1502,-1380,-1206,-44689
+ "35000","New Mexico",6,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-175,-182,-264,-231,-237,-313,-107,-91,-141,-94,-160,-144,-488,-1192,-1440,-1743,-1305,-1853,-1179,-1433,-1502,-1380,-1206,-17187
+ "35000","New Mexico",6,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6279
+ "35000","New Mexico",6,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21085
+ "35000","New Mexico",6,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-138
+ "35000","New Mexico",6,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-57125,-58481,-67776,-65429,-63785,-68297,-72718,-81118,-106844,-92820,-85473,-92294,-102354,-103041,-108670,-105695,-106460,-105551,-101617,-108806,-112056,-107222,-106539,-193410
+ "35000","New Mexico",6,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-57125,-58481,-67776,-65429,-63785,-68297,-72718,-81118,-106844,-92820,-85473,-92294,-102354,-103041,-108670,-105695,-106460,-105551,-101617,-108806,-112056,-107222,-106539,-175969
+ "35000","New Mexico",6,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17441
+ "35000","New Mexico",6,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-354195
+ "35000","New Mexico",6,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-239662
+ "35000","New Mexico",6,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46028
+ "35000","New Mexico",6,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24044
+ "35000","New Mexico",6,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-169590
+ "35000","New Mexico",6,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5529
+ "35000","New Mexico",6,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-109004
+ "35000","New Mexico",6,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-98564
+ "35000","New Mexico",6,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10440
+ "35000","New Mexico",6,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-2570,-20472,-12013,-15026,-13998,-8404,-5057,-1726,-56,-57,-648992
+ "35000","New Mexico",6,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16208
+ "35000","New Mexico",6,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-2570,-20472,-12013,-15026,-13998,-8404,-5057,-1726,-56,-57,-632784
+ "35000","New Mexico",6,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-441458
+ "35000","New Mexico",6,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-2570,-20472,-12013,-15026,-13998,-8404,-5057,-1726,-56,-57,-79985
+ "35000","New Mexico",6,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37972
+ "35000","New Mexico",6,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-73369
+ "35000","New Mexico",6,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-347769
+ "35000","New Mexico",6,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60418
+ "35000","New Mexico",6,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12458
+ "35000","New Mexico",6,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47960
+ "35000","New Mexico",6,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-287351
+ "35000","New Mexico",6,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66075
+ "35000","New Mexico",6,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-221276
+ "35000","New Mexico",6,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-117433
+ "35000","New Mexico",6,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-33026,-31701,-31613,-29450,-29386,-31957,-36343,-40280,-62835,-55262,-49785,-51453,-69132,-69635,-73719,-70058,-77562,-70643,-63200,-68279,-72409,-79498,-88921,-131852
+ "35000","New Mexico",6,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-3798,-4139,-4132,-4794,-5489,-5522,-5936,-6296,-6958,-6519,-7356,-8371,-12719,-8348,-10963,-15924,-23660,-22197,-15506,-18979,-25919,-30631,-38398,-41727
+ "35000","New Mexico",6,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "35000","New Mexico",6,SAGDP5N,86,"...","  State and local","Thousands of dollars",-29228,-27562,-27481,-24656,-23897,-26435,-30407,-33984,-55877,-48743,-42429,-43082,-56412,-61287,-62756,-54134,-53902,-48446,-47693,-49300,-46490,-48868,-50523,-90125
+ "35000","New Mexico",6,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-33073,-51722,-79770,-68604,-83837,-63853,-79668,-67038,-99989,-70570,-59753,-63072,-69550,-77611,-74609,-80442,-93649,-174660,-63599,-80345,-79006,-96555,-117390,-586093
+ "35000","New Mexico",6,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-17382,-1829,-17,0,0,0,0,0,0,0,0,-333948
+ "35000","New Mexico",6,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-2553,-2102,-2525,-2377,-22721,-3463,-13076,-3491,-4173,-4386,-3803,-4626,-5820,-7150,-5755,-5745,-5655,-5280,-5733,-5306,-5713,-6026,-5167,-118590
+ "35000","New Mexico",6,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-10,-4,-94,-505,-1629,-3499,-4311,-2162,-1373,-744,-275,-345,-364,-401,-163194
+ "35000","New Mexico",6,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-33073,-51722,-79770,-68604,-83837,-63853,-79668,-67038,-99989,-70580,-59757,-63166,-69861,-78723,-75850,-81632,-94180,-175662,-63977,-80639,-79311,-96901,-117773,-1100079
+ "35000","New Mexico",6,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-59853,-60765,-70565,-68038,-86743,-72073,-85901,-84701,-111158,-97300,-89436,-97064,-126239,-116299,-138613,-128316,-130076,-127054,-117299,-120584,-121036,-114702,-112987,-2180591
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,83 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997
+ "53000","Washington",8,SAGDP5S,1,"...","All industry total","Thousands of dollars",-42532,-49917,-51944,-75388,-73077,-80642,-88960,-80591,-81043,-117132,-89534,-49597,-68918,-74676,-128809,-171804,-152730,-176544,-213316,-283363,-475627,-434921,-410972,-530470,-647782,-610309,-569789,-562957,-595022,-690314,-925792,-726831,-930908,-936156,-805313
+ "53000","Washington",8,SAGDP5S,2,"..."," Private industries","Thousands of dollars",-41719,-49043,-50954,-74306,-71855,-79262,-87193,-78233,-77888,-112521,-84842,-42874,-60353,-62918,-98342,-135434,-108421,-115686,-141070,-190187,-386881,-328836,-293788,-422257,-554020,-497304,-434378,-399518,-412271,-479353,-684263,-471142,-498788,-509596,-504772
+ "53000","Washington",8,SAGDP5S,3,"A","   Agriculture, forestry, and fishing","Thousands of dollars",-25927,-31953,-33495,-53121,-48669,-55004,-63775,-54032,-48925,-68103,-44881,-10561,-17146,-14633,-32651,-56088,-21522,-25201,-34469,-49332,-234669,-180662,-140552,-252898,-356413,-299204,-240810,-188697,-190804,-231102,-395685,-190256,-203120,-206777,-189624
+ "53000","Washington",8,SAGDP5S,4,"[01-02]","     Farms","Thousands of dollars",-25927,-31953,-33495,-53121,-48669,-55004,-63775,-54032,-48925,-68103,-44881,-10561,-17146,-14633,-32651,-56088,-21522,-25201,-34469,-49332,-234669,-180662,-140552,-252898,-356413,-299204,-240810,-188697,-190804,-231102,-395685,-190256,-203120,-206777,-189624
+ "53000","Washington",8,SAGDP5S,5,"[07-09]","     Agricultural services, forestry, and fishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,6,"B","   Mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,-17,-6,-3,-7,-12,-16,-18,-5,-10,-6,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,7,"10","     Metal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,8,"12","     Coal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,-17,-6,-3,-7,-12,-16,-18,-5,-10,-6,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,9,"13","     Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,10,"14","     Nonmetallic minerals, except fuels","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,11,"C","   Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,12,"D","   Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-551,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,13,"...","     Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,14,"24","       Lumber and wood products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,15,"25","       Furniture and fixtures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,16,"32","       Stone, clay, and glass products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,17,"33","       Primary metal industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,18,"34","       Fabricated metal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,19,"35","       Industrial machinery and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,20,"36","       Electronic and other electric equipment 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,21,"371","       Motor vehicles and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,22,"372-379","       Other transportation equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,23,"38","       Instruments and related products 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,24,"39","       Miscellaneous manufacturing industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,25,"...","     Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-551,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,26,"20","       Food and kindred products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,27,"21","       Tobacco products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,28,"22","       Textile mill products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,29,"23","       Apparel and other textile products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,30,"26","       Paper and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,31,"27","       Printing and publishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,32,"28","       Chemicals and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-551,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,33,"29","       Petroleum and coal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,34,"30","       Rubber and miscellaneous plastics products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,35,"31","       Leather and leather products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,36,"E","   Transportation and public utilities","Thousands of dollars",-11117,-11511,-11487,-10953,-12209,-12041,-11434,-11203,-15717,-17423,-19023,-18863,-28518,-29517,-34890,-33768,-35611,-34620,-35969,-32134,-35105,-38252,-32353,-27150,-26572,-29369,-31216,-26735,-27899,-33394,-27897,-26433,-37232,-31161,-28458
+ "53000","Washington",8,SAGDP5S,37,"...","     Transportation","Thousands of dollars",-11117,-11511,-11487,-10953,-12209,-12041,-11434,-11203,-15717,-17423,-19023,-18863,-28518,-29517,-34890,-33768,-35611,-34620,-35969,-32134,-35105,-38252,-32353,-27150,-26572,-29369,-31216,-26735,-27899,-33394,-27897,-26433,-37232,-31161,-28458
+ "53000","Washington",8,SAGDP5S,38,"40","       Railroad transportation","Thousands of dollars",-193,-160,-289,-385,-417,-433,-401,-385,-1204,-2921,-3242,-5136,-13449,-12374,-17574,-16868,-19628,-20463,-19885,-20061,-21169,-22870,-16852,-15455,-13899,-15647,-14132,-10751,-10868,-11769,-9293,-10310,-16003,-15908,-20589
+ "53000","Washington",8,SAGDP5S,39,"41","       Local and interurban passenger transit","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,40,"42","       Trucking and warehousing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,41,"44","       Water transportation","Thousands of dollars",-8821,-9367,-9327,-8987,-10256,-10246,-9983,-10058,-12863,-12915,-14164,-11833,-13423,-15085,-14966,-14982,-14018,-11878,-13264,-10342,-13937,-15264,-14905,-11293,-12205,-13174,-16481,-15495,-16396,-14143,-17446,-15260,-17398,-12486,-7491
+ "53000","Washington",8,SAGDP5S,42,"45","       Transportation by air","Thousands of dollars",-2103,-1983,-1871,-1581,-1536,-1362,-1050,-760,-1650,-1588,-1617,-1894,-1646,-2058,-2351,-1918,-1965,-2278,-2820,-1730,0,-118,-597,-402,-469,-548,-603,-489,-634,-7482,-1158,-862,-3831,-2766,-378
+ "53000","Washington",8,SAGDP5S,43,"46","       Pipelines, except natural gas","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,44,"47","       Transportation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,45,"48","     Communications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,46,"49","     Electric, gas, and sanitary services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,47,"F","   Wholesale trade","Thousands of dollars",-925,-643,-243,-1900,-1670,-1000,-789,-2445,-2025,-3141,-3320,-260,0,-41,0,0,0,0,0,0,0,0,0,-482,-18330,-16994,-7975,-5484,-5711,-17437,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,48,"G","   Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,49,"H","   Finance, insurance, and real estate","Thousands of dollars",-3750,-4936,-5730,-8331,-9307,-11217,-11195,-10553,-11220,-23854,-17618,-13190,-14690,-18728,-30801,-45578,-51288,-55866,-70627,-108704,-117101,-109920,-120876,-141165,-152687,-151720,-154372,-178593,-187851,-197421,-260680,-254454,-258436,-271658,-286690
+ "53000","Washington",8,SAGDP5S,50,"60","     Depository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40
+ "53000","Washington",8,SAGDP5S,51,"61","     Nondepository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,52,"62","     Security and commodity brokers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,53,"63","     Insurance carriers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,54,"64","     Insurance agents, brokers, and services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,55,"65","     Real estate","Thousands of dollars",-3750,-4936,-5730,-8331,-9307,-11217,-11195,-10553,-11220,-23854,-17618,-13190,-14690,-18728,-30801,-45578,-51288,-55866,-70627,-108704,-117101,-109920,-120876,-141165,-152687,-151720,-154372,-178593,-187851,-197421,-260680,-254454,-258436,-271658,-286650
+ "53000","Washington",8,SAGDP5S,56,"67","     Holding and other investment offices","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,57,"I","   Services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,58,"70","     Hotels and other lodging places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,59,"72","     Personal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,60,"73","     Business services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,61,"75","     Automotive repair, services, and parking","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,62,"76","     Miscellaneous repair services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,63,"78","     Motion pictures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,64,"79","     Amusement and recreation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,65,"80","     Health services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,66,"81","     Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,67,"82","     Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,68,"83","     Social services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,69,"86","     Membership organizations","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,70,"84, 87, 89","     Other services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,71,"88","     Private households","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,72,"..."," Government and government enterprises","Thousands of dollars",-814,-874,-990,-1083,-1223,-1380,-1767,-2358,-3155,-4611,-4692,-6722,-8565,-11758,-30467,-36370,-44309,-60858,-72245,-93176,-88746,-106085,-117183,-108213,-93762,-113004,-135411,-163439,-182752,-210960,-241530,-255689,-432120,-426560,-300541
+ "53000","Washington",8,SAGDP5S,73,"...","   Federal civilian","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-123,-585,-883,-749,-1026,-996,-944,-1334,-2084,-1882,-1593,-2305,-2893,-2999,-9403,-10046,-11668
+ "53000","Washington",8,SAGDP5S,74,"...","   Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,75,"...","   State and local","Thousands of dollars",-814,-874,-990,-1083,-1223,-1380,-1767,-2358,-3155,-4611,-4692,-6722,-8565,-11758,-30467,-36370,-44309,-60858,-72122,-92591,-87863,-105336,-116157,-107217,-92818,-111670,-133327,-161557,-181159,-208655,-238637,-252690,-422717,-416514,-288873
+ "53000","Washington",8,SAGDP5S,76,"36, 38"," Electronic equipment and instruments 5/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "53000","Washington",8,SAGDP5S,77,"60, 61"," Depository and nondepository institutions 6/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40
+ "53000","Washington",8,SAGDP5S,78,"73, 84, 87, 89"," Business services and other services 7/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Note: See the included footnote file."
+"SAGDP5S: Subsidies 1/"
+"Last updated: November 18, 2010."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

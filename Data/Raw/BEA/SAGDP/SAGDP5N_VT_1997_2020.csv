@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "50000","Vermont",1,SAGDP5N,1,"...","All industry total","Thousands of dollars",-43190,-39279,-49633,-64018,-52133,-81408,-81310,-76970,-94795,-90312,-78595,-75434,-120077,-99559,-100601,-99121,-93354,-89948,-88664,-94949,-87243,-93777,-96022,-1548006
+ "50000","Vermont",1,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-22168,-23007,-34000,-45514,-32725,-58041,-55193,-48784,-61825,-59201,-46604,-45206,-83031,-63285,-68589,-69417,-63320,-55291,-53654,-58713,-52353,-57960,-59775,-1484326
+ "50000","Vermont",1,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-2623,-3799,-10553,-22428,-7019,-31468,-24952,-15413,-18399,-16953,-12053,-13231,-38325,-17901,-15069,-18309,-12971,-6759,-8134,-12048,-8811,-19688,-21778,-113301
+ "50000","Vermont",1,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-2623,-3799,-10553,-22428,-7019,-31468,-24952,-15413,-18399,-16953,-12053,-13231,-38325,-17901,-15069,-18309,-12971,-6759,-8134,-12048,-8811,-19688,-21778,-111060
+ "50000","Vermont",1,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2241
+ "50000","Vermont",1,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3558
+ "50000","Vermont",1,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "50000","Vermont",1,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3421
+ "50000","Vermont",1,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-136
+ "50000","Vermont",1,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10704
+ "50000","Vermont",1,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-158568
+ "50000","Vermont",1,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-5,-2,-396,-1042,-3497,-3577,-2385,-1230,-842,-663,-593,-572,-604,-669,-198434
+ "50000","Vermont",1,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-394,-1035,-3478,-3547,-2334,-1208,-793,-616,-565,-540,-563,-630,-119415
+ "50000","Vermont",1,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4917
+ "50000","Vermont",1,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15100
+ "50000","Vermont",1,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-717
+ "50000","Vermont",1,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23072
+ "50000","Vermont",1,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21771
+ "50000","Vermont",1,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7210
+ "50000","Vermont",1,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-394,-1035,-3478,-3547,-2334,-1208,-793,-616,-565,-540,-563,-630,-10020
+ "50000","Vermont",1,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-473
+ "50000","Vermont",1,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2500
+ "50000","Vermont",1,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9079
+ "50000","Vermont",1,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24559
+ "50000","Vermont",1,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-5,-2,-2,-7,-19,-30,-50,-23,-50,-47,-28,-32,-41,-39,-79018
+ "50000","Vermont",1,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27792
+ "50000","Vermont",1,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-5,-2,-2,-3,-2,-2,-3,-4,-4,-42,-23,-26,-36,-35,-878
+ "50000","Vermont",1,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14467
+ "50000","Vermont",1,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3934
+ "50000","Vermont",1,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9826
+ "50000","Vermont",1,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-2,-14,-7,-36,-6,-28,0,0,0,0,0,-155
+ "50000","Vermont",1,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-2,-3,-21,-11,-13,-18,-5,-6,-5,-5,-3,-18127
+ "50000","Vermont",1,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3840
+ "50000","Vermont",1,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52582
+ "50000","Vermont",1,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-6779,-723,-7,0,0,0,0,0,0,0,0,-174373
+ "50000","Vermont",1,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-2778,-1687,-2352,-2545,-4198,-3100,-3426,-2947,-2496,-2911,-2615,-3013,-4133,-5321,-3852,-3961,-3710,-3653,-3924,-3785,-4037,-4598,-3757,-34092
+ "50000","Vermont",1,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-9,0,0,0,-2138,-68,-1069,-7,-26,-40,-40,-60,-73,-87,-100,-110,-100,-93,-102,-45,-62,-46,-64,-6651
+ "50000","Vermont",1,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-2748,-1668,-2347,-2533,-1822,-2524,-1943,-1873,-1884,-2087,-2085,-2661,-3563,-4986,-3486,-3347,-3478,-3501,-3791,-3626,-3941,-4535,-3681,-6704
+ "50000","Vermont",1,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-21,-19,-5,-11,-239,-508,-408,-1028,-550,-692,-467,-268,-487,-247,-266,-504,-133,-58,-31,-114,-35,-17,-12,-148
+ "50000","Vermont",1,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-6,-38,-35,-92,-23,-25,-11,0,0,0,0,0,0,0,0,0,0,-12077
+ "50000","Vermont",1,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5064
+ "50000","Vermont",1,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "50000","Vermont",1,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2812
+ "50000","Vermont",1,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-637
+ "50000","Vermont",1,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-57,-162,-727,-971,-505,-111,-112,5,-11,-5,-6,-10287
+ "50000","Vermont",1,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5242
+ "50000","Vermont",1,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1245
+ "50000","Vermont",1,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-57,-162,-727,-971,-505,-111,-112,5,-11,-5,-6,-2383
+ "50000","Vermont",1,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1417
+ "50000","Vermont",1,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-16766,-17522,-21095,-20541,-21508,-23473,-26815,-30424,-40930,-39332,-31933,-28566,-32694,-34409,-35692,-36749,-36605,-35697,-35780,-39198,-37932,-33033,-33534,-104563
+ "50000","Vermont",1,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-40,-64,-75,-77,-98,-143,-58,-43,-69,-40,-64,-12,-172,-659,-542,-523,-399,-463,-204,-263,-386,-409,-361,-20285
+ "50000","Vermont",1,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-40,-64,-75,-77,-98,-143,-58,-43,-69,-40,-64,-12,-172,-659,-542,-523,-399,-463,-204,-263,-386,-409,-361,-4373
+ "50000","Vermont",1,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4528
+ "50000","Vermont",1,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11049
+ "50000","Vermont",1,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-335
+ "50000","Vermont",1,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-16727,-17458,-21020,-20463,-21409,-23330,-26757,-30381,-40862,-39292,-31869,-28553,-32522,-33751,-35150,-36226,-36206,-35234,-35576,-38935,-37546,-32623,-33173,-84277
+ "50000","Vermont",1,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-16727,-17458,-21020,-20463,-21409,-23330,-26757,-30381,-40862,-39292,-31869,-28553,-32522,-33751,-35150,-36226,-36206,-35234,-35576,-38935,-37546,-32623,-33173,-78372
+ "50000","Vermont",1,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5905
+ "50000","Vermont",1,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146193
+ "50000","Vermont",1,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-118050
+ "50000","Vermont",1,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15016
+ "50000","Vermont",1,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23755
+ "50000","Vermont",1,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-79278
+ "50000","Vermont",1,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2636
+ "50000","Vermont",1,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25507
+ "50000","Vermont",1,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22069
+ "50000","Vermont",1,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3438
+ "50000","Vermont",1,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1272,-9666,-7041,-8299,-8227,-5040,-3094,-989,-32,-32,-291789
+ "50000","Vermont",1,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23444
+ "50000","Vermont",1,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1272,-9666,-7041,-8299,-8227,-5040,-3094,-989,-32,-32,-268345
+ "50000","Vermont",1,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-172976
+ "50000","Vermont",1,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1272,-9666,-7041,-8299,-8227,-5040,-3094,-989,-32,-32,-39400
+ "50000","Vermont",1,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27736
+ "50000","Vermont",1,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28233
+ "50000","Vermont",1,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-142611
+ "50000","Vermont",1,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25854
+ "50000","Vermont",1,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7104
+ "50000","Vermont",1,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18750
+ "50000","Vermont",1,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-116758
+ "50000","Vermont",1,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45403
+ "50000","Vermont",1,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71355
+ "50000","Vermont",1,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-43271
+ "50000","Vermont",1,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-21023,-16272,-15633,-18504,-19408,-23367,-26117,-28186,-32970,-31112,-31991,-30228,-37046,-36274,-32012,-29704,-30034,-34658,-35011,-36237,-34890,-35817,-36247,-63680
+ "50000","Vermont",1,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-222,-213,-214,-294,-351,-507,-740,-682,-796,-592,-762,-811,-983,-819,-974,-1489,-2325,-2666,-2373,-2162,-1938,-1916,-1650,-1931
+ "50000","Vermont",1,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "50000","Vermont",1,SAGDP5N,86,"...","  State and local","Thousands of dollars",-20801,-16058,-15418,-18210,-19057,-22860,-25377,-27504,-32174,-30519,-31229,-29417,-36063,-35454,-31039,-28215,-27709,-31992,-32638,-34075,-32953,-33901,-34597,-61749
+ "50000","Vermont",1,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-2623,-3799,-10553,-22428,-7019,-31468,-24952,-15413,-18399,-16953,-12053,-13231,-38325,-17901,-15069,-18309,-12971,-6759,-8134,-12048,-8811,-19688,-21778,-116858
+ "50000","Vermont",1,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-6779,-723,-7,0,0,0,0,0,0,0,0,-226955
+ "50000","Vermont",1,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-2778,-1687,-2352,-2545,-4198,-3100,-3426,-2947,-2496,-2911,-2615,-3013,-4133,-5321,-3852,-3961,-3710,-3653,-3924,-3785,-4037,-4598,-3757,-44797
+ "50000","Vermont",1,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-5,-2,-396,-1099,-3659,-4303,-3356,-1735,-954,-775,-588,-582,-609,-675,-208720
+ "50000","Vermont",1,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-2623,-3799,-10553,-22428,-7019,-31468,-24952,-15413,-18399,-16958,-12055,-13627,-39368,-21398,-18646,-20694,-14201,-7602,-8797,-12641,-9382,-20292,-22447,-473860
+ "50000","Vermont",1,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-19544,-19208,-23447,-23086,-25706,-26573,-30241,-33371,-43426,-42243,-34548,-31579,-43663,-41886,-49943,-48723,-49118,-47689,-44857,-46071,-42970,-37668,-37329,-1010466
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

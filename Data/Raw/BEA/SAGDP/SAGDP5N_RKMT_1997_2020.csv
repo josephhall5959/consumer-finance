@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "97000","Rocky Mountain",7,SAGDP5N,1,"...","All industry total","Thousands of dollars",-1124238,-1397154,-1706074,-1726987,-1964429,-1466841,-1828431,-1559839,-2139278,-1700072,-1618101,-1793137,-1983192,-1997208,-2128858,-2060151,-2178517,-2180082,-1962396,-2206072,-2407001,-2410501,-2542787,-28644323
+ "97000","Rocky Mountain",7,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-864977,-1158390,-1451488,-1467479,-1676684,-1120656,-1452907,-1162377,-1688576,-1248100,-1148492,-1282326,-1352849,-1455657,-1506706,-1432203,-1452375,-1447883,-1269617,-1456569,-1647368,-1599212,-1706702,-27365914
+ "97000","Rocky Mountain",7,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-474428,-743215,-991010,-1013780,-974705,-657748,-802661,-622956,-978138,-630741,-578461,-675526,-566590,-716449,-612946,-546561,-570009,-582973,-434048,-564129,-740340,-712476,-789557,-2805369
+ "97000","Rocky Mountain",7,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-474428,-743215,-991010,-1013780,-974705,-657748,-802661,-622956,-978138,-630741,-578461,-675526,-566590,-716449,-612946,-546561,-570009,-582973,-434048,-564129,-740340,-712476,-789557,-2740412
+ "97000","Rocky Mountain",7,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-64957
+ "97000","Rocky Mountain",7,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-465067
+ "97000","Rocky Mountain",7,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-72042
+ "97000","Rocky Mountain",7,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-116639
+ "97000","Rocky Mountain",7,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-276386
+ "97000","Rocky Mountain",7,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67393
+ "97000","Rocky Mountain",7,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2929412
+ "97000","Rocky Mountain",7,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-119,-60,-1450,-4723,-15689,-20393,-21184,-7955,-10185,-5233,-4891,-4032,-4519,-5288,-1760129
+ "97000","Rocky Mountain",7,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1376,-3670,-11496,-16260,-13073,-6028,-4489,-4426,-4317,-3536,-3994,-4831,-1177292
+ "97000","Rocky Mountain",7,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-81846
+ "97000","Rocky Mountain",7,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-57165
+ "97000","Rocky Mountain",7,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34122
+ "97000","Rocky Mountain",7,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-263318
+ "97000","Rocky Mountain",7,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-167570
+ "97000","Rocky Mountain",7,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-150959
+ "97000","Rocky Mountain",7,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1376,-3670,-11496,-16260,-13073,-6028,-4489,-4426,-4317,-3536,-3994,-4831,-64261
+ "97000","Rocky Mountain",7,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42670
+ "97000","Rocky Mountain",7,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49370
+ "97000","Rocky Mountain",7,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78143
+ "97000","Rocky Mountain",7,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-187869
+ "97000","Rocky Mountain",7,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-119,-60,-74,-1053,-4193,-4133,-8111,-1928,-5697,-807,-573,-496,-525,-457,-582837
+ "97000","Rocky Mountain",7,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-277389
+ "97000","Rocky Mountain",7,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-119,-60,-74,-92,-72,-65,-77,-77,-73,-574,-363,-312,-332,-326,-12397
+ "97000","Rocky Mountain",7,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21227
+ "97000","Rocky Mountain",7,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10431
+ "97000","Rocky Mountain",7,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-74505
+ "97000","Rocky Mountain",7,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-652,-3822,-1565,-7371,-1309,-4976,0,0,0,0,0,-15052
+ "97000","Rocky Mountain",7,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-308,-298,-2503,-663,-542,-648,-233,-210,-184,-193,-131,-111039
+ "97000","Rocky Mountain",7,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60797
+ "97000","Rocky Mountain",7,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1095376
+ "97000","Rocky Mountain",7,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-105059,-11086,-105,0,0,0,0,0,0,0,0,-2287736
+ "97000","Rocky Mountain",7,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-11852,-8321,-10455,-10614,-269431,-19991,-141107,-13960,-17509,-20198,-17276,-22579,-26606,-32975,-27056,-28296,-26839,-24654,-26445,-27358,-30613,-33349,-33302,-2107639
+ "97000","Rocky Mountain",7,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-1038,52,0,-52,-260844,-8301,-130474,-882,-3165,-4825,-4877,-7315,-8871,-10635,-12243,-13436,-12140,-11361,-12451,-11938,-11822,-11512,-15246,-1395808
+ "97000","Rocky Mountain",7,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-10703,-8335,-10390,-10077,-8490,-11370,-10348,-11990,-13483,-13198,-11715,-14619,-17404,-22300,-14775,-14649,-14682,-13282,-13988,-15394,-18775,-21827,-18047,-107899
+ "97000","Rocky Mountain",7,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-111,-38,-66,-485,-97,-321,-183,-399,-187,-289,-180,-82,-83,-40,-38,-211,-17,-11,-6,-27,-15,-11,-9,-496
+ "97000","Rocky Mountain",7,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-102,-689,-675,-1887,-503,-564,-248,0,0,0,0,0,0,0,0,0,0,-423743
+ "97000","Rocky Mountain",7,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30748
+ "97000","Rocky Mountain",7,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8110
+ "97000","Rocky Mountain",7,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-116354
+ "97000","Rocky Mountain",7,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24482
+ "97000","Rocky Mountain",7,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1932,-5556,-23801,-33874,-17740,-4287,-4093,216,-458,-213,-261,-494799
+ "97000","Rocky Mountain",7,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-207997
+ "97000","Rocky Mountain",7,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-53972
+ "97000","Rocky Mountain",7,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1932,-5556,-23801,-33874,-17740,-4287,-4093,216,-458,-213,-261,-86576
+ "97000","Rocky Mountain",7,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146254
+ "97000","Rocky Mountain",7,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-378697,-406854,-450023,-443085,-432548,-442917,-509139,-525461,-692928,-597042,-552695,-582770,-647939,-658250,-693783,-724750,-736036,-738382,-747515,-828873,-861213,-848312,-877947,-2223734
+ "97000","Rocky Mountain",7,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1402,-1773,-2994,-3340,-4690,-4979,-2026,-1955,-2885,-2025,-3749,-5897,-10269,-29893,-36334,-48386,-34370,-44715,-27446,-33557,-35461,-33100,-30189,-670864
+ "97000","Rocky Mountain",7,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1402,-1773,-2994,-3340,-4690,-4979,-2026,-1955,-2885,-2025,-3749,-5897,-10269,-29893,-36334,-48386,-34370,-44715,-27446,-33557,-35461,-33100,-30189,-242523
+ "97000","Rocky Mountain",7,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-167955
+ "97000","Rocky Mountain",7,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-253910
+ "97000","Rocky Mountain",7,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6476
+ "97000","Rocky Mountain",7,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-377296,-405081,-447029,-439745,-427858,-437938,-507113,-523506,-690043,-595017,-548946,-576873,-637670,-628357,-657449,-676364,-701666,-693667,-720069,-795316,-825752,-815213,-847758,-1552870
+ "97000","Rocky Mountain",7,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-377296,-405081,-447029,-439745,-427858,-437938,-507113,-523506,-690043,-595017,-548946,-576873,-637670,-628357,-657449,-676364,-701666,-693667,-720069,-795316,-825752,-815213,-847758,-1429211
+ "97000","Rocky Mountain",7,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-123659
+ "97000","Rocky Mountain",7,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3484330
+ "97000","Rocky Mountain",7,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2365082
+ "97000","Rocky Mountain",7,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-315661
+ "97000","Rocky Mountain",7,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-449283
+ "97000","Rocky Mountain",7,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1600139
+ "97000","Rocky Mountain",7,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-108487
+ "97000","Rocky Mountain",7,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1010760
+ "97000","Rocky Mountain",7,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-919674
+ "97000","Rocky Mountain",7,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-91086
+ "97000","Rocky Mountain",7,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-15654,-128622,-77538,-93796,-87402,-52283,-31534,-10712,-343,-346,-4030585
+ "97000","Rocky Mountain",7,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-153804
+ "97000","Rocky Mountain",7,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-15654,-128622,-77538,-93796,-87402,-52283,-31534,-10712,-343,-346,-3876781
+ "97000","Rocky Mountain",7,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2823818
+ "97000","Rocky Mountain",7,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-15654,-128622,-77538,-93796,-87402,-52283,-31534,-10712,-343,-346,-471476
+ "97000","Rocky Mountain",7,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-295571
+ "97000","Rocky Mountain",7,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-285916
+ "97000","Rocky Mountain",7,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2717877
+ "97000","Rocky Mountain",7,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-375682
+ "97000","Rocky Mountain",7,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-119629
+ "97000","Rocky Mountain",7,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-256053
+ "97000","Rocky Mountain",7,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2342195
+ "97000","Rocky Mountain",7,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-465359
+ "97000","Rocky Mountain",7,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1876836
+ "97000","Rocky Mountain",7,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-896470
+ "97000","Rocky Mountain",7,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-259260,-238764,-254587,-259508,-287745,-346185,-375524,-397461,-450702,-451972,-469609,-510812,-630344,-541551,-622151,-627948,-726141,-732199,-692780,-749502,-759633,-811289,-836085,-1278408
+ "97000","Rocky Mountain",7,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-41300,-39293,-41296,-49385,-73304,-97711,-104474,-106287,-136326,-124324,-147724,-205574,-275276,-153542,-197518,-231138,-330817,-313539,-243679,-257945,-257976,-274030,-283131,-294761
+ "97000","Rocky Mountain",7,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "97000","Rocky Mountain",7,SAGDP5N,86,"...","  State and local","Thousands of dollars",-217960,-199470,-213290,-210123,-214441,-248474,-271051,-291174,-314376,-327648,-321885,-305237,-355067,-388009,-424633,-396811,-395324,-418660,-449101,-491557,-501657,-537259,-552955,-983648
+ "97000","Rocky Mountain",7,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-474428,-743215,-991010,-1013780,-974705,-657748,-802661,-622956,-978138,-630741,-578461,-675526,-566590,-716449,-612946,-546561,-570009,-582973,-434048,-564129,-740340,-712476,-789557,-3270435
+ "97000","Rocky Mountain",7,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-105059,-11086,-105,0,0,0,0,0,0,0,0,-3383112
+ "97000","Rocky Mountain",7,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-11852,-8321,-10455,-10614,-269431,-19991,-141107,-13960,-17509,-20198,-17276,-22579,-26606,-32975,-27056,-28296,-26839,-24654,-26445,-27358,-30613,-33349,-33302,-2175032
+ "97000","Rocky Mountain",7,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-119,-60,-1450,-6655,-21244,-44194,-55058,-25696,-14472,-9326,-4675,-4490,-4732,-5550,-2254928
+ "97000","Rocky Mountain",7,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-474428,-743215,-991010,-1013780,-974705,-657748,-802661,-622956,-978138,-630860,-578521,-676977,-571313,-732137,-633339,-567744,-577965,-593159,-439281,-569020,-744372,-716996,-794846,-7959976
+ "97000","Rocky Mountain",7,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-390550,-415175,-460478,-453699,-701979,-462908,-650246,-539421,-710438,-617240,-569971,-605349,-781535,-723520,-873367,-864458,-874411,-854725,-830335,-887549,-902996,-882216,-911857,-19405939
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

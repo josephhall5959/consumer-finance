@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "38000","North Dakota",4,SAGDP5N,1,"...","All industry total","Thousands of dollars",-398163,-608091,-947335,-1121065,-989014,-492525,-742436,-600961,-939386,-631255,-639852,-953112,-824805,-1067752,-880808,-868665,-1266281,-941150,-928548,-1189599,-1190175,-1312255,-1623339,-3874895
+ "38000","North Dakota",4,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-323022,-535277,-861466,-1031301,-864721,-354282,-584660,-425075,-748821,-418602,-379179,-460037,-417500,-756184,-444946,-390716,-543920,-223833,-344849,-572658,-535721,-685074,-1007552,-3214220
+ "38000","North Dakota",4,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-306581,-517795,-842435,-1012576,-841769,-332497,-559146,-398482,-713688,-387135,-350345,-431484,-375919,-716917,-390249,-336927,-486609,-165998,-287488,-516676,-483497,-637824,-962682,-1736208
+ "38000","North Dakota",4,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-306581,-517795,-842435,-1012576,-841769,-332497,-559146,-398482,-713688,-387135,-350345,-431484,-375919,-716917,-390249,-336927,-486609,-165998,-287488,-516676,-483497,-637824,-962682,-1728136
+ "38000","North Dakota",4,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8073
+ "38000","North Dakota",4,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-112761
+ "38000","North Dakota",4,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8067
+ "38000","North Dakota",4,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3531
+ "38000","North Dakota",4,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-101162
+ "38000","North Dakota",4,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13799
+ "38000","North Dakota",4,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-213032
+ "38000","North Dakota",4,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-4,-2,-23,-77,-285,-265,-414,-142,-351,-93,-80,-84,-92,-95,-143216
+ "38000","North Dakota",4,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-20,-36,-121,-190,-161,-76,-62,-58,-46,-47,-56,-61,-97198
+ "38000","North Dakota",4,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4061
+ "38000","North Dakota",4,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1809
+ "38000","North Dakota",4,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-725
+ "38000","North Dakota",4,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23084
+ "38000","North Dakota",4,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34554
+ "38000","North Dakota",4,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9982
+ "38000","North Dakota",4,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-20,-36,-121,-190,-161,-76,-62,-58,-46,-47,-56,-61,-228
+ "38000","North Dakota",4,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1736
+ "38000","North Dakota",4,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6669
+ "38000","North Dakota",4,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6234
+ "38000","North Dakota",4,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8115
+ "38000","North Dakota",4,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-4,-2,-3,-41,-163,-76,-253,-66,-289,-36,-34,-36,-36,-34,-46018
+ "38000","North Dakota",4,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34252
+ "38000","North Dakota",4,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-4,-2,-3,-4,-4,-4,-4,-5,-5,-27,-27,-30,-31,-32,-397
+ "38000","North Dakota",4,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-595
+ "38000","North Dakota",4,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-98
+ "38000","North Dakota",4,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3065
+ "38000","North Dakota",4,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-32,-156,-44,-241,-42,-256,0,0,0,0,0,-1548
+ "38000","North Dakota",4,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-4,-4,-27,-8,-19,-29,-8,-7,-6,-5,-3,-3700
+ "38000","North Dakota",4,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2363
+ "38000","North Dakota",4,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-112664
+ "38000","North Dakota",4,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-8080,-908,-9,0,0,0,0,0,0,0,0,-137873
+ "38000","North Dakota",4,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-1627,-1632,-1959,-2002,-5187,-2302,-4113,-2959,-3728,-4109,-3629,-4565,-5372,-6559,-4358,-5716,-5682,-4967,-4728,-4357,-4564,-5202,-4162,-108690
+ "38000","North Dakota",4,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-14,1,0,-1,-3396,-108,-1699,-11,-41,-63,-63,-95,-115,-138,-159,-175,-158,-148,-162,-106,-146,-118,-155,-17280
+ "38000","North Dakota",4,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-1613,-1632,-1959,-2002,-1791,-2186,-2403,-2873,-3615,-3845,-3495,-4399,-5221,-6421,-4199,-5461,-5524,-4819,-4565,-4251,-4411,-5084,-4006,-26535
+ "38000","North Dakota",4,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-1,0,0,0,0,-7,0,0,0,0,-16,0,0,0,0,-80,0,0,0,0,-7,0,0,0
+ "38000","North Dakota",4,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-11,-74,-71,-201,-54,-71,-35,0,0,0,0,0,0,0,0,0,0,-54189
+ "38000","North Dakota",4,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2257
+ "38000","North Dakota",4,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-702
+ "38000","North Dakota",4,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6170
+ "38000","North Dakota",4,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1556
+ "38000","North Dakota",4,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-67,-191,-841,-1204,-657,-166,-172,9,-19,-9,-11,-20484
+ "38000","North Dakota",4,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7742
+ "38000","North Dakota",4,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-479
+ "38000","North Dakota",4,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-67,-191,-841,-1204,-657,-166,-172,9,-19,-9,-11,-7393
+ "38000","North Dakota",4,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4870
+ "38000","North Dakota",4,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-14814,-15851,-17072,-16722,-17765,-19484,-21401,-23634,-31406,-27354,-25204,-23965,-27984,-29500,-33263,-37121,-39119,-41258,-45564,-47577,-46144,-41902,-40554,-94723
+ "38000","North Dakota",4,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-104,-135,-242,-259,-315,-340,-137,-110,-149,-77,-116,-291,-589,-1733,-1898,-2538,-1271,-1665,-1130,-1169,-1148,-1027,-930,-23239
+ "38000","North Dakota",4,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-104,-135,-242,-259,-315,-340,-137,-110,-149,-77,-116,-291,-589,-1733,-1898,-2538,-1271,-1665,-1130,-1169,-1148,-1027,-930,-9709
+ "38000","North Dakota",4,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5191
+ "38000","North Dakota",4,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8216
+ "38000","North Dakota",4,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-122
+ "38000","North Dakota",4,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-14710,-15716,-16830,-16463,-17450,-19144,-21264,-23524,-31256,-27277,-25088,-23673,-27395,-27767,-31365,-34583,-37848,-39593,-44434,-46408,-44997,-40875,-39624,-71485
+ "38000","North Dakota",4,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-14710,-15716,-16830,-16463,-17450,-19144,-21264,-23524,-31256,-27277,-25088,-23673,-27395,-27767,-31365,-34583,-37848,-39593,-44434,-46408,-44997,-40875,-39624,-54587
+ "38000","North Dakota",4,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16898
+ "38000","North Dakota",4,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-94103
+ "38000","North Dakota",4,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60000
+ "38000","North Dakota",4,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8778
+ "38000","North Dakota",4,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4192
+ "38000","North Dakota",4,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47030
+ "38000","North Dakota",4,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9498
+ "38000","North Dakota",4,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24604
+ "38000","North Dakota",4,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22693
+ "38000","North Dakota",4,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1911
+ "38000","North Dakota",4,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1824,-15961,-9334,-11711,-11093,-6805,-3977,-1412,-45,-49,-261144
+ "38000","North Dakota",4,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5029
+ "38000","North Dakota",4,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1824,-15961,-9334,-11711,-11093,-6805,-3977,-1412,-45,-49,-256116
+ "38000","North Dakota",4,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-104930
+ "38000","North Dakota",4,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-1824,-15961,-9334,-11711,-11093,-6805,-3977,-1412,-45,-49,-64479
+ "38000","North Dakota",4,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61555
+ "38000","North Dakota",4,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25151
+ "38000","North Dakota",4,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-124977
+ "38000","North Dakota",4,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16328
+ "38000","North Dakota",4,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3881
+ "38000","North Dakota",4,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12447
+ "38000","North Dakota",4,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-108649
+ "38000","North Dakota",4,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30395
+ "38000","North Dakota",4,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78254
+ "38000","North Dakota",4,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40546
+ "38000","North Dakota",4,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-75141,-72814,-85869,-89765,-124294,-138243,-157776,-175886,-190565,-212653,-260672,-493075,-407306,-311568,-435862,-477949,-722361,-717317,-583698,-616941,-654454,-627181,-615787,-660675
+ "38000","North Dakota",4,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-61667,-57883,-62573,-76840,-112483,-125843,-146092,-165075,-177114,-199910,-247713,-477633,-391124,-293271,-416694,-459547,-704239,-700922,-565374,-595483,-636040,-607510,-595725,-624921
+ "38000","North Dakota",4,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "38000","North Dakota",4,SAGDP5N,86,"...","  State and local","Thousands of dollars",-13473,-14931,-23296,-12925,-11811,-12401,-11684,-10812,-13450,-12743,-12960,-15442,-16181,-18297,-19168,-18402,-18122,-16396,-18324,-21458,-18414,-19671,-20063,-35754
+ "38000","North Dakota",4,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-306581,-517795,-842435,-1012576,-841769,-332497,-559146,-398482,-713688,-387135,-350345,-431484,-375919,-716917,-390249,-336927,-486609,-165998,-287488,-516676,-483497,-637824,-962682,-1848969
+ "38000","North Dakota",4,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-8080,-908,-9,0,0,0,0,0,0,0,0,-250536
+ "38000","North Dakota",4,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-1627,-1632,-1959,-2002,-5187,-2302,-4113,-2959,-3728,-4109,-3629,-4565,-5372,-6559,-4358,-5716,-5682,-4967,-4728,-4357,-4564,-5202,-4162,-122489
+ "38000","North Dakota",4,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-4,-2,-23,-144,-475,-1106,-1618,-799,-517,-265,-71,-103,-101,-106,-163700
+ "38000","North Dakota",4,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-306581,-517795,-842435,-1012576,-841769,-332497,-559146,-398482,-713688,-387139,-350347,-431507,-375996,-717202,-390514,-337341,-486751,-166349,-287581,-516756,-483581,-637917,-962777,-2205217
+ "38000","North Dakota",4,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-16441,-17482,-19031,-18725,-22952,-21786,-25514,-26593,-35133,-31463,-28832,-28530,-41504,-38982,-54432,-53375,-57169,-57484,-57268,-55903,-52140,-47157,-44775,-1009003
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

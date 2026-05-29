@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "24000","Maryland",2,SAGDP5N,1,"...","All industry total","Thousands of dollars",-609807,-571212,-616855,-637273,-692872,-670123,-806096,-810988,-935373,-867407,-810321,-875604,-1048431,-1036130,-1141640,-1104311,-1106119,-1092789,-1062262,-1109158,-1096352,-1191979,-1267807,-14302618
+ "24000","Maryland",2,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-332434,-357261,-403386,-429890,-474101,-409582,-514107,-497370,-617786,-535210,-472630,-538979,-635318,-618886,-700394,-659509,-655810,-610912,-576424,-607972,-621591,-593071,-649111,-13213458
+ "24000","Maryland",2,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-16529,-32549,-58948,-89769,-77598,-42221,-57304,-44722,-73160,-57621,-37066,-48527,-44915,-46104,-34845,-46285,-35272,-20551,-21212,-37187,-47688,-33860,-99976,-179439
+ "24000","Maryland",2,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-16529,-32549,-58948,-89769,-77598,-42221,-57304,-44722,-73160,-57621,-37066,-48527,-44915,-46104,-34845,-46285,-35272,-20551,-21212,-37187,-47688,-33860,-99976,-169118
+ "24000","Maryland",2,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10321
+ "24000","Maryland",2,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17745
+ "24000","Maryland",2,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-114
+ "24000","Maryland",2,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16447
+ "24000","Maryland",2,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1184
+ "24000","Maryland",2,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46677
+ "24000","Maryland",2,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1723728
+ "24000","Maryland",2,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-86,-39,-677,-1619,-4043,-6046,-4009,-2194,-1968,-1404,-1426,-1280,-1220,-1307,-709133
+ "24000","Maryland",2,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-627,-1310,-3413,-3674,-2693,-1317,-855,-942,-967,-859,-840,-1010,-416762
+ "24000","Maryland",2,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26105
+ "24000","Maryland",2,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25952
+ "24000","Maryland",2,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7292
+ "24000","Maryland",2,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-86700
+ "24000","Maryland",2,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-81589
+ "24000","Maryland",2,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78092
+ "24000","Maryland",2,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-627,-1310,-3413,-3674,-2693,-1317,-855,-942,-967,-859,-840,-1010,-14523
+ "24000","Maryland",2,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4223
+ "24000","Maryland",2,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13461
+ "24000","Maryland",2,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25889
+ "24000","Maryland",2,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52936
+ "24000","Maryland",2,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-86,-39,-50,-310,-629,-2372,-1315,-877,-1113,-462,-459,-421,-381,-297,-292371
+ "24000","Maryland",2,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-100270
+ "24000","Maryland",2,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-86,-39,-50,-54,-48,-53,-50,-38,-33,-194,-190,-183,-176,-160,-7354
+ "24000","Maryland",2,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11391
+ "24000","Maryland",2,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7420
+ "24000","Maryland",2,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-70524
+ "24000","Maryland",2,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-41,-300,-100,-672,-138,-385,0,0,0,0,0,-5898
+ "24000","Maryland",2,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-215,-281,-2219,-593,-702,-695,-267,-269,-238,-204,-137,-56555
+ "24000","Maryland",2,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-32960
+ "24000","Maryland",2,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-531442
+ "24000","Maryland",2,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-55451,-5965,-56,0,0,0,0,0,0,0,0,-1055315
+ "24000","Maryland",2,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-41604,-32545,-39604,-42055,-100370,-59506,-82539,-65340,-67693,-64398,-57009,-67566,-85367,-99065,-76308,-52806,-46795,-44526,-45585,-48794,-58855,-65662,-57136,-638751
+ "24000","Maryland",2,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-242,12,0,-12,-60732,-1933,-30378,-205,-737,-1123,-1135,-1703,-2065,-2476,-2851,-3128,-2826,-2645,-2899,-3485,-3307,-3058,-3503,-255841
+ "24000","Maryland",2,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-40028,-31985,-39348,-41399,-37312,-53232,-48743,-57567,-63567,-59003,-52815,-63725,-79377,-93394,-69816,-42167,-41936,-41012,-42150,-43202,-54936,-62314,-53430,-112094
+ "24000","Maryland",2,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-1335,-572,-256,-644,-2327,-4342,-3382,-7331,-3177,-3713,-2922,-1992,-3862,-3195,-3642,-7511,-2033,-869,-536,-2107,-612,-291,-203,-11215
+ "24000","Maryland",2,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-36,-237,-213,-558,-136,-145,-62,0,0,0,0,0,0,0,0,0,0,-96561
+ "24000","Maryland",2,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54135
+ "24000","Maryland",2,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-55
+ "24000","Maryland",2,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-90378
+ "24000","Maryland",2,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18472
+ "24000","Maryland",2,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-986,-2961,-12814,-18174,-9958,-2361,-2286,121,-253,-112,-134,-163205
+ "24000","Maryland",2,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-59802
+ "24000","Maryland",2,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13116
+ "24000","Maryland",2,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-986,-2961,-12814,-18174,-9958,-2361,-2286,121,-253,-112,-134,-42877
+ "24000","Maryland",2,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47410
+ "24000","Maryland",2,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-274301,-292167,-304834,-298065,-296132,-307854,-374263,-387308,-476932,-413105,-378517,-422209,-446979,-448183,-468673,-479195,-490204,-476338,-467329,-498418,-505722,-491974,-490317,-1214170
+ "24000","Maryland",2,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-537,-725,-1021,-890,-1022,-1383,-556,-329,-537,-385,-589,-558,-300,-1030,-4711,-11746,-8878,-9733,-5891,-6670,-6731,-6133,-5234,-290789
+ "24000","Maryland",2,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-537,-725,-1021,-890,-1022,-1383,-556,-329,-537,-385,-589,-558,-300,-1030,-4711,-11746,-8878,-9733,-5891,-6670,-6731,-6133,-5234,-96249
+ "24000","Maryland",2,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-69680
+ "24000","Maryland",2,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-112989
+ "24000","Maryland",2,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11870
+ "24000","Maryland",2,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-273764,-291443,-303812,-297176,-295111,-306471,-373707,-386978,-476396,-412720,-377928,-421652,-446680,-447153,-463962,-467449,-481326,-466605,-461438,-491749,-498991,-485841,-485083,-923381
+ "24000","Maryland",2,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-273764,-291443,-303812,-297176,-295111,-306471,-373707,-386978,-476396,-412720,-377928,-421652,-446680,-447153,-463962,-467449,-481326,-466605,-461438,-491749,-498991,-485841,-485083,-849370
+ "24000","Maryland",2,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-74011
+ "24000","Maryland",2,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2800007
+ "24000","Maryland",2,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2076185
+ "24000","Maryland",2,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-241466
+ "24000","Maryland",2,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-544737
+ "24000","Maryland",2,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1289982
+ "24000","Maryland",2,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31331
+ "24000","Maryland",2,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-692491
+ "24000","Maryland",2,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-630741
+ "24000","Maryland",2,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61750
+ "24000","Maryland",2,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12566,-101651,-59040,-71387,-65169,-38607,-22268,-7793,-242,-241,-2477069
+ "24000","Maryland",2,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-128160
+ "24000","Maryland",2,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12566,-101651,-59040,-71387,-65169,-38607,-22268,-7793,-242,-241,-2348910
+ "24000","Maryland",2,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1609798
+ "24000","Maryland",2,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12566,-101651,-59040,-71387,-65169,-38607,-22268,-7793,-242,-241,-269704
+ "24000","Maryland",2,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-297583
+ "24000","Maryland",2,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-171825
+ "24000","Maryland",2,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1063614
+ "24000","Maryland",2,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-144285
+ "24000","Maryland",2,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-48254
+ "24000","Maryland",2,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-96031
+ "24000","Maryland",2,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-919329
+ "24000","Maryland",2,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-153120
+ "24000","Maryland",2,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-766208
+ "24000","Maryland",2,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-593163
+ "24000","Maryland",2,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-277373,-213951,-213470,-207383,-218771,-260541,-291989,-313618,-317587,-332197,-337691,-336625,-413114,-417244,-441246,-444802,-450309,-481876,-485839,-501185,-474761,-598907,-618696,-1089160
+ "24000","Maryland",2,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-2003,-2260,-2589,-3650,-4235,-5569,-10773,-8489,-9036,-9117,-11575,-17145,-17559,-12593,-17943,-18722,-24971,-24993,-19918,-19133,-20338,-18699,-19117,-18970
+ "24000","Maryland",2,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "24000","Maryland",2,SAGDP5N,86,"...","  State and local","Thousands of dollars",-275370,-211691,-210881,-203733,-214536,-254973,-281216,-305129,-308552,-323080,-326116,-319480,-395555,-404651,-423302,-426080,-425338,-456883,-465921,-482052,-454423,-580209,-599580,-1070190
+ "24000","Maryland",2,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-16529,-32549,-58948,-89769,-77598,-42221,-57304,-44722,-73160,-57621,-37066,-48527,-44915,-46104,-34845,-46285,-35272,-20551,-21212,-37187,-47688,-33860,-99976,-197184
+ "24000","Maryland",2,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-55451,-5965,-56,0,0,0,0,0,0,0,0,-1586757
+ "24000","Maryland",2,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-41604,-32545,-39604,-42055,-100370,-59506,-82539,-65340,-67693,-64398,-57009,-67566,-85367,-99065,-76308,-52806,-46795,-44526,-45585,-48794,-58855,-65662,-57136,-685428
+ "24000","Maryland",2,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-86,-39,-677,-2605,-7003,-18860,-22183,-12152,-4329,-3690,-1305,-1533,-1333,-1441,-872338
+ "24000","Maryland",2,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-16529,-32549,-58948,-89769,-77598,-42221,-57304,-44722,-73160,-57707,-37105,-49204,-46534,-50147,-40891,-50294,-37466,-22519,-22616,-38613,-48968,-35080,-101283,-2630046
+ "24000","Maryland",2,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-315905,-324712,-344438,-340121,-396503,-367361,-456803,-452648,-544626,-477503,-435526,-489775,-588783,-568740,-659503,-609215,-618344,-588393,-553808,-569359,-572622,-557991,-547827,-10583412
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

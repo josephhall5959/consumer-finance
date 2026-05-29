@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "96000","Southwest",6,SAGDP5N,1,"...","All industry total","Thousands of dollars",-2589494,-3044551,-4216165,-3861107,-4848231,-3555907,-4559576,-3681930,-5154107,-4534737,-4226769,-4108314,-5130575,-4514744,-5153222,-5026529,-5504847,-6088612,-5203880,-5238502,-5223409,-5499877,-6555009,-83160581
+ "96000","Southwest",6,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-1842469,-2339675,-3482828,-3127014,-4054239,-2670016,-3621189,-2691391,-4118463,-3425029,-3063441,-2905122,-3594908,-3107425,-3509702,-3352783,-3609977,-4136632,-3402054,-3404244,-3348327,-3365526,-4492754,-80179893
+ "96000","Southwest",6,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-796920,-1229808,-2326646,-1974789,-2317277,-1503533,-2003186,-1267887,-2273642,-1659559,-1567238,-1409638,-1556315,-1271789,-1190195,-1055500,-1332651,-1880796,-1269381,-1176402,-1114737,-1169006,-2227701,-4971326
+ "96000","Southwest",6,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-796920,-1229808,-2326646,-1974789,-2317277,-1503533,-2003186,-1267887,-2273642,-1659559,-1567238,-1409638,-1556315,-1271789,-1190195,-1055500,-1332651,-1880796,-1269381,-1176402,-1114737,-1169006,-2227701,-4853512
+ "96000","Southwest",6,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-117814
+ "96000","Southwest",6,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2563413
+ "96000","Southwest",6,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-568159
+ "96000","Southwest",6,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-145054
+ "96000","Southwest",6,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1850200
+ "96000","Southwest",6,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-269251
+ "96000","Southwest",6,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8050851
+ "96000","Southwest",6,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-315,-141,-7335,-28338,-97064,-102113,-130473,-44361,-53251,-19307,-17697,-18714,-21330,-23238,-6162421
+ "96000","Southwest",6,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-7184,-20383,-57391,-65963,-46166,-21803,-17127,-15672,-14176,-15544,-17912,-20898,-4427940
+ "96000","Southwest",6,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-159947
+ "96000","Southwest",6,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-224249
+ "96000","Southwest",6,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-212842
+ "96000","Southwest",6,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1246820
+ "96000","Southwest",6,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-961888
+ "96000","Southwest",6,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-387555
+ "96000","Southwest",6,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-7184,-20383,-57391,-65963,-46166,-21803,-17127,-15672,-14176,-15544,-17912,-20898,-173591
+ "96000","Southwest",6,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-158895
+ "96000","Southwest",6,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-289928
+ "96000","Southwest",6,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-228916
+ "96000","Southwest",6,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-383310
+ "96000","Southwest",6,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-315,-141,-151,-7955,-39673,-36150,-84308,-22558,-36124,-3635,-3521,-3170,-3418,-2340,-1734481
+ "96000","Southwest",6,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-544687
+ "96000","Southwest",6,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-315,-141,-151,-203,-158,-169,-174,-174,-219,-1222,-1086,-941,-944,-966,-62057
+ "96000","Southwest",6,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78000
+ "96000","Southwest",6,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-57901
+ "96000","Southwest",6,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-204484
+ "96000","Southwest",6,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-6009,-37024,-17336,-77565,-14636,-28021,0,0,0,0,0,-104901
+ "96000","Southwest",6,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1743,-2491,-18645,-6568,-7748,-7884,-2414,-2436,-2229,-2474,-1374,-481537
+ "96000","Southwest",6,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-200914
+ "96000","Southwest",6,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3580749
+ "96000","Southwest",6,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-353949,-38053,-372,0,0,0,0,0,0,0,0,-6466692
+ "96000","Southwest",6,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-23822,-12060,-11573,-16991,-704947,-65886,-375416,-79800,-63507,-81857,-61775,-61214,-85624,-78715,-76494,-98906,-69293,-59611,-60798,-64117,-61628,-61778,-60981,-5420618
+ "96000","Southwest",6,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-2699,135,0,-135,-678518,-21592,-339394,-2294,-8232,-12550,-12685,-19028,-23076,-27664,-31848,-34952,-31578,-29554,-32388,-29699,-29257,-27221,-34349,-3107740
+ "96000","Southwest",6,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-8722,-6996,-9339,-12118,-10677,-14104,-13612,-16358,-18629,-17817,-15376,-20507,-27186,-35707,-28209,-27758,-27573,-25098,-25705,-25361,-29603,-33189,-25794,-120723
+ "96000","Southwest",6,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-12401,-5200,-2234,-4739,-15751,-30190,-22106,-59106,-34639,-45873,-32222,-20049,-34671,-15343,-16437,-36196,-10142,-4960,-2705,-9057,-2768,-1368,-838,-22857
+ "96000","Southwest",6,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-304,-2042,-2007,-5618,-1492,-1630,-691,0,0,0,0,0,0,0,0,0,0,-1217481
+ "96000","Southwest",6,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-118861
+ "96000","Southwest",6,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25330
+ "96000","Southwest",6,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-670601
+ "96000","Southwest",6,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-137026
+ "96000","Southwest",6,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-4536,-12598,-55741,-80201,-44157,-10560,-10500,562,-1282,-595,-704,-815804
+ "96000","Southwest",6,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-251340
+ "96000","Southwest",6,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-111336
+ "96000","Southwest",6,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-4536,-12598,-55741,-80201,-44157,-10560,-10500,562,-1282,-595,-704,-247926
+ "96000","Southwest",6,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-205202
+ "96000","Southwest",6,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-1021728,-1097807,-1144610,-1135233,-1032015,-1100598,-1242588,-1343705,-1781314,-1683297,-1434287,-1426934,-1566145,-1553409,-1633461,-1722520,-1792181,-1826588,-1861187,-2041437,-2115578,-2111657,-2178961,-6533864
+ "96000","Southwest",6,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-3979,-4561,-7210,-6783,-8967,-10040,-3988,-2768,-5012,-2605,-3238,-3240,-12105,-27606,-44593,-64904,-53658,-70664,-45525,-52588,-55660,-54915,-46874,-2040460
+ "96000","Southwest",6,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-3979,-4561,-7210,-6783,-8967,-10040,-3988,-2768,-5012,-2605,-3238,-3240,-12105,-27606,-44593,-64904,-53658,-70664,-45525,-52588,-55660,-54915,-46874,-623875
+ "96000","Southwest",6,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-546832
+ "96000","Southwest",6,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-844886
+ "96000","Southwest",6,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24867
+ "96000","Southwest",6,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-1017749,-1093246,-1137400,-1128451,-1023048,-1090558,-1238600,-1340936,-1776302,-1680692,-1431050,-1423695,-1554040,-1525803,-1588868,-1657616,-1738523,-1755924,-1815662,-1988850,-2059918,-2056742,-2132086,-4493404
+ "96000","Southwest",6,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-1017749,-1093246,-1137400,-1128451,-1023048,-1090558,-1238600,-1340936,-1776302,-1680692,-1431050,-1423695,-1554040,-1525803,-1588868,-1657616,-1738523,-1755924,-1815662,-1988850,-2059918,-2056742,-2132086,-4093832
+ "96000","Southwest",6,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-399571
+ "96000","Southwest",6,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10916022
+ "96000","Southwest",6,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6895212
+ "96000","Southwest",6,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1191805
+ "96000","Southwest",6,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1225422
+ "96000","Southwest",6,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4477985
+ "96000","Southwest",6,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-389336
+ "96000","Southwest",6,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3631474
+ "96000","Southwest",6,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3380192
+ "96000","Southwest",6,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-251282
+ "96000","Southwest",6,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-55798,-451326,-265185,-327334,-305827,-180882,-105152,-36388,-1161,-1169,-13703956
+ "96000","Southwest",6,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-371761
+ "96000","Southwest",6,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-55798,-451326,-265185,-327334,-305827,-180882,-105152,-36388,-1161,-1169,-13332195
+ "96000","Southwest",6,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10105736
+ "96000","Southwest",6,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-55798,-451326,-265185,-327334,-305827,-180882,-105152,-36388,-1161,-1169,-1438428
+ "96000","Southwest",6,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-933367
+ "96000","Southwest",6,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-854664
+ "96000","Southwest",6,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7757248
+ "96000","Southwest",6,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-808706
+ "96000","Southwest",6,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-313928
+ "96000","Southwest",6,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-494778
+ "96000","Southwest",6,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6948542
+ "96000","Southwest",6,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-976547
+ "96000","Southwest",6,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5971995
+ "96000","Southwest",6,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2967677
+ "96000","Southwest",6,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-747024,-704877,-733337,-734093,-793992,-885890,-938386,-990538,-1035644,-1109708,-1163328,-1203192,-1535668,-1407319,-1643520,-1673746,-1894870,-1951980,-1801826,-1834258,-1875082,-2134351,-2062255,-2980688
+ "96000","Southwest",6,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-147503,-151778,-161309,-200611,-239034,-234184,-235493,-240797,-245102,-267130,-286755,-365478,-500887,-364154,-552737,-665195,-888327,-933862,-771006,-767712,-855805,-1023521,-914385,-933186
+ "96000","Southwest",6,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "96000","Southwest",6,SAGDP5N,86,"...","  State and local","Thousands of dollars",-599521,-553098,-572028,-533482,-554958,-651707,-702894,-749741,-790542,-842577,-876573,-837714,-1034781,-1043164,-1090782,-1008551,-1006544,-1018118,-1030820,-1066546,-1019277,-1110830,-1147870,-2047502
+ "96000","Southwest",6,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-796920,-1229808,-2326646,-1974789,-2317277,-1503533,-2003186,-1267887,-2273642,-1659559,-1567238,-1409638,-1556315,-1271789,-1190195,-1055500,-1332651,-1880796,-1269381,-1176402,-1114737,-1169006,-2227701,-7534739
+ "96000","Southwest",6,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-353949,-38053,-372,0,0,0,0,0,0,0,0,-10047441
+ "96000","Southwest",6,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-23822,-12060,-11573,-16991,-704947,-65886,-375416,-79800,-63507,-81857,-61775,-61214,-85624,-78715,-76494,-98906,-69293,-59611,-60798,-64117,-61628,-61778,-60981,-5689870
+ "96000","Southwest",6,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-315,-141,-7335,-32874,-109662,-157854,-210674,-88518,-63810,-29807,-17135,-19996,-21925,-23942,-6978224
+ "96000","Southwest",6,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-796920,-1229808,-2326646,-1974789,-2317277,-1503533,-2003186,-1267887,-2273642,-1659874,-1567379,-1416973,-1584653,-1368853,-1292308,-1185973,-1377012,-1934047,-1288688,-1194100,-1133451,-1190336,-2250939,-21748011
+ "96000","Southwest",6,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-1045550,-1109867,-1156182,-1152225,-1736962,-1166484,-1618004,-1423505,-1844821,-1765155,-1496062,-1488149,-2010254,-1738573,-2217394,-2166811,-2232965,-2202586,-2113367,-2210144,-2214876,-2175190,-2241815,-58431882
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

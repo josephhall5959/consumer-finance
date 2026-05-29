@@ -1,0 +1,83 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997
+ "21000","Kentucky",5,SAGDP5S,1,"...","All industry total","Thousands of dollars",-45854,-52348,-59900,-80727,-81225,-89372,-97792,-94674,-87958,-118266,-72403,-33045,-38510,-47165,-74607,-95133,-71431,-89198,-119128,-164486,-275990,-306000,-263408,-322294,-423342,-389120,-338338,-276629,-281767,-313243,-408387,-284156,-277017,-281807,-277359
+ "21000","Kentucky",5,SAGDP5S,2,"..."," Private industries","Thousands of dollars",-43784,-50156,-57508,-78108,-78399,-85806,-93427,-89176,-81050,-109810,-63156,-22031,-27095,-36120,-61126,-78889,-49840,-53508,-75870,-111334,-226374,-250026,-209901,-272330,-369622,-328204,-275096,-228439,-228413,-256086,-345034,-222854,-199877,-205743,-217518
+ "21000","Kentucky",5,SAGDP5S,3,"A","   Agriculture, forestry, and fishing","Thousands of dollars",-39346,-44964,-52363,-71203,-71427,-78870,-86485,-79913,-69945,-88762,-44805,-11059,-14681,-16261,-40523,-54203,-22427,-24419,-39901,-59590,-172964,-197868,-154810,-209203,-295859,-259052,-213906,-164547,-161264,-181676,-256932,-138781,-114306,-117950,-127534
+ "21000","Kentucky",5,SAGDP5S,4,"[01-02]","     Farms","Thousands of dollars",-39346,-44964,-52363,-71203,-71427,-78870,-86485,-79913,-69945,-88762,-44805,-11059,-14681,-16261,-40523,-54203,-22427,-24419,-39901,-59590,-172964,-197868,-154810,-209203,-295859,-259052,-213906,-164547,-161264,-181676,-256932,-138781,-114306,-117950,-127534
+ "21000","Kentucky",5,SAGDP5S,5,"[07-09]","     Agricultural services, forestry, and fishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,6,"B","   Mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-634,-1392,-371,-191,-377,-546,-775,-759,-191,-384,-189,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,7,"10","     Metal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,8,"12","     Coal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-634,-1392,-371,-191,-377,-546,-775,-759,-191,-384,-189,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,9,"13","     Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,10,"14","     Nonmetallic minerals, except fuels","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,11,"C","   Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,12,"D","   Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-892,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,13,"...","     Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,14,"24","       Lumber and wood products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,15,"25","       Furniture and fixtures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,16,"32","       Stone, clay, and glass products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,17,"33","       Primary metal industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,18,"34","       Fabricated metal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,19,"35","       Industrial machinery and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,20,"36","       Electronic and other electric equipment 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,21,"371","       Motor vehicles and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,22,"372-379","       Other transportation equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,23,"38","       Instruments and related products 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,24,"39","       Miscellaneous manufacturing industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,25,"...","     Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-892,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,26,"20","       Food and kindred products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,27,"21","       Tobacco products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,28,"22","       Textile mill products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,29,"23","       Apparel and other textile products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,30,"26","       Paper and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,31,"27","       Printing and publishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,32,"28","       Chemicals and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-892,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,33,"29","       Petroleum and coal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,34,"30","       Rubber and miscellaneous plastics products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,35,"31","       Leather and leather products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,36,"E","   Transportation and public utilities","Thousands of dollars",-1907,-2037,-1995,-1679,-1866,-1990,-1789,-1772,-2691,-2599,-3069,-3136,-3772,-4279,-4858,-2923,-3509,-3277,-3921,-3484,-3293,-4256,-3665,-3693,-2997,-2993,-3865,-3817,-4368,-3210,-5102,-3167,-3256,-2379,-1601
+ "21000","Kentucky",5,SAGDP5S,37,"...","     Transportation","Thousands of dollars",-1907,-2037,-1995,-1679,-1866,-1990,-1789,-1772,-2691,-2599,-3069,-3136,-3772,-4279,-4858,-2923,-3509,-3277,-3921,-3484,-3293,-4256,-3665,-3693,-2997,-2993,-3865,-3817,-4368,-3210,-5102,-3167,-3256,-2379,-1601
+ "21000","Kentucky",5,SAGDP5S,38,"40","       Railroad transportation","Thousands of dollars",-4,-3,-5,-7,-8,-8,-8,-7,-23,-55,-61,-97,-253,-233,-330,-317,-369,-385,-374,-377,-398,-430,-317,-290,-261,-197,-225,-186,-169,-163,-148,-164,-191,-176,-236
+ "21000","Kentucky",5,SAGDP5S,39,"41","       Local and interurban passenger transit","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,40,"42","       Trucking and warehousing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,41,"44","       Water transportation","Thousands of dollars",-1434,-1587,-1560,-1319,-1556,-1732,-1592,-1619,-2373,-2235,-2707,-2700,-3234,-3724,-4119,-2269,-2770,-2481,-3023,-2787,-2895,-3794,-3168,-3286,-2605,-2644,-3192,-3233,-3659,-2933,-3330,-2968,-3011,-2181,-1362
+ "21000","Kentucky",5,SAGDP5S,42,"45","       Transportation by air","Thousands of dollars",-469,-447,-430,-352,-302,-250,-190,-145,-295,-309,-301,-339,-286,-323,-409,-337,-369,-412,-524,-320,0,-31,-180,-116,-130,-152,-447,-399,-541,-114,-1624,-34,-54,-22,-3
+ "21000","Kentucky",5,SAGDP5S,43,"46","       Pipelines, except natural gas","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,44,"47","       Transportation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,45,"48","     Communications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,46,"49","     Electric, gas, and sanitary services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,47,"F","   Wholesale trade","Thousands of dollars",-688,-493,-191,-1502,-1299,-775,-621,-2084,-1753,-2771,-2881,-221,0,-36,0,0,0,0,0,0,0,0,0,-266,-10272,-9277,-4292,-2776,-2828,-8556,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,48,"G","   Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,49,"H","   Finance, insurance, and real estate","Thousands of dollars",-1842,-2662,-2959,-3725,-3807,-4170,-4531,-5408,-6662,-15678,-12401,-7616,-8642,-15544,-15745,-21762,-23905,-25812,-31414,-46867,-49746,-47712,-51049,-57729,-59719,-56123,-52843,-56915,-59764,-62644,-83000,-80905,-82314,-85415,-88383
+ "21000","Kentucky",5,SAGDP5S,50,"60","     Depository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-271
+ "21000","Kentucky",5,SAGDP5S,51,"61","     Nondepository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,52,"62","     Security and commodity brokers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,53,"63","     Insurance carriers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,54,"64","     Insurance agents, brokers, and services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,55,"65","     Real estate","Thousands of dollars",-1842,-2662,-2959,-3725,-3807,-4170,-4531,-5408,-6662,-15678,-12401,-7616,-8642,-15544,-15745,-21762,-23905,-25812,-31414,-46867,-49746,-47712,-51049,-57729,-59719,-56123,-52843,-56915,-59764,-62644,-83000,-80905,-82314,-85415,-88112
+ "21000","Kentucky",5,SAGDP5S,56,"67","     Holding and other investment offices","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,57,"I","   Services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,58,"70","     Hotels and other lodging places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,59,"72","     Personal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,60,"73","     Business services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,61,"75","     Automotive repair, services, and parking","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,62,"76","     Miscellaneous repair services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,63,"78","     Motion pictures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,64,"79","     Amusement and recreation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,65,"80","     Health services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,66,"81","     Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,67,"82","     Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,68,"83","     Social services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,69,"86","     Membership organizations","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,70,"84, 87, 89","     Other services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,71,"88","     Private households","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,72,"..."," Government and government enterprises","Thousands of dollars",-2070,-2192,-2392,-2619,-2826,-3566,-4366,-5498,-6908,-8456,-9247,-11014,-11415,-11046,-13481,-16244,-21591,-35690,-43258,-53152,-49616,-55974,-53507,-49964,-53720,-60916,-63242,-48190,-53354,-57157,-63353,-61302,-77140,-76064,-59841
+ "21000","Kentucky",5,SAGDP5S,73,"...","   Federal civilian","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-87,-412,-622,-528,-723,-701,-665,-940,-1468,-1196,-1287,-1597,-1838,-2191,-10474,-11174,-9825
+ "21000","Kentucky",5,SAGDP5S,74,"...","   Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,75,"...","   State and local","Thousands of dollars",-2070,-2192,-2392,-2619,-2826,-3566,-4366,-5498,-6908,-8456,-9247,-11014,-11415,-11046,-13481,-16244,-21591,-35690,-43171,-52740,-48994,-55446,-52784,-49263,-53055,-59976,-61774,-46994,-52067,-55560,-61515,-59111,-66666,-64890,-50015
+ "21000","Kentucky",5,SAGDP5S,76,"36, 38"," Electronic equipment and instruments 5/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "21000","Kentucky",5,SAGDP5S,77,"60, 61"," Depository and nondepository institutions 6/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-271
+ "21000","Kentucky",5,SAGDP5S,78,"73, 84, 87, 89"," Business services and other services 7/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Note: See the included footnote file."
+"SAGDP5S: Subsidies 1/"
+"Last updated: November 18, 2010."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "09000","Connecticut",1,SAGDP5N,1,"...","All industry total","Thousands of dollars",-408906,-378236,-393775,-383916,-397620,-402566,-464034,-490280,-544337,-512533,-491854,-510023,-620947,-628453,-697391,-641398,-618270,-642377,-632709,-636458,-563583,-584199,-591367,-8482026
+ "09000","Connecticut",1,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-245271,-237264,-251338,-247795,-259890,-244079,-287476,-298811,-346873,-306076,-287810,-318441,-397128,-411245,-457259,-401993,-379242,-366465,-342872,-346100,-334878,-333937,-332523,-8024116
+ "09000","Connecticut",1,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-1173,-2069,-7520,-15595,-6718,-4235,-7209,-5832,-9650,-8056,-8858,-11231,-10816,-13135,-8929,-7323,-5679,-4382,-4121,-5894,-4104,-4890,-6281,-70461
+ "09000","Connecticut",1,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-1173,-2069,-7520,-15595,-6718,-4235,-7209,-5832,-9650,-8056,-8858,-11231,-10816,-13135,-8929,-7323,-5679,-4382,-4121,-5894,-4104,-4890,-6281,-56337
+ "09000","Connecticut",1,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14123
+ "09000","Connecticut",1,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9184
+ "09000","Connecticut",1,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "09000","Connecticut",1,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8280
+ "09000","Connecticut",1,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-904
+ "09000","Connecticut",1,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12262
+ "09000","Connecticut",1,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-802099
+ "09000","Connecticut",1,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-86,-51,-3727,-11511,-32012,-43718,-28558,-14163,-10736,-7186,-6327,-5491,-5680,-7346,-1007162
+ "09000","Connecticut",1,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3670,-11225,-31609,-42254,-27864,-13548,-10036,-6761,-5918,-5094,-5338,-7075,-729161
+ "09000","Connecticut",1,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20034
+ "09000","Connecticut",1,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24676
+ "09000","Connecticut",1,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28366
+ "09000","Connecticut",1,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-239321
+ "09000","Connecticut",1,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-103747
+ "09000","Connecticut",1,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-62260
+ "09000","Connecticut",1,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3670,-11225,-31609,-42254,-27864,-13548,-10036,-6761,-5918,-5094,-5338,-7075,-49627
+ "09000","Connecticut",1,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15377
+ "09000","Connecticut",1,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-111483
+ "09000","Connecticut",1,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22569
+ "09000","Connecticut",1,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-51703
+ "09000","Connecticut",1,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-86,-51,-57,-286,-403,-1464,-694,-615,-700,-425,-409,-397,-343,-271,-278001
+ "09000","Connecticut",1,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-63519
+ "09000","Connecticut",1,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-86,-51,-57,-54,-42,-41,-39,-40,-49,-294,-322,-305,-232,-209,-7911
+ "09000","Connecticut",1,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7247
+ "09000","Connecticut",1,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22766
+ "09000","Connecticut",1,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31903
+ "09000","Connecticut",1,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-30,-144,-41,-227,-38,-223,0,0,0,0,0,-9593
+ "09000","Connecticut",1,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-202,-217,-1381,-428,-537,-428,-131,-87,-92,-110,-62,-86458
+ "09000","Connecticut",1,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-48603
+ "09000","Connecticut",1,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-394249
+ "09000","Connecticut",1,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-38340,-4063,-38,0,0,0,0,0,0,0,0,-717478
+ "09000","Connecticut",1,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-26760,-19865,-21487,-23232,-53641,-46237,-55505,-65512,-60033,-62465,-65621,-62270,-78075,-90580,-70797,-51577,-44191,-44888,-45970,-44803,-48109,-57174,-55540,-297260
+ "09000","Connecticut",1,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-106,5,0,-5,-26679,-849,-13345,-90,-324,-493,-499,-748,-907,-1088,-1252,-1374,-1242,-1162,-1273,-708,-673,-579,-691,-53304
+ "09000","Connecticut",1,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-24090,-18676,-20836,-21836,-21644,-34059,-33871,-44869,-50278,-49534,-44134,-56103,-69741,-86469,-65771,-42043,-41110,-42968,-44290,-42764,-46967,-56374,-54695,-86376
+ "09000","Connecticut",1,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-2564,-1195,-651,-1391,-5318,-11329,-8273,-20447,-9333,-12184,-20926,-5350,-7398,-3023,-3774,-8160,-1839,-758,-406,-1331,-469,-221,-154,-5924
+ "09000","Connecticut",1,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-16,-106,-98,-253,-63,-68,-29,0,0,0,0,0,0,0,0,0,0,-55011
+ "09000","Connecticut",1,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42536
+ "09000","Connecticut",1,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-109
+ "09000","Connecticut",1,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46505
+ "09000","Connecticut",1,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7495
+ "09000","Connecticut",1,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-627,-1786,-7795,-11500,-6214,-1469,-1537,79,-156,-75,-97,-106704
+ "09000","Connecticut",1,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44026
+ "09000","Connecticut",1,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11824
+ "09000","Connecticut",1,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-627,-1786,-7795,-11500,-6214,-1469,-1537,79,-156,-75,-97,-16698
+ "09000","Connecticut",1,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34155
+ "09000","Connecticut",1,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-217338,-215330,-222332,-208968,-199530,-193607,-224762,-227467,-277191,-235469,-213280,-241213,-257758,-261328,-258945,-262935,-261949,-261529,-260385,-275567,-272262,-265969,-263110,-727964
+ "09000","Connecticut",1,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-138,-196,-590,-575,-255,-382,-138,-62,-15,-89,-111,-51,-1438,-5764,-2500,-736,-399,-377,-3024,-3677,-4274,-4117,-3304,-269487
+ "09000","Connecticut",1,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-138,-196,-590,-575,-255,-382,-138,-62,-15,-89,-111,-51,-1438,-5764,-2500,-736,-399,-377,-3024,-3677,-4274,-4117,-3304,-44487
+ "09000","Connecticut",1,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-107460
+ "09000","Connecticut",1,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-111417
+ "09000","Connecticut",1,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6123
+ "09000","Connecticut",1,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-217200,-215134,-221741,-208393,-199275,-193225,-224624,-227405,-277176,-235380,-213169,-241163,-256321,-255564,-256445,-262198,-261549,-261153,-257360,-271891,-267988,-261852,-259805,-458477
+ "09000","Connecticut",1,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-217200,-215134,-221741,-208393,-199275,-193225,-224624,-227405,-277176,-235380,-213169,-241163,-256321,-255564,-256445,-262198,-261549,-261153,-257360,-271891,-267988,-261852,-259805,-429795
+ "09000","Connecticut",1,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28682
+ "09000","Connecticut",1,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1198099
+ "09000","Connecticut",1,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-779222
+ "09000","Connecticut",1,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-202710
+ "09000","Connecticut",1,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-113344
+ "09000","Connecticut",1,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-463168
+ "09000","Connecticut",1,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44210
+ "09000","Connecticut",1,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-374666
+ "09000","Connecticut",1,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-329363
+ "09000","Connecticut",1,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45303
+ "09000","Connecticut",1,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-8341,-67037,-40100,-47047,-43461,-23673,-13587,-4755,-149,-149,-1691742
+ "09000","Connecticut",1,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85723
+ "09000","Connecticut",1,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-8341,-67037,-40100,-47047,-43461,-23673,-13587,-4755,-149,-149,-1606019
+ "09000","Connecticut",1,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1043462
+ "09000","Connecticut",1,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-8341,-67037,-40100,-47047,-43461,-23673,-13587,-4755,-149,-149,-156042
+ "09000","Connecticut",1,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-221739
+ "09000","Connecticut",1,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-184776
+ "09000","Connecticut",1,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-641595
+ "09000","Connecticut",1,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-110058
+ "09000","Connecticut",1,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35391
+ "09000","Connecticut",1,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-74667
+ "09000","Connecticut",1,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-531537
+ "09000","Connecticut",1,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-70792
+ "09000","Connecticut",1,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-460746
+ "09000","Connecticut",1,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-347858
+ "09000","Connecticut",1,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-163635,-140971,-142436,-136121,-137730,-158487,-176558,-191469,-197464,-206457,-204044,-191582,-223819,-217207,-240132,-239405,-239029,-275912,-289837,-290358,-228706,-250261,-258844,-457910
+ "09000","Connecticut",1,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-490,-981,-1312,-1348,-1526,-1741,-2491,-1789,-2173,-1939,-2178,-2257,-2791,-2178,-1985,-2655,-3620,-3724,-3038,-3019,-3289,-4199,-5134,-5782
+ "09000","Connecticut",1,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "09000","Connecticut",1,SAGDP5N,86,"...","  State and local","Thousands of dollars",-163145,-139990,-141125,-134773,-136204,-156746,-174066,-189681,-195291,-204517,-201866,-189325,-221028,-215029,-238147,-236749,-235409,-272187,-286799,-287338,-225417,-246062,-253711,-452128
+ "09000","Connecticut",1,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-1173,-2069,-7520,-15595,-6718,-4235,-7209,-5832,-9650,-8056,-8858,-11231,-10816,-13135,-8929,-7323,-5679,-4382,-4121,-5894,-4104,-4890,-6281,-79645
+ "09000","Connecticut",1,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-38340,-4063,-38,0,0,0,0,0,0,0,0,-1111726
+ "09000","Connecticut",1,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-26760,-19865,-21487,-23232,-53641,-46237,-55505,-65512,-60033,-62465,-65621,-62270,-78075,-90580,-70797,-51577,-44191,-44888,-45970,-44803,-48109,-57174,-55540,-309522
+ "09000","Connecticut",1,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-86,-51,-3727,-12139,-33798,-51513,-40058,-20377,-12204,-8723,-6248,-5648,-5755,-7443,-1113866
+ "09000","Connecticut",1,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-1173,-2069,-7520,-15595,-6718,-4235,-7209,-5832,-9650,-8142,-8909,-14958,-22327,-45147,-52646,-35882,-19841,-15118,-11307,-12222,-9596,-10570,-13627,-1888906
+ "09000","Connecticut",1,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-244098,-235195,-243819,-232200,-253171,-239844,-280267,-292979,-337224,-297934,-278902,-303483,-374801,-366098,-404613,-366112,-359400,-351347,-331564,-333879,-325282,-323367,-318896,-6135209
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

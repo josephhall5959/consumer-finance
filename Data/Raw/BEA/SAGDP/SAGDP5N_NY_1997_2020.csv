@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "36000","New York",2,SAGDP5N,1,"...","All industry total","Thousands of dollars",-4786702,-4178558,-3956400,-3887432,-4164782,-4523902,-4832193,-4883795,-5229263,-4948104,-4722375,-5077842,-5861931,-5833383,-6402869,-6254812,-6275792,-6305946,-6434977,-6824043,-6610564,-6975281,-7155464,-64016888
+ "36000","New York",2,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-1612639,-1610629,-1436869,-1464461,-1658438,-1652878,-1924666,-1932883,-2187528,-1901579,-1704158,-1886208,-2325523,-2308239,-2562478,-2426858,-2388759,-2287691,-2169292,-2250292,-2258035,-2242513,-2248230,-55370022
+ "36000","New York",2,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-33606,-51713,-103965,-137715,-101613,-138051,-139143,-70041,-122796,-109248,-56111,-58410,-126797,-55977,-48599,-85882,-60451,-20997,-55766,-72807,-62530,-70088,-111873,-735370
+ "36000","New York",2,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-33606,-51713,-103965,-137715,-101613,-138051,-139143,-70041,-122796,-109248,-56111,-58410,-126797,-55977,-48599,-85882,-60451,-20997,-55766,-72807,-62530,-70088,-111873,-690740
+ "36000","New York",2,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44630
+ "36000","New York",2,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60535
+ "36000","New York",2,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1776
+ "36000","New York",2,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49473
+ "36000","New York",2,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9286
+ "36000","New York",2,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-81515
+ "36000","New York",2,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5991834
+ "36000","New York",2,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-362,-184,-3786,-11325,-30365,-39226,-27465,-12955,-10564,-8230,-7955,-7431,-7760,-8714,-3644658
+ "36000","New York",2,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3594,-9857,-28484,-32854,-24784,-11175,-7945,-6456,-6303,-5880,-6250,-7388,-2102297
+ "36000","New York",2,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-83524
+ "36000","New York",2,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-119381
+ "36000","New York",2,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-74926
+ "36000","New York",2,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-510699
+ "36000","New York",2,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-292727
+ "36000","New York",2,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-329215
+ "36000","New York",2,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3594,-9857,-28484,-32854,-24784,-11175,-7945,-6456,-6303,-5880,-6250,-7388,-135896
+ "36000","New York",2,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-56329
+ "36000","New York",2,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65370
+ "36000","New York",2,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-125753
+ "36000","New York",2,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-308479
+ "36000","New York",2,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-362,-184,-191,-1468,-1882,-6373,-2681,-1779,-2619,-1775,-1651,-1552,-1510,-1325,-1542361
+ "36000","New York",2,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-492342
+ "36000","New York",2,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-362,-184,-191,-236,-210,-190,-176,-194,-200,-1130,-1094,-987,-1042,-997,-126172
+ "36000","New York",2,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-211671
+ "36000","New York",2,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-98600
+ "36000","New York",2,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-200378
+ "36000","New York",2,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-140,-624,-159,-863,-148,-725,0,0,0,0,0,-14388
+ "36000","New York",2,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1092,-1048,-6024,-1642,-1438,-1694,-644,-557,-565,-468,-329,-265850
+ "36000","New York",2,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132959
+ "36000","New York",2,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2828415
+ "36000","New York",2,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-178685,-19341,-187,0,0,0,0,0,0,0,0,-4580779
+ "36000","New York",2,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-251220,-194560,-228710,-246366,-485651,-375292,-441361,-399575,-387631,-367129,-321333,-380137,-464049,-551479,-439934,-358611,-339381,-334993,-357691,-384587,-439934,-493196,-436587,-2909540
+ "36000","New York",2,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-981,49,0,-49,-246699,-7850,-123399,-834,-2993,-4563,-4612,-6918,-8390,-10058,-11579,-12708,-11481,-10745,-11776,-17420,-17144,-16038,-20553,-984842
+ "36000","New York",2,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-241988,-190880,-227072,-242286,-225677,-339087,-295828,-336380,-353196,-316269,-284472,-353414,-426579,-528766,-414686,-317773,-320188,-320640,-343805,-359435,-420349,-475928,-415224,-739045
+ "36000","New York",2,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-8250,-3729,-1637,-4031,-13275,-28354,-22048,-61797,-30927,-44947,-31910,-19441,-28923,-12655,-13669,-28130,-7712,-3608,-2111,-7732,-2441,-1231,-810,-32540
+ "36000","New York",2,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-87,-563,-515,-1350,-338,-364,-157,0,0,0,0,0,0,0,0,0,0,-468628
+ "36000","New York",2,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-296191
+ "36000","New York",2,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-316
+ "36000","New York",2,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-324929
+ "36000","New York",2,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-63050
+ "36000","New York",2,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-3743,-11104,-51670,-79842,-40992,-9749,-10004,546,-1098,-509,-606,-1204170
+ "36000","New York",2,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-413144
+ "36000","New York",2,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-258437
+ "36000","New York",2,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-3743,-11104,-51670,-79842,-40992,-9749,-10004,546,-1098,-509,-606,-158783
+ "36000","New York",2,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-373806
+ "36000","New York",2,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-1327814,-1364356,-1104195,-1080380,-1071174,-1139535,-1344161,-1463268,-1677101,-1424839,-1326530,-1443875,-1540925,-1593875,-1612844,-1667425,-1653186,-1641151,-1581690,-1690868,-1715016,-1669911,-1689399,-5022400
+ "36000","New York",2,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-5442,-6232,-11049,-12440,-12854,-14877,-5998,-3812,-6184,-4457,-3903,-3543,-22023,-59225,-39517,-60414,-45605,-58640,-39418,-40755,-33664,-33696,-31082,-1699551
+ "36000","New York",2,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-5442,-6232,-11049,-12440,-12854,-14877,-5998,-3812,-6184,-4457,-3903,-3543,-22023,-59225,-39517,-60414,-45605,-58640,-39418,-40755,-33664,-33696,-31082,-344423
+ "36000","New York",2,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-765003
+ "36000","New York",2,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-537457
+ "36000","New York",2,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52667
+ "36000","New York",2,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-1322371,-1358124,-1093146,-1067940,-1058321,-1124659,-1338163,-1459457,-1670917,-1420382,-1322628,-1440333,-1518902,-1534650,-1573327,-1607012,-1607581,-1582511,-1542272,-1650112,-1681352,-1636214,-1658318,-3322850
+ "36000","New York",2,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-1322371,-1358124,-1093146,-1067940,-1058321,-1124659,-1338163,-1459457,-1670917,-1420382,-1322628,-1440333,-1518902,-1534650,-1573327,-1607012,-1607581,-1582511,-1542272,-1650112,-1681352,-1636214,-1658318,-3117751
+ "36000","New York",2,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-205099
+ "36000","New York",2,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9520146
+ "36000","New York",2,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6603406
+ "36000","New York",2,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1636449
+ "36000","New York",2,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-774965
+ "36000","New York",2,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4191991
+ "36000","New York",2,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-198824
+ "36000","New York",2,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2717916
+ "36000","New York",2,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2513460
+ "36000","New York",2,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-204456
+ "36000","New York",2,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-46098,-370018,-207632,-281794,-270237,-155910,-94621,-32026,-1050,-1051,-10992650
+ "36000","New York",2,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-665802
+ "36000","New York",2,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-46098,-370018,-207632,-281794,-270237,-155910,-94621,-32026,-1050,-1051,-10326849
+ "36000","New York",2,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6940394
+ "36000","New York",2,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-46098,-370018,-207632,-281794,-270237,-155910,-94621,-32026,-1050,-1051,-1027084
+ "36000","New York",2,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1290640
+ "36000","New York",2,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1068732
+ "36000","New York",2,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5424212
+ "36000","New York",2,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-904545
+ "36000","New York",2,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-525574
+ "36000","New York",2,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-378971
+ "36000","New York",2,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4519667
+ "36000","New York",2,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-932336
+ "36000","New York",2,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3587332
+ "36000","New York",2,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2373795
+ "36000","New York",2,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-3174063,-2567929,-2519530,-2422972,-2506344,-2871024,-2907527,-2950912,-3041735,-3046525,-3018217,-3191634,-3536408,-3525144,-3840390,-3827954,-3887034,-4018255,-4265685,-4573752,-4352529,-4732769,-4907235,-8646866
+ "36000","New York",2,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-3388,-3624,-4456,-6088,-7129,-8173,-10635,-9898,-11923,-11099,-11663,-13859,-16940,-13658,-15657,-18990,-29190,-35654,-30274,-32453,-34636,-37007,-37247,-38991
+ "36000","New York",2,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "36000","New York",2,SAGDP5N,86,"...","  State and local","Thousands of dollars",-3170675,-2564305,-2515074,-2416883,-2499215,-2862851,-2896892,-2941014,-3029812,-3035426,-3006553,-3177775,-3519468,-3511486,-3824733,-3808964,-3857844,-3982601,-4235411,-4541299,-4317893,-4695762,-4869987,-8607874
+ "36000","New York",2,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-33606,-51713,-103965,-137715,-101613,-138051,-139143,-70041,-122796,-109248,-56111,-58410,-126797,-55977,-48599,-85882,-60451,-20997,-55766,-72807,-62530,-70088,-111873,-795905
+ "36000","New York",2,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-178685,-19341,-187,0,0,0,0,0,0,0,0,-7409194
+ "36000","New York",2,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-251220,-194560,-228710,-246366,-485651,-375292,-441361,-399575,-387631,-367129,-321333,-380137,-464049,-551479,-439934,-358611,-339381,-334993,-357691,-384587,-439934,-493196,-436587,-2991055
+ "36000","New York",2,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-362,-184,-3786,-15068,-41470,-90896,-107308,-53947,-20313,-18235,-7409,-8529,-8269,-9319,-4848828
+ "36000","New York",2,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-33606,-51713,-103965,-137715,-101613,-138051,-139143,-70041,-122796,-109611,-56295,-62196,-138122,-86342,-87825,-113347,-73405,-31561,-63996,-80761,-69961,-77848,-120586,-10432398
+ "36000","New York",2,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-1579033,-1558916,-1332904,-1326746,-1556825,-1514827,-1785522,-1862843,-2064732,-1791968,-1647863,-1824012,-2187401,-2221897,-2474654,-2313511,-2315353,-2256130,-2105296,-2169530,-2188074,-2164665,-2127643,-44937624
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

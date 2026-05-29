@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "28000","Mississippi",5,SAGDP5N,1,"...","All industry total","Thousands of dollars",-269209,-345872,-497121,-521743,-1109276,-547450,-639835,-552043,-924994,-731501,-2071910,-856062,-1049202,-790564,-680468,-443520,-451501,-411062,-390297,-536990,-525434,-581764,-812676,-4520639
+ "28000","Mississippi",5,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-201366,-299921,-453484,-471315,-1045979,-488434,-573691,-477223,-852279,-657118,-1998689,-772572,-944026,-682595,-555801,-322906,-298040,-262145,-258686,-393396,-377443,-431155,-660821,-4320086
+ "28000","Mississippi",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-144071,-240717,-380671,-399571,-969321,-410585,-486377,-384179,-735139,-541227,-527303,-282629,-408889,-213215,-207964,-180489,-167039,-135445,-138072,-267504,-256332,-316044,-546239,-777744
+ "28000","Mississippi",5,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-144071,-240717,-380671,-399571,-969321,-410585,-486377,-384179,-735139,-541227,-527303,-282629,-408889,-213215,-207964,-180489,-167039,-135445,-138072,-267504,-256332,-316044,-546239,-751513
+ "28000","Mississippi",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26231
+ "28000","Mississippi",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27519
+ "28000","Mississippi",5,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4184
+ "28000","Mississippi",5,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3218
+ "28000","Mississippi",5,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20118
+ "28000","Mississippi",5,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39924
+ "28000","Mississippi",5,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-328764
+ "28000","Mississippi",5,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-39,-2442,-5778,-12151,-17569,-16748,-5711,-6476,-4349,-4319,-4608,-4061,-4323,-472013
+ "28000","Mississippi",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2392,-5269,-10807,-16211,-11302,-5057,-4389,-3774,-3733,-4022,-3456,-3755,-336454
+ "28000","Mississippi",5,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31155
+ "28000","Mississippi",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16679
+ "28000","Mississippi",5,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14473
+ "28000","Mississippi",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54485
+ "28000","Mississippi",5,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37285
+ "28000","Mississippi",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4231
+ "28000","Mississippi",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2392,-5269,-10807,-16211,-11302,-5057,-4389,-3774,-3733,-4022,-3456,-3755,-15869
+ "28000","Mississippi",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25932
+ "28000","Mississippi",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25084
+ "28000","Mississippi",5,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-91734
+ "28000","Mississippi",5,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19527
+ "28000","Mississippi",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-39,-50,-509,-1343,-1358,-5446,-654,-2087,-576,-587,-586,-606,-569,-135559
+ "28000","Mississippi",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-59154
+ "28000","Mississippi",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-39,-50,-87,-80,-91,-97,-108,-91,-516,-528,-530,-551,-542,-4473
+ "28000","Mississippi",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5843
+ "28000","Mississippi",5,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4873
+ "28000","Mississippi",5,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11437
+ "28000","Mississippi",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-358,-1184,-598,-5138,-252,-1727,0,0,0,0,0,-2961
+ "28000","Mississippi",5,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-65,-79,-669,-211,-295,-268,-59,-59,-56,-55,-27,-18245
+ "28000","Mississippi",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28572
+ "28000","Mississippi",5,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-154193
+ "28000","Mississippi",5,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-24517,-2656,-25,0,0,0,0,0,0,0,0,-398765
+ "28000","Mississippi",5,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-3215,-2122,-2266,-2398,-7852,-4738,-7124,-9365,-6761,-8994,-7441,-6172,-9207,-8470,-6949,-8636,-5640,-4673,-4590,-5702,-4871,-5157,-5117,-167001
+ "28000","Mississippi",5,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-20,1,0,-1,-5025,-160,-2514,-17,-61,-93,-94,-141,-171,-205,-236,-259,-234,-219,-240,-54,-75,-66,-68,-8829
+ "28000","Mississippi",5,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-2754,-1871,-2168,-2170,-1935,-2225,-2247,-2693,-2899,-2806,-2700,-3363,-4872,-6358,-4557,-4054,-4063,-3742,-3913,-3940,-4288,-4840,-4875,-20129
+ "28000","Mississippi",5,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-441,-253,-98,-227,-892,-2353,-2327,-6413,-3571,-5477,-4489,-2496,-4089,-1908,-2156,-4323,-1343,-712,-438,-1708,-507,-251,-174,-7066
+ "28000","Mississippi",5,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-36,-242,-230,-617,-158,-172,-74,0,0,0,0,0,0,0,0,0,0,-89095
+ "28000","Mississippi",5,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4695
+ "28000","Mississippi",5,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-589
+ "28000","Mississippi",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24464
+ "28000","Mississippi",5,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12136
+ "28000","Mississippi",5,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-151,-448,-1978,-3004,-1673,-397,-407,21,-45,-20,-23,-25461
+ "28000","Mississippi",5,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8892
+ "28000","Mississippi",5,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3361
+ "28000","Mississippi",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-151,-448,-1978,-3004,-1673,-397,-407,21,-45,-20,-23,-11666
+ "28000","Mississippi",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1542
+ "28000","Mississippi",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-54080,-57082,-70546,-69346,-68806,-73112,-80190,-83678,-110379,-106817,-1463906,-481328,-495483,-442630,-297583,-100462,-101243,-100203,-102579,-110963,-109950,-105821,-105067,-273656
+ "28000","Mississippi",5,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-317,-366,-639,-640,-667,-668,-274,-243,-356,-214,-342,-665,-1276,-3576,-3720,-4225,-3090,-4445,-2806,-2842,-2415,-1947,-1749,-82397
+ "28000","Mississippi",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-317,-366,-639,-640,-667,-668,-274,-243,-356,-214,-342,-665,-1276,-3576,-3720,-4225,-3090,-4445,-2806,-2842,-2415,-1947,-1749,-26422
+ "28000","Mississippi",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13261
+ "28000","Mississippi",5,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42320
+ "28000","Mississippi",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-393
+ "28000","Mississippi",5,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-53763,-56716,-69907,-68706,-68139,-72444,-79916,-83436,-110023,-106603,-1463564,-480664,-494207,-439053,-293864,-96236,-98154,-95759,-99774,-108121,-107535,-103874,-103318,-191259
+ "28000","Mississippi",5,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-53763,-56716,-69907,-68706,-68139,-72444,-79916,-83436,-110023,-106603,-1463564,-480664,-494207,-439053,-293864,-96236,-98154,-95759,-99774,-108121,-107535,-103874,-103318,-172936
+ "28000","Mississippi",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18324
+ "28000","Mississippi",5,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-399465
+ "28000","Mississippi",5,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-192998
+ "28000","Mississippi",5,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58240
+ "28000","Mississippi",5,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16785
+ "28000","Mississippi",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-117974
+ "28000","Mississippi",5,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29704
+ "28000","Mississippi",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-176762
+ "28000","Mississippi",5,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-169720
+ "28000","Mississippi",5,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7043
+ "28000","Mississippi",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3026,-23732,-13568,-16733,-14951,-8689,-4929,-1637,-53,-52,-707666
+ "28000","Mississippi",5,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20031
+ "28000","Mississippi",5,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3026,-23732,-13568,-16733,-14951,-8689,-4929,-1637,-53,-52,-687636
+ "28000","Mississippi",5,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-465476
+ "28000","Mississippi",5,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3026,-23732,-13568,-16733,-14951,-8689,-4929,-1637,-53,-52,-97485
+ "28000","Mississippi",5,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-64695
+ "28000","Mississippi",5,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-59980
+ "28000","Mississippi",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-395625
+ "28000","Mississippi",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26753
+ "28000","Mississippi",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5749
+ "28000","Mississippi",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21004
+ "28000","Mississippi",5,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-368872
+ "28000","Mississippi",5,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-62617
+ "28000","Mississippi",5,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-306255
+ "28000","Mississippi",5,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-152290
+ "28000","Mississippi",5,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-67843,-45951,-43637,-50428,-63297,-59016,-66144,-74820,-72714,-74384,-73220,-83490,-105176,-107969,-124667,-120614,-153461,-148917,-131612,-143594,-147991,-150609,-151854,-200553
+ "28000","Mississippi",5,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-23279,-22219,-22448,-22108,-34645,-25558,-24104,-25079,-24450,-25764,-31300,-42058,-62972,-54136,-69326,-70183,-104100,-99746,-81993,-89310,-94055,-94481,-94802,-98778
+ "28000","Mississippi",5,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "28000","Mississippi",5,SAGDP5N,86,"...","  State and local","Thousands of dollars",-44565,-23732,-21189,-28321,-28651,-33457,-42040,-49741,-48264,-48620,-41921,-41432,-42205,-53833,-55341,-50431,-49361,-49171,-49619,-54284,-53937,-56127,-57053,-101774
+ "28000","Mississippi",5,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-144071,-240717,-380671,-399571,-969321,-410585,-486377,-384179,-735139,-541227,-527303,-282629,-408889,-213215,-207964,-180489,-167039,-135445,-138072,-267504,-256332,-316044,-546239,-805263
+ "28000","Mississippi",5,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-24517,-2656,-25,0,0,0,0,0,0,0,0,-552959
+ "28000","Mississippi",5,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-3215,-2122,-2266,-2398,-7852,-4738,-7124,-9365,-6761,-8994,-7441,-6172,-9207,-8470,-6949,-8636,-5640,-4673,-4590,-5702,-4871,-5157,-5117,-206925
+ "28000","Mississippi",5,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-39,-2442,-5929,-12598,-19547,-19752,-7384,-6873,-4756,-4298,-4654,-4081,-4347,-497474
+ "28000","Mississippi",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-144071,-240717,-380671,-399571,-969321,-410585,-486377,-384179,-735139,-541308,-527342,-285071,-414667,-225366,-225533,-197236,-172750,-141920,-142421,-271823,-260940,-320105,-550562,-1606040
+ "28000","Mississippi",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-57295,-59204,-72813,-71744,-76658,-77850,-87314,-93043,-117140,-115810,-1471347,-487501,-529358,-457229,-330268,-125670,-125289,-120225,-116265,-121573,-116503,-111050,-110259,-2714046
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

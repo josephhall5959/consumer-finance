@@ -1,0 +1,83 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997
+ "04000","Arizona",6,SAGDP5S,1,"...","All industry total","Thousands of dollars",-20127,-25498,-26937,-29496,-32232,-41349,-42837,-39435,-39221,-55208,-37355,-20100,-22395,-25828,-44911,-62432,-54293,-68248,-85694,-114621,-182845,-188451,-197382,-252775,-353799,-345914,-277211,-263658,-270829,-284477,-392462,-309683,-366764,-352950,-361190
+ "04000","Arizona",6,SAGDP5S,2,"..."," Private industries","Thousands of dollars",-19560,-24880,-26227,-28722,-31467,-40419,-41756,-38045,-37444,-52898,-34820,-16838,-18610,-21728,-39977,-56196,-45066,-51383,-64835,-90904,-154624,-161293,-166629,-224231,-321258,-311395,-235069,-213276,-216164,-222832,-321816,-235302,-274205,-262446,-275462
+ "04000","Arizona",6,SAGDP5S,3,"A","   Agriculture, forestry, and fishing","Thousands of dollars",-16738,-21439,-22737,-23721,-26916,-35797,-36820,-31230,-28685,-33969,-18761,-5802,-6119,-7919,-19531,-28266,-12397,-14551,-18295,-23517,-80396,-83938,-76107,-116630,-197595,-191829,-125321,-97634,-98109,-92983,-159570,-71332,-101123,-78166,-81639
+ "04000","Arizona",6,SAGDP5S,4,"[01-02]","     Farms","Thousands of dollars",-16738,-21439,-22737,-23721,-26916,-35797,-36820,-31230,-28685,-33969,-18761,-5802,-6119,-7919,-19531,-28266,-12397,-14551,-18295,-23517,-80396,-83938,-76107,-116630,-197595,-191829,-125321,-97634,-98109,-92983,-159570,-71332,-101123,-78166,-81639
+ "04000","Arizona",6,SAGDP5S,5,"[07-09]","     Agricultural services, forestry, and fishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,6,"B","   Mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16,-41,-14,-6,-14,-23,-32,-33,-8,-16,-10,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,7,"10","     Metal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,8,"12","     Coal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16,-41,-14,-6,-14,-23,-32,-33,-8,-16,-10,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,9,"13","     Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,10,"14","     Nonmetallic minerals, except fuels","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,11,"C","   Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,12,"D","   Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-257,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,13,"...","     Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,14,"24","       Lumber and wood products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,15,"25","       Furniture and fixtures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,16,"32","       Stone, clay, and glass products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,17,"33","       Primary metal industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,18,"34","       Fabricated metal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,19,"35","       Industrial machinery and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,20,"36","       Electronic and other electric equipment 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,21,"371","       Motor vehicles and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,22,"372-379","       Other transportation equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,23,"38","       Instruments and related products 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,24,"39","       Miscellaneous manufacturing industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,25,"...","     Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-257,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,26,"20","       Food and kindred products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,27,"21","       Tobacco products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,28,"22","       Textile mill products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,29,"23","       Apparel and other textile products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,30,"26","       Paper and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,31,"27","       Printing and publishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,32,"28","       Chemicals and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-257,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,33,"29","       Petroleum and coal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,34,"30","       Rubber and miscellaneous plastics products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,35,"31","       Leather and leather products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,36,"E","   Transportation and public utilities","Thousands of dollars",-922,-892,-909,-888,-785,-710,-549,-415,-885,-1191,-1301,-1735,-2908,-2931,-3864,-3687,-4365,-4871,-5263,-4783,-3531,-3942,-3299,-3155,-2629,-3202,-3019,-2351,-2006,-2706,-1924,-2138,-3588,-3554,-2536
+ "04000","Arizona",6,SAGDP5S,37,"...","     Transportation","Thousands of dollars",-922,-892,-909,-888,-785,-710,-549,-415,-885,-1191,-1301,-1735,-2908,-2931,-3864,-3687,-4365,-4871,-5263,-4783,-3531,-3942,-3299,-3155,-2629,-3202,-3019,-2351,-2006,-2706,-1924,-2138,-3588,-3554,-2536
+ "04000","Arizona",6,SAGDP5S,38,"40","       Railroad transportation","Thousands of dollars",-30,-25,-45,-60,-65,-68,-63,-60,-188,-456,-507,-802,-2101,-1933,-2746,-2636,-3067,-3197,-3107,-3135,-3308,-3573,-2633,-2415,-2172,-2658,-2438,-1784,-1713,-1902,-1718,-1906,-2279,-2092,-2366
+ "04000","Arizona",6,SAGDP5S,39,"41","       Local and interurban passenger transit","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,40,"42","       Trucking and warehousing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,41,"44","       Water transportation","Thousands of dollars",0,0,0,0,0,0,0,0,-1,-1,-1,-1,-2,-2,-2,-64,-128,-199,-155,-277,-224,-277,-196,-432,-116,-102,-101,-105,-121,-89,-140,-146,-144,-116,-74
+ "04000","Arizona",6,SAGDP5S,42,"45","       Transportation by air","Thousands of dollars",-892,-867,-864,-828,-720,-643,-487,-355,-697,-734,-793,-931,-805,-996,-1116,-987,-1171,-1475,-2001,-1371,0,-92,-470,-308,-341,-443,-480,-462,-172,-714,-67,-86,-1165,-1346,-96
+ "04000","Arizona",6,SAGDP5S,43,"46","       Pipelines, except natural gas","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,44,"47","       Transportation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,45,"48","     Communications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,46,"49","     Electric, gas, and sanitary services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,47,"F","   Wholesale trade","Thousands of dollars",-373,-260,-97,-779,-692,-409,-338,-1164,-1035,-1675,-1821,-143,0,-20,0,0,0,0,0,0,0,0,0,-245,-9526,-8496,-4116,-2676,-2771,-8676,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,48,"G","   Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,49,"H","   Finance, insurance, and real estate","Thousands of dollars",-1526,-2289,-2483,-3333,-3075,-3502,-4049,-5235,-6839,-16064,-12937,-9160,-9583,-10857,-16582,-24242,-28303,-31962,-41261,-62564,-70682,-73406,-87208,-103921,-111475,-107835,-102606,-110599,-113267,-118468,-160323,-161833,-169494,-180726,-191287
+ "04000","Arizona",6,SAGDP5S,50,"60","     Depository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-289
+ "04000","Arizona",6,SAGDP5S,51,"61","     Nondepository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,52,"62","     Security and commodity brokers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,53,"63","     Insurance carriers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,54,"64","     Insurance agents, brokers, and services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,55,"65","     Real estate","Thousands of dollars",-1526,-2289,-2483,-3333,-3075,-3502,-4049,-5235,-6839,-16064,-12937,-9160,-9583,-10857,-16582,-24242,-28303,-31962,-41261,-62564,-70682,-73406,-87208,-103921,-111475,-107835,-102606,-110599,-113267,-118468,-160323,-161833,-169494,-180726,-190998
+ "04000","Arizona",6,SAGDP5S,56,"67","     Holding and other investment offices","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,57,"I","   Services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,58,"70","     Hotels and other lodging places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,59,"72","     Personal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,60,"73","     Business services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,61,"75","     Automotive repair, services, and parking","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,62,"76","     Miscellaneous repair services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,63,"78","     Motion pictures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,64,"79","     Amusement and recreation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,65,"80","     Health services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,66,"81","     Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,67,"82","     Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,68,"83","     Social services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,69,"86","     Membership organizations","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,70,"84, 87, 89","     Other services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,71,"88","     Private households","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,72,"..."," Government and government enterprises","Thousands of dollars",-567,-617,-710,-774,-765,-930,-1080,-1390,-1777,-2309,-2534,-3262,-3785,-4100,-4934,-6236,-9227,-16865,-20859,-23717,-28221,-27158,-30753,-28544,-32541,-34519,-42142,-50382,-54666,-61645,-70646,-74381,-92559,-90503,-85728
+ "04000","Arizona",6,SAGDP5S,73,"...","   Federal civilian","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9,-43,-65,-55,-75,-73,-69,-98,-153,-158,-228,-341,-1084,-845,-3478,-2850,-3851
+ "04000","Arizona",6,SAGDP5S,74,"...","   Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,75,"...","   State and local","Thousands of dollars",-567,-617,-710,-774,-765,-930,-1080,-1390,-1777,-2309,-2534,-3262,-3785,-4100,-4934,-6236,-9227,-16865,-20850,-23674,-28156,-27103,-30678,-28471,-32472,-34421,-41989,-50224,-54438,-61304,-69562,-73536,-89081,-87653,-81877
+ "04000","Arizona",6,SAGDP5S,76,"36, 38"," Electronic equipment and instruments 5/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04000","Arizona",6,SAGDP5S,77,"60, 61"," Depository and nondepository institutions 6/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-289
+ "04000","Arizona",6,SAGDP5S,78,"73, 84, 87, 89"," Business services and other services 7/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Note: See the included footnote file."
+"SAGDP5S: Subsidies 1/"
+"Last updated: November 18, 2010."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "06000","California",8,SAGDP5N,1,"...","All industry total","Thousands of dollars",-4792622,-4538264,-5041043,-4761753,-12587049,-5607389,-5708264,-5812073,-6632385,-6264550,-5978334,-6187464,-7376168,-7160257,-7370058,-6939987,-6942216,-7037075,-6831628,-7412121,-7464532,-7766465,-8032363,-101284903
+ "06000","California",8,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-2425687,-2577710,-2951077,-2879808,-10612755,-3285214,-3203178,-3120558,-3923042,-3382372,-3101614,-3349945,-4085083,-3823322,-4126509,-4005885,-3936148,-3784572,-3645452,-3849959,-3892978,-3974705,-4099900,-94448627
+ "06000","California",8,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-186992,-303941,-577264,-592199,-786084,-560021,-630440,-408227,-603205,-452950,-426667,-367759,-483380,-308610,-219397,-236809,-201454,-188468,-186439,-200021,-146828,-237767,-382773,-4207717
+ "06000","California",8,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-186992,-303941,-577264,-592199,-786084,-560021,-630440,-408227,-603205,-452950,-426667,-367759,-483380,-308610,-219397,-236809,-201454,-188468,-186439,-200021,-146828,-237767,-382773,-3442059
+ "06000","California",8,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-765658
+ "06000","California",8,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-180087
+ "06000","California",8,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45087
+ "06000","California",8,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-55196
+ "06000","California",8,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-79803
+ "06000","California",8,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,-7024000,-385000,319000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-171890
+ "06000","California",8,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9712876
+ "06000","California",8,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-689,-297,-8549,-29201,-93302,-95798,-83226,-33943,-44040,-22293,-21977,-21019,-23697,-26542,-8747968
+ "06000","California",8,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-8233,-20385,-63113,-77147,-48136,-22969,-17712,-18353,-18021,-17196,-19753,-23321,-5472285
+ "06000","California",8,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-203539
+ "06000","California",8,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-226174
+ "06000","California",8,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-124910
+ "06000","California",8,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1236995
+ "06000","California",8,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-586682
+ "06000","California",8,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1242861
+ "06000","California",8,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-8233,-20385,-63113,-77147,-48136,-22969,-17712,-18353,-18021,-17196,-19753,-23321,-298265
+ "06000","California",8,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-182379
+ "06000","California",8,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-336535
+ "06000","California",8,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-270801
+ "06000","California",8,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-763143
+ "06000","California",8,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-689,-297,-317,-8816,-30189,-18651,-35090,-10975,-26328,-3941,-3956,-3823,-3944,-3220,-3275683
+ "06000","California",8,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1386613
+ "06000","California",8,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-689,-297,-317,-378,-285,-271,-280,-327,-313,-1929,-1754,-1556,-1721,-1619,-114811
+ "06000","California",8,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-327720
+ "06000","California",8,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-106860
+ "06000","California",8,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-403216
+ "06000","California",8,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-6892,-28349,-6709,-30289,-4370,-19696,0,0,0,0,0,-56254
+ "06000","California",8,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1545,-1555,-11671,-4521,-6278,-6319,-2012,-2202,-2267,-2223,-1601,-622255
+ "06000","California",8,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-257954
+ "06000","California",8,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5041384
+ "06000","California",8,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-344918,-37318,-361,0,0,0,0,0,0,0,0,-7862321
+ "06000","California",8,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-202320,-138429,-158430,-177774,-865338,-329750,-637494,-401892,-395393,-416168,-373625,-411851,-515557,-577500,-473968,-476904,-444515,-406002,-429184,-475256,-525056,-601430,-504619,-5854667
+ "06000","California",8,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-2654,133,0,-133,-667145,-21230,-333705,-2256,-8094,-12340,-12472,-18709,-22689,-27201,-31314,-34366,-31049,-29058,-31845,-38155,-34354,-33710,-44647,-2844590
+ "06000","California",8,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-184779,-132343,-155458,-170823,-173914,-257581,-264363,-302720,-341207,-347154,-310252,-363339,-448313,-530768,-416464,-389086,-398208,-369112,-392429,-417774,-483615,-564667,-457954,-619664
+ "06000","California",8,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-14887,-6219,-2971,-6817,-24279,-50939,-39156,-95094,-44396,-52100,-49713,-28519,-44001,-19532,-26191,-53453,-15258,-7832,-4910,-19326,-7086,-3053,-2017,-39932
+ "06000","California",8,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-270,-1823,-1697,-4575,-1187,-1284,-554,0,0,0,0,0,0,0,0,0,0,-1043970
+ "06000","California",8,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-243256
+ "06000","California",8,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2651
+ "06000","California",8,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-854227
+ "06000","California",8,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-206376
+ "06000","California",8,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-6297,-17932,-77956,-110184,-58249,-14149,-14462,793,-1858,-827,-1038,-2312426
+ "06000","California",8,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-762764
+ "06000","California",8,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-672105
+ "06000","California",8,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-6297,-17932,-77956,-110184,-58249,-14149,-14462,793,-1858,-827,-1038,-254253
+ "06000","California",8,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-623305
+ "06000","California",8,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-2036375,-2135340,-2215384,-2109836,-1937333,-2010443,-2254244,-2310439,-2924444,-2512564,-2301025,-2561786,-2705731,-2726596,-2764136,-2814618,-2845691,-2811534,-2804473,-3044266,-3160708,-3109775,-3183717,-8330535
+ "06000","California",8,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1295,-2625,-1507,-2890,-5865,-10086,-4903,-1635,-2054,-2081,-3647,-4936,-18232,-43946,-52487,-68780,-50764,-69135,-44360,-52375,-50008,-46203,-38332,-2263547
+ "06000","California",8,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1295,-2625,-1507,-2890,-5865,-10086,-4903,-1635,-2054,-2081,-3647,-4936,-18232,-43946,-52487,-68780,-50764,-69135,-44360,-52375,-50008,-46203,-38332,-636431
+ "06000","California",8,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-660910
+ "06000","California",8,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-884353
+ "06000","California",8,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-81852
+ "06000","California",8,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-2035080,-2132715,-2213877,-2106946,-1931467,-2000357,-2249341,-2308804,-2922390,-2510483,-2297377,-2556850,-2687499,-2682651,-2711649,-2745838,-2794926,-2742399,-2760113,-2991892,-3110700,-3063573,-3145385,-6066989
+ "06000","California",8,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-2035080,-2132715,-2213877,-2106946,-1931467,-2000357,-2249341,-2308804,-2922390,-2510483,-2297377,-2556850,-2687499,-2682651,-2711649,-2745838,-2794926,-2742399,-2760113,-2991892,-3110700,-3063573,-3145385,-5607164
+ "06000","California",8,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-459825
+ "06000","California",8,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15396938
+ "06000","California",8,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10653744
+ "06000","California",8,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1809871
+ "06000","California",8,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1961744
+ "06000","California",8,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6882129
+ "06000","California",8,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-332039
+ "06000","California",8,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4411155
+ "06000","California",8,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4026432
+ "06000","California",8,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-384722
+ "06000","California",8,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-62064,-494893,-284144,-352295,-320378,-188601,-109233,-37510,-1209,-1212,-13365042
+ "06000","California",8,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-785541
+ "06000","California",8,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-62064,-494893,-284144,-352295,-320378,-188601,-109233,-37510,-1209,-1212,-12579502
+ "06000","California",8,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9202934
+ "06000","California",8,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-62064,-494893,-284144,-352295,-320378,-188601,-109233,-37510,-1209,-1212,-513115
+ "06000","California",8,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1100077
+ "06000","California",8,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1763376
+ "06000","California",8,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9778289
+ "06000","California",8,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1394450
+ "06000","California",8,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-666744
+ "06000","California",8,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-727705
+ "06000","California",8,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8383839
+ "06000","California",8,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1420817
+ "06000","California",8,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6963022
+ "06000","California",8,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3486486
+ "06000","California",8,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-2366936,-1960554,-2089966,-1881945,-1974294,-2322175,-2505086,-2691515,-2709342,-2882178,-2876720,-2837519,-3291084,-3336935,-3243549,-2934102,-3006069,-3252503,-3186176,-3562162,-3571553,-3791759,-3932462,-6836276
+ "06000","California",8,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-64916,-72589,-81490,-108107,-97247,-108045,-100383,-96992,-119957,-118421,-106013,-108276,-147187,-104943,-103363,-129765,-188647,-282322,-248574,-296859,-249459,-253453,-265071,-303349
+ "06000","California",8,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "06000","California",8,SAGDP5N,86,"...","  State and local","Thousands of dollars",-2302019,-1887965,-2008476,-1773838,-1877047,-2214130,-2404703,-2594522,-2589385,-2763757,-2770707,-2729243,-3143897,-3231992,-3140186,-2804337,-2817422,-2970182,-2937602,-3265303,-3322094,-3538306,-3667391,-6532927
+ "06000","California",8,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-186992,-303941,-577264,-592199,-786084,-560021,-630440,-408227,-603205,-452950,-426667,-367759,-483380,-308610,-219397,-236809,-201454,-188468,-186439,-200021,-146828,-237767,-382773,-4387803
+ "06000","California",8,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-344918,-37318,-361,0,0,0,0,0,0,0,0,-12903705
+ "06000","California",8,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-202320,-138429,-158430,-177774,-7889338,-714750,-318494,-401892,-395393,-416168,-373625,-411851,-515557,-577500,-473968,-476904,-444515,-406002,-429184,-475256,-525056,-601430,-504619,-6026558
+ "06000","California",8,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-689,-297,-8549,-35498,-111234,-173754,-193410,-92193,-58189,-36755,-21184,-22877,-24524,-27579,-11060394
+ "06000","California",8,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-186992,-303941,-577264,-592199,-786084,-560021,-630440,-408227,-603205,-453639,-426964,-376308,-512581,-401912,-315194,-320035,-235398,-232508,-208732,-221998,-167848,-261464,-409315,-22848647
+ "06000","California",8,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-2238695,-2273769,-2373813,-2287609,-9826671,-2725193,-2572738,-2712331,-3319838,-2928733,-2674650,-2973637,-3572502,-3421410,-3811315,-3685850,-3700750,-3552064,-3436720,-3627962,-3725131,-3713242,-3690586,-71599980
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

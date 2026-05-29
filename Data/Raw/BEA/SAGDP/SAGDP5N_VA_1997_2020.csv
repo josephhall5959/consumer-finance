@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "51000","Virginia",5,SAGDP5N,1,"...","All industry total","Thousands of dollars",-546998,-543803,-635059,-686903,-810876,-803403,-932464,-813037,-1098605,-990262,-920616,-970715,-1078356,-1064203,-1162749,-1191550,-1171927,-1149919,-1086008,-1147402,-1144675,-1129257,-1204901,-16972487
+ "51000","Virginia",5,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-360668,-387292,-467916,-510197,-623390,-581060,-700138,-571560,-855393,-734137,-653092,-696865,-812589,-790192,-879283,-902738,-872761,-814454,-751115,-780664,-779193,-763945,-832969,-16338930
+ "51000","Virginia",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-25944,-39292,-87198,-131545,-105597,-159166,-151674,-55469,-201852,-147285,-118242,-112182,-98015,-94074,-85037,-115255,-89904,-65724,-49122,-54550,-62405,-65645,-136399,-429373
+ "51000","Virginia",5,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-25944,-39292,-87198,-131545,-105597,-159166,-151674,-55469,-201852,-147285,-118242,-112182,-98015,-94074,-85037,-115255,-89904,-65724,-49122,-54550,-62405,-65645,-136399,-383676
+ "51000","Virginia",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45697
+ "51000","Virginia",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-38799
+ "51000","Virginia",5,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1687
+ "51000","Virginia",5,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18709
+ "51000","Virginia",5,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18402
+ "51000","Virginia",5,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61565
+ "51000","Virginia",5,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1440459
+ "51000","Virginia",5,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-427,-174,-3175,-8157,-20038,-26300,-18202,-7325,-6101,-5531,-5115,-5418,-5553,-7342,-988799
+ "51000","Virginia",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2991,-7675,-19312,-24129,-17201,-6468,-5170,-4601,-4196,-4469,-4718,-6412,-652120
+ "51000","Virginia",5,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61059
+ "51000","Virginia",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44841
+ "51000","Virginia",5,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5955
+ "51000","Virginia",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-84011
+ "51000","Virginia",5,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-81022
+ "51000","Virginia",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65482
+ "51000","Virginia",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2991,-7675,-19312,-24129,-17201,-6468,-5170,-4601,-4196,-4469,-4718,-6412,-75394
+ "51000","Virginia",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27172
+ "51000","Virginia",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-102235
+ "51000","Virginia",5,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45980
+ "51000","Virginia",5,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58969
+ "51000","Virginia",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-427,-174,-184,-482,-726,-2170,-1001,-857,-931,-929,-919,-949,-835,-930,-336680
+ "51000","Virginia",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-121038
+ "51000","Virginia",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-427,-174,-184,-214,-262,-281,-169,-123,-117,-784,-781,-829,-709,-854,-18761
+ "51000","Virginia",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12886
+ "51000","Virginia",5,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17995
+ "51000","Virginia",5,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67024
+ "51000","Virginia",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-61,-229,-32,-133,-45,-270,0,0,0,0,0,-9422
+ "51000","Virginia",5,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-206,-235,-1857,-699,-689,-544,-145,-139,-120,-126,-76,-58599
+ "51000","Virginia",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30954
+ "51000","Virginia",5,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-497005
+ "51000","Virginia",5,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-74486,-8008,-76,0,0,0,0,0,0,0,0,-1294343
+ "51000","Virginia",5,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-25863,-20150,-22017,-23445,-157943,-41368,-99492,-49304,-54821,-67144,-52429,-51921,-68876,-72756,-64437,-75744,-63916,-59304,-62204,-69093,-72348,-80191,-70675,-1112251
+ "51000","Virginia",5,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-529,26,0,-26,-132998,-4232,-66525,-450,-1614,-2460,-2486,-3730,-4523,-5423,-6243,-6851,-6190,-5793,-6348,-7224,-7158,-7169,-8664,-643082
+ "51000","Virginia",5,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-23495,-18561,-21297,-21826,-19683,-26459,-22935,-19469,-29845,-30726,-27086,-34357,-44591,-59168,-49500,-48877,-51493,-50301,-54056,-55116,-62911,-72025,-61154,-155427
+ "51000","Virginia",5,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-1839,-1615,-720,-1592,-5263,-10677,-9970,-28974,-22975,-32930,-22602,-13562,-19646,-8166,-8695,-20016,-6233,-3210,-1800,-6752,-2279,-997,-857,-6150
+ "51000","Virginia",5,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-61,-411,-388,-1027,-255,-273,-117,0,0,0,0,0,0,0,0,0,0,-169773
+ "51000","Virginia",5,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-36830
+ "51000","Virginia",5,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-463
+ "51000","Virginia",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85514
+ "51000","Virginia",5,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15012
+ "51000","Virginia",5,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1575,-4277,-17172,-24343,-12888,-3171,-3089,169,-369,-165,-189,-315856
+ "51000","Virginia",5,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-91383
+ "51000","Virginia",5,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19843
+ "51000","Virginia",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1575,-4277,-17172,-24343,-12888,-3171,-3089,169,-369,-165,-189,-50299
+ "51000","Virginia",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-154332
+ "51000","Virginia",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-308861,-327850,-358701,-355207,-359849,-380526,-448972,-466787,-598720,-519281,-482247,-529586,-561480,-578901,-588180,-612216,-629540,-617748,-594987,-631046,-631350,-612159,-618131,-1324180
+ "51000","Virginia",5,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1130,-1623,-2106,-2094,-2998,-3447,-1292,-218,-1299,-876,-337,-297,-1834,-10560,-17824,-42871,-41033,-49805,-30579,-31270,-26105,-19763,-18142,-334155
+ "51000","Virginia",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1130,-1623,-2106,-2094,-2998,-3447,-1292,-218,-1299,-876,-337,-297,-1834,-10560,-17824,-42871,-41033,-49805,-30579,-31270,-26105,-19763,-18142,-137069
+ "51000","Virginia",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71059
+ "51000","Virginia",5,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-122790
+ "51000","Virginia",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3236
+ "51000","Virginia",5,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-307732,-326227,-356595,-353113,-356851,-377079,-447680,-466568,-597421,-518405,-481910,-529289,-559646,-568341,-570356,-569345,-588507,-567944,-564407,-599775,-605245,-592396,-599989,-990024
+ "51000","Virginia",5,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-307732,-326227,-356595,-353113,-356851,-377079,-447680,-466568,-597421,-518405,-481910,-529289,-559646,-568341,-570356,-569345,-588507,-567944,-564407,-599775,-605245,-592396,-599989,-935919
+ "51000","Virginia",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54105
+ "51000","Virginia",5,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3978235
+ "51000","Virginia",5,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3146711
+ "51000","Virginia",5,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-228814
+ "51000","Virginia",5,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1058824
+ "51000","Virginia",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1859074
+ "51000","Virginia",5,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-92857
+ "51000","Virginia",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-738667
+ "51000","Virginia",5,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-699035
+ "51000","Virginia",5,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39632
+ "51000","Virginia",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12137,-98081,-56977,-69188,-62406,-36182,-21030,-7301,-231,-233,-2744192
+ "51000","Virginia",5,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-106046
+ "51000","Virginia",5,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12137,-98081,-56977,-69188,-62406,-36182,-21030,-7301,-231,-233,-2638146
+ "51000","Virginia",5,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1945023
+ "51000","Virginia",5,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12137,-98081,-56977,-69188,-62406,-36182,-21030,-7301,-231,-233,-269113
+ "51000","Virginia",5,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-230027
+ "51000","Virginia",5,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-193983
+ "51000","Virginia",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1357174
+ "51000","Virginia",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-176754
+ "51000","Virginia",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-64075
+ "51000","Virginia",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-112679
+ "51000","Virginia",5,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1180419
+ "51000","Virginia",5,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-209176
+ "51000","Virginia",5,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-971244
+ "51000","Virginia",5,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-756700
+ "51000","Virginia",5,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-186330,-156511,-167143,-176705,-187486,-222343,-232326,-241478,-243212,-256126,-267524,-273851,-265767,-274011,-283465,-288812,-299166,-335466,-334893,-366737,-365482,-365312,-371932,-633557
+ "51000","Virginia",5,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-6139,-6304,-6993,-8589,-11734,-13238,-13184,-14574,-14170,-14215,-17886,-26154,-27772,-20987,-29722,-33140,-45289,-49063,-42123,-42174,-44207,-43684,-40330,-43319
+ "51000","Virginia",5,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "51000","Virginia",5,SAGDP5N,86,"...","  State and local","Thousands of dollars",-180192,-150207,-160149,-168117,-175752,-209105,-219142,-226904,-229042,-241911,-249638,-247697,-237995,-253025,-253743,-255672,-253877,-286402,-292770,-324563,-321275,-321629,-331602,-590238
+ "51000","Virginia",5,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-25944,-39292,-87198,-131545,-105597,-159166,-151674,-55469,-201852,-147285,-118242,-112182,-98015,-94074,-85037,-115255,-89904,-65724,-49122,-54550,-62405,-65645,-136399,-468172
+ "51000","Virginia",5,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-74486,-8008,-76,0,0,0,0,0,0,0,0,-1791348
+ "51000","Virginia",5,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-25863,-20150,-22017,-23445,-157943,-41368,-99492,-49304,-54821,-67144,-52429,-51921,-68876,-72756,-64437,-75744,-63916,-59304,-62204,-69093,-72348,-80191,-70675,-1173816
+ "51000","Virginia",5,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-427,-174,-3175,-9732,-24316,-43472,-42545,-20213,-9271,-8620,-4946,-5788,-5719,-7531,-1304656
+ "51000","Virginia",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-25944,-39292,-87198,-131545,-105597,-159166,-151674,-55469,-201852,-147712,-118416,-115357,-106172,-114112,-111337,-133457,-97229,-71824,-54653,-59665,-67824,-71198,-143741,-2897430
+ "51000","Virginia",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-334724,-348000,-380718,-378652,-517792,-421894,-548464,-516090,-653541,-586424,-534676,-581507,-706417,-676080,-767946,-769281,-775532,-742629,-696462,-721000,-711369,-692746,-689228,-13441500
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

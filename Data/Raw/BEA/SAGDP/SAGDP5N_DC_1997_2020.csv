@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "11000","District of Columbia",2,SAGDP5N,1,"...","All industry total","Thousands of dollars",-484226,-427483,-414768,-398618,-405708,-488637,-520853,-585209,-634578,-657645,-625876,-625502,-686406,-701168,-844381,-725015,-731466,-762888,-771875,-804179,-789110,-861216,-862497,-4174122
+ "11000","District of Columbia",2,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-149223,-129764,-122962,-128227,-123014,-163512,-157228,-180250,-201440,-197889,-180345,-140519,-167188,-200807,-296987,-229338,-228304,-224114,-210995,-212312,-242255,-255793,-235128,-3061373
+ "11000","District of Columbia",2,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1103
+ "11000","District of Columbia",2,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1103
+ "11000","District of Columbia",2,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4830
+ "11000","District of Columbia",2,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-116906
+ "11000","District of Columbia",2,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-1,-1,-2,-14,-64,-79,-20,-18,-12,-10,-12,-20,-17,-15,-17363
+ "11000","District of Columbia",2,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1,-2,-5,-19,-5,-4,-1,-2,-4,-12,-8,-7,-8094
+ "11000","District of Columbia",2,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-109
+ "11000","District of Columbia",2,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-378
+ "11000","District of Columbia",2,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-764
+ "11000","District of Columbia",2,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-241
+ "11000","District of Columbia",2,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-551
+ "11000","District of Columbia",2,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1,-2,-5,-19,-5,-4,-1,-2,-4,-12,-8,-7,-518
+ "11000","District of Columbia",2,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-41
+ "11000","District of Columbia",2,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-313
+ "11000","District of Columbia",2,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5178
+ "11000","District of Columbia",2,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-1,-1,-1,-13,-58,-60,-15,-14,-11,-8,-7,-8,-9,-8,-9269
+ "11000","District of Columbia",2,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5389
+ "11000","District of Columbia",2,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,0,-1,-1,-1,-5,-5,-6,-7,-7,-60
+ "11000","District of Columbia",2,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-319
+ "11000","District of Columbia",2,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1529
+ "11000","District of Columbia",2,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-8,-54,-23,-2,0,-1,0,0,0,0,0,-617
+ "11000","District of Columbia",2,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-4,-4,-37,-12,-14,-10,-3,-2,-2,-2,-1,-1356
+ "11000","District of Columbia",2,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17606
+ "11000","District of Columbia",2,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-3041,-346,-3,0,0,0,0,0,0,0,0,-90699
+ "11000","District of Columbia",2,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-84361,-63207,-75641,-80886,-77077,-117734,-105109,-123914,-131156,-133692,-120737,-77273,-97919,-120879,-187304,-125644,-120200,-115425,-119588,-124465,-155507,-173375,-151169,-332438
+ "11000","District of Columbia",2,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-162,-72,-38,-55,-4355
+ "11000","District of Columbia",2,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-84180,-63123,-75600,-80796,-76743,-117073,-104578,-122416,-130400,-132776,-120186,-76943,-97278,-120608,-187030,-125188,-120102,-115412,-119582,-124278,-155429,-173334,-151112,-317259
+ "11000","District of Columbia",2,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-182,-84,-41,-90,-334,-661,-530,-1496,-753,-909,-549,-327,-640,-271,-273,-455,-98,-13,-6,-26,-6,-4,-3,-49
+ "11000","District of Columbia",2,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,0,-3,-3,-7,-2,-2,-1,0,0,0,0,0,0,0,0,0,0,-3314
+ "11000","District of Columbia",2,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3582
+ "11000","District of Columbia",2,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3356
+ "11000","District of Columbia",2,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-522
+ "11000","District of Columbia",2,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-391,-1074,-4558,-5903,-3608,-850,-880,48,-111,-54,-66,-73738
+ "11000","District of Columbia",2,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39218
+ "11000","District of Columbia",2,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3846
+ "11000","District of Columbia",2,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-391,-1074,-4558,-5903,-3608,-850,-880,48,-111,-54,-66,-7605
+ "11000","District of Columbia",2,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23068
+ "11000","District of Columbia",2,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-64862,-66556,-47320,-47341,-45937,-45777,-52119,-56336,-70284,-64196,-59607,-63245,-65823,-74705,-75070,-80708,-81732,-85953,-77563,-80325,-84037,-82267,-83799,-241539
+ "11000","District of Columbia",2,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-170,-372,-220,-271,-610,-556,-188,-101,-55,-116,-100,-390,-523,-2032,-1452,-4249,-3649,-4344,-2440,-2758,-2685,-2390,-2067,-45483
+ "11000","District of Columbia",2,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-170,-372,-220,-271,-610,-556,-188,-101,-55,-116,-100,-390,-523,-2032,-1452,-4249,-3649,-4344,-2440,-2758,-2685,-2390,-2067,-12092
+ "11000","District of Columbia",2,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22571
+ "11000","District of Columbia",2,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6518
+ "11000","District of Columbia",2,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4302
+ "11000","District of Columbia",2,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-64691,-66185,-47100,-47070,-45327,-45222,-51931,-56235,-70229,-64080,-59507,-62854,-65300,-72673,-73618,-76458,-78083,-81609,-75123,-77567,-81352,-79877,-81732,-196056
+ "11000","District of Columbia",2,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-64691,-66185,-47100,-47070,-45327,-45222,-51931,-56235,-70229,-64080,-59507,-62854,-65300,-72673,-73618,-76458,-78083,-81609,-75123,-77567,-81352,-79877,-81732,-194562
+ "11000","District of Columbia",2,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1494
+ "11000","District of Columbia",2,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-899535
+ "11000","District of Columbia",2,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-770229
+ "11000","District of Columbia",2,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-229767
+ "11000","District of Columbia",2,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-100940
+ "11000","District of Columbia",2,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-439523
+ "11000","District of Columbia",2,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7312
+ "11000","District of Columbia",2,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-121994
+ "11000","District of Columbia",2,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-119759
+ "11000","District of Columbia",2,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2235
+ "11000","District of Columbia",2,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3739,-29973,-17064,-22745,-21874,-12954,-7557,-2580,-80,-79,-456599
+ "11000","District of Columbia",2,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-69248
+ "11000","District of Columbia",2,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3739,-29973,-17064,-22745,-21874,-12954,-7557,-2580,-80,-79,-387352
+ "11000","District of Columbia",2,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-223756
+ "11000","District of Columbia",2,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3739,-29973,-17064,-22745,-21874,-12954,-7557,-2580,-80,-79,-67840
+ "11000","District of Columbia",2,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33896
+ "11000","District of Columbia",2,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61860
+ "11000","District of Columbia",2,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-433391
+ "11000","District of Columbia",2,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45182
+ "11000","District of Columbia",2,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-32753
+ "11000","District of Columbia",2,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12429
+ "11000","District of Columbia",2,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-388209
+ "11000","District of Columbia",2,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-86289
+ "11000","District of Columbia",2,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-301920
+ "11000","District of Columbia",2,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-375627
+ "11000","District of Columbia",2,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-335002,-297719,-291806,-270391,-282694,-325126,-363625,-404959,-433138,-459756,-445531,-484984,-519219,-500361,-547395,-495677,-503162,-538775,-560880,-591868,-546856,-605423,-627368,-1112750
+ "11000","District of Columbia",2,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,SAGDP5N,86,"...","  State and local","Thousands of dollars",-335002,-297719,-291806,-270391,-282694,-325126,-363625,-404959,-433138,-459756,-445531,-484984,-519219,-500361,-547395,-495677,-503162,-538775,-560880,-591868,-546856,-605423,-627368,-1112750
+ "11000","District of Columbia",2,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1103
+ "11000","District of Columbia",2,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-3041,-346,-3,0,0,0,0,0,0,0,0,-108305
+ "11000","District of Columbia",2,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-84361,-63207,-75641,-80886,-77077,-117734,-105109,-123914,-131156,-133692,-120737,-77273,-97919,-120879,-187304,-125644,-120200,-115425,-119588,-124465,-155507,-173375,-151169,-337268
+ "11000","District of Columbia",2,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-1,-1,-2,-405,-1138,-4637,-5923,-3627,-862,-889,36,-131,-71,-81,-91100
+ "11000","District of Columbia",2,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,-1,-1,-2,-14,-64,-79,-20,-18,-12,-10,-12,-20,-17,-15,-135371
+ "11000","District of Columbia",2,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-149223,-129764,-122962,-128227,-123014,-163512,-157228,-180250,-201440,-197888,-180345,-140517,-167173,-200744,-296908,-229318,-228285,-224102,-210985,-212300,-242235,-255775,-235113,-2926002
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

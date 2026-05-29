@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "27000","Minnesota",4,SAGDP5N,1,"...","All industry total","Thousands of dollars",-778768,-1183901,-1655925,-1746707,-1758942,-997122,-1359768,-1237958,-1919512,-1335446,-1161288,-1307344,-1370793,-1255010,-1388099,-1425465,-1522149,-1337660,-1806333,-1581237,-1465597,-1808637,-2335493,-16421350
+ "27000","Minnesota",4,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-555166,-887814,-1445199,-1520839,-1476749,-668615,-1032564,-893943,-1580460,-988382,-730518,-752967,-825805,-830924,-855383,-867240,-849643,-617561,-1167143,-928854,-771803,-1093948,-1605458,-15400567
+ "27000","Minnesota",4,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-353706,-675813,-1217441,-1293059,-1107115,-413432,-676957,-601301,-1193214,-655792,-430540,-459963,-448956,-480447,-413176,-440349,-426897,-199737,-773352,-537731,-378739,-713736,-1214863,-2728480
+ "27000","Minnesota",4,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-353706,-675813,-1217441,-1293059,-1107115,-413432,-676957,-601301,-1193214,-655792,-430540,-459963,-448956,-480447,-413176,-440349,-426897,-199737,-773352,-537731,-378739,-713736,-1214863,-2689180
+ "27000","Minnesota",4,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39300
+ "27000","Minnesota",4,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26038
+ "27000","Minnesota",4,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-158
+ "27000","Minnesota",4,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12826
+ "27000","Minnesota",4,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13054
+ "27000","Minnesota",4,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34629
+ "27000","Minnesota",4,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1532646
+ "27000","Minnesota",4,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-75,-39,-3072,-8437,-22534,-30109,-28411,-11366,-12148,-6672,-6671,-6310,-6241,-6931,-1734196
+ "27000","Minnesota",4,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3026,-7653,-19982,-27679,-20625,-9957,-7489,-5985,-5982,-5975,-5874,-6631,-1151133
+ "27000","Minnesota",4,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50881
+ "27000","Minnesota",4,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-36644
+ "27000","Minnesota",4,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49013
+ "27000","Minnesota",4,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-378594
+ "27000","Minnesota",4,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-230258
+ "27000","Minnesota",4,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-117655
+ "27000","Minnesota",4,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3026,-7653,-19982,-27679,-20625,-9957,-7489,-5985,-5982,-5975,-5874,-6631,-44764
+ "27000","Minnesota",4,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30741
+ "27000","Minnesota",4,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20161
+ "27000","Minnesota",4,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-57707
+ "27000","Minnesota",4,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-134713
+ "27000","Minnesota",4,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-75,-39,-46,-785,-2552,-2431,-7786,-1409,-4659,-686,-689,-335,-367,-299,-583063
+ "27000","Minnesota",4,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-207506
+ "27000","Minnesota",4,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-75,-39,-46,-54,-40,-40,-45,-40,-63,-571,-570,-217,-239,-215,-5633
+ "27000","Minnesota",4,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6802
+ "27000","Minnesota",4,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25704
+ "27000","Minnesota",4,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-131890
+ "27000","Minnesota",4,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-633,-2382,-1300,-7452,-1024,-4174,0,0,0,0,0,-25376
+ "27000","Minnesota",4,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-98,-131,-1091,-289,-345,-421,-116,-119,-118,-128,-84,-68638
+ "27000","Minnesota",4,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-111515
+ "27000","Minnesota",4,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-726141
+ "27000","Minnesota",4,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-50172,-5354,-51,0,0,0,0,0,0,0,0,-1054861
+ "27000","Minnesota",4,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-5080,-3509,-3889,-3990,-140366,-10392,-74561,-10882,-11023,-13772,-11147,-12470,-15264,-16131,-14073,-16206,-13347,-11541,-11757,-11624,-11387,-11725,-12189,-742564
+ "27000","Minnesota",4,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-543,27,0,-27,-136592,-4347,-68323,-462,-1657,-2526,-2554,-3830,-4645,-5569,-6411,-7036,-6357,-5949,-6520,-5394,-5246,-5096,-6852,-388370
+ "27000","Minnesota",4,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-3805,-3242,-3754,-3676,-2982,-4358,-4727,-5657,-6463,-6649,-5615,-6740,-8412,-9468,-6246,-6161,-6150,-5162,-4988,-5278,-5818,-6477,-5229,-25838
+ "27000","Minnesota",4,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-731,-293,-135,-287,-792,-1687,-1450,-4360,-2525,-3579,-2716,-1608,-2078,-1094,-1415,-3009,-840,-430,-249,-952,-323,-151,-108,-926
+ "27000","Minnesota",4,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-61,-403,-378,-1017,-263,-292,-128,0,0,0,0,0,0,0,0,0,0,-197289
+ "27000","Minnesota",4,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-53210
+ "27000","Minnesota",4,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1085
+ "27000","Minnesota",4,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50256
+ "27000","Minnesota",4,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25590
+ "27000","Minnesota",4,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-521,-1498,-6737,-10184,-5303,-1246,-1238,63,-136,-61,-71,-161740
+ "27000","Minnesota",4,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-94957
+ "27000","Minnesota",4,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11913
+ "27000","Minnesota",4,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-521,-1498,-6737,-10184,-5303,-1246,-1238,63,-136,-61,-71,-24746
+ "27000","Minnesota",4,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30124
+ "27000","Minnesota",4,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-196380,-208492,-223869,-223789,-229268,-244791,-281045,-281760,-376223,-318743,-288793,-277462,-302455,-293982,-300806,-316882,-324799,-329389,-336449,-350597,-367070,-361920,-371141,-1017844
+ "27000","Minnesota",4,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1013,-1204,-2387,-2430,-2272,-2385,-1016,-562,-844,-529,-874,-1111,-2501,-5499,-6819,-9622,-8893,-12028,-7307,-9267,-9734,-9151,-7793,-333284
+ "27000","Minnesota",4,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1013,-1204,-2387,-2430,-2272,-2385,-1016,-562,-844,-529,-874,-1111,-2501,-5499,-6819,-9622,-8893,-12028,-7307,-9267,-9734,-9151,-7793,-91392
+ "27000","Minnesota",4,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-101374
+ "27000","Minnesota",4,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-124457
+ "27000","Minnesota",4,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16061
+ "27000","Minnesota",4,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-195366,-207288,-221483,-221358,-226996,-242406,-280029,-281197,-375379,-318215,-287918,-276351,-299954,-288484,-293987,-307260,-315906,-317361,-329142,-341330,-357336,-352770,-363348,-684560
+ "27000","Minnesota",4,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-195366,-207288,-221483,-221358,-226996,-242406,-280029,-281197,-375379,-318215,-287918,-276351,-299954,-288484,-293987,-307260,-315906,-317361,-329142,-341330,-357336,-352770,-363348,-642836
+ "27000","Minnesota",4,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-41724
+ "27000","Minnesota",4,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1769299
+ "27000","Minnesota",4,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1195231
+ "27000","Minnesota",4,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-199647
+ "27000","Minnesota",4,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-214736
+ "27000","Minnesota",4,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-780848
+ "27000","Minnesota",4,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-97555
+ "27000","Minnesota",4,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-476513
+ "27000","Minnesota",4,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-441532
+ "27000","Minnesota",4,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34981
+ "27000","Minnesota",4,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-10977,-90430,-55208,-67931,-63499,-37674,-22293,-8162,-265,-263,-2385587
+ "27000","Minnesota",4,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-64213
+ "27000","Minnesota",4,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-10977,-90430,-55208,-67931,-63499,-37674,-22293,-8162,-265,-263,-2321373
+ "27000","Minnesota",4,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1463452
+ "27000","Minnesota",4,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-10977,-90430,-55208,-67931,-63499,-37674,-22293,-8162,-265,-263,-307872
+ "27000","Minnesota",4,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-340793
+ "27000","Minnesota",4,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-209258
+ "27000","Minnesota",4,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1004669
+ "27000","Minnesota",4,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-139610
+ "27000","Minnesota",4,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61798
+ "27000","Minnesota",4,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77812
+ "27000","Minnesota",4,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-865059
+ "27000","Minnesota",4,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-123944
+ "27000","Minnesota",4,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-741116
+ "27000","Minnesota",4,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-481875
+ "27000","Minnesota",4,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-223602,-296087,-210726,-225868,-282193,-328508,-327205,-344015,-339052,-347064,-430770,-554378,-544988,-424086,-532717,-558225,-672507,-720099,-639191,-652383,-693794,-714688,-730035,-1020783
+ "27000","Minnesota",4,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-64967,-66613,-63437,-74467,-118059,-128367,-134152,-160413,-157685,-158751,-228178,-362137,-339689,-227890,-323285,-376928,-493817,-458600,-373024,-350344,-387464,-358933,-364688,-372114
+ "27000","Minnesota",4,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "27000","Minnesota",4,SAGDP5N,86,"...","  State and local","Thousands of dollars",-158635,-229474,-147289,-151401,-164134,-200141,-193052,-183602,-181366,-188314,-202592,-192240,-205298,-196196,-209431,-181297,-178689,-261499,-266167,-302039,-306330,-355756,-365346,-648669
+ "27000","Minnesota",4,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-353706,-675813,-1217441,-1293059,-1107115,-413432,-676957,-601301,-1193214,-655792,-430540,-459963,-448956,-480447,-413176,-440349,-426897,-199737,-773352,-537731,-378739,-713736,-1214863,-2754518
+ "27000","Minnesota",4,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-50172,-5354,-51,0,0,0,0,0,0,0,0,-1781002
+ "27000","Minnesota",4,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-5080,-3509,-3889,-3990,-140366,-10392,-74561,-10882,-11023,-13772,-11147,-12470,-15264,-16131,-14073,-16206,-13347,-11541,-11757,-11624,-11387,-11725,-12189,-777193
+ "27000","Minnesota",4,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-75,-39,-3072,-8959,-24032,-36846,-38595,-16669,-13394,-7910,-6608,-6446,-6301,-7001,-1895935
+ "27000","Minnesota",4,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-353706,-675813,-1217441,-1293059,-1107115,-413432,-676957,-601301,-1193214,-655867,-430578,-463034,-457393,-502981,-443285,-468759,-438263,-211885,-780024,-544403,-385049,-719977,-1221794,-6021359
+ "27000","Minnesota",4,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-201460,-212001,-227758,-227779,-369635,-255183,-355606,-292642,-387246,-332515,-299939,-289932,-368412,-327943,-412097,-398481,-411380,-405675,-387119,-384451,-386754,-373971,-383664,-9379208
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

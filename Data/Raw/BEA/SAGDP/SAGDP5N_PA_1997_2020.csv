@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "42000","Pennsylvania",2,SAGDP5N,1,"...","All industry total","Thousands of dollars",-1230514,-1131262,-1211044,-1233715,-1367505,-1421665,-1651153,-1596352,-1828480,-1716056,-1564537,-1595901,-1995063,-1961246,-2228544,-2061745,-2042666,-1944842,-1878108,-1965787,-1974723,-2035100,-2104243,-29411128
+ "42000","Pennsylvania",2,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-584602,-588638,-694832,-733283,-829837,-778515,-963266,-881256,-1093747,-966730,-839400,-888229,-1224705,-1157643,-1345179,-1268014,-1232066,-1149287,-1103203,-1121292,-1149397,-1144346,-1185449,-27808184
+ "42000","Pennsylvania",2,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-30083,-38811,-82654,-127152,-92236,-112187,-157521,-78025,-120226,-114901,-68848,-73831,-137292,-69000,-62465,-98241,-76316,-40732,-50451,-64203,-72643,-78509,-157401,-600531
+ "42000","Pennsylvania",2,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-30083,-38811,-82654,-127152,-92236,-112187,-157521,-78025,-120226,-114901,-68848,-73831,-137292,-69000,-62465,-98241,-76316,-40732,-50451,-64203,-72643,-78509,-157401,-576292
+ "42000","Pennsylvania",2,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24239
+ "42000","Pennsylvania",2,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-170980
+ "42000","Pennsylvania",2,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14678
+ "42000","Pennsylvania",2,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-68769
+ "42000","Pennsylvania",2,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-87533
+ "42000","Pennsylvania",2,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42775
+ "42000","Pennsylvania",2,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3025806
+ "42000","Pennsylvania",2,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-304,-164,-7157,-17991,-56034,-70096,-54503,-24989,-27335,-18613,-17198,-18960,-16898,-19097,-3332433
+ "42000","Pennsylvania",2,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-7007,-16768,-53355,-64558,-49188,-22298,-18321,-17120,-15800,-17568,-15499,-17989,-2194603
+ "42000","Pennsylvania",2,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-116478
+ "42000","Pennsylvania",2,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-137060
+ "42000","Pennsylvania",2,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-155896
+ "42000","Pennsylvania",2,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-752882
+ "42000","Pennsylvania",2,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-390356
+ "42000","Pennsylvania",2,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-180236
+ "42000","Pennsylvania",2,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-7007,-16768,-53355,-64558,-49188,-22298,-18321,-17120,-15800,-17568,-15499,-17989,-94775
+ "42000","Pennsylvania",2,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44859
+ "42000","Pennsylvania",2,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75738
+ "42000","Pennsylvania",2,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77540
+ "42000","Pennsylvania",2,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-168782
+ "42000","Pennsylvania",2,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-304,-164,-150,-1223,-2679,-5538,-5315,-2691,-9014,-1493,-1398,-1392,-1400,-1107,-1137830
+ "42000","Pennsylvania",2,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-382892
+ "42000","Pennsylvania",2,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-304,-164,-150,-181,-157,-140,-153,-154,-158,-819,-744,-699,-743,-655,-38100
+ "42000","Pennsylvania",2,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40846
+ "42000","Pennsylvania",2,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75222
+ "42000","Pennsylvania",2,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-164387
+ "42000","Pennsylvania",2,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-315,-1789,-459,-3637,-591,-6690,0,0,0,0,0,-29817
+ "42000","Pennsylvania",2,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-727,-734,-4938,-1524,-1945,-2166,-674,-654,-693,-657,-453,-223569
+ "42000","Pennsylvania",2,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-182997
+ "42000","Pennsylvania",2,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1295509
+ "42000","Pennsylvania",2,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-118869,-12704,-120,0,0,0,0,0,0,0,0,-2419759
+ "42000","Pennsylvania",2,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-121235,-95301,-112810,-117790,-257447,-156641,-214115,-167550,-178766,-177987,-159049,-200204,-255381,-303447,-230876,-183400,-183406,-173727,-181571,-190069,-227906,-260782,-221023,-1413099
+ "42000","Pennsylvania",2,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-601,30,0,-30,-151040,-4806,-75550,-511,-1832,-2794,-2824,-4236,-5137,-6158,-7089,-7780,-7029,-6579,-7210,-4648,-4930,-4657,-5603,-341412
+ "42000","Pennsylvania",2,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-116281,-93809,-112160,-116659,-103508,-146857,-134819,-156697,-171205,-166742,-151606,-192883,-246309,-295851,-222361,-173047,-175741,-166848,-174182,-184681,-222703,-255981,-215328,-337596
+ "42000","Pennsylvania",2,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-4354,-1522,-650,-1101,-2900,-4977,-3610,-9457,-4892,-6215,-4057,-2476,-3672,-1439,-1426,-2573,-636,-300,-180,-740,-273,-144,-92,-12512
+ "42000","Pennsylvania",2,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-136,-886,-836,-2236,-562,-609,-263,0,0,0,0,0,0,0,0,0,0,-413199
+ "42000","Pennsylvania",2,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-108974
+ "42000","Pennsylvania",2,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10105
+ "42000","Pennsylvania",2,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132468
+ "42000","Pennsylvania",2,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-56832
+ "42000","Pennsylvania",2,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1932,-5806,-26030,-41569,-21340,-4626,-4705,236,-527,-255,-339,-313893
+ "42000","Pennsylvania",2,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-147626
+ "42000","Pennsylvania",2,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26879
+ "42000","Pennsylvania",2,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1932,-5806,-26030,-41569,-21340,-4626,-4705,236,-527,-255,-339,-50108
+ "42000","Pennsylvania",2,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-89280
+ "42000","Pennsylvania",2,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-433284,-454526,-499369,-488341,-480153,-509688,-591630,-635681,-794755,-673537,-611339,-607037,-693240,-679308,-703211,-741951,-743919,-735437,-750264,-794581,-810196,-787288,-786980,-2130690
+ "42000","Pennsylvania",2,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1683,-1923,-2444,-2550,-3218,-3131,-1146,-653,-1083,-568,-682,-974,-1029,-1020,-613,-5980,-3575,-8682,-6034,-7465,-9702,-12049,-10634,-677976
+ "42000","Pennsylvania",2,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1683,-1923,-2444,-2550,-3218,-3131,-1146,-653,-1083,-568,-682,-974,-1029,-1020,-613,-5980,-3575,-8682,-6034,-7465,-9702,-12049,-10634,-123404
+ "42000","Pennsylvania",2,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-214070
+ "42000","Pennsylvania",2,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-328649
+ "42000","Pennsylvania",2,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11852
+ "42000","Pennsylvania",2,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-431601,-452603,-496925,-485791,-476935,-506557,-590485,-635027,-793672,-672970,-610657,-606062,-692212,-678288,-702598,-735971,-740344,-726755,-744230,-787117,-800495,-775238,-776345,-1452715
+ "42000","Pennsylvania",2,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-431601,-452603,-496925,-485791,-476935,-506557,-590485,-635027,-793672,-672970,-610657,-606062,-692212,-678288,-702598,-735971,-740344,-726755,-744230,-787117,-800495,-775238,-776345,-1317554
+ "42000","Pennsylvania",2,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-135161
+ "42000","Pennsylvania",2,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4227586
+ "42000","Pennsylvania",2,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2691036
+ "42000","Pennsylvania",2,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-546417
+ "42000","Pennsylvania",2,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-415065
+ "42000","Pennsylvania",2,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1729554
+ "42000","Pennsylvania",2,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-180580
+ "42000","Pennsylvania",2,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1355970
+ "42000","Pennsylvania",2,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1217755
+ "42000","Pennsylvania",2,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-138216
+ "42000","Pennsylvania",2,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-31344,-252382,-148350,-182097,-167431,-97598,-55478,-19165,-614,-610,-5773156
+ "42000","Pennsylvania",2,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-294815
+ "42000","Pennsylvania",2,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-31344,-252382,-148350,-182097,-167431,-97598,-55478,-19165,-614,-610,-5478341
+ "42000","Pennsylvania",2,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3458849
+ "42000","Pennsylvania",2,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-31344,-252382,-148350,-182097,-167431,-97598,-55478,-19165,-614,-610,-753675
+ "42000","Pennsylvania",2,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-720565
+ "42000","Pennsylvania",2,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-545251
+ "42000","Pennsylvania",2,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1947682
+ "42000","Pennsylvania",2,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-313698
+ "42000","Pennsylvania",2,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-130066
+ "42000","Pennsylvania",2,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-183632
+ "42000","Pennsylvania",2,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1633984
+ "42000","Pennsylvania",2,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-256761
+ "42000","Pennsylvania",2,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1377224
+ "42000","Pennsylvania",2,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1114285
+ "42000","Pennsylvania",2,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-645912,-542624,-516212,-500432,-537668,-643150,-687887,-715096,-734734,-749326,-725138,-707673,-770358,-803603,-883365,-793731,-810600,-795555,-774905,-844495,-825326,-890754,-918793,-1602945
+ "42000","Pennsylvania",2,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-3372,-3253,-3596,-6516,-8755,-12271,-22318,-16293,-17628,-17347,-21609,-27183,-29536,-21631,-28049,-31619,-45725,-50655,-42516,-42063,-40612,-38487,-39290,-39571
+ "42000","Pennsylvania",2,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "42000","Pennsylvania",2,SAGDP5N,86,"...","  State and local","Thousands of dollars",-642540,-539371,-512615,-493916,-528913,-630879,-665569,-698803,-717105,-731979,-703529,-680489,-740822,-781972,-855317,-762112,-764875,-744900,-732389,-802432,-784714,-852266,-879503,-1563373
+ "42000","Pennsylvania",2,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-30083,-38811,-82654,-127152,-92236,-112187,-157521,-78025,-120226,-114901,-68848,-73831,-137292,-69000,-62465,-98241,-76316,-40732,-50451,-64203,-72643,-78509,-157401,-771511
+ "42000","Pennsylvania",2,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-118869,-12704,-120,0,0,0,0,0,0,0,0,-3715268
+ "42000","Pennsylvania",2,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-121235,-95301,-112810,-117790,-257447,-156641,-214115,-167550,-178766,-177987,-159049,-200204,-255381,-303447,-230876,-183400,-183406,-173727,-181571,-190069,-227906,-260782,-221023,-1455874
+ "42000","Pennsylvania",2,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-304,-164,-7157,-19924,-61840,-96125,-96072,-46328,-31961,-23319,-16962,-19487,-17153,-19435,-3646326
+ "42000","Pennsylvania",2,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-30083,-38811,-82654,-127152,-92236,-112187,-157521,-78025,-120226,-115205,-69012,-80988,-155283,-125034,-132560,-152744,-101305,-68067,-69064,-81401,-91603,-95407,-176498,-7129750
+ "42000","Pennsylvania",2,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-554519,-549827,-612179,-606131,-737601,-666329,-805745,-803231,-973520,-851525,-770388,-807241,-1069422,-1032609,-1212619,-1115270,-1130762,-1081221,-1034139,-1039891,-1057794,-1048939,-1008951,-20678434
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

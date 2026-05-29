@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "08000","Colorado",7,SAGDP5N,1,"...","All industry total","Thousands of dollars",-542076,-617995,-746264,-729706,-885466,-635008,-865369,-703325,-960502,-802829,-749781,-811988,-893895,-896397,-997020,-972887,-1035912,-1056152,-998438,-1091016,-1137798,-1118927,-1213808,-14325085
+ "08000","Colorado",7,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-382957,-471121,-588183,-564623,-717024,-450397,-664066,-491831,-712083,-541420,-479595,-538146,-568474,-607087,-656617,-633764,-649999,-658035,-619290,-672961,-710065,-674238,-751872,-13587546
+ "08000","Colorado",7,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-148963,-221423,-323131,-302066,-285175,-182914,-274286,-188726,-327458,-209024,-176155,-220610,-163215,-230483,-199332,-177630,-193576,-218481,-173143,-194263,-220767,-198449,-253880,-741717
+ "08000","Colorado",7,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-148963,-221423,-323131,-302066,-285175,-182914,-274286,-188726,-327458,-209024,-176155,-220610,-163215,-230483,-199332,-177630,-193576,-218481,-173143,-194263,-220767,-198449,-253880,-730148
+ "08000","Colorado",7,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11568
+ "08000","Colorado",7,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-254221
+ "08000","Colorado",7,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52685
+ "08000","Colorado",7,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42633
+ "08000","Colorado",7,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-158903
+ "08000","Colorado",7,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31224
+ "08000","Colorado",7,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1422140
+ "08000","Colorado",7,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-41,-597,-1912,-5541,-8331,-7890,-3468,-3835,-2442,-2379,-1508,-1691,-2000,-772933
+ "08000","Colorado",7,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-548,-1443,-4356,-6868,-6158,-2973,-2103,-2005,-2132,-1320,-1493,-1835,-483440
+ "08000","Colorado",7,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26180
+ "08000","Colorado",7,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34477
+ "08000","Colorado",7,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15028
+ "08000","Colorado",7,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-106010
+ "08000","Colorado",7,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78535
+ "08000","Colorado",7,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66630
+ "08000","Colorado",7,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-548,-1443,-4356,-6868,-6158,-2973,-2103,-2005,-2132,-1320,-1493,-1835,-22413
+ "08000","Colorado",7,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12020
+ "08000","Colorado",7,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18648
+ "08000","Colorado",7,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26626
+ "08000","Colorado",7,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-76872
+ "08000","Colorado",7,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-41,-49,-469,-1185,-1464,-1732,-495,-1732,-438,-246,-188,-198,-165,-289492
+ "08000","Colorado",7,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-142015
+ "08000","Colorado",7,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-41,-49,-60,-44,-39,-45,-44,-40,-329,-151,-130,-126,-116,-6549
+ "08000","Colorado",7,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11502
+ "08000","Colorado",7,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4698
+ "08000","Colorado",7,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35743
+ "08000","Colorado",7,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-262,-1019,-301,-1408,-211,-1374,0,0,0,0,0,-7226
+ "08000","Colorado",7,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-147,-123,-1123,-279,-240,-318,-108,-95,-58,-72,-49,-62489
+ "08000","Colorado",7,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19271
+ "08000","Colorado",7,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-544178
+ "08000","Colorado",7,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-45744,-4825,-46,0,0,0,0,0,0,0,0,-999166
+ "08000","Colorado",7,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-7183,-4958,-6398,-6414,-184402,-12474,-95499,-7502,-9767,-10718,-9622,-12650,-15041,-18615,-16220,-16529,-15456,-14519,-16292,-16769,-18709,-20286,-20433,-1310104
+ "08000","Colorado",7,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-713,36,0,-36,-179313,-5706,-89692,-606,-2175,-3317,-3352,-5028,-6098,-7311,-8416,-9237,-8345,-7810,-8559,-7930,-7704,-7466,-9726,-981236
+ "08000","Colorado",7,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-6464,-4994,-6354,-5947,-5041,-6667,-5716,-6513,-7314,-6716,-6061,-7442,-8847,-11297,-7804,-7185,-7111,-6708,-7733,-8838,-11000,-12820,-10707,-70455
+ "08000","Colorado",7,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-6,0,-44,-431,-48,-101,-56,-152,-53,-71,-47,0,-16,-8,0,-108,0,-1,0,0,-5,0,0,-61
+ "08000","Colorado",7,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-35,-231,-225,-615,-162,-179,-79,0,0,0,0,0,0,0,0,0,0,-166850
+ "08000","Colorado",7,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17921
+ "08000","Colorado",7,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6872
+ "08000","Colorado",7,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52663
+ "08000","Colorado",7,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14048
+ "08000","Colorado",7,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1545,-4500,-19172,-26913,-13967,-3374,-3126,161,-338,-157,-192,-233384
+ "08000","Colorado",7,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-88306
+ "08000","Colorado",7,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22261
+ "08000","Colorado",7,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1545,-4500,-19172,-26913,-13967,-3374,-3126,161,-338,-157,-192,-39846
+ "08000","Colorado",7,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-82972
+ "08000","Colorado",7,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-226810,-244740,-258654,-256143,-247447,-255010,-294281,-295603,-374857,-321596,-293777,-304289,-341018,-336117,-357097,-370652,-383817,-381224,-402154,-446502,-464242,-453515,-475228,-1216230
+ "08000","Colorado",7,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-550,-731,-1208,-1204,-1482,-1523,-539,-344,-529,-401,-615,-969,-2401,-4839,-7439,-8596,-7796,-9990,-6382,-7692,-7774,-6960,-6114,-319485
+ "08000","Colorado",7,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-550,-731,-1208,-1204,-1482,-1523,-539,-344,-529,-401,-615,-969,-2401,-4839,-7439,-8596,-7796,-9990,-6382,-7692,-7774,-6960,-6114,-101499
+ "08000","Colorado",7,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-104110
+ "08000","Colorado",7,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-110303
+ "08000","Colorado",7,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3573
+ "08000","Colorado",7,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-226260,-244009,-257446,-254939,-245965,-253487,-293743,-295259,-374328,-321195,-293162,-303320,-338616,-331278,-349658,-362056,-376021,-371234,-395773,-438809,-456467,-446555,-469114,-896745
+ "08000","Colorado",7,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-226260,-244009,-257446,-254939,-245965,-253487,-293743,-295259,-374328,-321195,-293162,-303320,-338616,-331278,-349658,-362056,-376021,-371234,-395773,-438809,-456467,-446555,-469114,-820727
+ "08000","Colorado",7,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-76019
+ "08000","Colorado",7,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1970728
+ "08000","Colorado",7,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1374435
+ "08000","Colorado",7,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-169531
+ "08000","Colorado",7,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-264584
+ "08000","Colorado",7,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-940320
+ "08000","Colorado",7,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52355
+ "08000","Colorado",7,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-543938
+ "08000","Colorado",7,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-494108
+ "08000","Colorado",7,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49830
+ "08000","Colorado",7,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-7006,-56418,-34149,-39714,-36602,-22133,-13210,-4501,-141,-139,-1996960
+ "08000","Colorado",7,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71097
+ "08000","Colorado",7,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-7006,-56418,-34149,-39714,-36602,-22133,-13210,-4501,-141,-139,-1925863
+ "08000","Colorado",7,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1471666
+ "08000","Colorado",7,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-7006,-56418,-34149,-39714,-36602,-22133,-13210,-4501,-141,-139,-176409
+ "08000","Colorado",7,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-129660
+ "08000","Colorado",7,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-148128
+ "08000","Colorado",7,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1563871
+ "08000","Colorado",7,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-198538
+ "08000","Colorado",7,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71094
+ "08000","Colorado",7,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-127443
+ "08000","Colorado",7,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1365334
+ "08000","Colorado",7,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-256310
+ "08000","Colorado",7,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1109024
+ "08000","Colorado",7,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-530689
+ "08000","Colorado",7,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-159119,-146874,-158082,-165083,-168442,-184610,-201303,-211495,-248420,-261410,-270186,-273842,-325421,-289311,-340403,-339123,-385913,-398117,-379148,-418055,-427734,-444688,-461936,-737539
+ "08000","Colorado",7,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-16596,-15174,-15202,-17418,-27682,-32181,-39742,-42244,-48575,-46954,-63619,-81962,-109949,-62585,-78897,-95800,-142983,-135229,-102077,-102774,-108710,-105499,-112607,-116513
+ "08000","Colorado",7,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "08000","Colorado",7,SAGDP5N,86,"...","  State and local","Thousands of dollars",-142523,-131700,-142879,-147665,-140760,-152429,-161561,-169251,-199845,-214455,-206567,-191881,-215472,-226725,-261505,-243323,-242930,-262887,-277070,-315281,-319024,-339190,-349329,-621026
+ "08000","Colorado",7,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-148963,-221423,-323131,-302066,-285175,-182914,-274286,-188726,-327458,-209024,-176155,-220610,-163215,-230483,-199332,-177630,-193576,-218481,-173143,-194263,-220767,-198449,-253880,-995938
+ "08000","Colorado",7,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-45744,-4825,-46,0,0,0,0,0,0,0,0,-1543343
+ "08000","Colorado",7,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-7183,-4958,-6398,-6414,-184402,-12474,-95499,-7502,-9767,-10718,-9622,-12650,-15041,-18615,-16220,-16529,-15456,-14519,-16292,-16769,-18709,-20286,-20433,-1341329
+ "08000","Colorado",7,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-81,-41,-597,-3457,-10041,-27503,-34803,-17435,-7209,-5569,-2218,-1846,-1848,-2192,-1006317
+ "08000","Colorado",7,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-148963,-221423,-323131,-302066,-285175,-182914,-274286,-188726,-327458,-209105,-176196,-221207,-165126,-236024,-207663,-185520,-197044,-222316,-175585,-196642,-222275,-200140,-255880,-3191011
+ "08000","Colorado",7,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-233994,-249698,-265052,-262557,-431849,-267484,-389780,-303104,-384624,-332314,-303399,-316939,-403348,-371063,-448954,-448244,-452954,-435719,-443705,-476319,-487789,-474099,-495993,-10396535
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

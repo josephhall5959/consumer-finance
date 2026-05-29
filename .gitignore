@@ -1,0 +1,86 @@
+# ============================================================
+# .gitignore for consumer-finance replication package
+# ============================================================
+# Strategy: Include code, paper, outputs, and small/novel data.
+# Exclude large publicly-available datasets (users download
+# from source) and proprietary Dun & Bradstreet microdata.
+# ============================================================
+
+# --- Proprietary D&B microdata (NEVER share) ---
+Data/Raw/DB/retail.csv
+Data/Raw/DB/db_70-85.csv
+Data/Raw/DB/db_phonebooks_merged.csv
+Data/Generated/db_70-85.csv
+
+# --- Large public datasets (users download from original sources) ---
+
+# Census County Business Patterns (from Census Bureau / Eckert et al.)
+Data/Raw/CBP/all.dta
+Data/Raw/CBP/sic2.dta
+Data/Raw/CBP/sic2.csv
+Data/Raw/CBP/efsy_panel_naics.csv
+Data/Raw/CBP/efsy_panel_naics.csv.zip
+Data/Raw/CBP/*/Final Imputed/
+# Yearly county/state files (50-200MB each)
+Data/Raw/CBP/*/cbp*.txt
+
+# FDIC Call Reports (from FFIEC)
+Data/Raw/Call_Reports/*.xpt
+Data/Raw/Call_Reports/*.XPT
+Data/Raw/Call_Reports/zip/
+Data/Raw/Call_Reports/call_reports.csv
+Data/Raw/Call_Reports/CSV_ATTRIBUTES_CLOSED.CSV
+Data/Raw/Call_Reports/MDRM/MDRM_CSV.csv
+
+# CPS microdata (from IPUMS)
+Data/Raw/CPS/cps_00007.dat
+Data/Raw/CPS/cps_00010.dat
+Data/Raw/CPS/usa_00008.dat
+Data/Raw/CPS/cps.csv
+Data/Raw/CPS/life.cycle.csv
+Data/Raw/cps.csv
+Data/Generated/cps.csv
+
+# SCF microdata (from Federal Reserve)
+Data/Raw/SCF/*/p*.dta
+Data/Raw/SCF/SCF_plus.dta
+Data/Raw/SCF/clean_ts.dta
+
+# Compustat (from WRDS)
+Data/Raw/Compustat/ratios.csv
+Data/Raw/Compustat/fundamentals.csv
+
+# Large generated files
+Data/Generated/cbp_sic2.csv
+Data/Generated/pooled_microdata.csv
+Data/Generated/*.dta
+Data/Raw/pooled_microdata.csv
+
+# Yellow Pages zip archive
+Data/Raw/Yellow_Pages/OneDrive_2024-10-17.zip
+
+# --- All zip files ---
+*.zip
+
+# --- OS/editor artifacts ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.Rhistory
+.RData
+.Rproj.user/
+
+# --- LaTeX build artifacts ---
+Paper/*.aux
+Paper/*.log
+Paper/*.out
+Paper/*.bbl
+Paper/*.blg
+Paper/*.fdb_latexmk
+Paper/*.fls
+Paper/*.synctex.gz
+Paper/*.toc
+Paper/*.nav
+Paper/*.snm
+Paper/*.vrb

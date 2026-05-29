@@ -1,0 +1,169 @@
+book_id,source,state,city,year,n_pages,n_listings,n_categories,has_credit_section,book_id_norm
+00100,merged,Alabama,Bessemer,1950,64,218,279,FALSE,100
+00096,merged,Alabama,Bessemer,1952,32,190,168,FALSE,96
+00094,merged,Alabama,Bessemer,1958,59,2189,582,FALSE,94
+00090,merged,Alabama,Bessemer,1962,62,4286,738,TRUE,90
+book_00023,page_level,Alabama,Birmingham,1950,124,2462,,,23
+book_00020,page_level,Alabama,Birmingham,1951,123,1476,,,20
+00016,merged,Alabama,Birmingham,1952,149,2219,1126,FALSE,16
+book_00012,page_level,Alabama,Birmingham,1953,155,2325,,,12
+00008,merged,Alabama,Birmingham,1954,86,1495,637,FALSE,8
+book_00004,page_level,Alabama,Birmingham,1955,157,3758,,,4
+book_00022,page_level,Alabama,Birmingham,1956,169,9858,,,22
+book_00018,page_level,Alabama,Birmingham,1957,176,13728,,,18
+book_00014,page_level,Alabama,Birmingham,1958,170,17538,,,14
+book_00010,page_level,Alabama,Birmingham,1959,177,22264,,,10
+Book_00006.csv,merged,Alabama,Birmingham,1960,180,11632,1892,FALSE,Book_00006.csv
+book_00006,page_level,Alabama,Birmingham,1960,180,11112,,,6
+00002,merged,Alabama,Birmingham,1961,40,3972,390,FALSE,2
+book_00336,page_level,Alabama,Birmingham,1962,184,11592,,,336
+book_00602,page_level,Alabama,Montgomery,1954,322,1269,,,602
+00603,merged,Alabama,Montgomery,1955,245,1915,1382,FALSE,603
+book_00604,page_level,Alabama,Montgomery,1957,276,19148,,,604
+book_00605,page_level,Alabama,Montgomery,1960,187,14810,,,605
+00606,merged,Alabama,Montgomery,1962,198,15574,2712,TRUE,606
+book_01417,page_level,California,Amador County,1951,283,6471,,,1417
+01418,merged,California,Amador County,1956,83,3344,582,FALSE,1418
+01419,merged,California,Amador County,1959,343,17458,946,TRUE,1419
+01457,merged,California,Barstow,1951,387,1161,523,FALSE,1457
+01458,merged,California,Barstow,1956,119,357,329,FALSE,1458
+01458,merged,California,Barstow,1957,265,1595,431,FALSE,1458
+01459,merged,California,Barstow,1959,372,10209,725,TRUE,1459
+01597,merged,California,Campbell,1953,93,2581,421,FALSE,1597
+01598,merged,California,Campbell,1956,37,1627,372,FALSE,1598
+01598,merged,California,Campbell,1958,65,3051,329,FALSE,1598
+book_01599,page_level,California,Campbell,1958,133,5736,,,1599
+01600,merged,California,Campbell,1960,143,8764,1024,FALSE,1600
+01603,merged,California,Campbell,1961,169,4834,796,FALSE,1603
+01604,merged,California,Campbell,1963,0,5203,341,FALSE,1604
+book_01673,page_level,California,Clarksburg,1955,240,4156,,,1673
+01680,merged,California,Coachella,1959,332,12122,737,FALSE,1680
+book_01700,page_level,California,Colusa,1954,392,7715,,,1700
+book_01754,page_level,California,Corona,1955,234,6945,,,1754
+01761,merged,California,Corona,1959,196,7472,489,TRUE,1761
+book_01762,page_level,California,Corona,1962,195,7122,,,1762
+book_01826,page_level,California,Fair Oaks,1959,75,2266,,,1826
+book_01827,page_level,California,Fair Oaks,1960,104,2513,,,1827
+book_01828,page_level,California,Fair Oaks,1961,116,2703,,,1828
+book_01829,page_level,California,Fair Oaks,1964,118,2450,,,1829
+book_02044,page_level,California,Fresno County,1951,299,7503,,,2044
+book_02045,page_level,California,Fresno County,1954,209,8740,,,2045
+book_02046,page_level,California,Fresno County,1956,241,16763,,,2046
+book_02047,page_level,California,Fresno County,1958,260,18200,,,2047
+book_02048,page_level,California,Fresno County,1960,304,17119,,,2048
+book_02063,page_level,California,Gilroy,1956,369,7671,,,2063
+book_02135,page_level,California,Huntington Beach,1957,160,2625,,,2135
+book_02136,page_level,California,Huntington Beach,1959,109,4950,,,2136
+02137,merged,California,Huntington Beach,1960,115,4152,526,FALSE,2137
+book_02138,page_level,California,Huntington Beach,1961,131,3864,,,2138
+book_02139,page_level,California,Huntington Beach,1962,160,7011,,,2139
+02140,merged,California,Huntington Beach,1963,199,7208,629,FALSE,2140
+book_01930,page_level,California,Kings and Tulare Counties,1950,328,5190,,,1930
+book_01931,page_level,California,Kings and Tulare Counties,1953,357,12456,,,1931
+book_01932,page_level,California,Kings and Tulare Counties,1956,276,20976,,,1932
+book_01933,page_level,California,Kings and Tulare Counties,1958,319,18009,,,1933
+book_01934,page_level,California,Kings and Tulare Counties,1960,361,27738,,,1934
+01954,merged,California,Laguna Beach,1957,151,4261,373,FALSE,1954
+01955,merged,California,Laguna Beach,1959,64,2332,437,FALSE,1955
+01956,merged,California,Laguna Beach,1959,69,2766,407,FALSE,1956
+01958,merged,California,Laguna Beach,1960,76,2892,345,FALSE,1958
+01959,merged,California,Laguna Beach,1961,73,2771,451,FALSE,1959
+01960,merged,California,Laguna Beach,1962,75,2886,413,FALSE,1960
+book_01980,page_level,California,Lake And Mendocino Counties,1958,353,23574,,,1980
+01984,merged,California,Lake Tahoe,1956,223,2206,308,FALSE,1984
+01985,merged,California,Lake Tahoe,1960,466,17579,1615,TRUE,1985
+book_02180,page_level,California,Lompoc,1952,181,1819,,,2180
+02184,merged,California,Lompoc,1959,312,6942,758,FALSE,2184
+02573,merged,California,Los Angeles (Western),1955,177,8192,621,FALSE,2573
+02577,merged,California,Los Angeles (Western),1957,218,9543,498,FALSE,2577
+book_02568,page_level,California,Los Angeles (Western),1958,157,3749,,,2568
+02576,merged,California,Los Angeles (Western),1961,60,2341,471,FALSE,2576
+02574,merged,California,Los Angeles (Western),1962,227,85324,223,FALSE,2574
+02578,merged,California,Los Angeles (Western),1962,68,3171,320,FALSE,2578
+02579,merged,California,Los Angeles (Western),1963,221,15238,1160,TRUE,2579
+book_02698,page_level,California,Monterey - San Benito Counties,1952,294,3869,,,2698
+book_02707,page_level,California,Monterey - San Benito Counties,1954,315,4505,,,2707
+book_02706,page_level,California,Monterey - San Benito Counties,1956,303,26862,,,2706
+book_02704,page_level,California,Monterey - San Benito Counties,1958,334,28265,,,2704
+book_02717,page_level,California,Monterey - San Benito Counties,1961,191,12472,,,2717
+book_02715,page_level,California,Monterey - San Benito Counties,1962,227,3546,,,2715
+book_02713,page_level,California,Monterey - San Benito Counties,1963,240,13017,,,2713
+02731,merged,California,Morgan Hill,1955,234,3494,381,FALSE,2731
+book_02733,page_level,California,Morgan Hill,1962,56,1496,,,2733
+book_02744,page_level,California,Napa County,1954,332,9922,,,2744
+02746,merged,California,Napa County,1957,389,21705,1552,TRUE,2746
+02766,merged,California,Newhall,1955,399,4611,715,FALSE,2766
+02767,merged,California,Newhall,1959,457,5935,1030,TRUE,2767
+02768,merged,California,Novato,1959,0,6586,641,TRUE,2768
+book_02867,page_level,California,Ontario,1953,284,7791,,,2867
+book_02866,page_level,California,Ontario,1956,226,10829,,,2866
+book_02868,page_level,California,Ontario,1958,301,14117,,,2868
+book_02877,page_level,California,Ontario,1960,309,14271,,,2877
+book_02875,page_level,California,Ontario,1962,306,15424,,,2875
+02976,merged,California,Palmdale,1958,327,13626,428,FALSE,2976
+02978,merged,California,Palmdale,1960,274,5007,1946,FALSE,2978
+02979,merged,California,Palmdale,1962,297,6298,772,TRUE,2979
+book_02995,page_level,California,Palo Alto,1951,209,10469,,,2995
+book_03006,page_level,California,Palo Alto,1953,246,12252,,,3006
+book_03005,page_level,California,Palo Alto,1955,296,17129,,,3005
+book_03004,page_level,California,Palo Alto,1957,180,10837,,,3004
+book_03003,page_level,California,Palo Alto,1958,202,9815,,,3003
+book_03002,page_level,California,Palo Alto,1959,205,9616,,,3002
+book_03011,page_level,California,Palo Alto,1960,361,22060,,,3011
+book_03010,page_level,California,Palo Alto,1962,189,10234,,,3010
+book_03009,page_level,California,Palo Alto,1963,194,11215,,,3009
+book_03103,page_level,California,Richmond,1953,414,19198,,,3103
+book_03105,page_level,California,Richmond,1956,317,18309,,,3105
+book_03096,page_level,California,Richmond,1958,411,16488,,,3096
+book_03098,page_level,California,Richmond,1961,297,14667,,,3098
+book_03166,page_level,California,Roseville,1953,301,4058,,,3166
+book_03177,page_level,California,Roseville,1959,355,10064,,,3177
+03521,merged,California,San Luis Obispo County,1950,268,1362,679,FALSE,3521
+03522,merged,California,San Luis Obispo County,1953,327,6815,898,FALSE,3522
+03523,merged,California,San Luis Obispo County,1958,329,18265,1216,FALSE,3523
+03524,merged,California,San Luis Obispo County,1961,331,14214,1173,TRUE,3524
+03622,merged,California,Santa Cruz County,1951,322,6842,846,FALSE,3622
+book_03623,page_level,California,Santa Cruz County,1955,338,20028,,,3623
+book_03624,page_level,California,Santa Cruz County,1959,327,19302,,,3624
+book_03625,page_level,California,Santa Cruz County,1963,277,10019,,,3625
+book_03688,page_level,California,Shasta County,1952,332,2210,,,3688
+book_03687,page_level,California,Shasta County,1955,407,14506,,,3687
+book_03692,page_level,California,Shasta County,1958,308,16083,,,3692
+book_03691,page_level,California,Shasta County,1961,351,14020,,,3691
+04467,merged,Connecticut,Milford,1950,333,3382,1138,FALSE,4467
+book_04468,page_level,Connecticut,Milford,1954,291,11193,,,4468
+book_04469,page_level,Connecticut,Milford,1958,143,13013,,,4469
+book_04471,page_level,Connecticut,Milford,1965,350,24859,,,4471
+04583,merged,Connecticut,Willimantic,1951,230,3044,646,FALSE,4583
+04576,merged,Connecticut,Willimantic,1954,228,25781,414,FALSE,4576
+04577,merged,Connecticut,Willimantic,1957,293,17626,1687,FALSE,4577
+book_04555,page_level,Connecticut,Willimantic,1964,297,21642,,,4555
+book_05329,page_level,Maryland,Washington County,1951,262,1572,,,5329
+book_05327,page_level,Maryland,Washington County,1954,302,2274,,,5327
+book_05304,page_level,Maryland,Washington County,1960,241,7152,,,5304
+book_05336,page_level,Maryland,Washington County,1964,273,7709,,,5336
+book_05337,page_level,Maryland,Washington County,1965,285,8474,,,5337
+book_05338,page_level,Maryland,Washington County,1968,314,26214,,,5338
+book_05332,page_level,Maryland,Washington County,1973,278,23687,,,5332
+book_07552,page_level,Pennsylvania,Eastern Montgomery County,1960,547,42753,,,7552
+07757,merged,Pennsylvania,Lower Bucks County,1956,580,33661,1859,FALSE,7757
+book_07758,page_level,Pennsylvania,Lower Bucks County,1963,614,43964,,,7758
+book_08050,page_level,Pennsylvania,Norristown,1950,270,14088,,,8050
+book_08051,page_level,Pennsylvania,Norristown,1954,315,18613,,,8051
+book_08052,page_level,Pennsylvania,Norristown,1957,380,29562,,,8052
+book_08053,page_level,Pennsylvania,Norristown,1960,278,18137,,,8053
+book_08054,page_level,Pennsylvania,Norristown,1962,265,18966,,,8054
+book_08387,page_level,Pennsylvania,Pittsburgh North Suburban,1965,358,61237,,,8387
+book_08388,page_level,Pennsylvania,Pittsburgh North Suburban,1970,329,32832,,,8388
+book_08402,page_level,Pennsylvania,Pittston,1954,156,11700,,,8402
+book_08405,page_level,Pennsylvania,Pittston,1967,248,24218,,,8405
+book_08419,page_level,Pennsylvania,Pittston,1973,310,36347,,,8419
+08524,merged,Pennsylvania,Scranton,1970,382,37538,1014,FALSE,8524
+book_08514,page_level,Pennsylvania,York,1957,362,5801,,,8514
+book_08516,page_level,Pennsylvania,York,1962,324,10024,,,8516
+book_08515,page_level,Pennsylvania,York,1975,513,44350,,,8515
+book_08517,page_level,Pennsylvania,York,1975,460,41272,,,8517
+08518,merged,Pennsylvania,Zelienople,1961,248,19360,1438,FALSE,8518
+book_08519,page_level,Pennsylvania,Zelienople,1965,365,23744,,,8519
+08522,merged,Pennsylvania,Zelienople,1975,343,21926,754,FALSE,8522
+08523,merged,Pennsylvania,Zelienople,1978,286,22894,714,TRUE,8523

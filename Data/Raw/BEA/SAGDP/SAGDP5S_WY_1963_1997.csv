@@ -1,0 +1,83 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997
+ "56000","Wyoming",7,SAGDP5S,1,"...","All industry total","Thousands of dollars",-6611,-7696,-8469,-12208,-12810,-12766,-13827,-14411,-12952,-18990,-10926,-2699,-3379,-4391,-8492,-13474,-10155,-12422,-15448,-20006,-39939,-30630,-30188,-45760,-60630,-51822,-42152,-43799,-49375,-53545,-77349,-37890,-39959,-35399,-43934
+ "56000","Wyoming",7,SAGDP5S,2,"..."," Private industries","Thousands of dollars",-6598,-7683,-8454,-12192,-12790,-12743,-13797,-14371,-12898,-18908,-10840,-2574,-3217,-4158,-8175,-13075,-8823,-10096,-12336,-17027,-36605,-27677,-26653,-43021,-57226,-48091,-38724,-39761,-44323,-47001,-74028,-34671,-35579,-30625,-39972
+ "56000","Wyoming",7,SAGDP5S,3,"A","   Agriculture, forestry, and fishing","Thousands of dollars",-6193,-7217,-8011,-11544,-12202,-12184,-13225,-13594,-12045,-17144,-9327,-1721,-2169,-2001,-5428,-9059,-4320,-4949,-5665,-7146,-27372,-19179,-17705,-33709,-47236,-39037,-30723,-31414,-35616,-37364,-62122,-22862,-23651,-18570,-28061
+ "56000","Wyoming",7,SAGDP5S,4,"[01-02]","     Farms","Thousands of dollars",-6193,-7217,-8011,-11544,-12202,-12184,-13225,-13594,-12045,-17144,-9327,-1721,-2169,-2001,-5428,-9059,-4320,-4949,-5665,-7146,-27372,-19179,-17705,-33709,-47236,-39037,-30723,-31414,-35616,-37364,-62122,-22862,-23651,-18570,-28061
+ "56000","Wyoming",7,SAGDP5S,5,"[07-09]","     Agricultural services, forestry, and fishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,6,"B","   Mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-196,-435,-143,-70,-148,-213,-275,-290,-70,-140,-74,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,7,"10","     Metal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,8,"12","     Coal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-196,-435,-143,-70,-148,-213,-275,-290,-70,-140,-74,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,9,"13","     Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,10,"14","     Nonmetallic minerals, except fuels","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,11,"C","   Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,12,"D","   Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,13,"...","     Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,14,"24","       Lumber and wood products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,15,"25","       Furniture and fixtures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,16,"32","       Stone, clay, and glass products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,17,"33","       Primary metal industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,18,"34","       Fabricated metal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,19,"35","       Industrial machinery and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,20,"36","       Electronic and other electric equipment 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,21,"371","       Motor vehicles and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,22,"372-379","       Other transportation equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,23,"38","       Instruments and related products 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,24,"39","       Miscellaneous manufacturing industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,25,"...","     Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,26,"20","       Food and kindred products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,27,"21","       Tobacco products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,28,"22","       Textile mill products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,29,"23","       Apparel and other textile products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,30,"26","       Paper and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,31,"27","       Printing and publishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,32,"28","       Chemicals and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,33,"29","       Petroleum and coal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,34,"30","       Rubber and miscellaneous plastics products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,35,"31","       Leather and leather products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,36,"E","   Transportation and public utilities","Thousands of dollars",-129,-108,-102,-75,-70,-64,-46,-45,-89,-109,-106,-117,-176,-181,-234,-220,-218,-220,-242,-195,-161,-174,-138,-122,-110,-124,-120,-120,-117,-563,-661,-733,-774,-757,-111
+ "56000","Wyoming",7,SAGDP5S,37,"...","     Transportation","Thousands of dollars",-129,-108,-102,-75,-70,-64,-46,-45,-89,-109,-106,-117,-176,-181,-234,-220,-218,-220,-242,-195,-161,-174,-138,-122,-110,-124,-120,-120,-117,-563,-661,-733,-774,-757,-111
+ "56000","Wyoming",7,SAGDP5S,38,"40","       Railroad transportation","Thousands of dollars",-1,-1,-2,-3,-3,-3,-3,-3,-9,-21,-23,-37,-97,-90,-127,-122,-142,-148,-144,-145,-153,-166,-122,-112,-101,-114,-108,-109,-105,-552,-649,-720,-378,-352,-78
+ "56000","Wyoming",7,SAGDP5S,39,"41","       Local and interurban passenger transit","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,40,"42","       Trucking and warehousing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,41,"44","       Water transportation","Thousands of dollars",-5,-5,-5,-6,-12,-16,-10,-16,-22,-30,-29,-17,-15,-21,-37,-35,-9,-1,-10,-6,-8,-6,-4,-2,-1,-1,-2,-2,-5,-8,-12,-11,-17,-14,-12
+ "56000","Wyoming",7,SAGDP5S,42,"45","       Transportation by air","Thousands of dollars",-123,-102,-95,-67,-54,-45,-33,-27,-58,-58,-54,-63,-64,-71,-70,-64,-67,-71,-88,-44,0,-2,-12,-8,-9,-9,-11,-9,-7,-2,0,-1,-380,-391,-20
+ "56000","Wyoming",7,SAGDP5S,43,"46","       Pipelines, except natural gas","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,44,"47","       Transportation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,45,"48","     Communications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,46,"49","     Electric, gas, and sanitary services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,47,"F","   Wholesale trade","Thousands of dollars",-68,-53,-18,-132,-114,-69,-53,-176,-162,-246,-259,-24,0,-4,0,0,0,0,0,0,0,0,0,-34,-1072,-895,-393,-230,-230,-662,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,48,"G","   Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,49,"H","   Finance, insurance, and real estate","Thousands of dollars",-208,-305,-323,-441,-404,-426,-473,-556,-602,-1408,-1147,-713,-872,-1971,-2513,-3796,-4286,-4927,-6233,-9250,-8928,-8254,-8662,-8914,-8533,-7745,-7417,-7858,-8286,-8412,-11244,-11077,-11153,-11298,-11800
+ "56000","Wyoming",7,SAGDP5S,50,"60","     Depository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66
+ "56000","Wyoming",7,SAGDP5S,51,"61","     Nondepository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,52,"62","     Security and commodity brokers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,53,"63","     Insurance carriers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,54,"64","     Insurance agents, brokers, and services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,55,"65","     Real estate","Thousands of dollars",-208,-305,-323,-441,-404,-426,-473,-556,-602,-1408,-1147,-713,-872,-1971,-2513,-3796,-4286,-4927,-6233,-9250,-8928,-8254,-8662,-8914,-8533,-7745,-7417,-7858,-8286,-8412,-11244,-11077,-11153,-11298,-11734
+ "56000","Wyoming",7,SAGDP5S,56,"67","     Holding and other investment offices","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,57,"I","   Services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,58,"70","     Hotels and other lodging places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,59,"72","     Personal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,60,"73","     Business services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,61,"75","     Automotive repair, services, and parking","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,62,"76","     Miscellaneous repair services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,63,"78","     Motion pictures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,64,"79","     Amusement and recreation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,65,"80","     Health services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,66,"81","     Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,67,"82","     Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,68,"83","     Social services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,69,"86","     Membership organizations","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,70,"84, 87, 89","     Other services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,71,"88","     Private households","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,72,"..."," Government and government enterprises","Thousands of dollars",-12,-13,-15,-16,-19,-23,-30,-39,-55,-82,-86,-125,-162,-233,-317,-399,-1332,-2326,-3112,-2979,-3335,-2954,-3535,-2739,-3404,-3731,-3429,-4038,-5052,-6544,-3322,-3219,-4380,-4774,-3963
+ "56000","Wyoming",7,SAGDP5S,73,"...","   Federal civilian","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25,-118,-179,-152,-208,-201,-191,-270,-422,-449,-409,-431,-550,-720,-1265,-1367,-1233
+ "56000","Wyoming",7,SAGDP5S,74,"...","   Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,75,"...","   State and local","Thousands of dollars",-12,-13,-15,-16,-19,-23,-30,-39,-55,-82,-86,-125,-162,-233,-317,-399,-1332,-2326,-3087,-2861,-3156,-2802,-3327,-2538,-3213,-3461,-3007,-3589,-4643,-6113,-2772,-2499,-3115,-3407,-2730
+ "56000","Wyoming",7,SAGDP5S,76,"36, 38"," Electronic equipment and instruments 5/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "56000","Wyoming",7,SAGDP5S,77,"60, 61"," Depository and nondepository institutions 6/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66
+ "56000","Wyoming",7,SAGDP5S,78,"73, 84, 87, 89"," Business services and other services 7/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Note: See the included footnote file."
+"SAGDP5S: Subsidies 1/"
+"Last updated: November 18, 2010."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

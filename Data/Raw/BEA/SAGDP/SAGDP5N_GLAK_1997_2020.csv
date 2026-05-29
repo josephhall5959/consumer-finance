@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "93000","Great Lakes",3,SAGDP5N,1,"...","All industry total","Thousands of dollars",-4611717,-5278660,-7276676,-7452565,-8131892,-5622250,-6938413,-7011972,-9143445,-7478440,-6345981,-6533467,-7708806,-7356174,-8239592,-7969045,-8076439,-7035083,-7442105,-8630155,-7597573,-8451939,-10205902,-107793268
+ "93000","Great Lakes",3,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-2913416,-3754199,-5714582,-5986139,-6471152,-3647303,-4797121,-4671979,-6770981,-4969334,-3763535,-3756220,-4644072,-4716952,-5177909,-4984642,-4779218,-3815995,-4293997,-5457618,-4530104,-5262647,-6913965,-102699167
+ "93000","Great Lakes",3,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-1104146,-1867904,-3631611,-3965602,-3766471,-1519793,-2106271,-2174250,-3671288,-2298031,-1358121,-1376959,-1483845,-1601739,-1301752,-1392498,-1263746,-402179,-1137567,-2254823,-1376953,-2197901,-3857582,-7523396
+ "93000","Great Lakes",3,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-1104146,-1867904,-3631611,-3965602,-3766471,-1519793,-2106271,-2174250,-3671288,-2298031,-1358121,-1376959,-1483845,-1601739,-1301752,-1392498,-1263746,-402179,-1137567,-2254823,-1376953,-2197901,-3857582,-7407661
+ "93000","Great Lakes",3,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-115735
+ "93000","Great Lakes",3,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-240998
+ "93000","Great Lakes",3,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30943
+ "93000","Great Lakes",3,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132622
+ "93000","Great Lakes",3,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77433
+ "93000","Great Lakes",3,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-204323
+ "93000","Great Lakes",3,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10138565
+ "93000","Great Lakes",3,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-668,-298,-31382,-88130,-257957,-325955,-260351,-115195,-113954,-77227,-73513,-75067,-69872,-80456,-15779322
+ "93000","Great Lakes",3,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-31074,-81307,-238966,-292922,-213835,-99779,-74044,-72151,-68433,-70310,-64841,-76640,-11221915
+ "93000","Great Lakes",3,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-418266
+ "93000","Great Lakes",3,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-460932
+ "93000","Great Lakes",3,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-613237
+ "93000","Great Lakes",3,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3343539
+ "93000","Great Lakes",3,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2369293
+ "93000","Great Lakes",3,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-543380
+ "93000","Great Lakes",3,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-31074,-81307,-238966,-292922,-213835,-99779,-74044,-72151,-68433,-70310,-64841,-76640,-504016
+ "93000","Great Lakes",3,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1310738
+ "93000","Great Lakes",3,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-336540
+ "93000","Great Lakes",3,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-502813
+ "93000","Great Lakes",3,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-819161
+ "93000","Great Lakes",3,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-668,-298,-308,-6822,-18991,-33033,-46516,-15415,-39910,-5076,-5080,-4757,-5031,-3816,-4557407
+ "93000","Great Lakes",3,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1430992
+ "93000","Great Lakes",3,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-668,-298,-308,-387,-364,-362,-346,-340,-364,-2164,-2026,-1909,-2177,-2019,-94892
+ "93000","Great Lakes",3,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-110248
+ "93000","Great Lakes",3,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-323174
+ "93000","Great Lakes",3,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-655232
+ "93000","Great Lakes",3,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-3677,-15522,-8495,-38098,-5965,-29853,0,0,0,0,0,-106091
+ "93000","Great Lakes",3,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-2758,-3105,-24176,-8071,-9110,-9692,-2911,-3054,-2848,-2854,-1797,-838643
+ "93000","Great Lakes",3,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-998134
+ "93000","Great Lakes",3,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5682237
+ "93000","Great Lakes",3,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-415052,-44295,-425,0,0,0,0,0,0,0,0,-8060558
+ "93000","Great Lakes",3,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-129155,-95614,-105365,-110491,-807505,-182900,-495612,-209492,-209632,-238185,-208707,-249336,-327979,-384622,-309283,-311767,-295640,-273593,-284386,-280935,-315263,-355345,-300344,-5419208
+ "93000","Great Lakes",3,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-2785,139,0,-139,-700095,-22278,-350187,-2367,-8494,-12949,-13088,-19633,-23810,-28544,-32860,-36063,-32582,-30493,-33417,-24243,-25023,-23043,-27053,-1821615
+ "93000","Great Lakes",3,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-115720,-90858,-103051,-105008,-90062,-124640,-118801,-144384,-165350,-171237,-161843,-210333,-278222,-344794,-263278,-250978,-256253,-239924,-249099,-249136,-287936,-331174,-272493,-514526
+ "93000","Great Lakes",3,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-10650,-4895,-2314,-5344,-17347,-35981,-25998,-58557,-31799,-43458,-31086,-16494,-24730,-11284,-13144,-24726,-6805,-3175,-1869,-7556,-2305,-1128,-798,-28180
+ "93000","Great Lakes",3,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-627,-4184,-3990,-10541,-2689,-2877,-1217,0,0,0,0,0,0,0,0,0,0,-1894447
+ "93000","Great Lakes",3,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-225644
+ "93000","Great Lakes",3,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6289
+ "93000","Great Lakes",3,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-711396
+ "93000","Great Lakes",3,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-217110
+ "93000","Great Lakes",3,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-4160,-11866,-52681,-75750,-39923,-9122,-9010,462,-987,-440,-515,-1103803
+ "93000","Great Lakes",3,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-506076
+ "93000","Great Lakes",3,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-87207
+ "93000","Great Lakes",3,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-4160,-11866,-52681,-75750,-39923,-9122,-9010,462,-987,-440,-515,-274492
+ "93000","Great Lakes",3,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-236028
+ "93000","Great Lakes",3,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-1680114,-1790681,-1977606,-1910045,-1897177,-1944610,-2195239,-2288237,-2890061,-2432449,-2196409,-2098543,-2324905,-2315782,-2374930,-2465859,-2471971,-2471520,-2464422,-2659795,-2696859,-2637005,-2673006,-7388613
+ "93000","Great Lakes",3,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-5522,-6924,-10424,-11010,-15615,-20381,-9054,-6570,-10909,-6292,-8289,-19838,-45804,-109169,-119664,-141168,-112283,-144102,-97522,-99153,-83882,-66204,-68264,-2456989
+ "93000","Great Lakes",3,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-5522,-6924,-10424,-11010,-15615,-20381,-9054,-6570,-10909,-6292,-8289,-19838,-45804,-109169,-119664,-141168,-112283,-144102,-97522,-99153,-83882,-66204,-68264,-631008
+ "93000","Great Lakes",3,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-588169
+ "93000","Great Lakes",3,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1196419
+ "93000","Great Lakes",3,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-41393
+ "93000","Great Lakes",3,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-1674592,-1783757,-1967182,-1899035,-1881562,-1924230,-2186185,-2281667,-2879151,-2426157,-2188120,-2078705,-2279101,-2206612,-2255266,-2324691,-2359687,-2327418,-2366900,-2560642,-2612978,-2570801,-2604742,-4931625
+ "93000","Great Lakes",3,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-1674592,-1783757,-1967182,-1899035,-1881562,-1924230,-2186185,-2281667,-2879151,-2426157,-2188120,-2078705,-2279101,-2206612,-2255266,-2324691,-2359687,-2327418,-2366900,-2560642,-2612978,-2570801,-2604742,-4433298
+ "93000","Great Lakes",3,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-498327
+ "93000","Great Lakes",3,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13625411
+ "93000","Great Lakes",3,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8479645
+ "93000","Great Lakes",3,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1571213
+ "93000","Great Lakes",3,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1417172
+ "93000","Great Lakes",3,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5491260
+ "93000","Great Lakes",3,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-529234
+ "93000","Great Lakes",3,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4616531
+ "93000","Great Lakes",3,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4248513
+ "93000","Great Lakes",3,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-368018
+ "93000","Great Lakes",3,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-100691,-812882,-478418,-592744,-545627,-321385,-189013,-64975,-2084,-2062,-16089348
+ "93000","Great Lakes",3,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-615782
+ "93000","Great Lakes",3,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-100691,-812882,-478418,-592744,-545627,-321385,-189013,-64975,-2084,-2062,-15473566
+ "93000","Great Lakes",3,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10008953
+ "93000","Great Lakes",3,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-100691,-812882,-478418,-592744,-545627,-321385,-189013,-64975,-2084,-2062,-2248003
+ "93000","Great Lakes",3,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1991474
+ "93000","Great Lakes",3,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1225137
+ "93000","Great Lakes",3,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7671869
+ "93000","Great Lakes",3,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1025786
+ "93000","Great Lakes",3,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-414550
+ "93000","Great Lakes",3,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-611236
+ "93000","Great Lakes",3,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6646082
+ "93000","Great Lakes",3,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-801104
+ "93000","Great Lakes",3,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5844978
+ "93000","Great Lakes",3,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3771517
+ "93000","Great Lakes",3,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-1698301,-1524461,-1562094,-1466426,-1660739,-1974947,-2141293,-2339992,-2372464,-2509106,-2582446,-2777246,-3064733,-2639222,-3061684,-2984403,-3297221,-3219088,-3148108,-3172537,-3067468,-3189292,-3291936,-5094101
+ "93000","Great Lakes",3,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-103286,-104946,-101506,-127945,-220214,-242651,-264503,-326726,-383940,-448871,-602865,-814048,-867867,-574457,-827982,-872586,-1191770,-1192103,-1002779,-961598,-1041460,-971917,-1004918,-1020100
+ "93000","Great Lakes",3,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "93000","Great Lakes",3,SAGDP5N,86,"...","  State and local","Thousands of dollars",-1595015,-1419515,-1460588,-1338481,-1440525,-1732296,-1876790,-2013267,-1988524,-2060235,-1979581,-1963198,-2196866,-2064765,-2233702,-2111817,-2105451,-2026985,-2145329,-2210938,-2026008,-2217375,-2287018,-4074001
+ "93000","Great Lakes",3,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-1104146,-1867904,-3631611,-3965602,-3766471,-1519793,-2106271,-2174250,-3671288,-2298031,-1358121,-1376959,-1483845,-1601739,-1301752,-1392498,-1263746,-402179,-1137567,-2254823,-1376953,-2197901,-3857582,-7764394
+ "93000","Great Lakes",3,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-415052,-44295,-425,0,0,0,0,0,0,0,0,-13742795
+ "93000","Great Lakes",3,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-129155,-95614,-105365,-110491,-807505,-182900,-495612,-209492,-209632,-238185,-208707,-249336,-327979,-384622,-309283,-311767,-295640,-273593,-284386,-280935,-315263,-355345,-300344,-5623531
+ "93000","Great Lakes",3,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-668,-298,-31382,-92290,-269823,-378636,-336101,-155118,-123076,-86237,-73052,-76054,-70312,-80971,-16883125
+ "93000","Great Lakes",3,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-1104146,-1867904,-3631611,-3965602,-3766471,-1519793,-2106271,-2174250,-3671288,-2298699,-1358419,-1408341,-1571975,-1859696,-1627707,-1652849,-1378941,-516133,-1214794,-2328337,-1452020,-2267773,-3938038,-33682281
+ "93000","Great Lakes",3,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-1809269,-1886295,-2082971,-2020536,-2704681,-2127510,-2690850,-2497729,-3099692,-2670634,-2405116,-2347879,-3072097,-2857256,-3550201,-3331793,-3400277,-3299862,-3079203,-3129281,-3078084,-2994874,-2975927,-69016886
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

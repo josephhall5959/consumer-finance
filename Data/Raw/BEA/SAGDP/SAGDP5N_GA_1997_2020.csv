@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "13000","Georgia",5,SAGDP5N,1,"...","All industry total","Thousands of dollars",-691836,-734707,-911976,-925257,-1281194,-1254344,-1347817,-981664,-1464586,-1249542,-1144742,-1162489,-1338276,-1158280,-1306662,-1310472,-1286357,-1269059,-1280458,-1455733,-1396730,-1360964,-1744311,-20652336
+ "13000","Georgia",5,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-414084,-495732,-678293,-694687,-1029121,-971177,-1058065,-683262,-1155881,-924252,-807398,-803648,-939435,-780154,-878820,-893497,-857804,-829412,-858725,-1018919,-983983,-926801,-1305353,-19945489
+ "13000","Georgia",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-92579,-151817,-312445,-331053,-389985,-586095,-475033,-245283,-571312,-412701,-332433,-335951,-325860,-222635,-188245,-211429,-200559,-203442,-241910,-369093,-321882,-280966,-638242,-1032766
+ "13000","Georgia",5,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-92579,-151817,-312445,-331053,-389985,-586095,-475033,-245283,-571312,-412701,-332433,-335951,-325860,-222635,-188245,-211429,-200559,-203442,-241910,-369093,-321882,-280966,-638242,-980658
+ "13000","Georgia",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52108
+ "13000","Georgia",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26522
+ "13000","Georgia",5,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "13000","Georgia",5,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22119
+ "13000","Georgia",5,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4403
+ "13000","Georgia",5,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42312
+ "13000","Georgia",5,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1696499
+ "13000","Georgia",5,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-3194,-1446,-4362,-15824,-40237,-47784,-44436,-22045,-15225,-18535,-18041,-19450,-18285,-19973,-1784052
+ "13000","Georgia",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3005,-13892,-38339,-44144,-42153,-20084,-12946,-11631,-11135,-12122,-10762,-12760,-962628
+ "13000","Georgia",5,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-99190
+ "13000","Georgia",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-93712
+ "13000","Georgia",5,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44335
+ "13000","Georgia",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-203375
+ "13000","Georgia",5,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-140726
+ "13000","Georgia",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67573
+ "13000","Georgia",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3005,-13892,-38339,-44144,-42153,-20084,-12946,-11631,-11135,-12122,-10762,-12760,-63250
+ "13000","Georgia",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50989
+ "13000","Georgia",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49477
+ "13000","Georgia",5,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-51010
+ "13000","Georgia",5,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-98992
+ "13000","Georgia",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-3194,-1446,-1356,-1932,-1898,-3640,-2283,-1961,-2279,-6905,-6906,-7328,-7524,-7213,-821425
+ "13000","Georgia",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-231689
+ "13000","Georgia",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-3194,-1446,-1356,-1574,-1055,-1197,-1179,-1173,-1135,-6683,-6684,-7099,-7305,-7068,-189981
+ "13000","Georgia",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18524
+ "13000","Georgia",5,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40276
+ "13000","Georgia",5,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-79308
+ "13000","Georgia",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-108,-544,-153,-472,-76,-472,0,0,0,0,0,-11507
+ "13000","Georgia",5,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-250,-299,-2290,-631,-713,-672,-221,-222,-229,-219,-145,-139371
+ "13000","Georgia",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-110769
+ "13000","Georgia",5,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-966792
+ "13000","Georgia",5,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-87566,-9385,-90,0,0,0,0,0,0,0,0,-1766608
+ "13000","Georgia",5,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-5284,-3193,-3623,-3804,-282009,-14573,-144274,-8319,-10357,-13946,-11544,-14822,-18942,-22248,-21743,-23410,-20313,-18493,-19549,-24128,-23510,-23730,-26474,-1546871
+ "13000","Georgia",5,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-1106,55,0,-55,-278093,-8849,-139102,-940,-3374,-5144,-5199,-7799,-9458,-11338,-13053,-14325,-12942,-12113,-13274,-17808,-16946,-16471,-20815,-869698
+ "13000","Georgia",5,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-3857,-3045,-3527,-3550,-3253,-4418,-4238,-4598,-4885,-5342,-4716,-5745,-7524,-10057,-7696,-6843,-6802,-6148,-6161,-5908,-6437,-7197,-5615,-31017
+ "13000","Georgia",5,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-320,-203,-96,-199,-664,-1305,-839,-2150,-1504,-1869,-1229,-822,-1765,-854,-994,-2241,-569,-233,-114,-411,-127,-62,-44,-1678
+ "13000","Georgia",5,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-96,-630,-594,-1591,-400,-457,-196,0,0,0,0,0,0,0,0,0,0,-392928
+ "13000","Georgia",5,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34046
+ "13000","Georgia",5,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-591
+ "13000","Georgia",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-183668
+ "13000","Georgia",5,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33246
+ "13000","Georgia",5,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-2485,-6994,-31688,-47641,-26059,-6595,-6295,345,-791,-344,-404,-338677
+ "13000","Georgia",5,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-136072
+ "13000","Georgia",5,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-62865
+ "13000","Georgia",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-2485,-6994,-31688,-47641,-26059,-6595,-6295,345,-791,-344,-404,-59109
+ "13000","Georgia",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-80631
+ "13000","Georgia",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-316222,-340722,-362226,-359829,-357127,-370510,-438757,-429661,-574211,-494410,-461975,-448513,-488757,-464133,-476318,-501390,-504363,-507105,-524686,-578927,-608248,-603145,-619943,-1656219
+ "13000","Georgia",5,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1430,-1691,-2849,-3602,-3742,-3356,-1603,-1337,-1703,-1023,-1185,-877,-3053,-7398,-14862,-23634,-18687,-24764,-15894,-17127,-15704,-14339,-11732,-513474
+ "13000","Georgia",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1430,-1691,-2849,-3602,-3742,-3356,-1603,-1337,-1703,-1023,-1185,-877,-3053,-7398,-14862,-23634,-18687,-24764,-15894,-17127,-15704,-14339,-11732,-153110
+ "13000","Georgia",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132455
+ "13000","Georgia",5,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-219818
+ "13000","Georgia",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8092
+ "13000","Georgia",5,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-314792,-339030,-359377,-356227,-353385,-367154,-437154,-428324,-572508,-493387,-460790,-447637,-485704,-456735,-461455,-477756,-485677,-482341,-508792,-561800,-592544,-588806,-608211,-1142745
+ "13000","Georgia",5,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-314792,-339030,-359377,-356227,-353385,-367154,-437154,-428324,-572508,-493387,-460790,-447637,-485704,-456735,-461455,-477756,-485677,-482341,-508792,-561800,-592544,-588806,-608211,-1065593
+ "13000","Georgia",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77152
+ "13000","Georgia",5,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3285494
+ "13000","Georgia",5,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2078520
+ "13000","Georgia",5,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-410295
+ "13000","Georgia",5,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-392600
+ "13000","Georgia",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1275625
+ "13000","Georgia",5,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-145680
+ "13000","Georgia",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1061295
+ "13000","Georgia",5,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-974242
+ "13000","Georgia",5,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-87053
+ "13000","Georgia",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-14522,-112953,-65192,-84464,-78552,-47749,-29074,-10102,-329,-318,-3129501
+ "13000","Georgia",5,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-143301
+ "13000","Georgia",5,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-14522,-112953,-65192,-84464,-78552,-47749,-29074,-10102,-329,-318,-2986199
+ "13000","Georgia",5,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2238420
+ "13000","Georgia",5,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-14522,-112953,-65192,-84464,-78552,-47749,-29074,-10102,-329,-318,-394616
+ "13000","Georgia",5,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-172900
+ "13000","Georgia",5,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-180264
+ "13000","Georgia",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1844544
+ "13000","Georgia",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-203348
+ "13000","Georgia",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-92247
+ "13000","Georgia",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-111102
+ "13000","Georgia",5,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1641196
+ "13000","Georgia",5,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-236240
+ "13000","Georgia",5,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1404955
+ "13000","Georgia",5,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-828631
+ "13000","Georgia",5,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-277752,-238975,-233683,-230571,-252072,-283167,-289752,-298402,-308705,-325291,-337344,-358841,-398841,-378126,-427842,-416974,-428553,-439647,-421733,-436814,-412747,-434163,-438958,-706847
+ "13000","Georgia",5,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-31523,-33328,-35508,-43261,-53155,-45449,-44452,-47060,-47920,-48629,-44642,-57036,-60624,-53982,-78683,-79164,-92883,-110528,-98205,-98043,-106719,-112460,-108623,-119099
+ "13000","Georgia",5,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "13000","Georgia",5,SAGDP5N,86,"...","  State and local","Thousands of dollars",-246229,-205647,-198175,-187310,-198917,-237719,-245300,-251342,-260785,-276662,-292702,-301805,-338217,-324144,-349159,-337810,-335670,-329118,-323528,-338771,-306028,-321703,-330335,-587748
+ "13000","Georgia",5,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-92579,-151817,-312445,-331053,-389985,-586095,-475033,-245283,-571312,-412701,-332433,-335951,-325860,-222635,-188245,-211429,-200559,-203442,-241910,-369093,-321882,-280966,-638242,-1059288
+ "13000","Georgia",5,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-87566,-9385,-90,0,0,0,0,0,0,0,0,-2733400
+ "13000","Georgia",5,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-5284,-3193,-3623,-3804,-282009,-14573,-144274,-8319,-10357,-13946,-11544,-14822,-18942,-22248,-21743,-23410,-20313,-18493,-19549,-24128,-23510,-23730,-26474,-1589183
+ "13000","Georgia",5,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-3194,-1446,-4362,-18309,-47231,-79472,-92077,-48105,-21820,-24830,-17697,-20242,-18630,-20376,-2122729
+ "13000","Georgia",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-92579,-151817,-312445,-331053,-389985,-586095,-475033,-245283,-571312,-415896,-333880,-340312,-341684,-262872,-236029,-255865,-222605,-218667,-260445,-387135,-341332,-299251,-658214,-4539839
+ "13000","Georgia",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-321505,-343914,-365849,-363633,-639136,-385083,-583031,-437979,-584568,-508356,-473519,-463335,-597751,-517282,-642791,-637633,-635199,-610745,-598279,-631784,-642651,-627550,-647139,-15405649
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

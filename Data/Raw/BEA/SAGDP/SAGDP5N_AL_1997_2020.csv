@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "01000","Alabama",5,SAGDP5N,1,"...","All industry total","Thousands of dollars",-274510,-292914,-388354,-364661,-475799,-504666,-467683,-416444,-560513,-503519,-458674,-431203,-525395,-464067,-518376,-504317,-479788,-490356,-467430,-548304,-574984,-489627,-617598,-8357989
+ "01000","Alabama",5,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-175964,-203463,-296487,-283596,-382771,-397381,-357617,-303338,-448634,-388681,-351383,-318649,-397183,-343483,-372983,-373212,-337237,-342347,-320412,-397217,-414768,-326182,-452999,-8098296
+ "01000","Alabama",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-55794,-82440,-155006,-146984,-227555,-256227,-190706,-124368,-215450,-187290,-160688,-136903,-143659,-114230,-98034,-97180,-73379,-90489,-76462,-143502,-168361,-90591,-210611,-458740
+ "01000","Alabama",5,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-55794,-82440,-155006,-146984,-227555,-256227,-190706,-124368,-215450,-187290,-160688,-136903,-143659,-114230,-98034,-97180,-73379,-90489,-76462,-143502,-168361,-90591,-210611,-416132
+ "01000","Alabama",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42608
+ "01000","Alabama",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44600
+ "01000","Alabama",5,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1144
+ "01000","Alabama",5,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25371
+ "01000","Alabama",5,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18085
+ "01000","Alabama",5,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18313
+ "01000","Alabama",5,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-777213
+ "01000","Alabama",5,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-506,-225,-1597,-4777,-11923,-16288,-14737,-6584,-5941,-4498,-4162,-4205,-4271,-4350,-972205
+ "01000","Alabama",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1413,-4223,-10562,-13459,-10173,-5207,-3750,-3444,-3209,-3173,-3167,-3391,-698332
+ "01000","Alabama",5,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77462
+ "01000","Alabama",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19015
+ "01000","Alabama",5,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34472
+ "01000","Alabama",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-163729
+ "01000","Alabama",5,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-74150
+ "01000","Alabama",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17279
+ "01000","Alabama",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1413,-4223,-10562,-13459,-10173,-5207,-3750,-3444,-3209,-3173,-3167,-3391,-31558
+ "01000","Alabama",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-88513
+ "01000","Alabama",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58968
+ "01000","Alabama",5,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50151
+ "01000","Alabama",5,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-83036
+ "01000","Alabama",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-506,-225,-184,-554,-1361,-2829,-4564,-1377,-2191,-1054,-954,-1032,-1104,-959,-273873
+ "01000","Alabama",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105296
+ "01000","Alabama",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-506,-225,-184,-186,-168,-154,-186,-212,-197,-901,-789,-883,-968,-868,-16901
+ "01000","Alabama",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14270
+ "01000","Alabama",5,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25429
+ "01000","Alabama",5,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19549
+ "01000","Alabama",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-210,-998,-1226,-3941,-631,-1394,0,0,0,0,0,-5428
+ "01000","Alabama",5,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-158,-194,-1449,-437,-534,-600,-153,-165,-149,-137,-91,-34127
+ "01000","Alabama",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52873
+ "01000","Alabama",5,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-408353
+ "01000","Alabama",5,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-41159,-4361,-41,0,0,0,0,0,0,0,0,-801197
+ "01000","Alabama",5,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-2418,-1410,-1368,-1540,-20413,-3897,-12712,-8210,-5444,-7319,-8446,-7491,-9915,-7527,-7067,-10140,-4940,-3737,-3478,-3472,-2886,-3004,-2320,-328722
+ "01000","Alabama",5,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-73,4,0,-4,-18401,-586,-9204,-62,-223,-340,-344,-516,-626,-750,-864,-948,-856,-801,-878,-190,-214,-190,-225,-31310
+ "01000","Alabama",5,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-1731,-1137,-1250,-1245,-1120,-1339,-1251,-1599,-1703,-1199,-1166,-1615,-2144,-3296,-2544,-2359,-2365,-2172,-2238,-2214,-2405,-2713,-2028,-9909
+ "01000","Alabama",5,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-613,-277,-118,-291,-892,-1972,-2202,-6170,-3149,-4766,-6684,-5099,-7036,-3480,-3659,-6832,-1718,-763,-362,-1067,-267,-102,-67,-8230
+ "01000","Alabama",5,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-56,-379,-369,-1013,-252,-260,-108,0,0,0,0,0,0,0,0,0,0,-174051
+ "01000","Alabama",5,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9146
+ "01000","Alabama",5,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-461
+ "01000","Alabama",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-79556
+ "01000","Alabama",5,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16059
+ "01000","Alabama",5,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-333,-911,-4089,-5730,-2983,-684,-674,34,-71,-32,-37,-73599
+ "01000","Alabama",5,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31440
+ "01000","Alabama",5,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3215
+ "01000","Alabama",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-333,-911,-4089,-5730,-2983,-684,-674,34,-71,-32,-37,-28188
+ "01000","Alabama",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10756
+ "01000","Alabama",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-117753,-119613,-140113,-135072,-134804,-137256,-154199,-170760,-227740,-193565,-182024,-172658,-197341,-199677,-208628,-222253,-221561,-216811,-220918,-238000,-236374,-228192,-235588,-602002
+ "01000","Alabama",5,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-669,-662,-1463,-1503,-1841,-2241,-1012,-982,-1278,-561,-718,-1451,-2578,-8732,-5317,-12656,-9135,-11703,-7357,-7428,-6197,-4966,-4430,-168411
+ "01000","Alabama",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-669,-662,-1463,-1503,-1841,-2241,-1012,-982,-1278,-561,-718,-1451,-2578,-8732,-5317,-12656,-9135,-11703,-7357,-7428,-6197,-4966,-4430,-56630
+ "01000","Alabama",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22503
+ "01000","Alabama",5,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-88063
+ "01000","Alabama",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1215
+ "01000","Alabama",5,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-117084,-118951,-138650,-133568,-132963,-135015,-153187,-169778,-226463,-193004,-181306,-171207,-194763,-190945,-203311,-209598,-212426,-205108,-213561,-230572,-230178,-223226,-231159,-433590
+ "01000","Alabama",5,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-117084,-118951,-138650,-133568,-132963,-135015,-153187,-169778,-226463,-193004,-181306,-171207,-194763,-190945,-203311,-209598,-212426,-205108,-213561,-230572,-230178,-223226,-231159,-407174
+ "01000","Alabama",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26416
+ "01000","Alabama",5,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1163138
+ "01000","Alabama",5,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-733599
+ "01000","Alabama",5,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-157596
+ "01000","Alabama",5,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-72117
+ "01000","Alabama",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-503886
+ "01000","Alabama",5,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25486
+ "01000","Alabama",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-404053
+ "01000","Alabama",5,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-369557
+ "01000","Alabama",5,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34496
+ "01000","Alabama",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4855,-38835,-23173,-27791,-24685,-14382,-8114,-2871,-92,-93,-1455838
+ "01000","Alabama",5,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39865
+ "01000","Alabama",5,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4855,-38835,-23173,-27791,-24685,-14382,-8114,-2871,-92,-93,-1415973
+ "01000","Alabama",5,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1045222
+ "01000","Alabama",5,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4855,-38835,-23173,-27791,-24685,-14382,-8114,-2871,-92,-93,-148444
+ "01000","Alabama",5,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146159
+ "01000","Alabama",5,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-76147
+ "01000","Alabama",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-613639
+ "01000","Alabama",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66170
+ "01000","Alabama",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19089
+ "01000","Alabama",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47081
+ "01000","Alabama",5,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-547470
+ "01000","Alabama",5,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71320
+ "01000","Alabama",5,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-476149
+ "01000","Alabama",5,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-380738
+ "01000","Alabama",5,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-98546,-89451,-91868,-81065,-93028,-107285,-110067,-113106,-111878,-114838,-107291,-112553,-128212,-120585,-145393,-131105,-142551,-148009,-147019,-151087,-160216,-163445,-164599,-259693
+ "01000","Alabama",5,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-10548,-10602,-11533,-14350,-20267,-16789,-16384,-17685,-18169,-18831,-18867,-25812,-29127,-24083,-35964,-37139,-50073,-52516,-46076,-45681,-49593,-47087,-46111,-48918
+ "01000","Alabama",5,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "01000","Alabama",5,SAGDP5N,86,"...","  State and local","Thousands of dollars",-87998,-78848,-80334,-66715,-72761,-90496,-93683,-95420,-93709,-96007,-88424,-86741,-99085,-96502,-109429,-93966,-92478,-95494,-100943,-105406,-110623,-116358,-118487,-210774
+ "01000","Alabama",5,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-55794,-82440,-155006,-146984,-227555,-256227,-190706,-124368,-215450,-187290,-160688,-136903,-143659,-114230,-98034,-97180,-73379,-90489,-76462,-143502,-168361,-90591,-210611,-503340
+ "01000","Alabama",5,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-41159,-4361,-41,0,0,0,0,0,0,0,0,-1209549
+ "01000","Alabama",5,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-2418,-1410,-1368,-1540,-20413,-3897,-12712,-8210,-5444,-7319,-8446,-7491,-9915,-7527,-7067,-10140,-4940,-3737,-3478,-3472,-2886,-3004,-2320,-347035
+ "01000","Alabama",5,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-506,-225,-1597,-5109,-12833,-20377,-20467,-9566,-6625,-5172,-4129,-4276,-4303,-4387,-1045805
+ "01000","Alabama",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-55794,-82440,-155006,-146984,-227555,-256227,-190706,-124368,-215450,-187797,-160913,-138500,-148436,-126152,-114322,-111917,-79962,-96430,-80960,-147665,-172566,-94862,-214961,-2252758
+ "01000","Alabama",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-120171,-121023,-141481,-136611,-155217,-141153,-166911,-178970,-233184,-200884,-190470,-180149,-248747,-217330,-258661,-261295,-257275,-245917,-239452,-249552,-242201,-231320,-238039,-5845538
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

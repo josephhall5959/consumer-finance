@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "55000","Wisconsin",3,SAGDP5N,1,"...","All industry total","Thousands of dollars",-513594,-544055,-803294,-871246,-760198,-689551,-877383,-727369,-1065710,-874166,-663682,-706563,-1003917,-849149,-935622,-957080,-930776,-801714,-913776,-909854,-791746,-923415,-1127212,-12563734
+ "55000","Wisconsin",3,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-332490,-399471,-650342,-731870,-609977,-514215,-688838,-523395,-860608,-665386,-460146,-486512,-750394,-633104,-679622,-694787,-620128,-488592,-635324,-638065,-510701,-647259,-838627,-12165385
+ "55000","Wisconsin",3,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-149739,-217814,-434390,-518971,-369889,-288156,-419099,-254487,-502157,-353768,-185551,-194375,-345355,-220042,-166005,-232111,-179674,-70407,-242024,-236976,-110460,-259667,-457091,-1569142
+ "55000","Wisconsin",3,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-149739,-217814,-434390,-518971,-369889,-288156,-419099,-254487,-502157,-353768,-185551,-194375,-345355,-220042,-166005,-232111,-179674,-70407,-242024,-236976,-110460,-259667,-457091,-1551509
+ "55000","Wisconsin",3,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17633
+ "55000","Wisconsin",3,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30286
+ "55000","Wisconsin",3,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "55000","Wisconsin",3,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25834
+ "55000","Wisconsin",3,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4452
+ "55000","Wisconsin",3,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16496
+ "55000","Wisconsin",3,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1074536
+ "55000","Wisconsin",3,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-172,-60,-7142,-20239,-58950,-74954,-54108,-26607,-20329,-18314,-16442,-17346,-16465,-18017,-2413996
+ "55000","Wisconsin",3,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-7092,-19918,-58300,-73038,-52929,-25850,-18931,-17717,-15845,-16793,-15840,-17487,-1620991
+ "55000","Wisconsin",3,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-90463
+ "55000","Wisconsin",3,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37153
+ "55000","Wisconsin",3,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66381
+ "55000","Wisconsin",3,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-563642
+ "55000","Wisconsin",3,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-375885
+ "55000","Wisconsin",3,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78356
+ "55000","Wisconsin",3,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-7092,-19918,-58300,-73038,-52929,-25850,-18931,-17717,-15845,-16793,-15840,-17487,-106242
+ "55000","Wisconsin",3,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78449
+ "55000","Wisconsin",3,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29776
+ "55000","Wisconsin",3,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66524
+ "55000","Wisconsin",3,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-128121
+ "55000","Wisconsin",3,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-172,-60,-50,-320,-650,-1916,-1179,-757,-1398,-597,-597,-552,-625,-530,-793005
+ "55000","Wisconsin",3,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-277180
+ "55000","Wisconsin",3,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-172,-60,-50,-93,-89,-78,-79,-68,-66,-367,-355,-403,-472,-431,-16581
+ "55000","Wisconsin",3,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16662
+ "55000","Wisconsin",3,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-100567
+ "55000","Wisconsin",3,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-134103
+ "55000","Wisconsin",3,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-58,-316,-114,-542,-99,-591,0,0,0,0,0,-7970
+ "55000","Wisconsin",3,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-169,-245,-1724,-558,-589,-741,-230,-243,-149,-153,-99,-109789
+ "55000","Wisconsin",3,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-130154
+ "55000","Wisconsin",3,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-705313
+ "55000","Wisconsin",3,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-52193,-5558,-53,0,0,0,0,0,0,0,0,-952089
+ "55000","Wisconsin",3,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-12487,-11027,-12050,-12677,-35542,-16160,-26981,-18806,-22915,-26181,-21681,-30336,-39288,-47584,-36360,-34708,-34430,-31660,-33441,-34514,-40195,-46348,-39486,-438677
+ "55000","Wisconsin",3,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-98,5,0,-5,-24620,-783,-12315,-83,-299,-455,-460,-690,-837,-1004,-1156,-1268,-1146,-1072,-1175,-838,-937,-845,-970,-81857
+ "55000","Wisconsin",3,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-12260,-10973,-12024,-12616,-10782,-15079,-14365,-17462,-21617,-23536,-20497,-29035,-37996,-46469,-35087,-33201,-33210,-30554,-32245,-33591,-39230,-45488,-38504,-55095
+ "55000","Wisconsin",3,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-129,-59,-26,-56,-140,-298,-195,-542,-313,-388,-275,-159,-259,-112,-118,-239,-74,-34,-20,-86,-28,-15,-11,-1126
+ "55000","Wisconsin",3,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-107,-719,-686,-1801,-448,-452,-196,0,0,0,0,0,0,0,0,0,0,-205176
+ "55000","Wisconsin",3,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33744
+ "55000","Wisconsin",3,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-286
+ "55000","Wisconsin",3,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-43155
+ "55000","Wisconsin",3,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18237
+ "55000","Wisconsin",3,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-385,-1051,-4459,-6247,-3318,-791,-819,43,-97,-44,-53,-87328
+ "55000","Wisconsin",3,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-55291
+ "55000","Wisconsin",3,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5911
+ "55000","Wisconsin",3,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-385,-1051,-4459,-6247,-3318,-791,-819,43,-97,-44,-53,-12997
+ "55000","Wisconsin",3,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13128
+ "55000","Wisconsin",3,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-170264,-170630,-203901,-200222,-204547,-209899,-242759,-250102,-335537,-285265,-252854,-254659,-292934,-287444,-297236,-307546,-306566,-302131,-303523,-328674,-335099,-324492,-323739,-754157
+ "55000","Wisconsin",3,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-423,-596,-872,-764,-1014,-1335,-556,-441,-688,-379,-575,-542,-1995,-4988,-4997,-6969,-5286,-7097,-4664,-5512,-5872,-5665,-4885,-221204
+ "55000","Wisconsin",3,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-423,-596,-872,-764,-1014,-1335,-556,-441,-688,-379,-575,-542,-1995,-4988,-4997,-6969,-5286,-7097,-4664,-5512,-5872,-5665,-4885,-54599
+ "55000","Wisconsin",3,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44113
+ "55000","Wisconsin",3,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-113393
+ "55000","Wisconsin",3,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9098
+ "55000","Wisconsin",3,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-169841,-170034,-203029,-199458,-203533,-208564,-242202,-249661,-334849,-284886,-252280,-254116,-290938,-282456,-292239,-300578,-301280,-295034,-298859,-323162,-329228,-318828,-318854,-532953
+ "55000","Wisconsin",3,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-169841,-170034,-203029,-199458,-203533,-208564,-242202,-249661,-334849,-284886,-252280,-254116,-290938,-282456,-292239,-300578,-301280,-295034,-298859,-323162,-329228,-318828,-318854,-491734
+ "55000","Wisconsin",3,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-41219
+ "55000","Wisconsin",3,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1028695
+ "55000","Wisconsin",3,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-594617
+ "55000","Wisconsin",3,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-113239
+ "55000","Wisconsin",3,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-74818
+ "55000","Wisconsin",3,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-406560
+ "55000","Wisconsin",3,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67128
+ "55000","Wisconsin",3,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-366951
+ "55000","Wisconsin",3,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-343653
+ "55000","Wisconsin",3,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23298
+ "55000","Wisconsin",3,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12475,-100554,-60068,-69532,-63273,-37203,-21502,-7504,-242,-242,-1887122
+ "55000","Wisconsin",3,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-69434
+ "55000","Wisconsin",3,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12475,-100554,-60068,-69532,-63273,-37203,-21502,-7504,-242,-242,-1817688
+ "55000","Wisconsin",3,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1059115
+ "55000","Wisconsin",3,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-12475,-100554,-60068,-69532,-63273,-37203,-21502,-7504,-242,-242,-300635
+ "55000","Wisconsin",3,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-279751
+ "55000","Wisconsin",3,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-178186
+ "55000","Wisconsin",3,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-808677
+ "55000","Wisconsin",3,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-119867
+ "55000","Wisconsin",3,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42703
+ "55000","Wisconsin",3,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77163
+ "55000","Wisconsin",3,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-688810
+ "55000","Wisconsin",3,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-136167
+ "55000","Wisconsin",3,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-552643
+ "55000","Wisconsin",3,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-398872
+ "55000","Wisconsin",3,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-181104,-144584,-152952,-139376,-150221,-175336,-188545,-203975,-205102,-208780,-203536,-220050,-253523,-216045,-256001,-262293,-310649,-313122,-278452,-271789,-281045,-276157,-288585,-398349
+ "55000","Wisconsin",3,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-17760,-17523,-16541,-20630,-27595,-32583,-34472,-39647,-46553,-51002,-72421,-102434,-114921,-82370,-115532,-129175,-176982,-188615,-154612,-144937,-150367,-140224,-148186,-149311
+ "55000","Wisconsin",3,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "55000","Wisconsin",3,SAGDP5N,86,"...","  State and local","Thousands of dollars",-163344,-127061,-136411,-118746,-122626,-142754,-154073,-164328,-158550,-157778,-131114,-117616,-138602,-133674,-140469,-133118,-133666,-124508,-123839,-126852,-130678,-135932,-140399,-249038
+ "55000","Wisconsin",3,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-149739,-217814,-434390,-518971,-369889,-288156,-419099,-254487,-502157,-353768,-185551,-194375,-345355,-220042,-166005,-232111,-179674,-70407,-242024,-236976,-110460,-259667,-457091,-1599428
+ "55000","Wisconsin",3,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-52193,-5558,-53,0,0,0,0,0,0,0,0,-1657401
+ "55000","Wisconsin",3,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-12487,-11027,-12050,-12677,-35542,-16160,-26981,-18806,-22915,-26181,-21681,-30336,-39288,-47584,-36360,-34708,-34430,-31660,-33441,-34514,-40195,-46348,-39486,-455173
+ "55000","Wisconsin",3,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-172,-60,-7142,-20624,-60001,-79414,-60355,-29925,-21120,-19134,-16399,-17443,-16509,-18070,-2501324
+ "55000","Wisconsin",3,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-149739,-217814,-434390,-518971,-369889,-288156,-419099,-254487,-502157,-353940,-185611,-201517,-365594,-278992,-240959,-286219,-206281,-90736,-260338,-253418,-127806,-276132,-475108,-5087960
+ "55000","Wisconsin",3,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-182751,-181657,-215952,-212899,-240089,-226059,-269740,-268907,-358451,-311446,-274536,-284995,-384799,-354113,-438663,-408568,-413846,-397856,-374986,-384647,-382895,-371127,-363519,-7077425
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

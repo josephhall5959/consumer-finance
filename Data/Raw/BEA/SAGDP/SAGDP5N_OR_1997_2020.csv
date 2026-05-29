@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "41000","Oregon",8,SAGDP5N,1,"...","All industry total","Thousands of dollars",-394900,-409753,-447169,-461168,-490250,-459521,-525491,-480073,-588430,-546834,-525840,-546508,-633675,-654004,-666492,-637035,-644807,-632573,-656792,-702864,-686367,-709829,-763672,-9611425
+ "41000","Oregon",8,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-225934,-262000,-280897,-303136,-321349,-257525,-323800,-281190,-390687,-345730,-331390,-347441,-393447,-425468,-430680,-408893,-410895,-392680,-412249,-433953,-425386,-419573,-455343,-9083250
+ "41000","Oregon",8,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-53823,-85679,-91223,-118296,-93510,-69779,-95452,-68854,-110704,-100994,-110620,-105453,-86692,-127675,-93804,-97217,-94034,-88560,-114484,-118162,-101536,-101478,-132167,-668737
+ "41000","Oregon",8,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-53823,-85679,-91223,-118296,-93510,-69779,-95452,-68854,-110704,-100994,-110620,-105453,-86692,-127675,-93804,-97217,-94034,-88560,-114484,-118162,-101536,-101478,-132167,-565656
+ "41000","Oregon",8,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-103082
+ "41000","Oregon",8,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13321
+ "41000","Oregon",8,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19
+ "41000","Oregon",8,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12677
+ "41000","Oregon",8,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-626
+ "41000","Oregon",8,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16161
+ "41000","Oregon",8,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-989749
+ "41000","Oregon",8,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-24,-12,-749,-1930,-6189,-7755,-3747,-2357,-1723,-1899,-1865,-1851,-1690,-1888,-991933
+ "41000","Oregon",8,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-735,-1857,-6012,-7439,-3458,-2209,-1428,-1767,-1729,-1730,-1568,-1778,-661235
+ "41000","Oregon",8,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-153131
+ "41000","Oregon",8,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19252
+ "41000","Oregon",8,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18289
+ "41000","Oregon",8,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-121525
+ "41000","Oregon",8,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-102685
+ "41000","Oregon",8,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-80866
+ "41000","Oregon",8,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-735,-1857,-6012,-7439,-3458,-2209,-1428,-1767,-1729,-1730,-1568,-1778,-20260
+ "41000","Oregon",8,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14843
+ "41000","Oregon",8,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33982
+ "41000","Oregon",8,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34156
+ "41000","Oregon",8,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-62247
+ "41000","Oregon",8,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-24,-12,-14,-73,-177,-316,-290,-148,-295,-132,-136,-121,-122,-110,-330698
+ "41000","Oregon",8,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-172712
+ "41000","Oregon",8,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-24,-12,-14,-18,-15,-16,-19,-16,-17,-96,-102,-90,-91,-86,-25807
+ "41000","Oregon",8,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11231
+ "41000","Oregon",8,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15280
+ "41000","Oregon",8,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31655
+ "41000","Oregon",8,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-24,-128,-40,-204,-35,-183,0,0,0,0,0,-16324
+ "41000","Oregon",8,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-31,-34,-260,-67,-97,-95,-35,-34,-31,-30,-24,-24071
+ "41000","Oregon",8,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33618
+ "41000","Oregon",8,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-462778
+ "41000","Oregon",8,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-34282,-3641,-34,0,0,0,0,0,0,0,0,-853056
+ "41000","Oregon",8,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-15901,-12510,-14886,-15070,-65582,-27986,-47770,-30738,-32673,-34771,-28307,-32311,-43755,-51485,-39097,-38828,-36182,-32003,-32054,-34803,-38734,-43058,-35954,-558645
+ "41000","Oregon",8,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-193,10,0,-10,-48588,-1546,-24304,-164,-589,-899,-908,-1363,-1652,-1981,-2281,-2503,-2261,-2116,-2319,-3436,-3150,-2944,-3697,-251782
+ "41000","Oregon",8,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-14744,-12029,-14615,-14452,-15028,-21854,-20501,-21898,-23769,-23252,-21545,-27730,-38372,-47934,-35076,-32504,-32841,-29424,-29489,-30481,-35326,-39994,-32180,-78769
+ "41000","Oregon",8,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-964,-491,-271,-608,-1966,-4586,-2927,-8410,-8061,-9918,-5684,-3039,-3654,-1569,-1741,-3821,-1080,-462,-246,-885,-258,-120,-76,-654
+ "41000","Oregon",8,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-39,-266,-254,-703,-170,-180,-77,0,0,0,0,0,0,0,0,0,0,-148644
+ "41000","Oregon",8,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15522
+ "41000","Oregon",8,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47
+ "41000","Oregon",8,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-53087
+ "41000","Oregon",8,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10140
+ "41000","Oregon",8,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-232,-622,-2711,-3914,-2101,-485,-499,25,-56,-25,-29,-132246
+ "41000","Oregon",8,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52151
+ "41000","Oregon",8,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20656
+ "41000","Oregon",8,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-232,-622,-2711,-3914,-2101,-485,-499,25,-56,-25,-29,-23774
+ "41000","Oregon",8,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35665
+ "41000","Oregon",8,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-156209,-163811,-174787,-169771,-162256,-159760,-180578,-181599,-247311,-209941,-192451,-208927,-226557,-229038,-231361,-232707,-235628,-231849,-239883,-265242,-278336,-273167,-285148,-688189
+ "41000","Oregon",8,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-233,-337,-493,-481,-569,-735,-294,-195,-266,-200,-318,-512,-1667,-4293,-4521,-5868,-3470,-4955,-3302,-3876,-3875,-3525,-3132,-171209
+ "41000","Oregon",8,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-233,-337,-493,-481,-569,-735,-294,-195,-266,-200,-318,-512,-1667,-4293,-4521,-5868,-3470,-4955,-3302,-3876,-3875,-3525,-3132,-43352
+ "41000","Oregon",8,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49744
+ "41000","Oregon",8,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-76960
+ "41000","Oregon",8,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1154
+ "41000","Oregon",8,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-155976,-163474,-174294,-169290,-161687,-159025,-180284,-181403,-247045,-209741,-192133,-208416,-224890,-224745,-226840,-226839,-232158,-226894,-236581,-261366,-274461,-269643,-282017,-516979
+ "41000","Oregon",8,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-155976,-163474,-174294,-169290,-161687,-159025,-180284,-181403,-247045,-209741,-192133,-208416,-224890,-224745,-226840,-226839,-232158,-226894,-236581,-261366,-274461,-269643,-282017,-491829
+ "41000","Oregon",8,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25151
+ "41000","Oregon",8,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1043992
+ "41000","Oregon",8,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-680699
+ "41000","Oregon",8,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-107072
+ "41000","Oregon",8,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-91706
+ "41000","Oregon",8,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-481921
+ "41000","Oregon",8,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-53322
+ "41000","Oregon",8,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-309972
+ "41000","Oregon",8,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-273817
+ "41000","Oregon",8,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-36155
+ "41000","Oregon",8,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-6818,-55918,-32480,-40592,-38060,-23431,-13907,-4874,-155,-157,-1500999
+ "41000","Oregon",8,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-43840
+ "41000","Oregon",8,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-6818,-55918,-32480,-40592,-38060,-23431,-13907,-4874,-155,-157,-1457159
+ "41000","Oregon",8,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-966211
+ "41000","Oregon",8,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-6818,-55918,-32480,-40592,-38060,-23431,-13907,-4874,-155,-157,-172111
+ "41000","Oregon",8,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-165531
+ "41000","Oregon",8,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-153306
+ "41000","Oregon",8,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-856993
+ "41000","Oregon",8,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-112974
+ "41000","Oregon",8,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39781
+ "41000","Oregon",8,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-73193
+ "41000","Oregon",8,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-744019
+ "41000","Oregon",8,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-118481
+ "41000","Oregon",8,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-625538
+ "41000","Oregon",8,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-306449
+ "41000","Oregon",8,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-168966,-147754,-166273,-158032,-168901,-201996,-201691,-198883,-197743,-201104,-194449,-199067,-240228,-228536,-235811,-228142,-233912,-239893,-244543,-268911,-260981,-290256,-308329,-528175
+ "41000","Oregon",8,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-2667,-2778,-4945,-6496,-8121,-10237,-11292,-10258,-11250,-11107,-11706,-13479,-23242,-14426,-15815,-17082,-22570,-24145,-19275,-22225,-22477,-26017,-35342,-41870
+ "41000","Oregon",8,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "41000","Oregon",8,SAGDP5N,86,"...","  State and local","Thousands of dollars",-166299,-144975,-161328,-151536,-160780,-191759,-190399,-188626,-186493,-189997,-182743,-185588,-216986,-214111,-219996,-211060,-211342,-215748,-225269,-246685,-238504,-264239,-272988,-486305
+ "41000","Oregon",8,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-53823,-85679,-91223,-118296,-93510,-69779,-95452,-68854,-110704,-100994,-110620,-105453,-86692,-127675,-93804,-97217,-94034,-88560,-114484,-118162,-101536,-101478,-132167,-682059
+ "41000","Oregon",8,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-34282,-3641,-34,0,0,0,0,0,0,0,0,-1315835
+ "41000","Oregon",8,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-15901,-12510,-14886,-15070,-65582,-27986,-47770,-30738,-32673,-34771,-28307,-32311,-43755,-51485,-39097,-38828,-36182,-32003,-32054,-34803,-38734,-43058,-35954,-574806
+ "41000","Oregon",8,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-24,-12,-749,-2162,-6812,-10466,-7661,-4458,-2209,-2397,-1840,-1907,-1714,-1916,-1124179
+ "41000","Oregon",8,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-53823,-85679,-91223,-118296,-93510,-69779,-95452,-68854,-110704,-101018,-110632,-106202,-88621,-133864,-101559,-100964,-96391,-90283,-116382,-120027,-103387,-103168,-134055,-2663741
+ "41000","Oregon",8,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-172111,-176321,-189674,-184840,-227838,-187746,-228348,-212337,-279983,-244713,-220758,-241238,-304826,-291604,-329122,-307929,-314504,-302397,-295867,-313926,-321999,-316405,-321288,-6419510
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

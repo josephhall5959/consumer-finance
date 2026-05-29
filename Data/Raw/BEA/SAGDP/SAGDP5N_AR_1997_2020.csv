@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "05000","Arkansas",5,SAGDP5N,1,"...","All industry total","Thousands of dollars",-353602,-520088,-833921,-970683,-1136703,-732926,-1100840,-553049,-698276,-624217,-604511,-504094,-648536,-557124,-593337,-566973,-572122,-534769,-552948,-740181,-795242,-807211,-1181558,-4941821
+ "05000","Arkansas",5,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-291121,-463420,-774766,-908574,-1071031,-662504,-1033389,-484579,-627492,-550814,-529136,-414332,-540914,-455892,-474842,-453225,-425669,-390983,-435084,-611864,-663146,-672642,-1034421,-4752499
+ "05000","Arkansas",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-233184,-401750,-703999,-839642,-991241,-584748,-940208,-395685,-504849,-440497,-431977,-324563,-410350,-330454,-308934,-300709,-280958,-251820,-300401,-476760,-534283,-542790,-902495,-1043753
+ "05000","Arkansas",5,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-233184,-401750,-703999,-839642,-991241,-584748,-940208,-395685,-504849,-440497,-431977,-324563,-410350,-330454,-308934,-300709,-280958,-251820,-300401,-476760,-534283,-542790,-902495,-1014191
+ "05000","Arkansas",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29562
+ "05000","Arkansas",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17294
+ "05000","Arkansas",5,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2431
+ "05000","Arkansas",5,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4392
+ "05000","Arkansas",5,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10471
+ "05000","Arkansas",5,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19324
+ "05000","Arkansas",5,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-369431
+ "05000","Arkansas",5,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-31,-15,-2168,-4808,-15024,-22327,-13313,-5091,-4507,-2688,-2407,-2566,-2644,-3112,-488295
+ "05000","Arkansas",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2150,-4675,-14609,-21821,-12832,-4727,-3220,-2537,-2241,-2423,-2484,-2995,-287721
+ "05000","Arkansas",5,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28836
+ "05000","Arkansas",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14739
+ "05000","Arkansas",5,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17120
+ "05000","Arkansas",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-83400
+ "05000","Arkansas",5,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-64224
+ "05000","Arkansas",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4483
+ "05000","Arkansas",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2150,-4675,-14609,-21821,-12832,-4727,-3220,-2537,-2241,-2423,-2484,-2995,-9188
+ "05000","Arkansas",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19974
+ "05000","Arkansas",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16370
+ "05000","Arkansas",5,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13159
+ "05000","Arkansas",5,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16227
+ "05000","Arkansas",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-31,-15,-18,-133,-415,-506,-481,-365,-1287,-151,-166,-143,-160,-117,-200573
+ "05000","Arkansas",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-97842
+ "05000","Arkansas",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-31,-15,-18,-24,-19,-20,-22,-18,-17,-101,-122,-100,-114,-81,-1954
+ "05000","Arkansas",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8335
+ "05000","Arkansas",5,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20625
+ "05000","Arkansas",5,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17223
+ "05000","Arkansas",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-74,-352,-81,-340,-188,-1112,0,0,0,0,0,-5290
+ "05000","Arkansas",5,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-34,-45,-406,-120,-159,-157,-50,-44,-43,-46,-37,-16476
+ "05000","Arkansas",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-32829
+ "05000","Arkansas",5,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-177438
+ "05000","Arkansas",5,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-24019,-2601,-25,0,0,0,0,0,0,0,0,-378196
+ "05000","Arkansas",5,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-697,-451,-448,-623,-10068,-1059,-5537,-2390,-2088,-3242,-1839,-2044,-2425,-2586,-2225,-2184,-1934,-1735,-1760,-1399,-1829,-1859,-1376,-162890
+ "05000","Arkansas",5,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-38,2,0,-2,-9507,-303,-4755,-32,-115,-176,-178,-267,-323,-388,-446,-490,-442,-414,-454,-122,-339,-173,-167,-22891
+ "05000","Arkansas",5,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-468,-368,-405,-529,-476,-608,-600,-752,-893,-912,-812,-1144,-1492,-1974,-1511,-1453,-1466,-1309,-1301,-1262,-1485,-1682,-1205,-7239
+ "05000","Arkansas",5,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-191,-85,-43,-93,-85,-149,-114,-1153,-628,-930,-534,-301,-471,-224,-267,-242,-26,-12,-5,-16,-5,-4,-4,-63
+ "05000","Arkansas",5,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-68,-453,-451,-1224,-315,-332,-139,0,0,0,0,0,0,0,0,0,0,-101065
+ "05000","Arkansas",5,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3759
+ "05000","Arkansas",5,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-324
+ "05000","Arkansas",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20817
+ "05000","Arkansas",5,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6732
+ "05000","Arkansas",5,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-370,-631,-2735,-3603,-1898,-443,-431,22,-48,-15,-18,-36756
+ "05000","Arkansas",5,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24851
+ "05000","Arkansas",5,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1985
+ "05000","Arkansas",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-370,-631,-2735,-3603,-1898,-443,-431,22,-48,-15,-18,-6462
+ "05000","Arkansas",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3458
+ "05000","Arkansas",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-57240,-61220,-70319,-68308,-69722,-76697,-87644,-86505,-120556,-107044,-95305,-85558,-98942,-100549,-106266,-114274,-112813,-111722,-117726,-124276,-121880,-125253,-127339,-287904
+ "05000","Arkansas",5,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-315,-350,-553,-531,-548,-578,-230,-217,-324,-196,-301,-464,-885,-3162,-4134,-4763,-3633,-4866,-3265,-3681,-3130,-2480,-2278,-75474
+ "05000","Arkansas",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-315,-350,-553,-531,-548,-578,-230,-217,-324,-196,-301,-464,-885,-3162,-4134,-4763,-3633,-4866,-3265,-3681,-3130,-2480,-2278,-24408
+ "05000","Arkansas",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14981
+ "05000","Arkansas",5,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35906
+ "05000","Arkansas",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-179
+ "05000","Arkansas",5,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-56925,-60870,-69766,-67777,-69174,-76119,-87414,-86288,-120232,-106848,-95004,-85094,-98058,-97387,-102132,-109511,-109180,-106856,-114462,-120595,-118751,-122773,-125061,-212431
+ "05000","Arkansas",5,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-56925,-60870,-69766,-67777,-69174,-76119,-87414,-86288,-120232,-106848,-95004,-85094,-98058,-97387,-102132,-109511,-109180,-106856,-114462,-120595,-118751,-122773,-125061,-195078
+ "05000","Arkansas",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17353
+ "05000","Arkansas",5,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-373891
+ "05000","Arkansas",5,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-206077
+ "05000","Arkansas",5,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-41588
+ "05000","Arkansas",5,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28371
+ "05000","Arkansas",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-136119
+ "05000","Arkansas",5,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33188
+ "05000","Arkansas",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-134626
+ "05000","Arkansas",5,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-122759
+ "05000","Arkansas",5,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11868
+ "05000","Arkansas",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4048,-32331,-19142,-22975,-20756,-12079,-7043,-2541,-82,-81,-923238
+ "05000","Arkansas",5,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26456
+ "05000","Arkansas",5,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4048,-32331,-19142,-22975,-20756,-12079,-7043,-2541,-82,-81,-896782
+ "05000","Arkansas",5,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-577966
+ "05000","Arkansas",5,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4048,-32331,-19142,-22975,-20756,-12079,-7043,-2541,-82,-81,-137816
+ "05000","Arkansas",5,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-102180
+ "05000","Arkansas",5,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78821
+ "05000","Arkansas",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-321172
+ "05000","Arkansas",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28835
+ "05000","Arkansas",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11467
+ "05000","Arkansas",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17368
+ "05000","Arkansas",5,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-292337
+ "05000","Arkansas",5,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42735
+ "05000","Arkansas",5,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-249601
+ "05000","Arkansas",5,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-152916
+ "05000","Arkansas",5,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-62481,-56668,-59155,-62109,-65672,-70422,-67451,-68470,-70784,-73404,-75375,-89762,-107622,-101232,-118496,-113747,-146453,-143786,-117864,-128317,-132095,-134570,-147136,-189323
+ "05000","Arkansas",5,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-28959,-32717,-32448,-34363,-35507,-32948,-30014,-31637,-33282,-32532,-37121,-55868,-70294,-59964,-69723,-73226,-106625,-107296,-78120,-87949,-93661,-94268,-106060,-116118
+ "05000","Arkansas",5,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "05000","Arkansas",5,SAGDP5N,86,"...","  State and local","Thousands of dollars",-33522,-23951,-26706,-27746,-30166,-37474,-37437,-36833,-37502,-40872,-38254,-33894,-37328,-41268,-48772,-40522,-39829,-36490,-39743,-40368,-38434,-40301,-41077,-73205
+ "05000","Arkansas",5,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-233184,-401750,-703999,-839642,-991241,-584748,-940208,-395685,-504849,-440497,-431977,-324563,-410350,-330454,-308934,-300709,-280958,-251820,-300401,-476760,-534283,-542790,-902495,-1061047
+ "05000","Arkansas",5,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-24019,-2601,-25,0,0,0,0,0,0,0,0,-555634
+ "05000","Arkansas",5,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-697,-451,-448,-623,-10068,-1059,-5537,-2390,-2088,-3242,-1839,-2044,-2425,-2586,-2225,-2184,-1934,-1735,-1760,-1399,-1829,-1859,-1376,-182214
+ "05000","Arkansas",5,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-31,-15,-2168,-5177,-15655,-25062,-16916,-6989,-4950,-3118,-2385,-2613,-2659,-3130,-525051
+ "05000","Arkansas",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-233184,-401750,-703999,-839642,-991241,-584748,-940208,-395685,-504849,-440528,-431992,-326731,-415158,-345478,-331260,-314022,-286050,-256326,-303089,-479168,-536849,-545434,-905607,-1918773
+ "05000","Arkansas",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-57937,-61670,-70767,-68932,-79790,-77756,-93181,-88894,-122644,-110285,-97144,-87601,-125756,-110414,-143581,-139203,-139619,-134656,-131996,-132696,-126298,-127208,-128814,-2833726
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

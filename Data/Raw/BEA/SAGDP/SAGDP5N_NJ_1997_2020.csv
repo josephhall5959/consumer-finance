@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "34000","New Jersey",2,SAGDP5N,1,"...","All industry total","Thousands of dollars",-1128760,-1042833,-1104248,-1062086,-1215201,-1209122,-1368676,-1385319,-1557444,-1393201,-1302802,-1407604,-1641278,-1569542,-1776127,-1656265,-1638469,-1648608,-1594647,-1745142,-1633040,-1634411,-1689249,-26540746
+ "34000","New Jersey",2,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-582820,-566282,-611947,-606746,-739362,-655826,-775183,-751302,-921398,-740175,-656093,-736320,-888607,-850956,-967444,-908346,-882146,-834714,-793663,-836201,-824296,-775370,-800530,-24969658
+ "34000","New Jersey",2,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-3078,-4733,-8858,-19323,-14617,-5573,-10547,-8788,-22644,-15265,-9424,-14553,-14878,-18695,-14518,-9823,-7859,-5026,-6729,-10163,-10089,-8581,-19554,-152353
+ "34000","New Jersey",2,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-3078,-4733,-8858,-19323,-14617,-5573,-10547,-8788,-22644,-15265,-9424,-14553,-14878,-18695,-14518,-9823,-7859,-5026,-6729,-10163,-10089,-8581,-19554,-124000
+ "34000","New Jersey",2,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28353
+ "34000","New Jersey",2,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16354
+ "34000","New Jersey",2,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-482
+ "34000","New Jersey",2,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13371
+ "34000","New Jersey",2,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2502
+ "34000","New Jersey",2,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54380
+ "34000","New Jersey",2,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2711350
+ "34000","New Jersey",2,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-254,-102,-2412,-7115,-19832,-26656,-19427,-9518,-11180,-6384,-6390,-5605,-5120,-5965,-2188695
+ "34000","New Jersey",2,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2304,-5954,-17224,-18976,-13571,-6560,-4723,-5129,-5036,-4492,-4018,-4952,-1127631
+ "34000","New Jersey",2,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46693
+ "34000","New Jersey",2,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-72081
+ "34000","New Jersey",2,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-51937
+ "34000","New Jersey",2,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-244373
+ "34000","New Jersey",2,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-136059
+ "34000","New Jersey",2,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-143033
+ "34000","New Jersey",2,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2304,-5954,-17224,-18976,-13571,-6560,-4723,-5129,-5036,-4492,-4018,-4952,-87604
+ "34000","New Jersey",2,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17987
+ "34000","New Jersey",2,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34229
+ "34000","New Jersey",2,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-82448
+ "34000","New Jersey",2,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-211185
+ "34000","New Jersey",2,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-254,-102,-108,-1162,-2608,-7680,-5856,-2958,-6457,-1255,-1354,-1114,-1103,-1013,-1061064
+ "34000","New Jersey",2,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-335373
+ "34000","New Jersey",2,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-254,-102,-108,-128,-98,-92,-94,-89,-116,-513,-533,-475,-458,-521,-41602
+ "34000","New Jersey",2,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61112
+ "34000","New Jersey",2,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65324
+ "34000","New Jersey",2,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-142092
+ "34000","New Jersey",2,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-237,-1613,-681,-3910,-541,-3698,0,0,0,0,0,-8919
+ "34000","New Jersey",2,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-798,-897,-6907,-1852,-2328,-2644,-742,-820,-639,-645,-493,-308830
+ "34000","New Jersey",2,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-97810
+ "34000","New Jersey",2,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1681208
+ "34000","New Jersey",2,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-91966,-9799,-93,0,0,0,0,0,0,0,0,-2060673
+ "34000","New Jersey",2,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-103195,-74234,-85619,-90817,-241565,-147417,-199780,-163397,-147679,-81183,-65779,-72075,-90737,-97410,-77968,-61365,-48063,-44867,-46067,-56240,-61824,-68492,-64426,-2229809
+ "34000","New Jersey",2,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-594,30,0,-30,-149457,-4756,-74758,-505,-1813,-2764,-2794,-4191,-5083,-6094,-7015,-7699,-6956,-6510,-7134,-14448,-13133,-12914,-15965,-1194247
+ "34000","New Jersey",2,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-87998,-69269,-83823,-87548,-84068,-124901,-109864,-124847,-117575,-53433,-46248,-57255,-70176,-84751,-63651,-38595,-37667,-36866,-38128,-39057,-47953,-55200,-48249,-98872
+ "34000","New Jersey",2,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-14603,-4995,-1796,-3239,-8041,-17760,-15055,-37371,-27687,-23409,-16356,-10227,-15305,-6566,-7302,-15072,-3440,-1491,-805,-2735,-738,-378,-212,-20091
+ "34000","New Jersey",2,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-103,-673,-604,-1577,-381,-402,-173,0,0,0,0,0,0,0,0,0,0,-416352
+ "34000","New Jersey",2,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-130358
+ "34000","New Jersey",2,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-646
+ "34000","New Jersey",2,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-239896
+ "34000","New Jersey",2,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-129348
+ "34000","New Jersey",2,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1510,-4103,-17027,-26696,-14079,-3114,-3114,161,-330,-154,-170,-320794
+ "34000","New Jersey",2,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-123969
+ "34000","New Jersey",2,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25603
+ "34000","New Jersey",2,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1510,-4103,-17027,-26696,-14079,-3114,-3114,161,-330,-154,-170,-83359
+ "34000","New Jersey",2,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-87864
+ "34000","New Jersey",2,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-476547,-487316,-517470,-496606,-483181,-502836,-564857,-579117,-751074,-643472,-580787,-647279,-682400,-683284,-689876,-709983,-701336,-675989,-674888,-730159,-735191,-692660,-710052,-2067824
+ "34000","New Jersey",2,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-480,-933,-749,-998,-1220,-1966,-710,-354,-557,-395,-511,-485,-2490,-7390,-9721,-8676,-2827,-2011,-645,-5216,-8188,-10826,-8374,-676440
+ "34000","New Jersey",2,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-480,-933,-749,-998,-1220,-1966,-710,-354,-557,-395,-511,-485,-2490,-7390,-9721,-8676,-2827,-2011,-645,-5216,-8188,-10826,-8374,-177279
+ "34000","New Jersey",2,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-192894
+ "34000","New Jersey",2,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-287274
+ "34000","New Jersey",2,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18993
+ "34000","New Jersey",2,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-476067,-486383,-516721,-495608,-481961,-500870,-564147,-578764,-750517,-643077,-580276,-646794,-679911,-675894,-680155,-701306,-698509,-673977,-674243,-724943,-727002,-681835,-701678,-1391384
+ "34000","New Jersey",2,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-476067,-486383,-516721,-495608,-481961,-500870,-564147,-578764,-750517,-643077,-580276,-646794,-679911,-675894,-680155,-701306,-698509,-673977,-674243,-724943,-727002,-681835,-701678,-1257331
+ "34000","New Jersey",2,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-134053
+ "34000","New Jersey",2,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4579683
+ "34000","New Jersey",2,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3174627
+ "34000","New Jersey",2,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-634422
+ "34000","New Jersey",2,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-819508
+ "34000","New Jersey",2,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1720697
+ "34000","New Jersey",2,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-113298
+ "34000","New Jersey",2,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1291758
+ "34000","New Jersey",2,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1161240
+ "34000","New Jersey",2,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-130518
+ "34000","New Jersey",2,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-17834,-141306,-81053,-101290,-94537,-56481,-33411,-11257,-363,-363,-4187617
+ "34000","New Jersey",2,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-226929
+ "34000","New Jersey",2,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-17834,-141306,-81053,-101290,-94537,-56481,-33411,-11257,-363,-363,-3960688
+ "34000","New Jersey",2,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2767265
+ "34000","New Jersey",2,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-17834,-141306,-81053,-101290,-94537,-56481,-33411,-11257,-363,-363,-405664
+ "34000","New Jersey",2,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-496966
+ "34000","New Jersey",2,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-290794
+ "34000","New Jersey",2,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1783035
+ "34000","New Jersey",2,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-286686
+ "34000","New Jersey",2,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78569
+ "34000","New Jersey",2,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-208117
+ "34000","New Jersey",2,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1496349
+ "34000","New Jersey",2,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-224469
+ "34000","New Jersey",2,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1271879
+ "34000","New Jersey",2,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-935883
+ "34000","New Jersey",2,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-545939,-476551,-492301,-455340,-475838,-553296,-593493,-634017,-636046,-653026,-646710,-671284,-752671,-718586,-808684,-747918,-756324,-813894,-800984,-908940,-808743,-859041,-888719,-1571088
+ "34000","New Jersey",2,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-1117,-1145,-1375,-2334,-2313,-2608,-2729,-2409,-2747,-2123,-2530,-3360,-4418,-3187,-4175,-4444,-6196,-6292,-4313,-4341,-4572,-4419,-4413,-4485
+ "34000","New Jersey",2,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "34000","New Jersey",2,SAGDP5N,86,"...","  State and local","Thousands of dollars",-544822,-475406,-490926,-453006,-473525,-550688,-590764,-631608,-633299,-650903,-644180,-667925,-748253,-715399,-804509,-743475,-750128,-807602,-796671,-904600,-804171,-854623,-884306,-1566603
+ "34000","New Jersey",2,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-3078,-4733,-8858,-19323,-14617,-5573,-10547,-8788,-22644,-15265,-9424,-14553,-14878,-18695,-14518,-9823,-7859,-5026,-6729,-10163,-10089,-8581,-19554,-168708
+ "34000","New Jersey",2,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-91966,-9799,-93,0,0,0,0,0,0,0,0,-3741881
+ "34000","New Jersey",2,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-103195,-74234,-85619,-90817,-241565,-147417,-199780,-163397,-147679,-81183,-65779,-72075,-90737,-97410,-77968,-61365,-48063,-44867,-46067,-56240,-61824,-68492,-64426,-2284189
+ "34000","New Jersey",2,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-254,-102,-2412,-8625,-23935,-43683,-46123,-23597,-14294,-9498,-6229,-5935,-5274,-6135,-2509489
+ "34000","New Jersey",2,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-3078,-4733,-8858,-19323,-14617,-5573,-10547,-8788,-22644,-15520,-9526,-16965,-21993,-38527,-41174,-29250,-17378,-16207,-13113,-16553,-15695,-13701,-25519,-5068752
+ "34000","New Jersey",2,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-579742,-561550,-603089,-587423,-724746,-650253,-764637,-742514,-898754,-724655,-646566,-719354,-866614,-812430,-926269,-879096,-864768,-818507,-780550,-819648,-808602,-761669,-775010,-19900906
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

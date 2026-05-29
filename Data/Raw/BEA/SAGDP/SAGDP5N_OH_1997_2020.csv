@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "39000","Ohio",3,SAGDP5N,1,"...","All industry total","Thousands of dollars",-896521,-989553,-1346115,-1338153,-1543788,-1172827,-1412762,-1373980,-1751396,-1527340,-1343278,-1361157,-1669324,-1667690,-1852867,-1768344,-1748228,-1575799,-1654023,-1819351,-1621097,-1710525,-2029752,-26364323
+ "39000","Ohio",3,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-538450,-667237,-1023971,-1038182,-1184225,-712127,-909406,-827842,-1230577,-980979,-783624,-759026,-962816,-1059612,-1180278,-1121991,-1063466,-901209,-990043,-1141903,-1003044,-1047605,-1352199,-25266542
+ "39000","Ohio",3,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-158118,-268419,-561492,-583020,-607522,-243547,-342781,-284039,-527580,-377310,-239759,-232603,-244669,-316671,-217385,-230456,-209219,-59706,-242252,-393576,-294570,-385130,-664498,-1091304
+ "39000","Ohio",3,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-158118,-268419,-561492,-583020,-607522,-243547,-342781,-284039,-527580,-377310,-239759,-232603,-244669,-316671,-217385,-230456,-209219,-59706,-242252,-393576,-294570,-385130,-664498,-1065383
+ "39000","Ohio",3,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25921
+ "39000","Ohio",3,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-76374
+ "39000","Ohio",3,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6285
+ "39000","Ohio",3,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-32125
+ "39000","Ohio",3,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37963
+ "39000","Ohio",3,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54995
+ "39000","Ohio",3,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2553289
+ "39000","Ohio",3,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-182,-101,-9811,-27265,-77260,-94853,-79011,-31970,-36028,-22593,-22091,-21935,-20894,-25288,-4081975
+ "39000","Ohio",3,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-9713,-25221,-69320,-86170,-65901,-27889,-21853,-21373,-20893,-20788,-19631,-24242,-2886544
+ "39000","Ohio",3,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-94263
+ "39000","Ohio",3,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-174861
+ "39000","Ohio",3,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-176584
+ "39000","Ohio",3,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-874680
+ "39000","Ohio",3,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-600905
+ "39000","Ohio",3,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-125621
+ "39000","Ohio",3,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-9713,-25221,-69320,-86170,-65901,-27889,-21853,-21373,-20893,-20788,-19631,-24242,-114373
+ "39000","Ohio",3,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-298992
+ "39000","Ohio",3,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-105578
+ "39000","Ohio",3,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-111418
+ "39000","Ohio",3,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-209270
+ "39000","Ohio",3,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-182,-101,-98,-2043,-7940,-8684,-13110,-4081,-14175,-1219,-1198,-1147,-1262,-1046,-1195431
+ "39000","Ohio",3,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-367487
+ "39000","Ohio",3,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-182,-101,-98,-114,-114,-113,-99,-104,-99,-556,-466,-482,-563,-562,-33660
+ "39000","Ohio",3,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-36726
+ "39000","Ohio",3,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75903
+ "39000","Ohio",3,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-139923
+ "39000","Ohio",3,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1347,-7202,-3095,-11312,-2381,-12238,0,0,0,0,0,-30486
+ "39000","Ohio",3,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-583,-624,-5475,-1699,-1596,-1839,-663,-732,-665,-700,-484,-226235
+ "39000","Ohio",3,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-285011
+ "39000","Ohio",3,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1499523
+ "39000","Ohio",3,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-103131,-11049,-107,0,0,0,0,0,0,0,0,-2103495
+ "39000","Ohio",3,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-8313,-4781,-4813,-5814,-129182,-19123,-71240,-19270,-13773,-16734,-10619,-10217,-12499,-13748,-12830,-14657,-12148,-10924,-11334,-7642,-8426,-8736,-7284,-907950
+ "39000","Ohio",3,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-478,24,0,-24,-120048,-3820,-60048,-406,-1456,-2220,-2244,-3367,-4083,-4895,-5635,-6184,-5587,-5229,-5730,-1456,-1828,-1638,-1929,-163251
+ "39000","Ohio",3,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-4291,-3135,-4078,-4006,-3839,-4931,-3773,-4452,-4337,-3950,-3210,-4055,-5725,-7608,-5799,-5749,-5775,-5306,-5374,-5328,-6301,-6938,-5234,-30502
+ "39000","Ohio",3,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-3544,-1669,-735,-1784,-5294,-10372,-7270,-13425,-7037,-8116,-4546,-2120,-2410,-1246,-1396,-2724,-787,-388,-230,-859,-297,-160,-121,-3414
+ "39000","Ohio",3,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-149,-987,-943,-2447,-620,-675,-281,0,0,0,0,0,0,0,0,0,0,-438539
+ "39000","Ohio",3,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40589
+ "39000","Ohio",3,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4138
+ "39000","Ohio",3,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-155277
+ "39000","Ohio",3,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-72240
+ "39000","Ohio",3,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1061,-3161,-14350,-21054,-10639,-2310,-2177,109,-231,-102,-118,-254877
+ "39000","Ohio",3,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85428
+ "39000","Ohio",3,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18667
+ "39000","Ohio",3,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1061,-3161,-14350,-21054,-10639,-2310,-2177,109,-231,-102,-118,-75599
+ "39000","Ohio",3,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75183
+ "39000","Ohio",3,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-372019,-394037,-457666,-449349,-447521,-449457,-495385,-524533,-689224,-586754,-533145,-506395,-574191,-611619,-631056,-652894,-642647,-647626,-626667,-668798,-661010,-632211,-654478,-1788153
+ "39000","Ohio",3,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1375,-1674,-2784,-3198,-5079,-7371,-3347,-3000,-5746,-3273,-3811,-13936,-33657,-78473,-78620,-82756,-66417,-85982,-59468,-55435,-40358,-26324,-32899,-567533
+ "39000","Ohio",3,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1375,-1674,-2784,-3198,-5079,-7371,-3347,-3000,-5746,-3273,-3811,-13936,-33657,-78473,-78620,-82756,-66417,-85982,-59468,-55435,-40358,-26324,-32899,-155390
+ "39000","Ohio",3,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-137189
+ "39000","Ohio",3,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-266948
+ "39000","Ohio",3,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8006
+ "39000","Ohio",3,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-370644,-392363,-454882,-446151,-442442,-442086,-492039,-521533,-683478,-583482,-529334,-492459,-540535,-533145,-552436,-570138,-576230,-561644,-567199,-613363,-620652,-605887,-621580,-1220620
+ "39000","Ohio",3,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-370644,-392363,-454882,-446151,-442442,-442086,-492039,-521533,-683478,-583482,-529334,-492459,-540535,-533145,-552436,-570138,-576230,-561644,-567199,-613363,-620652,-605887,-621580,-1075211
+ "39000","Ohio",3,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-145409
+ "39000","Ohio",3,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3431401
+ "39000","Ohio",3,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2203730
+ "39000","Ohio",3,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-422356
+ "39000","Ohio",3,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-380549
+ "39000","Ohio",3,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1400825
+ "39000","Ohio",3,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-151096
+ "39000","Ohio",3,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1076575
+ "39000","Ohio",3,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1005237
+ "39000","Ohio",3,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71338
+ "39000","Ohio",3,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-26105,-209697,-123919,-156843,-144616,-85020,-49905,-16873,-533,-533,-4455613
+ "39000","Ohio",3,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-166204
+ "39000","Ohio",3,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-26105,-209697,-123919,-156843,-144616,-85020,-49905,-16873,-533,-533,-4289410
+ "39000","Ohio",3,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2745271
+ "39000","Ohio",3,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-26105,-209697,-123919,-156843,-144616,-85020,-49905,-16873,-533,-533,-679490
+ "39000","Ohio",3,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-538241
+ "39000","Ohio",3,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-326408
+ "39000","Ohio",3,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2040735
+ "39000","Ohio",3,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-259648
+ "39000","Ohio",3,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-111466
+ "39000","Ohio",3,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-148182
+ "39000","Ohio",3,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1781087
+ "39000","Ohio",3,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-166006
+ "39000","Ohio",3,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1615081
+ "39000","Ohio",3,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-926857
+ "39000","Ohio",3,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-358071,-322316,-322144,-299971,-359563,-460700,-503356,-546138,-520818,-546361,-559654,-602131,-706507,-608078,-672588,-646353,-684763,-674589,-663980,-677448,-618052,-662920,-677553,-1097781
+ "39000","Ohio",3,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-10918,-10868,-10913,-14590,-27352,-30834,-38493,-50784,-58809,-61482,-83738,-121507,-138653,-91226,-135957,-144305,-189086,-187326,-151290,-146248,-161739,-147271,-148090,-151736
+ "39000","Ohio",3,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "39000","Ohio",3,SAGDP5N,86,"...","  State and local","Thousands of dollars",-347153,-311448,-311231,-285381,-332212,-429866,-464863,-495354,-462009,-484879,-475915,-480625,-567854,-516852,-536631,-502048,-495677,-487263,-512690,-531200,-456313,-515650,-529463,-946045
+ "39000","Ohio",3,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-158118,-268419,-561492,-583020,-607522,-243547,-342781,-284039,-527580,-377310,-239759,-232603,-244669,-316671,-217385,-230456,-209219,-59706,-242252,-393576,-294570,-385130,-664498,-1167677
+ "39000","Ohio",3,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-103131,-11049,-107,0,0,0,0,0,0,0,0,-3603018
+ "39000","Ohio",3,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-8313,-4781,-4813,-5814,-129182,-19123,-71240,-19270,-13773,-16734,-10619,-10217,-12499,-13748,-12830,-14657,-12148,-10924,-11334,-7642,-8426,-8736,-7284,-962945
+ "39000","Ohio",3,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-182,-101,-9811,-28326,-80421,-109203,-100065,-42608,-38337,-24770,-21982,-22165,-20995,-25406,-4336853
+ "39000","Ohio",3,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-158118,-268419,-561492,-583020,-607522,-243547,-342781,-284039,-527580,-377491,-239860,-242414,-271934,-393931,-312238,-309467,-241189,-95733,-264844,-415666,-316504,-406023,-689786,-7802942
+ "39000","Ohio",3,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-380332,-398818,-462479,-455162,-576703,-468580,-566625,-543803,-702997,-603488,-543764,-516612,-690883,-665681,-868041,-812524,-822277,-805476,-725198,-726236,-686540,-641582,-662414,-17463600
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

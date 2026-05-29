@@ -1,0 +1,29 @@
+\begingroup
+\centering
+\begin{tabular}{lcccc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable: & \multicolumn{4}{c}{Exit rate}\\
+   Model:                                              & (1)             & (2)             & (3)             & (4)\\  
+   \midrule
+   \emph{Variables}\\
+   Mean log(Sales)                                     & -0.0092$^{***}$ & -0.0127$^{***}$ & -0.0107$^{***}$ & -0.0155$^{***}$\\   
+                                                       & (0.0004)        & (0.0008)        & (0.0005)        & (0.0008)\\   
+   Treated $\times$ Single-estab.                      & -0.0006         & -0.0016         & -0.0020         & -0.0041$^{**}$\\   
+                                                       & (0.0027)        & (0.0026)        & (0.0015)        & (0.0019)\\   
+   Single-estab. $\times$ Recession                    & 0.0459$^{***}$  & 0.0514$^{***}$  & 0.0305$^{***}$  & 0.0159$^{***}$\\   
+                                                       & (0.0039)        & (0.0046)        & (0.0033)        & (0.0022)\\   
+   Treated $\times$ Recession $\times$ Single-estab.   & -0.0159$^{*}$   & -0.0204$^{**}$  & 0.0003          & 0.0072\\   
+                                                       & (0.0081)        & (0.0099)        & (0.0113)        & (0.0084)\\   
+   \midrule
+   \emph{Fixed-effects}\\
+   State $\times$ Industry $\times$ Year FE            & Yes             & Yes             & Yes             & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Observations                                        & 73,036          & 27,252          & 73,036          & 27,252\\  
+   R$^2$                                               & 0.99726         & 0.99720         & 0.99718         & 0.99704\\  
+   Within R$^2$                                        & 0.11503         & 0.17114         & 0.08924         & 0.12386\\  
+   \midrule \midrule
+   \multicolumn{5}{l}{\emph{Clustered (STATE) standard-errors in parentheses}}\\
+   \multicolumn{5}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup

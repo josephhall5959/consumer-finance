@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "91000","New England",1,SAGDP5N,1,"...","All industry total","Thousands of dollars",-1616049,-1546450,-1643593,-1615285,-1769939,-1884519,-2105335,-2167325,-2432898,-2285914,-2189740,-2284760,-2749246,-2788507,-2754705,-2949088,-2929083,-2939001,-2873096,-3000871,-2805958,-2888766,-2940338,-38245575
+ "91000","New England",1,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-794004,-798368,-890681,-893303,-1005782,-972955,-1121502,-1123609,-1382833,-1230986,-1123598,-1221040,-1539530,-1585348,-1824337,-1617092,-1598602,-1528590,-1414380,-1440375,-1422668,-1401308,-1411279,-35539288
+ "91000","New England",1,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-9223,-14590,-41091,-64505,-32506,-56731,-60755,-41508,-69350,-57303,-54846,-58852,-92922,-111938,-70657,-73058,-52852,-35086,-34182,-43125,-37019,-53648,-62155,-528609
+ "91000","New England",1,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-9223,-14590,-41091,-64505,-32506,-56731,-60755,-41508,-69350,-57303,-54846,-58852,-92922,-111938,-70657,-73058,-52852,-35086,-34182,-43125,-37019,-53648,-62155,-439083
+ "91000","New England",1,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-89525
+ "91000","New England",1,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40666
+ "91000","New England",1,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3
+ "91000","New England",1,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35825
+ "91000","New England",1,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4838
+ "91000","New England",1,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61724
+ "91000","New England",1,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3962711
+ "91000","New England",1,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-487,-247,-9515,-25658,-71830,-91628,-61305,-31573,-24338,-20432,-18547,-17007,-16820,-19729,-3739186
+ "91000","New England",1,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-9243,-24668,-70348,-87219,-58814,-29627,-21787,-18264,-16480,-14975,-14781,-17959,-2460960
+ "91000","New England",1,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-83546
+ "91000","New England",1,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-137506
+ "91000","New England",1,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65024
+ "91000","New England",1,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-650359
+ "91000","New England",1,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-385945
+ "91000","New England",1,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-341204
+ "91000","New England",1,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-9243,-24668,-70348,-87219,-58814,-29627,-21787,-18264,-16480,-14975,-14781,-17959,-138253
+ "91000","New England",1,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65127
+ "91000","New England",1,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-184898
+ "91000","New England",1,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-126791
+ "91000","New England",1,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-282308
+ "91000","New England",1,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-487,-247,-272,-990,-1481,-4409,-2492,-1946,-2551,-2168,-2067,-2032,-2039,-1770,-1278226
+ "91000","New England",1,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-390964
+ "91000","New England",1,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-487,-247,-272,-310,-266,-251,-300,-283,-282,-1701,-1692,-1656,-1644,-1544,-83669
+ "91000","New England",1,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-48532
+ "91000","New England",1,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-100377
+ "91000","New England",1,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-171606
+ "91000","New England",1,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-133,-651,-186,-950,-141,-805,0,0,0,0,0,-35795
+ "91000","New England",1,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-547,-564,-3972,-1241,-1522,-1464,-467,-374,-376,-395,-227,-269367
+ "91000","New England",1,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-177916
+ "91000","New England",1,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1632358
+ "91000","New England",1,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-151438,-16120,-152,0,0,0,0,0,0,0,0,-3182615
+ "91000","New England",1,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-74976,-54597,-61108,-67991,-224975,-147626,-204136,-175149,-172144,-182366,-178813,-210440,-265514,-313627,-246440,-190113,-178369,-173484,-177618,-181008,-212028,-243730,-222369,-1651563
+ "91000","New England",1,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-596,30,0,-30,-149769,-4766,-74914,-506,-1817,-2770,-2800,-4200,-5094,-6106,-7030,-7715,-6970,-6523,-7149,-7026,-6793,-6144,-8344,-584602
+ "91000","New England",1,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-70264,-52764,-60149,-65794,-66909,-125086,-114768,-139579,-152781,-157538,-147822,-196850,-247066,-301977,-232887,-169228,-168067,-165520,-169659,-171215,-204257,-237163,-213732,-359464
+ "91000","New England",1,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-4116,-1863,-959,-2167,-8296,-17773,-14365,-34492,-17024,-20690,-27850,-9025,-13198,-5544,-6523,-13170,-3332,-1441,-810,-2766,-977,-424,-293,-14669
+ "91000","New England",1,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-88,-572,-522,-1369,-341,-365,-157,0,0,0,0,0,0,0,0,0,0,-306860
+ "91000","New England",1,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-173714
+ "91000","New England",1,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1553
+ "91000","New England",1,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-182712
+ "91000","New England",1,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27989
+ "91000","New England",1,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1810,-5181,-22816,-32756,-17065,-4000,-4179,213,-462,-214,-262,-539480
+ "91000","New England",1,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-289465
+ "91000","New England",1,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39608
+ "91000","New England",1,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1810,-5181,-22816,-32756,-17065,-4000,-4179,213,-462,-214,-262,-60071
+ "91000","New England",1,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-150335
+ "91000","New England",1,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-709805,-729181,-788482,-760806,-748301,-768599,-856611,-906952,-1141339,-990830,-889693,-942233,-1002188,-1021721,-1036024,-1051744,-1058960,-1045646,-1035814,-1114423,-1127396,-1086007,-1105871,-2941981
+ "91000","New England",1,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-988,-1694,-2826,-3984,-3494,-5162,-2012,-1458,-879,-793,-1058,-1701,-4395,-16561,-10803,-11778,-7380,-10002,-11113,-11903,-17053,-17114,-15154,-916089
+ "91000","New England",1,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-988,-1694,-2826,-3984,-3494,-5162,-2012,-1458,-879,-793,-1058,-1701,-4395,-16561,-10803,-11778,-7380,-10002,-11113,-11903,-17053,-17114,-15154,-180679
+ "91000","New England",1,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-351324
+ "91000","New England",1,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-357089
+ "91000","New England",1,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26996
+ "91000","New England",1,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-708817,-727487,-785656,-756822,-744807,-763436,-854598,-905494,-1140460,-990037,-888635,-940532,-997794,-1005160,-1025221,-1039966,-1051580,-1035644,-1024700,-1102520,-1110343,-1068894,-1090717,-2025892
+ "91000","New England",1,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-708817,-727487,-785656,-756822,-744807,-763436,-854598,-905494,-1140460,-990037,-888635,-940532,-997794,-1005160,-1025221,-1039966,-1051580,-1035644,-1024700,-1102520,-1110343,-1068894,-1090717,-1892519
+ "91000","New England",1,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-133374
+ "91000","New England",1,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5505628
+ "91000","New England",1,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3752389
+ "91000","New England",1,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-647959
+ "91000","New England",1,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-645518
+ "91000","New England",1,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2458913
+ "91000","New England",1,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-163720
+ "91000","New England",1,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1589519
+ "91000","New England",1,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1406723
+ "91000","New England",1,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-182797
+ "91000","New England",1,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-44931,-356619,-208116,-259782,-246035,-142155,-83486,-28756,-889,-893,-7148553
+ "91000","New England",1,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-425531
+ "91000","New England",1,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-44931,-356619,-208116,-259782,-246035,-142155,-83486,-28756,-889,-893,-6723021
+ "91000","New England",1,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4174966
+ "91000","New England",1,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-44931,-356619,-208116,-259782,-246035,-142155,-83486,-28756,-889,-893,-945278
+ "91000","New England",1,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-853102
+ "91000","New England",1,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-749676
+ "91000","New England",1,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3266350
+ "91000","New England",1,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-480708
+ "91000","New England",1,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-145841
+ "91000","New England",1,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-334867
+ "91000","New England",1,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2785643
+ "91000","New England",1,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-445791
+ "91000","New England",1,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2339852
+ "91000","New England",1,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1337864
+ "91000","New England",1,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-822045,-748082,-752912,-721982,-764157,-911563,-983833,-1043716,-1050064,-1054927,-1066142,-1063719,-1209716,-1203159,-930368,-1331996,-1330481,-1410411,-1458716,-1560496,-1383290,-1487457,-1529059,-2706286
+ "91000","New England",1,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-3428,-3997,-4922,-5700,-5803,-6628,-8912,-6478,-8171,-7318,-7700,-8485,-11085,-8639,-8245,-11102,-15794,-17999,-13964,-14428,-14777,-16289,-16584,-18089
+ "91000","New England",1,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "91000","New England",1,SAGDP5N,86,"...","  State and local","Thousands of dollars",-818617,-744084,-747989,-716282,-758354,-904935,-974922,-1037239,-1041893,-1047609,-1058442,-1055235,-1198631,-1194520,-922123,-1320894,-1314687,-1392412,-1444752,-1546068,-1368513,-1471169,-1512475,-2688197
+ "91000","New England",1,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-9223,-14590,-41091,-64505,-32506,-56731,-60755,-41508,-69350,-57303,-54846,-58852,-92922,-111938,-70657,-73058,-52852,-35086,-34182,-43125,-37019,-53648,-62155,-569275
+ "91000","New England",1,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-151438,-16120,-152,0,0,0,0,0,0,0,0,-4814972
+ "91000","New England",1,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-74976,-54597,-61108,-67991,-224975,-147626,-204136,-175149,-172144,-182366,-178813,-210440,-265514,-313627,-246440,-190113,-178369,-173484,-177618,-181008,-212028,-243730,-222369,-1713287
+ "91000","New England",1,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-487,-247,-9515,-27468,-77011,-114444,-94061,-48638,-28339,-24612,-18333,-17468,-17034,-19990,-4278667
+ "91000","New England",1,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-9223,-14590,-41091,-64505,-32506,-56731,-60755,-41508,-69350,-57790,-55093,-68367,-118580,-183768,-162286,-134363,-84425,-59424,-54614,-61672,-54026,-70468,-81884,-8271173
+ "91000","New England",1,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-784781,-783778,-849590,-828798,-973276,-916224,-1060746,-1082101,-1313483,-1173197,-1068505,-1152673,-1420950,-1401580,-1662051,-1482729,-1514177,-1469166,-1359766,-1378704,-1368642,-1330840,-1329395,-27268116
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

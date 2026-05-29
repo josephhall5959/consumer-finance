@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "31000","Nebraska",4,SAGDP5N,1,"...","All industry total","Thousands of dollars",-510515,-811936,-1340831,-1344274,-1358526,-666030,-852399,-867264,-1485580,-959813,-725161,-838331,-805566,-757872,-829240,-845068,-1039090,-1052408,-1095405,-1167567,-1129663,-1053566,-1498976,-6033832
+ "31000","Nebraska",4,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-434281,-743997,-1276983,-1266700,-1231408,-528227,-699160,-695540,-1312464,-776119,-487038,-505739,-453695,-522570,-518221,-510920,-600225,-640895,-736803,-818778,-767537,-698245,-1129587,-5622692
+ "31000","Nebraska",4,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-385518,-692946,-1219189,-1210035,-1156745,-467524,-622348,-622051,-1218178,-693843,-413721,-438202,-356617,-432285,-398331,-395599,-485779,-533075,-629712,-709551,-660224,-592698,-1022243,-2428398
+ "31000","Nebraska",4,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-385518,-692946,-1219189,-1210035,-1156745,-467524,-622348,-622051,-1218178,-693843,-413721,-438202,-356617,-432285,-398331,-395599,-485779,-533075,-629712,-709551,-660224,-592698,-1022243,-2419707
+ "31000","Nebraska",4,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8691
+ "31000","Nebraska",4,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6112
+ "31000","Nebraska",4,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-240
+ "31000","Nebraska",4,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1718
+ "31000","Nebraska",4,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4153
+ "31000","Nebraska",4,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4920
+ "31000","Nebraska",4,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-335103
+ "31000","Nebraska",4,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-17,-9,-634,-1159,-3001,-4698,-3166,-1658,-1510,-1371,-1363,-1184,-1243,-1398,-361367
+ "31000","Nebraska",4,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-625,-1060,-2874,-3569,-2756,-1212,-1045,-1195,-1188,-1001,-1049,-1264,-183240
+ "31000","Nebraska",4,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22371
+ "31000","Nebraska",4,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22047
+ "31000","Nebraska",4,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3548
+ "31000","Nebraska",4,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35846
+ "31000","Nebraska",4,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44192
+ "31000","Nebraska",4,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14523
+ "31000","Nebraska",4,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-625,-1060,-2874,-3569,-2756,-1212,-1045,-1195,-1188,-1001,-1049,-1264,-6254
+ "31000","Nebraska",4,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7867
+ "31000","Nebraska",4,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7243
+ "31000","Nebraska",4,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4177
+ "31000","Nebraska",4,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15173
+ "31000","Nebraska",4,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-17,-9,-10,-99,-127,-1129,-411,-445,-464,-176,-175,-183,-194,-134,-178127
+ "31000","Nebraska",4,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-107779
+ "31000","Nebraska",4,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-17,-9,-10,-14,-12,-10,-11,-10,-11,-70,-78,-106,-98,-63,-2222
+ "31000","Nebraska",4,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-909
+ "31000","Nebraska",4,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4629
+ "31000","Nebraska",4,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13332
+ "31000","Nebraska",4,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1,-3,-2,-9,-2,-7,0,0,0,0,0,-19
+ "31000","Nebraska",4,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-84,-112,-1117,-390,-434,-447,-107,-97,-77,-96,-71,-29534
+ "31000","Nebraska",4,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19703
+ "31000","Nebraska",4,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-224336
+ "31000","Nebraska",4,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-19810,-2159,-20,0,0,0,0,0,0,0,0,-298899
+ "31000","Nebraska",4,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-1059,-767,-1006,-938,-16676,-1620,-9061,-1782,-2126,-2797,-1901,-2296,-2600,-2988,-2342,-2449,-2447,-2337,-2599,-2358,-2779,-3092,-2503,-202024
+ "31000","Nebraska",4,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-63,3,0,-3,-15848,-504,-7927,-54,-192,-293,-296,-444,-539,-646,-744,-816,-738,-690,-756,-331,-435,-438,-534,-54054
+ "31000","Nebraska",4,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-993,-770,-1006,-934,-828,-1093,-1063,-1288,-1536,-1522,-1361,-1583,-1934,-2341,-1599,-1632,-1710,-1647,-1843,-2026,-2343,-2654,-1968,-12620
+ "31000","Nebraska",4,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-3,0,0,0,0,-22,0,0,0,0,-5,0,0,0,0,-1,0,0,0,0,0,0,0,0
+ "31000","Nebraska",4,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-71,-440,-398,-981,-238,-268,-127,0,0,0,0,0,0,0,0,0,0,-94524
+ "31000","Nebraska",4,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9764
+ "31000","Nebraska",4,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-64
+ "31000","Nebraska",4,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26139
+ "31000","Nebraska",4,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4858
+ "31000","Nebraska",4,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-163,-413,-1765,-2465,-1316,-319,-332,19,-42,-19,-22,-19447
+ "31000","Nebraska",4,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10241
+ "31000","Nebraska",4,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2405
+ "31000","Nebraska",4,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-163,-413,-1765,-2465,-1316,-319,-332,19,-42,-19,-22,-3690
+ "31000","Nebraska",4,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3111
+ "31000","Nebraska",4,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-47705,-50284,-56788,-55727,-57987,-59083,-67751,-71707,-92161,-79462,-71408,-64607,-73345,-78124,-82315,-89561,-89209,-85946,-92412,-99495,-101024,-101123,-103352,-270928
+ "31000","Nebraska",4,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-252,-274,-391,-409,-517,-627,-237,-180,-247,-166,-249,-471,-1167,-4332,-3642,-4824,-3779,-5060,-3316,-3607,-3174,-2607,-2465,-97245
+ "31000","Nebraska",4,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-252,-274,-391,-409,-517,-627,-237,-180,-247,-166,-249,-471,-1167,-4332,-3642,-4824,-3779,-5060,-3316,-3607,-3174,-2607,-2465,-24620
+ "31000","Nebraska",4,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24378
+ "31000","Nebraska",4,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-48140
+ "31000","Nebraska",4,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-107
+ "31000","Nebraska",4,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-47453,-50009,-56397,-55318,-57470,-58456,-67514,-71527,-91914,-79296,-71159,-64136,-72178,-73792,-78673,-84736,-85430,-80886,-89096,-95887,-97849,-98517,-100887,-173682
+ "31000","Nebraska",4,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-47453,-50009,-56397,-55318,-57470,-58456,-67514,-71527,-91914,-79296,-71159,-64136,-72178,-73792,-78673,-84736,-85430,-80886,-89096,-95887,-97849,-98517,-100887,-164392
+ "31000","Nebraska",4,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9291
+ "31000","Nebraska",4,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-405529
+ "31000","Nebraska",4,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-225487
+ "31000","Nebraska",4,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30468
+ "31000","Nebraska",4,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27923
+ "31000","Nebraska",4,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-167095
+ "31000","Nebraska",4,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23020
+ "31000","Nebraska",4,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-157022
+ "31000","Nebraska",4,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-146885
+ "31000","Nebraska",4,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10137
+ "31000","Nebraska",4,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3602,-28750,-17680,-19817,-17708,-10377,-6031,-2284,-69,-70,-666583
+ "31000","Nebraska",4,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18754
+ "31000","Nebraska",4,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3602,-28750,-17680,-19817,-17708,-10377,-6031,-2284,-69,-70,-647829
+ "31000","Nebraska",4,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-394825
+ "31000","Nebraska",4,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3602,-28750,-17680,-19817,-17708,-10377,-6031,-2284,-69,-70,-128649
+ "31000","Nebraska",4,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75739
+ "31000","Nebraska",4,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-48616
+ "31000","Nebraska",4,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-266433
+ "31000","Nebraska",4,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-32061
+ "31000","Nebraska",4,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11704
+ "31000","Nebraska",4,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20357
+ "31000","Nebraska",4,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-234372
+ "31000","Nebraska",4,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24905
+ "31000","Nebraska",4,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-209466
+ "31000","Nebraska",4,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132614
+ "31000","Nebraska",4,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-76234,-67940,-63848,-77574,-127119,-137803,-153239,-171724,-173116,-183694,-238123,-332591,-351871,-235302,-311019,-334148,-438865,-411513,-358603,-348789,-362126,-355321,-369389,-411140
+ "31000","Nebraska",4,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-41691,-42428,-39430,-47749,-98229,-105681,-118000,-133897,-140802,-143140,-200643,-296404,-304852,-195291,-276712,-291841,-397065,-372920,-310095,-297943,-317873,-306366,-319449,-322375
+ "31000","Nebraska",4,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "31000","Nebraska",4,SAGDP5N,86,"...","  State and local","Thousands of dollars",-34543,-25512,-24418,-29825,-28890,-32122,-35239,-37827,-32314,-40554,-37480,-36187,-47019,-40011,-34307,-42308,-41800,-38593,-48507,-50846,-44254,-48955,-49939,-88765
+ "31000","Nebraska",4,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-385518,-692946,-1219189,-1210035,-1156745,-467524,-622348,-622051,-1218178,-693843,-413721,-438202,-356617,-432285,-398331,-395599,-485779,-533075,-629712,-709551,-660224,-592698,-1022243,-2434510
+ "31000","Nebraska",4,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-19810,-2159,-20,0,0,0,0,0,0,0,0,-523235
+ "31000","Nebraska",4,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-1059,-767,-1006,-938,-16676,-1620,-9061,-1782,-2126,-2797,-1901,-2296,-2600,-2988,-2342,-2449,-2447,-2337,-2599,-2358,-2779,-3092,-2503,-206944
+ "31000","Nebraska",4,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-17,-9,-634,-1322,-3414,-6463,-5631,-2973,-1829,-1703,-1344,-1226,-1262,-1419,-380813
+ "31000","Nebraska",4,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-385518,-692946,-1219189,-1210035,-1156745,-467524,-622348,-622051,-1218178,-693860,-413730,-438836,-357776,-435285,-403029,-398766,-487437,-534585,-631083,-710914,-661408,-593942,-1023641,-3130980
+ "31000","Nebraska",4,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-48763,-51050,-57794,-56665,-74663,-60703,-76813,-73489,-94287,-82259,-73309,-66903,-95918,-87285,-115192,-112154,-112788,-106310,-105720,-107864,-106129,-104303,-105947,-2491712
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

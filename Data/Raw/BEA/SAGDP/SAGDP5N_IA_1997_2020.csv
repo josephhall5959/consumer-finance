@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "19000","Iowa",4,SAGDP5N,1,"...","All industry total","Thousands of dollars",-784522,-1163183,-1949543,-2159938,-2014134,-898763,-1187176,-1409204,-2327789,-1425926,-1115395,-1216875,-1260840,-1330081,-1312889,-1334335,-1376015,-1026945,-1703449,-1471298,-1178801,-1596202,-2467630,-8901028
+ "19000","Iowa",4,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-683926,-1073695,-1871968,-2069093,-1860549,-733439,-1016806,-1198720,-2116667,-1203176,-811552,-793413,-821844,-1025094,-879238,-891227,-817937,-521538,-1281535,-1093773,-743546,-1186202,-2049031,-8423137
+ "19000","Iowa",4,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-604582,-994075,-1780475,-1979696,-1757652,-641287,-901917,-1079923,-1960281,-1069921,-692172,-679077,-652674,-869701,-687525,-704461,-633759,-344187,-1115251,-917859,-568139,-1021591,-1882983,-3568903
+ "19000","Iowa",4,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-604582,-994075,-1780475,-1979696,-1757652,-641287,-901917,-1079923,-1960281,-1069921,-692172,-679077,-652674,-869701,-687525,-704461,-633759,-344187,-1115251,-917859,-568139,-1021591,-1882983,-3545349
+ "19000","Iowa",4,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23554
+ "19000","Iowa",4,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21463
+ "19000","Iowa",4,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "19000","Iowa",4,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20279
+ "19000","Iowa",4,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1184
+ "19000","Iowa",4,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10927
+ "19000","Iowa",4,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-520786
+ "19000","Iowa",4,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-22,-13,-2290,-5205,-13339,-14681,-10856,-6473,-4708,-4272,-3995,-4284,-4900,-5386,-797949
+ "19000","Iowa",4,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2274,-4967,-12977,-12741,-10063,-5550,-3556,-3913,-3699,-3943,-4581,-5160,-528298
+ "19000","Iowa",4,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17125
+ "19000","Iowa",4,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20709
+ "19000","Iowa",4,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-38122
+ "19000","Iowa",4,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-109115
+ "19000","Iowa",4,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-190555
+ "19000","Iowa",4,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27370
+ "19000","Iowa",4,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-2274,-4967,-12977,-12741,-10063,-5550,-3556,-3913,-3699,-3943,-4581,-5160,-20447
+ "19000","Iowa",4,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-51180
+ "19000","Iowa",4,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6919
+ "19000","Iowa",4,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30736
+ "19000","Iowa",4,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16022
+ "19000","Iowa",4,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-22,-13,-16,-238,-363,-1940,-794,-923,-1152,-359,-296,-341,-319,-226,-269651
+ "19000","Iowa",4,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-114810
+ "19000","Iowa",4,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-22,-13,-16,-24,-19,-19,-22,-19,-16,-89,-80,-82,-93,-99,-1048
+ "19000","Iowa",4,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3512
+ "19000","Iowa",4,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3816
+ "19000","Iowa",4,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47369
+ "19000","Iowa",4,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-26,-114,-43,-265,-43,-215,0,0,0,0,0,-1524
+ "19000","Iowa",4,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-188,-230,-1878,-506,-861,-921,-270,-216,-258,-226,-127,-53094
+ "19000","Iowa",4,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44477
+ "19000","Iowa",4,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-399232
+ "19000","Iowa",4,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-30337,-3216,-31,0,0,0,0,0,0,0,0,-464353
+ "19000","Iowa",4,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-1744,-1270,-1527,-1680,-12839,-3590,-7702,-4292,-3668,-4903,-3327,-3381,-4384,-4394,-3132,-3313,-2775,-2511,-2628,-2562,-2925,-3169,-2369,-236753
+ "19000","Iowa",4,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-42,2,0,-2,-10646,-339,-5325,-36,-129,-197,-199,-299,-362,-434,-500,-548,-495,-464,-508,-211,-316,-235,-316,-33228
+ "19000","Iowa",4,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-1353,-1107,-1396,-1334,-1202,-1484,-1353,-1723,-2100,-2068,-1777,-2174,-2989,-3584,-2204,-2078,-2114,-1968,-2085,-2237,-2578,-2915,-2040,-11260
+ "19000","Iowa",4,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-350,-165,-131,-344,-991,-1767,-963,-2119,-1045,-1573,-1078,-619,-904,-376,-428,-686,-166,-79,-36,-115,-31,-19,-12,-487
+ "19000","Iowa",4,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-60,-414,-394,-1065,-272,-289,-129,0,0,0,0,0,0,0,0,0,0,-123337
+ "19000","Iowa",4,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11673
+ "19000","Iowa",4,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-190
+ "19000","Iowa",4,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17666
+ "19000","Iowa",4,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-38913
+ "19000","Iowa",4,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-241,-701,-2937,-4053,-2099,-478,-495,25,-54,-26,-30,-44939
+ "19000","Iowa",4,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26073
+ "19000","Iowa",4,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3402
+ "19000","Iowa",4,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-241,-701,-2937,-4053,-2099,-478,-495,25,-54,-26,-30,-12038
+ "19000","Iowa",4,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3426
+ "19000","Iowa",4,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-77599,-78350,-89966,-87716,-90058,-88562,-107188,-114505,-152718,-128330,-116040,-108666,-129003,-129663,-137580,-148225,-149198,-148402,-146322,-161997,-165471,-156432,-158183,-374455
+ "19000","Iowa",4,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-518,-583,-890,-875,-928,-1030,-431,-270,-469,-289,-443,-671,-1848,-4742,-6373,-8596,-7071,-9487,-5824,-7495,-6900,-5645,-4889,-148308
+ "19000","Iowa",4,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-518,-583,-890,-875,-928,-1030,-431,-270,-469,-289,-443,-671,-1848,-4742,-6373,-8596,-7071,-9487,-5824,-7495,-6900,-5645,-4889,-42336
+ "19000","Iowa",4,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-17095
+ "19000","Iowa",4,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-88733
+ "19000","Iowa",4,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-144
+ "19000","Iowa",4,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-77082,-77767,-89076,-86841,-89129,-87532,-106757,-114235,-152250,-128041,-115597,-107994,-127156,-124920,-131207,-139630,-142127,-138914,-140498,-154501,-158571,-150788,-153294,-226147
+ "19000","Iowa",4,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-77082,-77767,-89076,-86841,-89129,-87532,-106757,-114235,-152250,-128041,-115597,-107994,-127156,-124920,-131207,-139630,-142127,-138914,-140498,-154501,-158571,-150788,-153294,-209810
+ "19000","Iowa",4,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16337
+ "19000","Iowa",4,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-443634
+ "19000","Iowa",4,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-264580
+ "19000","Iowa",4,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42540
+ "19000","Iowa",4,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39310
+ "19000","Iowa",4,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-182730
+ "19000","Iowa",4,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24902
+ "19000","Iowa",4,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-154152
+ "19000","Iowa",4,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-140995
+ "19000","Iowa",4,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13156
+ "19000","Iowa",4,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4081,-33351,-20318,-23633,-21252,-12567,-7386,-2673,-84,-81,-965670
+ "19000","Iowa",4,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47216
+ "19000","Iowa",4,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4081,-33351,-20318,-23633,-21252,-12567,-7386,-2673,-84,-81,-918454
+ "19000","Iowa",4,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-526893
+ "19000","Iowa",4,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4081,-33351,-20318,-23633,-21252,-12567,-7386,-2673,-84,-81,-169969
+ "19000","Iowa",4,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-144737
+ "19000","Iowa",4,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-76855
+ "19000","Iowa",4,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-384993
+ "19000","Iowa",4,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-66214
+ "19000","Iowa",4,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14504
+ "19000","Iowa",4,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-51711
+ "19000","Iowa",4,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-318779
+ "19000","Iowa",4,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-76432
+ "19000","Iowa",4,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-242347
+ "19000","Iowa",4,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-189079
+ "19000","Iowa",4,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-100596,-89487,-77575,-90845,-153586,-165324,-170370,-210484,-211122,-222750,-303843,-423462,-438996,-304987,-433651,-443107,-558078,-505407,-421914,-377525,-435255,-410001,-418599,-477891
+ "19000","Iowa",4,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-50994,-52518,-47368,-56787,-118494,-124209,-125991,-163250,-165158,-175327,-255711,-377061,-378225,-240781,-359991,-382423,-498011,-450221,-373340,-324209,-371452,-339433,-346186,-348781
+ "19000","Iowa",4,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "19000","Iowa",4,SAGDP5N,86,"...","  State and local","Thousands of dollars",-49602,-36969,-30207,-34058,-35091,-41115,-44379,-47234,-45964,-47423,-48132,-46401,-60771,-64206,-73659,-60684,-60068,-55186,-48574,-53315,-63803,-70568,-72413,-129111
+ "19000","Iowa",4,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-604582,-994075,-1780475,-1979696,-1757652,-641287,-901917,-1079923,-1960281,-1069921,-692172,-679077,-652674,-869701,-687525,-704461,-633759,-344187,-1115251,-917859,-568139,-1021591,-1882983,-3590367
+ "19000","Iowa",4,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-30337,-3216,-31,0,0,0,0,0,0,0,0,-863585
+ "19000","Iowa",4,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-1744,-1270,-1527,-1680,-12839,-3590,-7702,-4292,-3668,-4903,-3327,-3381,-4384,-4394,-3132,-3313,-2775,-2511,-2628,-2562,-2925,-3169,-2369,-247680
+ "19000","Iowa",4,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-22,-13,-2290,-5446,-14040,-17618,-14910,-8572,-5186,-4767,-3970,-4338,-4926,-5416,-842888
+ "19000","Iowa",4,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-604582,-994075,-1780475,-1979696,-1757652,-641287,-901917,-1079923,-1960281,-1069943,-692185,-681367,-657879,-883040,-702207,-715318,-640233,-348894,-1119523,-921854,-572423,-1026492,-1888369,-4909102
+ "19000","Iowa",4,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-79344,-79620,-91493,-89397,-102896,-92152,-114889,-118796,-156386,-133233,-119367,-112047,-163965,-142053,-177031,-175909,-177704,-172644,-162012,-171919,-171123,-159710,-160663,-3514035
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

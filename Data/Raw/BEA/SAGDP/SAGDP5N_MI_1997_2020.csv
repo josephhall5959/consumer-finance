@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "26000","Michigan",3,SAGDP5N,1,"...","All industry total","Thousands of dollars",-713479,-792111,-1004918,-936704,-1078197,-851019,-1060138,-1051969,-1343515,-1121232,-964476,-930355,-1109632,-1042919,-1250086,-1191169,-1201466,-1065782,-1137799,-1187137,-1163954,-1194313,-1357069,-21567269
+ "26000","Michigan",3,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-538060,-645594,-846450,-779596,-900767,-631436,-794139,-735742,-1004396,-769878,-627608,-578673,-713841,-681712,-820277,-767432,-749612,-667307,-728230,-758925,-751893,-779285,-933693,-20890099
+ "26000","Michigan",3,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-102869,-179146,-346648,-327710,-314427,-165145,-219142,-183740,-332341,-211569,-125123,-140577,-152810,-156657,-132594,-144445,-115358,-46289,-148207,-162306,-164822,-200467,-350719,-979937
+ "26000","Michigan",3,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-102869,-179146,-346648,-327710,-314427,-165145,-219142,-183740,-332341,-211569,-125123,-140577,-152810,-156657,-132594,-144445,-115358,-46289,-148207,-162306,-164822,-200467,-350719,-944114
+ "26000","Michigan",3,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35823
+ "26000","Michigan",3,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33140
+ "26000","Michigan",3,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3075
+ "26000","Michigan",3,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8700
+ "26000","Michigan",3,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21365
+ "26000","Michigan",3,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54394
+ "26000","Michigan",3,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2005227
+ "26000","Michigan",3,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-97,-44,-3676,-10414,-38440,-46636,-33186,-15800,-13326,-11640,-11419,-10903,-9757,-11445,-3720133
+ "26000","Michigan",3,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3627,-10030,-37603,-44221,-30648,-14469,-10824,-10937,-10684,-10285,-9067,-10934,-2852192
+ "26000","Michigan",3,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-82343
+ "26000","Michigan",3,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-115357
+ "26000","Michigan",3,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-120022
+ "26000","Michigan",3,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-765236
+ "26000","Michigan",3,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-646097
+ "26000","Michigan",3,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-110217
+ "26000","Michigan",3,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-3627,-10030,-37603,-44221,-30648,-14469,-10824,-10937,-10684,-10285,-9067,-10934,-82850
+ "26000","Michigan",3,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-578877
+ "26000","Michigan",3,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-72103
+ "26000","Michigan",3,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-107932
+ "26000","Michigan",3,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-171159
+ "26000","Michigan",3,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-97,-44,-49,-383,-837,-2415,-2539,-1331,-2502,-703,-736,-618,-691,-512,-867941
+ "26000","Michigan",3,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-227489
+ "26000","Michigan",3,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-97,-44,-49,-51,-47,-61,-58,-54,-65,-413,-430,-297,-355,-293,-16532
+ "26000","Michigan",3,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-18000
+ "26000","Michigan",3,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52579
+ "26000","Michigan",3,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-126288
+ "26000","Michigan",3,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-98,-542,-397,-1782,-426,-1659,0,0,0,0,0,-16830
+ "26000","Michigan",3,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-235,-248,-1958,-699,-851,-779,-290,-306,-321,-336,-219,-155887
+ "26000","Michigan",3,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-254337
+ "26000","Michigan",3,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1115085
+ "26000","Michigan",3,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-84143,-8904,-85,0,0,0,0,0,0,0,0,-1783057
+ "26000","Michigan",3,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-20615,-14122,-15272,-14180,-156567,-24067,-89833,-26420,-28665,-32857,-27381,-32498,-40928,-49034,-41827,-41984,-39321,-36390,-37574,-36761,-40861,-46508,-40949,-912919
+ "26000","Michigan",3,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-572,29,0,-29,-143824,-4577,-71940,-486,-1745,-2660,-2689,-4033,-4891,-5864,-6751,-7409,-6693,-6264,-6865,-6293,-6149,-5950,-7297,-297869
+ "26000","Michigan",3,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-19396,-13848,-15129,-13829,-11630,-16633,-15545,-19689,-23446,-25154,-22014,-26707,-33654,-41897,-33321,-30539,-31524,-29622,-30434,-29432,-34394,-40389,-33533,-38410
+ "26000","Michigan",3,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-647,-302,-142,-322,-1113,-2857,-2261,-5666,-2928,-3608,-2299,-1361,-2221,-1273,-1755,-4036,-1103,-503,-275,-1036,-318,-169,-119,-8195
+ "26000","Michigan",3,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-87,-579,-545,-1434,-379,-396,-161,0,0,0,0,0,0,0,0,0,0,-383436
+ "26000","Michigan",3,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31787
+ "26000","Michigan",3,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-771
+ "26000","Michigan",3,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-116833
+ "26000","Michigan",3,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35618
+ "26000","Michigan",3,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-675,-1901,-8226,-12043,-6596,-1596,-1594,84,-186,-82,-95,-232809
+ "26000","Michigan",3,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-115393
+ "26000","Michigan",3,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21624
+ "26000","Michigan",3,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-675,-1901,-8226,-12043,-6596,-1596,-1594,84,-186,-82,-95,-54990
+ "26000","Michigan",3,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40802
+ "26000","Michigan",3,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-414576,-452326,-484530,-437705,-429773,-442224,-485164,-525582,-643390,-525355,-475061,-401922,-424872,-405260,-415791,-432384,-441974,-448416,-456873,-505838,-520628,-522007,-530026,-1460778
+ "26000","Michigan",3,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1140,-1319,-1898,-1840,-2231,-3410,-1563,-890,-1392,-769,-1128,-1234,-1855,-4890,-8258,-11988,-9478,-12564,-8244,-10454,-11215,-10320,-9189,-449368
+ "26000","Michigan",3,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1140,-1319,-1898,-1840,-2231,-3410,-1563,-890,-1392,-769,-1128,-1234,-1855,-4890,-8258,-11988,-9478,-12564,-8244,-10454,-11215,-10320,-9189,-128196
+ "26000","Michigan",3,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-86291
+ "26000","Michigan",3,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-228798
+ "26000","Michigan",3,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6083
+ "26000","Michigan",3,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-413436,-451007,-482633,-435865,-427542,-438814,-483601,-524692,-641998,-524586,-473932,-400688,-423017,-400370,-407534,-420396,-432496,-435851,-448629,-495384,-509413,-511687,-520837,-1011410
+ "26000","Michigan",3,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-413436,-451007,-482633,-435865,-427542,-438814,-483601,-524692,-641998,-524586,-473932,-400688,-423017,-400370,-407534,-420396,-432496,-435851,-448629,-495384,-509413,-511687,-520837,-925947
+ "26000","Michigan",3,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85463
+ "26000","Michigan",3,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3043882
+ "26000","Michigan",3,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1865918
+ "26000","Michigan",3,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-325955
+ "26000","Michigan",3,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-300527
+ "26000","Michigan",3,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1239436
+ "26000","Michigan",3,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-98117
+ "26000","Michigan",3,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1079847
+ "26000","Michigan",3,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1014665
+ "26000","Michigan",3,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65182
+ "26000","Michigan",3,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-21516,-175117,-103391,-130563,-121292,-72341,-42685,-14493,-463,-459,-3159694
+ "26000","Michigan",3,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-98492
+ "26000","Michigan",3,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-21516,-175117,-103391,-130563,-121292,-72341,-42685,-14493,-463,-459,-3061202
+ "26000","Michigan",3,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2217964
+ "26000","Michigan",3,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-21516,-175117,-103391,-130563,-121292,-72341,-42685,-14493,-463,-459,-264305
+ "26000","Michigan",3,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-370935
+ "26000","Michigan",3,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-207998
+ "26000","Michigan",3,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1592383
+ "26000","Michigan",3,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-198763
+ "26000","Michigan",3,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61485
+ "26000","Michigan",3,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-137278
+ "26000","Michigan",3,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1393620
+ "26000","Michigan",3,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-158250
+ "26000","Michigan",3,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1235370
+ "26000","Michigan",3,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-796660
+ "26000","Michigan",3,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-175419,-146518,-158468,-157108,-177430,-219583,-265999,-316227,-339119,-351355,-336868,-351682,-395791,-361207,-429809,-423737,-451854,-398475,-409569,-428213,-412061,-415028,-423376,-677170
+ "26000","Michigan",3,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-15938,-16625,-17351,-21053,-24813,-30410,-30425,-35917,-44384,-42261,-54794,-73001,-86345,-61413,-84554,-95741,-127012,-137027,-109854,-111840,-121917,-109504,-108690,-114827
+ "26000","Michigan",3,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "26000","Michigan",3,SAGDP5N,86,"...","  State and local","Thousands of dollars",-159480,-129893,-141117,-136056,-152617,-189173,-235574,-280311,-294735,-309094,-282074,-278680,-309446,-299794,-345255,-327996,-324842,-261448,-299715,-316373,-290144,-305524,-314686,-562344
+ "26000","Michigan",3,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-102869,-179146,-346648,-327710,-314427,-165145,-219142,-183740,-332341,-211569,-125123,-140577,-152810,-156657,-132594,-144445,-115358,-46289,-148207,-162306,-164822,-200467,-350719,-1013078
+ "26000","Michigan",3,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-84143,-8904,-85,0,0,0,0,0,0,0,0,-2898142
+ "26000","Michigan",3,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-20615,-14122,-15272,-14180,-156567,-24067,-89833,-26420,-28665,-32857,-27381,-32498,-40928,-49034,-41827,-41984,-39321,-36390,-37574,-36761,-40861,-46508,-40949,-967313
+ "26000","Michigan",3,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-97,-44,-3676,-11089,-40341,-54863,-45229,-22396,-14922,-13234,-11336,-11089,-9840,-11541,-3952943
+ "26000","Michigan",3,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-102869,-179146,-346648,-327710,-314427,-165145,-219142,-183740,-332341,-211666,-125167,-144253,-163223,-195097,-179231,-177631,-131158,-59614,-159847,-173725,-175725,-210224,-362164,-6738438
+ "26000","Michigan",3,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-435191,-466448,-499802,-451885,-586339,-466292,-574998,-552002,-672055,-558212,-502442,-434420,-550618,-486615,-641046,-589801,-618454,-607693,-568383,-585200,-576168,-569060,-571529,-14151661
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

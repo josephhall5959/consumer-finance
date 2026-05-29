@@ -1,0 +1,31 @@
+\begingroup
+\centering
+\begin{tabular}{lcccc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable: & \multicolumn{4}{c}{Exit rate}\\
+   Model:                                              & (1)             & (2)             & (3)             & (4)\\  
+   \midrule
+   \emph{Variables}\\
+   Mean log(Sales)                                     & -0.0096$^{***}$ & -0.0130$^{***}$ & -0.0110$^{***}$ & -0.0157$^{***}$\\   
+                                                       & (0.0004)        & (0.0007)        & (0.0005)        & (0.0008)\\   
+   Treated $\times$ Single-estab.                      & -0.0007         & -0.0016         & -0.0024         & -0.0041$^{**}$\\   
+                                                       & (0.0028)        & (0.0028)        & (0.0015)        & (0.0018)\\   
+   Single-estab. $\times$ Recession                    & 0.0451$^{***}$  & 0.0513$^{***}$  & 0.0308$^{***}$  & 0.0161$^{***}$\\   
+                                                       & (0.0038)        & (0.0047)        & (0.0032)        & (0.0022)\\   
+   Treated $\times$ Recession $\times$ Single-estab.   & -0.0177$^{*}$   & -0.0231$^{**}$  & 0.0012          & 0.0064\\   
+                                                       & (0.0095)        & (0.0107)        & (0.0133)        & (0.0094)\\   
+   \midrule
+   \emph{Fixed-effects}\\
+   STATE-YEAR                                          & Yes             & Yes             & Yes             & Yes\\  
+   SIC1-YEAR                                           & Yes             & Yes             & Yes             & Yes\\  
+   STATE-SIC1                                          & Yes             & Yes             & Yes             & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Observations                                        & 78,911          & 28,747          & 78,911          & 28,747\\  
+   R$^2$                                               & 0.99331         & 0.99388         & 0.99324         & 0.99372\\  
+   Within R$^2$                                        & 0.05166         & 0.08868         & 0.04132         & 0.06515\\  
+   \midrule \midrule
+   \multicolumn{5}{l}{\emph{Clustered (STATE) standard-errors in parentheses}}\\
+   \multicolumn{5}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup

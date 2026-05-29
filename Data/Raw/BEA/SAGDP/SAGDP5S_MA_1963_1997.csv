@@ -1,0 +1,83 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997
+ "25000","Massachusetts",1,SAGDP5S,1,"...","All industry total","Thousands of dollars",-45021,-47767,-47976,-55862,-52375,-55508,-58275,-67919,-74825,-106218,-102831,-109503,-146269,-161471,-205566,-241999,-285831,-310128,-357692,-484119,-522472,-550459,-581449,-617225,-711064,-751517,-814129,-739609,-890063,-968830,-1085593,-1101517,-1155133,-1152377,-1016433
+ "25000","Massachusetts",1,SAGDP5S,2,"..."," Private industries","Thousands of dollars",-19146,-22312,-22708,-31872,-29636,-30347,-30102,-35865,-38251,-64521,-53107,-39967,-58602,-58281,-81654,-93499,-97625,-107278,-128055,-179024,-225917,-234824,-250307,-311272,-387230,-402280,-360412,-378786,-380790,-402530,-484010,-456579,-469168,-466360,-486039
+ "25000","Massachusetts",1,SAGDP5S,3,"A","   Agriculture, forestry, and fishing","Thousands of dollars",-5101,-7211,-7625,-10166,-8249,-10004,-10058,-9847,-7594,-8625,-4211,-884,-1412,-1487,-4280,-7480,-2749,-3167,-4416,-7173,-33657,-28182,-24327,-41294,-54072,-50489,-33098,-25609,-26461,-27300,-40586,-21205,-20558,-19299,-20612
+ "25000","Massachusetts",1,SAGDP5S,4,"[01-02]","     Farms","Thousands of dollars",-5101,-7211,-7625,-10166,-8249,-10004,-10058,-9847,-7594,-8625,-4211,-884,-1412,-1487,-4280,-7480,-2749,-3167,-4416,-7173,-33657,-28182,-24327,-41294,-54072,-50489,-33098,-25609,-26461,-27300,-40586,-21205,-20558,-19299,-20612
+ "25000","Massachusetts",1,SAGDP5S,5,"[07-09]","     Agricultural services, forestry, and fishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,6,"B","   Mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,-4,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,7,"10","     Metal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,8,"12","     Coal mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,-4,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,9,"13","     Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,10,"14","     Nonmetallic minerals, except fuels","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,11,"C","   Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,12,"D","   Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-798,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,13,"...","     Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,14,"24","       Lumber and wood products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,15,"25","       Furniture and fixtures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,16,"32","       Stone, clay, and glass products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,17,"33","       Primary metal industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,18,"34","       Fabricated metal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,19,"35","       Industrial machinery and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,20,"36","       Electronic and other electric equipment 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,21,"371","       Motor vehicles and equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,22,"372-379","       Other transportation equipment","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,23,"38","       Instruments and related products 2/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,24,"39","       Miscellaneous manufacturing industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,25,"...","     Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-798,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,26,"20","       Food and kindred products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,27,"21","       Tobacco products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,28,"22","       Textile mill products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,29,"23","       Apparel and other textile products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,30,"26","       Paper and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,31,"27","       Printing and publishing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,32,"28","       Chemicals and allied products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-798,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,33,"29","       Petroleum and coal products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,34,"30","       Rubber and miscellaneous plastics products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,35,"31","       Leather and leather products","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,36,"E","   Transportation and public utilities","Thousands of dollars",-5711,-5320,-5395,-4700,-4969,-4889,-4277,-4291,-7970,-11303,-12626,-16221,-33622,-31864,-43550,-40168,-45567,-48105,-48572,-49168,-49027,-53668,-41322,-37922,-32793,-40782,-39000,-43896,-43452,-42864,-39630,-42835,-49197,-32319,-34609
+ "25000","Massachusetts",1,SAGDP5S,37,"...","     Transportation","Thousands of dollars",-5711,-5320,-5395,-4700,-4969,-4889,-4277,-4291,-7970,-11303,-12626,-16221,-33622,-31864,-43550,-40168,-45567,-48105,-48572,-49168,-49027,-53668,-41322,-37922,-32793,-40782,-39000,-43896,-43452,-42864,-39630,-42835,-49197,-32319,-34609
+ "25000","Massachusetts",1,SAGDP5S,38,"40","       Railroad transportation","Thousands of dollars",-409,-341,-614,-819,-887,-921,-853,-819,-2558,-6207,-6889,-10913,-28580,-26295,-37344,-35844,-41710,-43483,-42255,-42631,-44984,-48599,-35810,-32843,-29535,-37492,-35375,-40474,-39013,-39995,-35808,-39728,-45751,-29574,-33175
+ "25000","Massachusetts",1,SAGDP5S,39,"41","       Local and interurban passenger transit","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,40,"42","       Trucking and warehousing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,41,"44","       Water transportation","Thousands of dollars",-2881,-2842,-2759,-2268,-2592,-2646,-2369,-2692,-3699,-3276,-3987,-3460,-3503,-3837,-4130,-2583,-1987,-2354,-3315,-4436,-4044,-4918,-4662,-4507,-2596,-2689,-3039,-2888,-3988,-2869,-3174,-3008,-3057,-2280,-1411
+ "25000","Massachusetts",1,SAGDP5S,42,"45","       Transportation by air","Thousands of dollars",-2420,-2137,-2023,-1613,-1491,-1323,-1056,-780,-1713,-1820,-1750,-1848,-1539,-1732,-2075,-1741,-1871,-2268,-3001,-2101,0,-151,-850,-572,-662,-601,-586,-534,-451,0,-648,-99,-389,-465,-23
+ "25000","Massachusetts",1,SAGDP5S,43,"46","       Pipelines, except natural gas","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,44,"47","       Transportation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,45,"48","     Communications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,46,"49","     Electric, gas, and sanitary services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,47,"F","   Wholesale trade","Thousands of dollars",-2566,-1812,-681,-5337,-4649,-2790,-2228,-7116,-5950,-9115,-9597,-690,0,-92,0,0,0,0,0,0,0,0,0,-816,-33121,-31812,-14296,-8901,-8520,-25383,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,48,"G","   Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,49,"H","   Finance, insurance, and real estate","Thousands of dollars",-5768,-7968,-9007,-11669,-11769,-12665,-13538,-14611,-16736,-35479,-26673,-22172,-23569,-24837,-33823,-45851,-49309,-56005,-75067,-122683,-143232,-152974,-184657,-230440,-267244,-279197,-274019,-300376,-302357,-306983,-403795,-392539,-399413,-414743,-430817
+ "25000","Massachusetts",1,SAGDP5S,50,"60","     Depository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-696
+ "25000","Massachusetts",1,SAGDP5S,51,"61","     Nondepository institutions 3/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,52,"62","     Security and commodity brokers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,53,"63","     Insurance carriers","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,54,"64","     Insurance agents, brokers, and services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,55,"65","     Real estate","Thousands of dollars",-5768,-7968,-9007,-11669,-11769,-12665,-13538,-14611,-16736,-35479,-26673,-22172,-23569,-24837,-33823,-45851,-49309,-56005,-75067,-122683,-143232,-152974,-184657,-230440,-267244,-279197,-274019,-300376,-302357,-306983,-403795,-392539,-399413,-414743,-430121
+ "25000","Massachusetts",1,SAGDP5S,56,"67","     Holding and other investment offices","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,57,"I","   Services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,58,"70","     Hotels and other lodging places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,59,"72","     Personal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,60,"73","     Business services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,61,"75","     Automotive repair, services, and parking","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,62,"76","     Miscellaneous repair services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,63,"78","     Motion pictures","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,64,"79","     Amusement and recreation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,65,"80","     Health services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,66,"81","     Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,67,"82","     Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,68,"83","     Social services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,69,"86","     Membership organizations","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,70,"84, 87, 89","     Other services 4/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,71,"88","     Private households","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,72,"..."," Government and government enterprises","Thousands of dollars",-25875,-25456,-25268,-23990,-22739,-25160,-28172,-32054,-36574,-41697,-49724,-69536,-87667,-103190,-123912,-148500,-188206,-202850,-229637,-305096,-296555,-315635,-331143,-305954,-323834,-349237,-453717,-360823,-509273,-566299,-601582,-644938,-685965,-686017,-530394
+ "25000","Massachusetts",1,SAGDP5S,73,"...","   Federal civilian","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,-17,-26,-22,-31,-30,-28,-40,-62,-65,-80,-100,-119,-161,-592,-752,-971
+ "25000","Massachusetts",1,SAGDP5S,74,"...","   Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,75,"...","   State and local","Thousands of dollars",-25875,-25456,-25268,-23990,-22739,-25160,-28172,-32054,-36574,-41697,-49724,-69536,-87667,-103190,-123912,-148500,-188206,-202850,-229633,-305078,-296529,-315613,-331112,-305924,-323806,-349197,-453655,-360758,-509193,-566199,-601463,-644777,-685373,-685265,-529423
+ "25000","Massachusetts",1,SAGDP5S,76,"36, 38"," Electronic equipment and instruments 5/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "25000","Massachusetts",1,SAGDP5S,77,"60, 61"," Depository and nondepository institutions 6/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-696
+ "25000","Massachusetts",1,SAGDP5S,78,"73, 84, 87, 89"," Business services and other services 7/","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Note: See the included footnote file."
+"SAGDP5S: Subsidies 1/"
+"Last updated: November 18, 2010."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

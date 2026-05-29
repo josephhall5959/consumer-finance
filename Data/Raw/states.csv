@@ -1,0 +1,52 @@
+﻿State,Abbrev,Code,st,state_psid,msv_index
+Alaska,Alaska,AK,2,50,1.62
+Alabama,Ala.,AL,1,1,0.37
+Arkansas,Ark.,AR,5,3,-1.43
+Arizona,Ariz.,AZ,4,2,0.9
+California,Calif.,CA,6,4,0.72
+Colorado,Colo.,CO,8,5,-1.25
+Connecticut,Conn.,CT,9,6,1.26
+"Washington, D.C.",D.C.,DC,11,8,1.08
+Delaware,Del.,DE,10,7,
+Florida,Fla.,FL,12,9,-0.53
+Georgia,Ga.,GA,13,10,0.37
+Hawaii,Hawaii,HI,15,51,-0.89
+Iowa,Iowa,IA,19,14,-1.43
+Idaho,Idaho,ID,16,11,1.08
+Illinois,Ill.,IL,17,12,-0.71
+Indiana,Ind.,IN,18,13,-0.89
+Kansas,Kans.,KS,20,15,-1.07
+Kentucky,Ky.,KY,21,16,-0.53
+Louisiana,La.,LA,22,17,-0.89
+Massachusetts,Mass.,MA,25,20,0.55
+Maryland,Md.,MD,24,19,1.08
+Maine,Maine,ME,23,18,2.16
+Michigan,Mich.,MI,26,21,-0.53
+Minnesota,Minn.,MN,27,22,-0.89
+Missouri,Mo.,MO,29,24,-0.89
+Mississippi,Miss.,MS,28,23,-0.71
+Montana,Mont.,MT,30,25,-1.43
+North Carolina,N.C.,NC,37,32,1.08
+North Dakota,N.D.,ND,38,33,-1.07
+Nebraska,Nebr.,NE,31,26,-0.71
+New Hampshire,N.H.,NH,33,28,-0.71
+New Jersey,N.J.,NJ,34,29,0.9
+New Mexico,N.M.,NM,35,30,-1.43
+Nevada,Nev.,NV,32,27,1.08
+New York,N.Y.,NY,36,31,1.62
+Ohio,Ohio,OH,39,34,1.08
+Oklahoma,Okla.,OK,40,35,-0.89
+Oregon,Ore.,OR,41,36,-0.17
+Pennsylvania,Pa.,PA,42,37,0.37
+Rhode Island,R.I.,RI,44,38,1.26
+South Carolina,S.C.,SC,45,39,0.9
+South Dakota,S.D.,SD,46,40,
+Tennessee,Tenn.,TN,47,41,0.01
+Texas,Tex.,TX,48,42,-0.89
+Utah,Utah,UT,49,43,0.9
+Virginia,Va.,VA,51,45,1.08
+Vermont,Vt.,VT,50,44,0.55
+Washington,Wash.,WA,53,46,-0.35
+Wisconsin,Wis.,WI,55,48,-1.07
+West Virginia,W.Va.,WV,54,47,-0.89
+Wyoming,Wyo.,WY,56,49,-0.89

@@ -1,0 +1,665 @@
+****** PSID DATA CENTER ************************* 
+****** Variable labels for JobID = 308439 ******* 
+
+Variable    Labels
+
+V1         RELEASE NUMBER                          
+V3         FAMILY NUMBER                           
+V10        YRLY RENT PAYTS                         
+V31        YRLY FOOD STD.                          
+V37        YRLY FOOD BILL                          
+V81        FAM MONEY INC                           
+V82        CONTRIB OUTS FU                         
+V93        STATE (68)                              
+V103       OWN OR RENT                             
+V111       MIGHT MOVE                              
+V115       NUMBER IN FAMILY                        
+V117       AGE OF HEAD                             
+V143       NR CARS OWNED                           
+V158       MEDICAL INSURANCE                       
+V181       RACE                                    
+V441       RELEASE NUMBER                          
+V442       1969 INT NUMBER                         
+V455       ANNUAL RENT PYTS                        
+V494       FU FOOD STANDRD 13:                     
+V500       $  FOOD USD HOME                        
+V529       TOTAL FU $  INC                         
+V530       $  CNTRB OUT FU                         
+V537       STATE NOW                               
+V549       TOTAL # IN FU                           
+V581       NR CARS OWNED                           
+V593       OWN OR RENT?                            
+V605       MIGHT MOVE                              
+V740       MEDICAL INSURANCE                       
+V801       RACE                                    
+V1008      AGE OF HEAD                             
+V1101      RELEASE NUMBER                          
+V1102      1970 INT #                              
+V1103      STATE NOW                               
+V1128      ANNUAL RENT                             
+V1164      COST CHILD CARE                         
+V1175      $  FOOD USED HOME                       
+V1228      $  CNTRB OUT FU                         
+V1238      # IN FU                                 
+V1239      AGE OF HEAD                             
+V1254      NR CARS OWNED                           
+V1264      OWN OR RENT?                            
+V1276      MIGHT MOVE                              
+V1406      MEDICAL INSURANCE                       
+V1490      RACE                                    
+V1514      TOT FU MON INC OV414                    
+V1605      ANNUAL FOOD STD                         
+V1801      RELEASE NUMBER                          
+V1802      71 ID NO.                               
+V1803      STATE NOW                               
+V1829      ANNUAL RENT                             
+V1865      COST CHILD CARE                         
+V1876      $  FOOD USED HOME                       
+V1908      $  CNTRB OUT FU                         
+V1941      # IN FU                                 
+V1942      AGE OF HEAD                             
+V1957      NR CARS OWNED                           
+V1967      OWN OR RENT?                            
+V1981      MIGHT MOVE                              
+V2118      MEDICAL INSURANCE                       
+V2202      RACE                                    
+V2226      TOT FU MON INC                          
+V2317      ANNUAL FOOD STD                         
+V2401      RELEASE NUMBER                          
+V2402      1972 INT #                              
+V2403      STATE NOW                               
+V2429      ANNUAL RENT                             
+V2465      COST CHILD CARE                         
+V2476      $  FOOD USED HOME                       
+V2509      $  CNTRB OUT FU                         
+V2541      # IN FU                                 
+V2542      AGE OF HEAD                             
+V2557      NR CARS OWNED                           
+V2566      OWN OR RENT?                            
+V2579      MIGHT MOVE?                             
+V2715      MEDICAL INS.-HEAD                       
+V2828      RACE                                    
+V2852      TOT FU MON INC                          
+V2892      ANNUAL FOOD STD                         
+V3001      RELEASE NUMBER                          
+V3002      1973 INT #                              
+V3003      STATE NOW                               
+V3023      ANNUAL RENT                             
+V3062      $  CONTR OUT FU                         
+V3094      NUMBER IN FU                            
+V3095      AGE OF HEAD                             
+V3108      OWN OR RENT                             
+V3112      WTR MIGHT MOVE                          
+V3256      TOT FU MON INC                          
+V3274      ANNUAL FOOD STD                         
+V3300      RACE (FROM 1972 INT)                    
+V3401      RELEASE NUMBER                          
+V3402      1974 ID NUMBER                          
+V3403      CURRENT STATE                           
+V3419      ANNUAL RENT                             
+V3441      ANN FOOD AT HOME                        
+V3474      AMT OUTSIDE DEP                         
+V3507      # IN FU                                 
+V3508      AGE OF HEAD                             
+V3522      HOUSING STATUS                          
+V3526      WTR MIGHT MOVE                          
+V3676      TOT FU MON INC                          
+V3694      ANNUAL FOOD STD                         
+V3720      RACE                                    
+V3801      RELEASE NUMBER                          
+V3802      1975 INT #                              
+V3803      STATE NOW                               
+V3819      ANNUAL RENT                             
+V3841      $  FOOD USED HOME                       
+V3874      $ CONTRB OUT FU                         
+V3920      # IN FU                                 
+V3921      AGE OF HEAD                             
+V3931      # CARS/TRUCKS IN FU                     
+V3939      OWN/RENT                                
+V3944      WTR MIGHT MOVE                          
+V4154      TOT FU MON INC                          
+V4173      ANNUAL FOOD STD                         
+V4204      RACE                                    
+V4301      RELEASE NUMBER                          
+V4302      1976 ID NUMBER                          
+V4303      STATE NOW                               
+V4326      ANNUAL RENT          C12                
+V4354      ANN FOOD EXPENDITRG13G15                
+V4388      SUP OTH OUTSIDE FUH43-47                
+V4435      NUMBER IN FU                            
+V4436      AGE OF HEAD                             
+V4446      # CARS OR TRUCKS      B4                
+V4450      OWN/RENT/OR WHAT      C3                
+V4455      MIGH MOVE NEXT 2 YRS C20                
+V4717      ANN COST CH CARE B14,B15                
+V5029      TOT FU MONEY INC                        
+V5049      ANNUAL FOOD STD                         
+V5096      RACE                                    
+V5201      RELEASE NUMBER                          
+V5202      1977 ID                                 
+V5203      CURRENT STATE 1977                      
+V5225      ANNUAL RENT 1977 (C13)                  
+V5259      ANN CHILDCARE $    (G28)                
+V5271      ANNUAL FOOD$  EXCL FDSTMP               
+V5299      H+W 1976 SUPP OTH NONFU                 
+V5349      # IN FU                                 
+V5350      AGE OF HEAD                             
+V5360      # CARS/TRUCKS OWNED   B4                
+V5364      OWN/RENT OR WHAT?     C3                
+V5369      WTR MIGHT MOVE       C25                
+V5477      RET/DIS,HSWF,STUD (R) F1                
+V5626      TOT 1976 FAM MONEY INCOM                
+V5630      ANNUAL FOOD STANDARD                    
+V5662      RACE (FROM 1972 DATA)                   
+V5701      RELEASE NUMBER                          
+V5702      1978 ID                                 
+V5703      CURRENT STATE 1978                      
+V5723      ANN RENT 1978 (C11)                     
+V5770      ANN FD $  EXCL FDSTMP                   
+V5798      H+W 1977 SUPP OTH NONFU                 
+V5849      # IN FU                                 
+V5850      AGE OF HEAD                             
+V5860      B4 # CAR/TRUCK OWN                      
+V5864      C3 OWN/RENT OR WHAT                     
+V5869      C23 WTR MIGHT MOVE                      
+V6002      F1 RET/DIS,HSWF,STUD (R)                
+V6003      F2 YEAR RETIRED (R)                     
+V6173      TOT 1977 FAM $  INC                     
+V6177      ANNUAL FOOD STD                         
+V6209      RACE (FROM 1972)                        
+V6301      RELEASE NUMBER                          
+V6302      1979 ID                                 
+V6303      CURRENT STATE                           
+V6326      ANN RENT 1979 (B12)                     
+V6376      ANN FD $  EXCL FDSTMP                   
+V6387      ANN $  CHILD CR (J42)                   
+V6409      H+W 1978 SUPP OTH NONFU                 
+V6461      # IN FU                                 
+V6462      AGE OF HEAD                             
+V6473      A7 # CAR/TRUCK OWN                      
+V6479      B3 OWN/RENT OR WHAT                     
+V6487      B24 WTR MIGHT MOVE                      
+V6575      E1 RET/HWF DIS ST (HD-R)                
+V6576      E2 YR RETIRED (HD-R)                    
+V6766      TOT 1978 FAM $  INC                     
+V6770      ANNUAL FOOD STD                         
+V6802      RACE (FROM 1972)                        
+V6901      RELEASE NUMBER                          
+V6902      1980 INTERVIEW NUMBER                   
+V6903      CURRENT STATE                           
+V6925      ANN RENT 1980 (B14)                     
+V6972      ANN FD $  EXCL FD STMP                  
+V6999      H+W 1979 SUPP OTH NONFU                 
+V7066      # IN FU                                 
+V7067      AGE OF HEAD                             
+V7078      A8 # CAR/TRUCK OWN                      
+V7084      B5 OWN/RENT OR WHAT                     
+V7092      B26 WTR MIGHT MOVE                      
+V7177      E1 WTR RETIRED (HD-R)                   
+V7178      E2 YEAR RETIRED (HD-R)                  
+V7287      K60 MEDICAL INSURANCE                   
+V7412      TOT FAM $ Y 79                          
+V7416      ANNUAL FOOD STD                         
+V7447      RACE (FROM 1972)                        
+V7501      RELEASE NUMBER                          
+V7502      1981 INTERVIEW NUMBER                   
+V7503      CURRENT STATE                           
+V7525      ANN RENT-1981 (B14)                     
+V7564      ANN FD $ $  EXC FD STMP                 
+V7591      H+W 1980 SUPP OTR NONFU                 
+V7657      # IN FU                                 
+V7658      AGE OF 1981 HEAD                        
+V7669      A8 #CARS/TRUCKS OWNED                   
+V7675      B5 OWN/RENT OR WHAT                     
+V7703      B37 WTR MIGHT MOVE                      
+V7863      E1 WTR RETIRED   (HD-R)                 
+V7864      E2 YEAR RETIRED  (HD-R)                 
+V7977      K60 # NIGHTS IN HOSP-HD                 
+V7985      K68 # NIGHTS IN HOSP-WF                 
+V8065      TOT FAM $ $  Y 80                       
+V8068      ANNUAL FOOD STD                         
+V8099      RACE (FROM 1972)                        
+V8201      RELEASE NUMBER                          
+V8202      1982 INTERVIEW NUMBER                   
+V8203      CURRENT STATE                           
+V8221      ANN RENT-1982 (B9)                      
+V8256      ANN FOOD COST EXC FD ST                 
+V8284      H+W 1981 SUPP OTR NONFU                 
+V8351      # IN FU                                 
+V8352      AGE OF 1982 HEAD                        
+V8358      A3 #CARS/TRUCKS OWNED                   
+V8364      B5 OWN/RENT OR WHAT                     
+V8371      B19 WTR MIGHT MOVE                      
+V8523      E1 WTR RETIRED   (HD-R)                 
+V8524      E2 YEAR RETIRED  (HD-R)                 
+V8689      TOT FAM $ $  Y 81                       
+V8692      ANNUAL FOOD STD                         
+V8723      RACE (FROM 1972)                        
+V8801      RELEASE NUMBER                          
+V8802      1983 INTERVIEW NUMBER                   
+V8803      CURRENT STATE                           
+V8825      ANN RENT-1983 (B14)                     
+V8864      ANN FOOD COST EXC FD ST                 
+V8892      H+W 1982 SUPP OTR NONFU                 
+V8960      # IN FU                                 
+V8961      AGE OF 1983 HEAD                        
+V8967      A3 #CARS/TRUCKS OWNED                   
+V8974      B6 OWN/RENT OR WHAT                     
+V9002      B37 WHETHER MIGHT MOVE                  
+V9173      E1 WTR RETIRED   (HD-R)                 
+V9174      E2 YEAR RETIRED  (HD-R)                 
+V9293      K59 # NIGHTS HEAD IN HOS                
+V9298      K64 # NIGHTS WIFE IN HOS                
+V9375      TOT FAM MONEY Y 82                      
+V9378      ANNUAL FOOD STD                         
+V9408      RACE (FROM 1972)                        
+V10001     RELEASE NUMBER                          
+V10002     1984 INTERVIEW NUMBER                   
+V10003     CURRENT STATE-1984                      
+V10026     ANN RENT 1984 (B17)                     
+V10235     ANN FOOD COST EXC FD ST                 
+V10278     H+W 1983 SUPP OTR NONFU                 
+V10418     # IN FU                                 
+V10419     AGE OF 1984 HEAD                        
+V10430     A7 #CARS/TRUCKS OWNED                   
+V10437     B6 OWN/RENT OR WHAT                     
+V10450     B30 WTR MIGHT MOVE                      
+V10656     E1 WTR RETIRED   (HD-R)                 
+V10657     E2 YEAR RETIRED  (HD-R)                 
+V10882     K96 # NIGHTS H IN HOSP                  
+V10889     K103 # NIGHTS WF IN HOSP                
+V11022     TOT FAM MONEY Y 83                      
+V11025     ANNUAL FOOD STD                         
+V11055     RACE (FROM 1972)                        
+V11101     RELEASE NUMBER                          
+V11102     1985 INTERVIEW NUMBER                   
+V11103     CURRENT STATE                           
+V11133     ANN RENT 1985      (A20)                
+V11375     ANN FOOD COST EXC FD ST                 
+V11420     H+W 84 SUPP OTR NONFU                   
+V11605     # IN FU                                 
+V11606     AGE OF 1985 HEAD                        
+V11618     A9 OWN/RENT OR WHAT                     
+V11631     A32 WTR MIGHT MOVE                      
+V11635     A36 # CARS/TRUCKS OWNED                 
+V11638     B2 YEAR RETIRED   (HD-E)                
+V11938     G32 RACE OF HEAD (1 MEN)                
+V11990     H26 COST CHILD CARE 84                  
+V11996     H32 # NIGHTS IN HOSP-H                  
+V12349     P11 # NIGHTS IN HOSP-WF                 
+V12371     TOT FAM MONEY Y 84                      
+V12376     ANNUAL FOOD STD                         
+V12501     RELEASE NUMBER                          
+V12502     1986 INTERVIEW NUMBER                   
+V12503     CURRENT STATE                           
+V12532     ANN RENT 1986      (A20)                
+V12774     ANN FOOD COST EXC FD ST                 
+V12819     H+W 85 SUPP OTR NONFU                   
+V13010     # IN FU                                 
+V13011     AGE OF 1986 HEAD                        
+V13023     A9 OWN/RENT OR WHAT                     
+V13040     A36 WTR MIGHT MOVE                      
+V13044     A40 # CARS/TRUCKS OWNED                 
+V13047     B2 YEAR RETIRED   (HD-R)                
+V13436     H20 # NIGHTS IN HOSP   H                
+V13441     H25 SMOKE CIGARETTES?  H                
+V13442     H26 # CIGARETTES/DAY   H                
+V13443     H27 AGE FIRST SMOKED   H                
+V13444     H28 EVER SMOKE?        H                
+V13445     H29 # CIGARETTES/DAY   H                
+V13446     H30 AGE LAST SMOKED    H                
+V13447     H31 AGE FIRST SMOKED   H                
+V13471     H56 # NIGHTS IN HOSP   W                
+V13476     H61 SMOKE CIGARETTES?  W                
+V13477     H62 # CIGARETTES/DAY   W                
+V13478     H63 AGE FIRST SMOKED   W                
+V13479     H64 EVER SMOKE?        W                
+V13480     H65 # CIGARETTES/DAY   W                
+V13481     H66 AGE LAST SMOKED    W                
+V13482     H67 AGE FIRST SMOKED   W                
+V13565     L32 RACE OF HEAD 1                      
+V13623     TOT FAM MONEY Y 85                      
+V13628     ANNUAL FOOD STD                         
+V13701     RELEASE NUMBER                          
+V13702     1987 INTERVIEW NUMBER                   
+V13703     CURRENT STATE                           
+V13732     ANN RENT 1987      (A20)                
+V13876     ANN FOOD COST EXC FD ST                 
+V13921     H+W 86 SUPP OTR NONFU                   
+V14113     # IN FU                                 
+V14114     AGE OF 1987 HEAD                        
+V14126     A9 OWN/RENT OR WHAT                     
+V14143     A36 WTR MIGHT MOVE                      
+V14147     B2 YEAR RETIRED   (HD-R)                
+V14519     H7 # NIGHTS IN HOSP    H                
+V14530     H19 # NIGHTS IN HOSP   W                
+V14612     L32 RACE OF HEAD 1                      
+V14670     TOT FAM MONEY Y 86                      
+V14675     ANNUAL FOOD STD                         
+V14801     RELEASE NUMBER                          
+V14802     1988 INTERVIEW NUMBER                   
+V14803     CURRENT STATE                           
+V14936     H+W 87 SUPP OTR NONFU                   
+V15129     # IN FU                                 
+V15130     AGE OF 1988 HEAD                        
+V15140     A8 OWN/RENT OR WHAT                     
+V15151     A21 WTR MIGHT MOVE                      
+V15155     B2 YEAR RETIRED   (HD-R)                
+V15761     F7 COST CHILD CARE 1987                 
+V16086     L32 RACE OF HEAD 1                      
+V16144     TOT FAM MONEY Y 87                      
+V16149     ANNUAL FOOD STD                         
+V16301     RELEASE NUMBER                          
+V16302     1989 INTERVIEW NUMBER                   
+V16303     CURRENT STATE                           
+V16436     H+W 88 SUPP OTR NONFU                   
+V16630     # IN FU                                 
+V16631     AGE OF 1989 HEAD                        
+V16641     A8 OWN/RENT OR WHAT                     
+V16652     A21 WTR MIGHT MOVE                      
+V16656     B2 YEAR RETIRED   (HD-R)                
+V17296     F7 COST CHILD CARE 1988                 
+V17483     L32 RACE OF HEAD 1                      
+V17533     TOT FAM MONEY Y 88                      
+V17701     RELEASE NUMBER                          
+V17702     1990 INTERVEW NUMBER                    
+V17703     CURRENT STATE         90                
+V17733     ANN RENT (A27)                          
+V17807     ANN FD COST-EXC FD ST                   
+V17852     H+W 89 SUPP OTR NONFU                   
+V18048     # IN FU                                 
+V18049     AGE OF 1990 HEAD                        
+V18072     A15 OWN/RENT OR WHAT                    
+V18090     A41 WTR MIGHT MOVE                      
+V18094     B2 YEAR RETIRED   (HD-R)                
+V18700     F7 COST CHILD CARE 1989                 
+V18814     M32 RACE OF HEAD 1                      
+V18875     TOT FAM MONEY Y 89                      
+V18886     ANNUAL FOOD STD                         
+V19001     RELEASE NUMBER                          
+V19002     1991 INTERVIEW NUMBER                   
+V19003     CURRENT STATE                           
+V19033     ANN RENT (A27)                          
+V19107     ANN FD COST-HOME                        
+V19152     H+W 90 SUPP OTR NONFU                   
+V19348     # IN FU                                 
+V19349     AGE OF 1991 HEAD                        
+V19372     A15 OWN/RENT OR WHAT                    
+V19390     A41 WTR MIGHT MOVE                      
+V19394     B2 YEAR RETIRED   (HD-R)                
+V20000     F7 COST CHILD CARE 1990                 
+V20114     L32 RACE OF HEAD 1                      
+V20175     TOT FAM MONEY Y 90                      
+V20186     ANNUAL FOOD STD                         
+V20301     RELEASE NUMBER                          
+V20302     1992 INTERVIEW NUMBER                   
+V20303     CURRENT STATE                           
+V20333     ANN RENT (A31)                          
+V20407     ANN FD COST-HOME                        
+V20452     H+W 91 SUPP OTR NONFU                   
+V20650     # IN FU                                 
+V20651     AGE OF 1992 HEAD                        
+V20672     A19 OWN/RENT OR WHAT                    
+V20690     A45 WTR MIGHT MOVE                      
+V20694     B2 YEAR RETIRED   (HD-R)                
+V21300     F7 COST CHILD CARE 1991                 
+V21420     M32 RACE OF HEAD 1                      
+V21481     TOT FAM MONEY Y 91                      
+V21492     ANNUAL FOOD STD                         
+V21601     RELEASE NUMBER                          
+V21602     1993 INTERVIEW NUMBER                   
+V21603     CURRENT STATE                           
+V21622     ANNUAL RENT (A31)                       
+V21707     ANNUAL COST FOOD-HOME (F15/F17/F19/F21) 
+V21960     G106 HD+WF 1992 SUPPORT TO NON-FU OTHERS
+V22405     NUMBER IN FAMILY UNIT                   
+V22406     AGE OF 1993 HEAD                        
+V22427     A19 WTR OWN/RENT OR WHAT                
+V22445     A45 WTR MIGHT MOVE                      
+V22449     B2 YEAR RETIRED (HD-R)                  
+V23159     F7 COST CHILD CARE 1992                 
+V23276     L32 RACE OF HD-1ST MENTION              
+V23322     TOTAL 1992 FAMILY MONEY INCOME          
+ER2001     RELEASE NUMBER                          
+ER2002     1994 INTERVIEW #                        
+ER2006     # IN FU                                 
+ER2007     AGE OF HEAD                             
+ER2032     A19 OWN/RENT OR WHAT                    
+ER2072     B2 YEAR RETIRED (HD-R)                  
+ER3058     F7 COST CHILD CARE    19                
+ER3713     G106 TOTAL SUPP OF OTRS                 
+ER3944     L32 RACE OF HEAD      1                 
+ER4153     TOTAL FAMILY INCOME-1993                
+ER4156     PSID STATE OF RESIDENCE CODE            
+ER5001     RELEASE NUMBER                          
+ER5002     1995 INTERVIEW #                        
+ER5005     # IN FU                                 
+ER5006     AGE OF HEAD                             
+ER5031     A19 OWN/RENT OR WHAT                    
+ER5066A    A45 WTR MIGHT MOVE                      
+ER5071     B2 YEAR RETIRED (HD-R)                  
+ER6057     F7 COST CHILD CARE    19                
+ER6715     G106 TOTAL SUPP OF OTRS                 
+ER6814     L32 RACE OF HEAD      1                 
+ER6993     TOTAL FAMILY INCOME-1994                
+ER6996     PSID STATE OF RESIDENCE CODE            
+ER7001     RELEASE NUMBER                          
+ER7002     1996 INTERVIEW #                        
+ER7005     # IN FU                                 
+ER7006     AGE OF HEAD                             
+ER7031     A19 OWN/RENT OR WHAT                    
+ER7161     A45 WTR MIGHT MOVE                      
+ER7167     B2 YEAR RETIRED (HD-R)                  
+ER8154     F7 COST CHILD CARE    19                
+ER8833     G106 TOTAL SUPP OF OTRS                 
+ER8841     G115 MONEY PROBLEM MNTN1                
+ER8842     G115 MONEY PROBLEM MNTN2                
+ER8843     G115 MONEY PROBLEM MNTN3                
+ER8844     G115 MONEY PROBLEM MNTN4                
+ER8845     G115 MONEY PROBLEM MNTN5                
+ER8846     G115 MONEY PROBLEM MNTN6                
+ER8915     G133 WTR BANKRPT SINCE91                
+ER8916     G134 # BANKRUPTCIES                     
+ER8917     G135 YEAR BNKRPT FILED 1                
+ER8918     G136 STATE FILED-BNKRPT1                
+ER8919     G137 WHY FILED1-BNKRPT1                 
+ER8920     G137 WHY FILED2-BNKRPT1                 
+ER8921     G137 WHY FILED3-BNKRPT1                 
+ER8922     G137 WHY FILED4-BNKRPT1                 
+ER8923     G137 WHY FILED5-BNKRPT1                 
+ER8924     G137 WHY FILED6-BNKRPT1                 
+ER8925     G137 WHY FILED7-BNKRPT1                 
+ER8943     G135 YEAR BNKRPT FILED 2                
+ER8944     G136 STATE FILED-BNKRPT2                
+ER8945     G137 WHY FILED1-BNKRPT2                 
+ER8946     G137 WHY FILED2-BNKRPT2                 
+ER8947     G137 WHY FILED3-BNKRPT2                 
+ER8948     G137 WHY FILED4-BNKRPT2                 
+ER8949     G137 WHY FILED5-BNKRPT2                 
+ER8950     G137 WHY FILED6-BNKRPT2                 
+ER8951     G137 WHY FILED7-BNKRPT2                 
+ER8961     G144 TOT DEBT FILED-BKR2                
+ER8962     G145 REM DEBT AT END-BK2                
+ER9060     L32 RACE OF HEAD      1                 
+ER9244     TOTAL FAMILY INCOME-1995                
+ER9247     PSID STATE OF RESIDENCE CODE            
+ER10001    RELEASE NUMBER                          
+ER10002    1997 INTERVIEW #                        
+ER10008    # IN FU                                 
+ER10009    AGE OF HEAD                             
+ER10035    A19 OWN/RENT OR WHAT                    
+ER10079    A45 WTR MIGHT MOVE                      
+ER10084    B2 YEAR RETIRED (HD-R)                  
+ER11048    F7 COST CHILD CARE    19                
+ER11715    G106 TOTAL SUPP OF OTRS                 
+ER11848    L40/95 RACE OF HEAD 1                   
+ER12079    TOTAL FAMILY INCOME                     
+ER12221    PSID STATE OF RESIDENCE CODE            
+ER13001    RELEASE NUMBER                          
+ER13002    1999 FAMILY INTERVIEW (ID) NUMBER       
+ER13004    PSID STATE OF RESIDENCE CODE            
+ER13009    # IN FU                                 
+ER13010    AGE OF HEAD                             
+ER13040    A19 OWN/RENT OR WHAT                    
+ER13084    A45 WTR MIGHT MOVE                      
+ER13100    V2 NUMBER OF VEHICLES                   
+ER13208    B2 YEAR RETIRED (HD-R)                  
+ER14232    F7 COST CHILD CARE    19                
+ER14983    G106 TOTAL SUPP OF OTRS                 
+ER15928    L40/95 RACE OF HEAD 1                   
+ER16462    TOTAL FAMILY INCOME                     
+ER17001    RELEASE NUMBER                          
+ER17002    2001 FAMILY INTERVIEW (ID) NUMBER       
+ER17004    PSID STATE OF RESIDENCE CODE            
+ER17012    # IN FU                                 
+ER17013    AGE OF HEAD                             
+ER17043    A19 OWN/RENT OR WHAT                    
+ER17095    A45 WTR MIGHT MOVE                      
+ER17111    V2 NUMBER OF VEHICLES                   
+ER17219    B2 YEAR RETIRED (HD-R)                  
+ER18362    F7 COST CHILD CARE LAST YEAR            
+ER19179    G106 TOTAL SUPP OF OTRS                 
+ER19989    L40/95 RACE OF HEAD 1                   
+ER20456    TOTAL FAMILY INCOME-2000                
+ER21001    RELEASE NUMBER                          
+ER21002    2003 FAMILY INTERVIEW (ID) NUMBER       
+ER21003    PSID STATE OF RESIDENCE CODE            
+ER21016    # IN FU                                 
+ER21017    AGE OF HEAD                             
+ER21042    A19 OWN/RENT OR WHAT                    
+ER21121    A51 WTR MIGHT MOVE                      
+ER21126    BC2 YEAR RETIRED (HD-R)                 
+ER21628    F7 COST CHILD CARE LAST YEAR            
+ER21750    F48 NUMBER OF VEHICLES                  
+ER22544    G106 TOTAL SUPP OF OTRS                 
+ER23090    H8A # NIGHTS IN HOSPITAL                
+ER23217    H32A # NIGHTS HOSPITALIZED              
+ER23426    L40/95 RACE OF HEAD 1                   
+ER24099    TOTAL FAMILY INCOME LAST YEAR           
+ER25001    RELEASE NUMBER                          
+ER25002    2005 FAMILY INTERVIEW (ID) NUMBER       
+ER25003    PSID STATE OF RESIDENCE CODE            
+ER25016    # IN FU                                 
+ER25017    AGE OF HEAD                             
+ER25028    A19 OWN/RENT OR WHAT                    
+ER25102    A51 WTR MIGHT MOVE                      
+ER25107    BC2 YEAR RETIRED                        
+ER25628    F6D COST CHILD CARE LAST YEAR           
+ER25709    F48 NUMBER OF VEHICLES                  
+ER26525    G106 TOTAL SUPP OF OTRS                 
+ER27057    H8A # NIGHTS IN HOSPITAL-HEAD           
+ER27180    H32A # NIGHTS HOSPITALIZED-WIFE         
+ER27393    L40 RACE OF HEAD-MENTION 1              
+ER28037    TOTAL FAMILY INCOME-2004                
+ER36001    RELEASE NUMBER                          
+ER36002    2007 FAMILY INTERVIEW (ID) NUMBER       
+ER36003    PSID STATE OF RESIDENCE CODE            
+ER36016    # IN FU                                 
+ER36017    AGE OF HEAD                             
+ER36028    A19 OWN/RENT OR WHAT                    
+ER36107    A51 WTR MIGHT MOVE                      
+ER36112    BC2 YEAR RETIRED                        
+ER36633    F6D COST CHILD CARE LAST YEAR           
+ER36727    F48 NUMBER OF VEHICLES                  
+ER37543    G106 TOTAL SUPP OF OTRS                 
+ER38268    H8A # NIGHTS IN HOSPITAL-HEAD           
+ER39365    H8A # NIGHTS HOSPITALIZED-WIFE          
+ER40565    L40 RACE OF HEAD-MENTION 1              
+ER41027    TOTAL FAMILY INCOME-2006                
+ER42001    RELEASE NUMBER                          
+ER42002    2009 FAMILY INTERVIEW (ID) NUMBER       
+ER42003    PSID STATE OF RESIDENCE CODE            
+ER42016    # IN FU                                 
+ER42017    AGE OF HEAD                             
+ER42029    A19 OWN/RENT OR WHAT                    
+ER42138    A51 WTR MIGHT MOVE                      
+ER42143    BC2 YEAR RETIRED                        
+ER42652    F6D COST CHILD CARE LAST YEAR           
+ER42733    F48 NUMBER OF VEHICLES                  
+ER43534    G106 TOTAL SUPP OF OTRS                 
+ER44241    H8A # NIGHTS IN HOSPITAL-HEAD           
+ER45338    H8A # NIGHTS HOSPITALIZED-WIFE          
+ER46543    L40 RACE OF HEAD-MENTION 1              
+ER46935    TOTAL FAMILY INCOME-2008                
+ER47301    RELEASE NUMBER                          
+ER47302    2011 FAMILY INTERVIEW (ID) NUMBER       
+ER47303    PSID STATE OF RESIDENCE CODE            
+ER47316    # IN FU                                 
+ER47317    AGE OF HEAD                             
+ER47329    A19 OWN/RENT OR WHAT                    
+ER47446    A51 WTR MIGHT MOVE                      
+ER47451    BC2 YEAR RETIRED                        
+ER47970    F6D COST CHILD CARE LAST YEAR           
+ER48049    F48 NUMBER OF VEHICLES                  
+ER48859    G106 TOTAL SUPP OF OTRS                 
+ER48937    W39A AMOUNT OF CREDIT/STORE CARD DEBT   
+ER49579    H8A # NIGHTS IN HOSPITAL-HEAD           
+ER50697    H8A # NIGHTS HOSPITALIZED-WIFE          
+ER51904    L40 RACE OF HEAD-MENTION 1              
+ER52343    TOTAL FAMILY INCOME-2010                
+ER53001    RELEASE NUMBER                          
+ER53002    2013 FAMILY INTERVIEW (ID) NUMBER       
+ER53003    PSID STATE OF RESIDENCE CODE            
+ER53016    # IN FU                                 
+ER53017    AGE OF HEAD                             
+ER53029    A19 OWN/RENT OR WHAT                    
+ER53146    A51 WTR MIGHT MOVE                      
+ER53151    BC2 YEAR RETIRED                        
+ER53682    F6D COST CHILD CARE LAST YEAR           
+ER53746    F48 NUMBER OF VEHICLES                  
+ER54602    G106 TOTAL SUPP OF OTRS                 
+ER54687    W39A AMOUNT CREDIT/STORE CARD DEBT      
+ER55327    H8A # NIGHTS IN HOSPITAL-HEAD           
+ER56443    H8A # NIGHTS HOSPITALIZED-WIFE          
+ER57659    L40 RACE OF HEAD-MENTION 1              
+ER58152    TOTAL FAMILY INCOME-2012                
+ER60001    RELEASE NUMBER                          
+ER60002    2015 FAMILY INTERVIEW (ID) NUMBER       
+ER60003    PSID STATE OF RESIDENCE CODE            
+ER60016    # IN FU                                 
+ER60017    AGE OF HEAD                             
+ER60030    A19 OWN/RENT OR WHAT                    
+ER60161    A51 WTR MIGHT MOVE                      
+ER60166    BC2 YEAR RETIRED                        
+ER60697    F6D COST CHILD CARE LAST YEAR           
+ER60805    F48 NUMBER OF VEHICLES                  
+ER61713    G106 TOTAL SUPP OF OTRS                 
+ER61798    W39A AMOUNT CREDIT/STORE CARD DEBT      
+ER62449    H8A # NIGHTS IN HOSPITAL-HEAD           
+ER63565    H8A # NIGHTS HOSPITALIZED-SPOUSE        
+ER64810    L40 RACE OF HEAD-MENTION 1              
+ER65349    TOTAL FAMILY INCOME-2014                
+ER66001    RELEASE NUMBER                          
+ER66002    2017 FAMILY INTERVIEW (ID) NUMBER       
+ER66003    PSID STATE OF RESIDENCE CODE            
+ER66016    # IN FU                                 
+ER66017    AGE OF REFERENCE PERSON                 
+ER66030    A19 OWN/RENT OR WHAT                    
+ER66162    A51 WTR MIGHT MOVE                      
+ER66167    BC2 YEAR RETIRED                        
+ER66744    F6D COST CHILD CARE LAST YEAR           
+ER66853    F48 NUMBER OF VEHICLES                  
+ER67766    G106 TOTAL SUPP OF OTRS                 
+ER67852    W39A AMOUNT CREDIT/STORE CARD DEBT      
+ER68512    H8A # NIGHTS IN HOSPITAL-RP             
+ER69639    H8A # NIGHTS HOSPITALIZED-SPOUSE        
+ER70882    L40 RACE OF REFERENCE PERSON-MENTION 1  
+ER71426    TOTAL FAMILY INCOME-2016                
+ER72001    RELEASE NUMBER                          
+ER72002    2019 FAMILY INTERVIEW (ID) NUMBER       
+ER72003    PSID STATE OF RESIDENCE CODE            
+ER72016    # IN FU                                 
+ER72017    AGE OF REFERENCE PERSON                 
+ER72030    A19 OWN/RENT OR WHAT                    
+ER72162    A51 WTR MIGHT MOVE                      
+ER72167    BC2 YEAR RETIRED                        
+ER72748    F7 COST CHILD CARE LAST YEAR            
+ER72857    F48 NUMBER OF VEHICLES                  
+ER73789    G106 TOTAL SUPP OF OTRS                 
+ER73880    W39A AMOUNT CREDIT/STORE CARD DEBT      
+ER74520    H8A # NIGHTS IN HOSPITAL-RP             
+ER75647    H8A # NIGHTS HOSPITALIZED-SPOUSE        
+ER76897    L40 RACE OF REFERENCE PERSON-MENTION 1  
+ER77448    TOTAL FAMILY INCOME-2018                
+
+*** End of labels ******************************* 

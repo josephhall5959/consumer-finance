@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "49000","Utah",7,SAGDP5N,1,"...","All industry total","Thousands of dollars",-145506,-151316,-170935,-169625,-243477,-207862,-259553,-225337,-277190,-240852,-237435,-259616,-317186,-311734,-347377,-351738,-341785,-375585,-346098,-358786,-375682,-399298,-413546,-7142935
+ "49000","Utah",7,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-97877,-106906,-125264,-127351,-192583,-141079,-183517,-140081,-198648,-167061,-158897,-182578,-221684,-216530,-248826,-251980,-241084,-271227,-230511,-240284,-250734,-264317,-269777,-6895082
+ "49000","Utah",7,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-17042,-21391,-26355,-31160,-35422,-46937,-48384,-31402,-46976,-34331,-33043,-40105,-37407,-33284,-29689,-32505,-31757,-60244,-41161,-34087,-38659,-54788,-53446,-236852
+ "49000","Utah",7,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-17042,-21391,-26355,-31160,-35422,-46937,-48384,-31402,-46976,-34331,-33043,-40105,-37407,-33284,-29689,-32505,-31757,-60244,-41161,-34087,-38659,-54788,-53446,-226745
+ "49000","Utah",7,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10107
+ "49000","Utah",7,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52425
+ "49000","Utah",7,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4132
+ "49000","Utah",7,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26780
+ "49000","Utah",7,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21513
+ "49000","Utah",7,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20774
+ "49000","Utah",7,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-899114
+ "49000","Utah",7,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-24,-12,-646,-1853,-6281,-7891,-6458,-3040,-3647,-2006,-1552,-1669,-1945,-2242,-582867
+ "49000","Utah",7,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-631,-1549,-4905,-6486,-4650,-2305,-1758,-1749,-1338,-1475,-1744,-2061,-411363
+ "49000","Utah",7,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16113
+ "49000","Utah",7,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12700
+ "49000","Utah",7,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7255
+ "49000","Utah",7,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-89485
+ "49000","Utah",7,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-36363
+ "49000","Utah",7,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-51943
+ "49000","Utah",7,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-631,-1549,-4905,-6486,-4650,-2305,-1758,-1749,-1338,-1475,-1744,-2061,-31333
+ "49000","Utah",7,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13234
+ "49000","Utah",7,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22159
+ "49000","Utah",7,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42223
+ "49000","Utah",7,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-88555
+ "49000","Utah",7,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-24,-12,-15,-304,-1376,-1404,-1809,-734,-1889,-257,-214,-194,-202,-180,-171504
+ "49000","Utah",7,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-62386
+ "49000","Utah",7,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-24,-12,-15,-19,-16,-16,-20,-23,-23,-180,-146,-117,-132,-135,-4084
+ "49000","Utah",7,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6429
+ "49000","Utah",7,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3765
+ "49000","Utah",7,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31232
+ "49000","Utah",7,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-176,-1240,-491,-1563,-580,-1671,0,0,0,0,0,-3298
+ "49000","Utah",7,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-108,-119,-897,-226,-132,-196,-76,-69,-77,-70,-45,-33347
+ "49000","Utah",7,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26962
+ "49000","Utah",7,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-329943
+ "49000","Utah",7,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-28045,-2976,-28,0,0,0,0,0,0,0,0,-718180
+ "49000","Utah",7,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-1349,-641,-803,-764,-64727,-3008,-33051,-1690,-2183,-3072,-2392,-3344,-3986,-5149,-4846,-5168,-4914,-4592,-4825,-5143,-5452,-5847,-6810,-495186
+ "49000","Utah",7,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-255,13,0,-13,-64031,-2038,-32028,-216,-777,-1184,-1197,-1796,-2178,-2611,-3005,-3298,-2980,-2789,-3056,-3316,-3334,-3267,-4542,-290702
+ "49000","Utah",7,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-1082,-649,-801,-746,-673,-904,-922,-1126,-1112,-1124,-962,-1313,-1709,-2533,-1839,-1868,-1934,-1803,-1769,-1827,-2117,-2577,-2265,-12534
+ "49000","Utah",7,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-12,-5,-2,-5,-23,-66,-69,-126,-74,-128,-60,-39,-11,-5,-1,-2,0,0,0,0,-2,-3,-3,-347
+ "49000","Utah",7,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-32,-222,-221,-635,-173,-197,-88,0,0,0,0,0,0,0,0,0,0,-145084
+ "49000","Utah",7,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4683
+ "49000","Utah",7,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-143
+ "49000","Utah",7,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-36993
+ "49000","Utah",7,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4701
+ "49000","Utah",7,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-169,-433,-1886,-3008,-1681,-428,-471,28,-60,-28,-37,-198032
+ "49000","Utah",7,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-100381
+ "49000","Utah",7,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26808
+ "49000","Utah",7,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-169,-433,-1886,-3008,-1681,-428,-471,28,-60,-28,-37,-34013
+ "49000","Utah",7,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-36830
+ "49000","Utah",7,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-79486,-84874,-98106,-95427,-92434,-91134,-102082,-106989,-149489,-129635,-123450,-138483,-150224,-164621,-172948,-185714,-177297,-181685,-170276,-192318,-202330,-201627,-207156,-591320
+ "49000","Utah",7,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-532,-665,-1268,-1604,-2636,-2894,-1268,-1427,-2061,-1429,-2788,-4348,-6630,-22208,-25659,-35746,-23408,-30382,-18191,-22665,-24553,-23371,-21491,-246631
+ "49000","Utah",7,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-532,-665,-1268,-1604,-2636,-2894,-1268,-1427,-2061,-1429,-2788,-4348,-6630,-22208,-25659,-35746,-23408,-30382,-18191,-22665,-24553,-23371,-21491,-95942
+ "49000","Utah",7,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45941
+ "49000","Utah",7,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-102504
+ "49000","Utah",7,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2244
+ "49000","Utah",7,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-78954,-84208,-96838,-93823,-89798,-88240,-100814,-105562,-147428,-128205,-120662,-134135,-143594,-142413,-147289,-149968,-153890,-151303,-152085,-169653,-177777,-178256,-185664,-344689
+ "49000","Utah",7,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-78954,-84208,-96838,-93823,-89798,-88240,-100814,-105562,-147428,-128205,-120662,-134135,-143594,-142413,-147289,-149968,-153890,-151303,-152085,-169653,-177777,-178256,-185664,-318119
+ "49000","Utah",7,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26570
+ "49000","Utah",7,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-976329
+ "49000","Utah",7,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-627289
+ "49000","Utah",7,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-109262
+ "49000","Utah",7,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-127130
+ "49000","Utah",7,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-390897
+ "49000","Utah",7,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-41661
+ "49000","Utah",7,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-307379
+ "49000","Utah",7,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-281438
+ "49000","Utah",7,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25942
+ "49000","Utah",7,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3786,-31537,-19127,-22396,-20630,-11772,-7211,-2564,-82,-86,-986695
+ "49000","Utah",7,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50217
+ "49000","Utah",7,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3786,-31537,-19127,-22396,-20630,-11772,-7211,-2564,-82,-86,-936479
+ "49000","Utah",7,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-689581
+ "49000","Utah",7,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3786,-31537,-19127,-22396,-20630,-11772,-7211,-2564,-82,-86,-109375
+ "49000","Utah",7,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77623
+ "49000","Utah",7,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-59899
+ "49000","Utah",7,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-606508
+ "49000","Utah",7,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-91657
+ "49000","Utah",7,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30446
+ "49000","Utah",7,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-61211
+ "49000","Utah",7,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-514851
+ "49000","Utah",7,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-87442
+ "49000","Utah",7,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-427409
+ "49000","Utah",7,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-200857
+ "49000","Utah",7,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-47629,-44410,-45671,-42274,-50895,-66783,-76036,-85255,-78542,-73792,-78538,-77037,-95502,-95204,-98551,-99757,-100700,-104358,-115587,-118503,-124949,-134981,-143770,-247854
+ "49000","Utah",7,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-457,-309,-356,-462,-646,-768,-817,-1260,-1637,-1215,-1131,-1554,-2727,-1598,-1791,-2082,-3332,-3372,-2379,-3302,-3356,-8248,-12937,-14511
+ "49000","Utah",7,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "49000","Utah",7,SAGDP5N,86,"...","  State and local","Thousands of dollars",-47173,-44101,-45315,-41813,-50249,-66015,-75220,-83996,-76905,-72577,-77406,-75483,-92775,-93606,-96760,-97675,-97368,-100986,-113208,-115201,-121593,-126733,-130833,-233342
+ "49000","Utah",7,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-17042,-21391,-26355,-31160,-35422,-46937,-48384,-31402,-46976,-34331,-33043,-40105,-37407,-33284,-29689,-32505,-31757,-60244,-41161,-34087,-38659,-54788,-53446,-289277
+ "49000","Utah",7,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-28045,-2976,-28,0,0,0,0,0,0,0,0,-1048123
+ "49000","Utah",7,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-1349,-641,-803,-764,-64727,-3008,-33051,-1690,-2183,-3072,-2392,-3344,-3986,-5149,-4846,-5168,-4914,-4592,-4825,-5143,-5452,-5847,-6810,-515960
+ "49000","Utah",7,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-24,-12,-646,-2022,-6714,-9777,-9467,-4721,-4075,-2477,-1524,-1729,-1974,-2278,-780899
+ "49000","Utah",7,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-17042,-21391,-26355,-31160,-35422,-46937,-48384,-31402,-46976,-34354,-33055,-40751,-39260,-39565,-37580,-38963,-34796,-63892,-43167,-35639,-40328,-56733,-55688,-1771258
+ "49000","Utah",7,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-80835,-85515,-98909,-96191,-157160,-94142,-135133,-108679,-151672,-132706,-125842,-141827,-182423,-176965,-211246,-213017,-206288,-207336,-187344,-204644,-210406,-207584,-214089,-5123824
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

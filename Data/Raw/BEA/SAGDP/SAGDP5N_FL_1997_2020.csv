@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "12000","Florida",5,SAGDP5N,1,"...","All industry total","Thousands of dollars",-1220748,-1226229,-1279770,-1259324,-1766386,-1578268,-1999916,-2210921,-2685900,-2346199,-2235046,-2134114,-2461265,-2162199,-2586017,-2437800,-2401012,-2355214,-2376122,-2538155,-2510293,-2622726,-2791381,-45537496
+ "12000","Florida",5,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-769557,-801423,-844288,-874424,-1350510,-1077068,-1471812,-1654270,-2108914,-1716274,-1522295,-1416073,-1644828,-1369167,-1668910,-1629904,-1572433,-1551026,-1541949,-1683663,-1705319,-1749121,-1882390,-43943057
+ "12000","Florida",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-16152,-21164,-66369,-98091,-96322,-73259,-115641,-179987,-372809,-120216,-110144,-134712,-65263,-78921,-148286,-56942,-57582,-63101,-54571,-57425,-75452,-118453,-211436,-866570
+ "12000","Florida",5,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-16152,-21164,-66369,-98091,-96322,-73259,-115641,-179987,-372809,-120216,-110144,-134712,-65263,-78921,-148286,-56942,-57582,-63101,-54571,-57425,-75452,-118453,-211436,-779535
+ "12000","Florida",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-87035
+ "12000","Florida",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50422
+ "12000","Florida",5,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1920
+ "12000","Florida",5,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37201
+ "12000","Florida",5,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11300
+ "12000","Florida",5,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-79330
+ "12000","Florida",5,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4609845
+ "12000","Florida",5,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-163,-69,-1549,-6062,-18659,-22010,-16502,-7964,-7476,-6133,-5708,-5926,-5954,-6157,-2295358
+ "12000","Florida",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1460,-5652,-17484,-20048,-14708,-6883,-5655,-5244,-4879,-5181,-5210,-5454,-1587164
+ "12000","Florida",5,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77153
+ "12000","Florida",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-100797
+ "12000","Florida",5,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-32488
+ "12000","Florida",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-316674
+ "12000","Florida",5,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-238838
+ "12000","Florida",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-156943
+ "12000","Florida",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1460,-5652,-17484,-20048,-14708,-6883,-5655,-5244,-4879,-5181,-5210,-5454,-86847
+ "12000","Florida",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29381
+ "12000","Florida",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-181377
+ "12000","Florida",5,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-102897
+ "12000","Florida",5,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-263767
+ "12000","Florida",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-163,-69,-89,-409,-1175,-1962,-1795,-1081,-1821,-889,-828,-745,-745,-703,-708194
+ "12000","Florida",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-194589
+ "12000","Florida",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-163,-69,-89,-97,-80,-75,-70,-83,-92,-525,-521,-448,-470,-488,-32862
+ "12000","Florida",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30700
+ "12000","Florida",5,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21318
+ "12000","Florida",5,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-120777
+ "12000","Florida",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-167,-908,-141,-1152,-132,-987,0,0,0,0,0,-22371
+ "12000","Florida",5,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-146,-187,-1745,-573,-866,-742,-364,-308,-296,-275,-214,-208325
+ "12000","Florida",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-77253
+ "12000","Florida",5,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1958734
+ "12000","Florida",5,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-188647,-20267,-196,0,0,0,0,0,0,0,0,-4227931
+ "12000","Florida",5,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-46371,-29243,-27858,-37354,-512650,-174440,-354227,-320552,-177403,-225219,-154940,-118482,-182348,-130823,-133870,-213827,-100756,-76781,-71165,-103927,-75652,-73611,-69370,-3866768
+ "12000","Florida",5,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-1736,87,0,-87,-436345,-13885,-218259,-1475,-5294,-8071,-8158,-12236,-14840,-17791,-20481,-22477,-20307,-19005,-20828,-22045,-21669,-21842,-28030,-2423073
+ "12000","Florida",5,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-24232,-18993,-22017,-22932,-20265,-26464,-25607,-23174,-28696,-25810,-24135,-31805,-43838,-55359,-43713,-40403,-40168,-36898,-38039,-36789,-38779,-44152,-35871,-188600
+ "12000","Florida",5,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-20404,-10337,-5841,-14335,-56040,-134091,-110262,-295234,-142744,-189562,-122212,-73983,-123472,-57674,-69676,-150948,-40281,-20877,-12298,-45094,-15204,-7618,-5469,-49392
+ "12000","Florida",5,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-100,-669,-669,-1775,-435,-458,-199,0,0,0,0,0,0,0,0,0,0,-552747
+ "12000","Florida",5,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-101719
+ "12000","Florida",5,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1655
+ "12000","Florida",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-491022
+ "12000","Florida",5,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58561
+ "12000","Florida",5,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-2008,-5785,-25866,-37859,-19877,-4805,-4878,261,-585,-262,-311,-518682
+ "12000","Florida",5,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-173117
+ "12000","Florida",5,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-62420
+ "12000","Florida",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-2008,-5785,-25866,-37859,-19877,-4805,-4878,261,-585,-262,-311,-119731
+ "12000","Florida",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-163413
+ "12000","Florida",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-707033,-751016,-750061,-738979,-741538,-829369,-1001944,-1153731,-1558702,-1370675,-1257141,-1161329,-1200501,-1084186,-1092855,-1157106,-1207777,-1233811,-1305367,-1458671,-1527589,-1550194,-1594460,-4501547
+ "12000","Florida",5,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1885,-2323,-3356,-3070,-3392,-3616,-1440,-866,-1427,-1164,-1983,-2186,-2858,-3175,-11993,-32707,-29617,-38901,-24353,-30019,-32050,-27755,-24136,-1322312
+ "12000","Florida",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1885,-2323,-3356,-3070,-3392,-3616,-1440,-866,-1427,-1164,-1983,-2186,-2858,-3175,-11993,-32707,-29617,-38901,-24353,-30019,-32050,-27755,-24136,-282316
+ "12000","Florida",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-285974
+ "12000","Florida",5,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-727134
+ "12000","Florida",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26889
+ "12000","Florida",5,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-705148,-748693,-746706,-735910,-738147,-825753,-1000504,-1152864,-1557275,-1369512,-1255158,-1159143,-1197643,-1081011,-1080862,-1124399,-1178160,-1194911,-1281015,-1428652,-1495539,-1522439,-1570324,-3179235
+ "12000","Florida",5,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-705148,-748693,-746706,-735910,-738147,-825753,-1000504,-1152864,-1557275,-1369512,-1255158,-1159143,-1197643,-1081011,-1080862,-1124399,-1178160,-1194911,-1281015,-1428652,-1495539,-1522439,-1570324,-2962400
+ "12000","Florida",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-216835
+ "12000","Florida",5,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6762301
+ "12000","Florida",5,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4265154
+ "12000","Florida",5,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1090171
+ "12000","Florida",5,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-460134
+ "12000","Florida",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2714849
+ "12000","Florida",5,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-289334
+ "12000","Florida",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2207814
+ "12000","Florida",5,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2090244
+ "12000","Florida",5,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-117570
+ "12000","Florida",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-30526,-245828,-147666,-178476,-165053,-99834,-58194,-20116,-647,-657,-7251455
+ "12000","Florida",5,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-293792
+ "12000","Florida",5,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-30526,-245828,-147666,-178476,-165053,-99834,-58194,-20116,-647,-657,-6957663
+ "12000","Florida",5,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5565351
+ "12000","Florida",5,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-30526,-245828,-147666,-178476,-165053,-99834,-58194,-20116,-647,-657,-368993
+ "12000","Florida",5,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-620221
+ "12000","Florida",5,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-403097
+ "12000","Florida",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4891205
+ "12000","Florida",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-722745
+ "12000","Florida",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-259844
+ "12000","Florida",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-462901
+ "12000","Florida",5,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4168461
+ "12000","Florida",5,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-891529
+ "12000","Florida",5,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3276932
+ "12000","Florida",5,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2062908
+ "12000","Florida",5,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-451192,-424806,-435482,-384900,-415876,-501200,-528104,-556652,-576986,-629926,-712751,-718041,-816437,-793032,-917107,-807896,-828579,-804188,-834173,-854492,-804973,-873606,-908991,-1594439
+ "12000","Florida",5,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-27658,-29259,-32447,-59250,-64064,-74519,-66906,-62645,-76783,-51193,-74009,-63324,-68756,-49293,-46606,-57423,-82567,-93692,-72631,-67815,-69781,-74315,-85383,-125248
+ "12000","Florida",5,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "12000","Florida",5,SAGDP5N,86,"...","  State and local","Thousands of dollars",-423534,-395547,-403035,-325650,-351812,-426680,-461198,-494007,-500203,-578732,-638741,-654718,-747680,-743739,-870501,-750474,-746011,-710496,-761542,-786677,-735192,-799291,-823608,-1469191
+ "12000","Florida",5,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-16152,-21164,-66369,-98091,-96322,-73259,-115641,-179987,-372809,-120216,-110144,-134712,-65263,-78921,-148286,-56942,-57582,-63101,-54571,-57425,-75452,-118453,-211436,-916991
+ "12000","Florida",5,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-188647,-20267,-196,0,0,0,0,0,0,0,0,-6186665
+ "12000","Florida",5,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-46371,-29243,-27858,-37354,-512650,-174440,-354227,-320552,-177403,-225219,-154940,-118482,-182348,-130823,-133870,-213827,-100756,-76781,-71165,-103927,-75652,-73611,-69370,-3946098
+ "12000","Florida",5,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-163,-69,-1549,-8069,-24444,-47876,-54361,-27842,-12281,-11011,-5446,-6511,-6216,-6467,-2814039
+ "12000","Florida",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-16152,-21164,-66369,-98091,-96322,-73259,-115641,-179987,-372809,-120379,-110213,-136262,-71325,-97580,-170296,-73445,-65547,-70577,-60704,-63132,-81377,-124407,-217592,-7822194
+ "12000","Florida",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-753405,-780260,-777919,-776334,-1254188,-1003809,-1356171,-1474283,-1736105,-1595894,-1412082,-1279811,-1573504,-1271587,-1498614,-1556459,-1506887,-1480450,-1481245,-1620531,-1623942,-1624714,-1664797,-36120863
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

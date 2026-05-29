@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "17000","Illinois",3,SAGDP5N,1,"...","All industry total","Thousands of dollars",-1971431,-2255498,-3055288,-3153551,-3493286,-2200853,-2704483,-2871428,-3572484,-2902862,-2550189,-2688777,-2960032,-2867161,-3107017,-2985530,-3068214,-2719600,-2841988,-3459686,-2985127,-3429022,-4127094,-34238124
+ "17000","Illinois",3,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-1092516,-1445452,-2231979,-2405674,-2678121,-1267752,-1730512,-1839259,-2522769,-1773755,-1347741,-1412011,-1612168,-1708177,-1812112,-1731509,-1682998,-1298433,-1418229,-2048739,-1609003,-2005429,-2645998,-31908512
+ "17000","Illinois",3,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-468553,-803680,-1553318,-1728035,-1649662,-533109,-742610,-997975,-1522313,-892945,-537796,-537364,-482051,-592264,-531313,-519497,-492366,-144127,-330281,-943109,-500404,-907074,-1584060,-2574048
+ "17000","Illinois",3,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-468553,-803680,-1553318,-1728035,-1649662,-533109,-742610,-997975,-1522313,-892945,-537796,-537364,-482051,-592264,-531313,-519497,-492366,-144127,-330281,-943109,-500404,-907074,-1584060,-2545551
+ "17000","Illinois",3,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28497
+ "17000","Illinois",3,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45272
+ "17000","Illinois",3,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6254
+ "17000","Illinois",3,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31051
+ "17000","Illinois",3,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7967
+ "17000","Illinois",3,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60077
+ "17000","Illinois",3,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3327817
+ "17000","Illinois",3,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-136,-57,-7942,-22083,-60965,-76441,-69733,-29627,-30801,-19053,-18052,-19140,-17943,-19992,-3577631
+ "17000","Illinois",3,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-7878,-19935,-56420,-68074,-51262,-25422,-18494,-17831,-16775,-17915,-16607,-18992,-2453568
+ "17000","Illinois",3,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58476
+ "17000","Illinois",3,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-88278
+ "17000","Illinois",3,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132527
+ "17000","Illinois",3,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-793961
+ "17000","Illinois",3,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-572347
+ "17000","Illinois",3,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-197896
+ "17000","Illinois",3,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-7878,-19935,-56420,-68074,-51262,-25422,-18494,-17831,-16775,-17915,-16607,-18992,-142236
+ "17000","Illinois",3,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-101063
+ "17000","Illinois",3,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-72582
+ "17000","Illinois",3,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-101171
+ "17000","Illinois",3,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-193031
+ "17000","Illinois",3,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-136,-57,-64,-2147,-4546,-8366,-18471,-4206,-12306,-1222,-1277,-1225,-1336,-1000,-1124062
+ "17000","Illinois",3,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-406927
+ "17000","Illinois",3,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-136,-57,-64,-74,-61,-56,-56,-61,-75,-466,-446,-373,-401,-413,-13169
+ "17000","Illinois",3,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31173
+ "17000","Illinois",3,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78500
+ "17000","Illinois",3,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-213468
+ "17000","Illinois",3,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1548,-3799,-2997,-16217,-2133,-9991,0,0,0,0,0,-33474
+ "17000","Illinois",3,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-525,-686,-5313,-2198,-2012,-2241,-756,-831,-852,-935,-587,-214721
+ "17000","Illinois",3,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132631
+ "17000","Illinois",3,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1765610
+ "17000","Illinois",3,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-119408,-12722,-122,0,0,0,0,0,0,0,0,-2230013
+ "17000","Illinois",3,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-82136,-62139,-69915,-73328,-432505,-108157,-274601,-125020,-130707,-141701,-133099,-164352,-219320,-261275,-205670,-204570,-200017,-186519,-194138,-193646,-218127,-245797,-206394,-2624186
+ "17000","Illinois",3,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-1454,73,0,-73,-365549,-11632,-182847,-1236,-4435,-6761,-6834,-10251,-12432,-14904,-17158,-18830,-17012,-15922,-17449,-14957,-15082,-13553,-15526,-1142702
+ "17000","Illinois",3,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-77076,-60640,-69157,-71526,-61339,-85193,-82852,-99548,-112424,-114752,-113080,-146359,-195214,-241748,-183526,-176226,-180335,-169340,-175938,-175786,-202120,-231743,-190525,-371347
+ "17000","Illinois",3,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-3606,-1572,-758,-1729,-5616,-11331,-8738,-23158,-12826,-17483,-12503,-6991,-11349,-4623,-4987,-9514,-2669,-1258,-752,-2902,-926,-501,-343,-12533
+ "17000","Illinois",3,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-164,-1078,-1022,-2705,-682,-751,-325,0,0,0,0,0,0,0,0,0,0,-612364
+ "17000","Illinois",3,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-104040
+ "17000","Illinois",3,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-834
+ "17000","Illinois",3,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-322573
+ "17000","Illinois",3,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-57793
+ "17000","Illinois",3,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1567,-4437,-20128,-28466,-15137,-3435,-3469,176,-366,-164,-193,-420228
+ "17000","Illinois",3,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-205961
+ "17000","Illinois",3,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-33321
+ "17000","Illinois",3,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1567,-4437,-20128,-28466,-15137,-3435,-3469,176,-366,-164,-193,-84201
+ "17000","Illinois",3,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-96745
+ "17000","Illinois",3,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-541827,-579633,-608745,-604311,-595954,-626486,-713301,-716264,-869750,-738973,-676788,-702352,-767740,-748371,-752489,-779698,-782818,-781427,-782097,-841573,-853076,-833869,-834797,-2521501
+ "17000","Illinois",3,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-1923,-2513,-3601,-4192,-5744,-6492,-2668,-1525,-2403,-1525,-2186,-3279,-6707,-16795,-22667,-31925,-25150,-30867,-20053,-21969,-20613,-18547,-16562,-968539
+ "17000","Illinois",3,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-1923,-2513,-3601,-4192,-5744,-6492,-2668,-1525,-2403,-1525,-2186,-3279,-6707,-16795,-22667,-31925,-25150,-30867,-20053,-21969,-20613,-18547,-16562,-230838
+ "17000","Illinois",3,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-276192
+ "17000","Illinois",3,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-448208
+ "17000","Illinois",3,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13301
+ "17000","Illinois",3,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-539904,-577120,-605144,-600119,-590210,-619994,-710634,-714739,-867347,-737448,-674602,-699074,-761032,-731577,-729822,-747773,-757668,-750560,-762044,-819604,-832462,-815322,-818235,-1552962
+ "17000","Illinois",3,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-539904,-577120,-605144,-600119,-590210,-619994,-710634,-714739,-867347,-737448,-674602,-699074,-761032,-731577,-729822,-747773,-757668,-750560,-762044,-819604,-832462,-815322,-818235,-1373520
+ "17000","Illinois",3,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-179441
+ "17000","Illinois",3,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4749867
+ "17000","Illinois",3,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3049663
+ "17000","Illinois",3,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-602243
+ "17000","Illinois",3,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-528771
+ "17000","Illinois",3,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1918649
+ "17000","Illinois",3,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-144086
+ "17000","Illinois",3,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1556119
+ "17000","Illinois",3,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1429429
+ "17000","Illinois",3,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-126690
+ "17000","Illinois",3,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-28143,-225949,-129544,-163034,-152123,-89192,-52535,-17890,-582,-562,-4499088
+ "17000","Illinois",3,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-210349
+ "17000","Illinois",3,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-28143,-225949,-129544,-163034,-152123,-89192,-52535,-17890,-582,-562,-4288739
+ "17000","Illinois",3,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2667554
+ "17000","Illinois",3,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-28143,-225949,-129544,-163034,-152123,-89192,-52535,-17890,-582,-562,-661514
+ "17000","Illinois",3,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-606294
+ "17000","Illinois",3,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-353377
+ "17000","Illinois",3,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2323976
+ "17000","Illinois",3,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-335976
+ "17000","Illinois",3,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-150458
+ "17000","Illinois",3,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-185519
+ "17000","Illinois",3,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1988000
+ "17000","Illinois",3,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-251064
+ "17000","Illinois",3,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1736936
+ "17000","Illinois",3,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1189197
+ "17000","Illinois",3,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-878915,-810046,-823309,-747877,-815165,-933101,-973971,-1032169,-1049714,-1129107,-1202448,-1276766,-1347864,-1158983,-1294905,-1254021,-1385216,-1421167,-1423760,-1410947,-1376123,-1423593,-1481096,-2329612
+ "17000","Illinois",3,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-41907,-41884,-39164,-48491,-89964,-96310,-103479,-126818,-148265,-201502,-264103,-340161,-344705,-221520,-318370,-322894,-447546,-437997,-383493,-363198,-394158,-372921,-392527,-395186
+ "17000","Illinois",3,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "17000","Illinois",3,SAGDP5N,86,"...","  State and local","Thousands of dollars",-837008,-768162,-784145,-699386,-725201,-836792,-870492,-905351,-901449,-927605,-938345,-936606,-1003159,-937463,-976535,-931127,-937670,-983170,-1040266,-1047749,-981965,-1050672,-1088569,-1934425
+ "17000","Illinois",3,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-468553,-803680,-1553318,-1728035,-1649662,-533109,-742610,-997975,-1522313,-892945,-537796,-537364,-482051,-592264,-531313,-519497,-492366,-144127,-330281,-943109,-500404,-907074,-1584060,-2619320
+ "17000","Illinois",3,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-119408,-12722,-122,0,0,0,0,0,0,0,0,-3995623
+ "17000","Illinois",3,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-82136,-62139,-69915,-73328,-432505,-108157,-274601,-125020,-130707,-141701,-133099,-164352,-219320,-261275,-205670,-204570,-200017,-186519,-194138,-193646,-218127,-245797,-206394,-2684263
+ "17000","Illinois",3,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-136,-57,-7942,-23649,-65402,-96569,-98200,-44764,-34236,-22521,-17876,-19506,-18107,-20185,-3997859
+ "17000","Illinois",3,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-468553,-803680,-1553318,-1728035,-1649662,-533109,-742610,-997975,-1522313,-893081,-537853,-545307,-504133,-653230,-607754,-589230,-521993,-174928,-349333,-961161,-519544,-925017,-1604051,-9524768
+ "17000","Illinois",3,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-623963,-641772,-678661,-677639,-1028459,-734643,-987902,-841284,-1000457,-880674,-809887,-866704,-1108035,-1054948,-1204358,-1142278,-1161005,-1123505,-1068895,-1087578,-1089460,-1080412,-1041947,-22383744
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "30000","Montana",7,SAGDP5N,1,"...","All industry total","Thousands of dollars",-256616,-362462,-486001,-484297,-507074,-321723,-405624,-342245,-458759,-357688,-351722,-403491,-414530,-429745,-443022,-387515,-431630,-337932,-293597,-384972,-498494,-491855,-487323,-2508397
+ "30000","Montana",7,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-222191,-334136,-457179,-453318,-464164,-261693,-346409,-282635,-382538,-284834,-275245,-296588,-282113,-340472,-333450,-271255,-279986,-197944,-174648,-264790,-378764,-361078,-362078,-2365115
+ "30000","Montana",7,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-195797,-306776,-424901,-421500,-424273,-227117,-305063,-241073,-327293,-235224,-230219,-248793,-218063,-277599,-252922,-197055,-202782,-121437,-103954,-195281,-307788,-294260,-294666,-768650
+ "30000","Montana",7,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-195797,-306776,-424901,-421500,-424273,-227117,-305063,-241073,-327293,-235224,-230219,-248793,-218063,-277599,-252922,-197055,-202782,-121437,-103954,-195281,-307788,-294260,-294666,-762635
+ "30000","Montana",7,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6015
+ "30000","Montana",7,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14408
+ "30000","Montana",7,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1519
+ "30000","Montana",7,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7229
+ "30000","Montana",7,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5659
+ "30000","Montana",7,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4818
+ "30000","Montana",7,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-200051
+ "30000","Montana",7,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-3,-2,-34,-191,-1093,-824,-2330,-386,-1413,-75,-78,-70,-74,-85,-83576
+ "30000","Montana",7,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-32,-92,-265,-319,-203,-66,-55,-58,-60,-55,-56,-67,-54840
+ "30000","Montana",7,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5520
+ "30000","Montana",7,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2585
+ "30000","Montana",7,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7596
+ "30000","Montana",7,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14082
+ "30000","Montana",7,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6708
+ "30000","Montana",7,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4726
+ "30000","Montana",7,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-32,-92,-265,-319,-203,-66,-55,-58,-60,-55,-56,-67,-362
+ "30000","Montana",7,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-767
+ "30000","Montana",7,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-840
+ "30000","Montana",7,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2821
+ "30000","Montana",7,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8831
+ "30000","Montana",7,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-3,-2,-2,-99,-828,-505,-2127,-320,-1358,-17,-18,-15,-18,-18,-28737
+ "30000","Montana",7,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15501
+ "30000","Montana",7,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-3,-2,-2,-3,-2,-2,-2,-2,-2,-13,-14,-11,-12,-12,-648
+ "30000","Montana",7,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-422
+ "30000","Montana",7,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25
+ "30000","Montana",7,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2920
+ "30000","Montana",7,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-90,-818,-437,-2111,-302,-1341,0,0,0,0,0,-1500
+ "30000","Montana",7,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-6,-7,-66,-14,-16,-14,-5,-4,-4,-6,-6,-5269
+ "30000","Montana",7,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2453
+ "30000","Montana",7,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60474
+ "30000","Montana",7,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-10146,-1079,-10,0,0,0,0,0,0,0,0,-196065
+ "30000","Montana",7,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-2888,-2605,-3133,-3284,-10441,-3987,-7486,-4296,-5030,-5488,-4638,-5921,-6877,-8493,-5293,-5701,-5679,-4812,-4559,-4782,-5726,-6445,-5293,-130458
+ "30000","Montana",7,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-31,2,0,-2,-7784,-248,-3893,-26,-94,-144,-146,-218,-265,-317,-365,-401,-362,-339,-372,-343,-381,-373,-485,-61654
+ "30000","Montana",7,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-2828,-2603,-3130,-3275,-2658,-3669,-3582,-4199,-4869,-5165,-4444,-5653,-6590,-8176,-4928,-5284,-5317,-4473,-4188,-4439,-5344,-6072,-4808,-22569
+ "30000","Montana",7,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-30,-4,-3,-8,0,-71,0,0,0,0,-3,0,0,0,0,-16,0,0,0,0,-1,0,0,-15
+ "30000","Montana",7,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-11,-71,-66,-178,-46,-50,-22,0,0,0,0,0,0,0,0,0,0,-32378
+ "30000","Montana",7,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2902
+ "30000","Montana",7,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-485
+ "30000","Montana",7,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9637
+ "30000","Montana",7,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-818
+ "30000","Montana",7,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-83,-242,-1065,-1502,-809,-176,-181,10,-22,-10,-11,-16169
+ "30000","Montana",7,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4690
+ "30000","Montana",7,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1503
+ "30000","Montana",7,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-83,-242,-1065,-1502,-809,-176,-181,10,-22,-10,-11,-6490
+ "30000","Montana",7,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3487
+ "30000","Montana",7,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-23505,-24756,-29145,-28534,-29450,-30589,-33860,-37266,-50215,-44119,-40386,-41840,-46753,-49664,-54731,-53706,-55889,-56505,-57604,-59702,-63386,-60233,-61964,-141394
+ "30000","Montana",7,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-89,-104,-165,-172,-244,-235,-100,-95,-146,-86,-140,-275,-591,-1522,-1671,-2005,-1489,-1933,-1347,-1366,-1211,-988,-971,-34875
+ "30000","Montana",7,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-89,-104,-165,-172,-244,-235,-100,-95,-146,-86,-140,-275,-591,-1522,-1671,-2005,-1489,-1933,-1347,-1366,-1211,-988,-971,-22066
+ "30000","Montana",7,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4065
+ "30000","Montana",7,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8666
+ "30000","Montana",7,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78
+ "30000","Montana",7,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-23416,-24652,-28980,-28362,-29206,-30354,-33760,-37171,-50070,-44033,-40246,-41565,-46162,-48142,-53060,-51701,-54400,-54572,-56256,-58336,-62176,-59244,-60993,-106519
+ "30000","Montana",7,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-23416,-24652,-28980,-28362,-29206,-30354,-33760,-37171,-50070,-44033,-40246,-41565,-46162,-48142,-53060,-51701,-54400,-54572,-56256,-58336,-62176,-59244,-60993,-95591
+ "30000","Montana",7,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10928
+ "30000","Montana",7,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-156137
+ "30000","Montana",7,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-102966
+ "30000","Montana",7,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12883
+ "30000","Montana",7,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11194
+ "30000","Montana",7,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78890
+ "30000","Montana",7,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2932
+ "30000","Montana",7,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50239
+ "30000","Montana",7,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46313
+ "30000","Montana",7,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3925
+ "30000","Montana",7,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-2303,-18604,-10962,-14442,-13601,-8275,-4956,-1772,-57,-58,-343256
+ "30000","Montana",7,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-12523
+ "30000","Montana",7,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-2303,-18604,-10962,-14442,-13601,-8275,-4956,-1772,-57,-58,-330733
+ "30000","Montana",7,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-181437
+ "30000","Montana",7,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-2303,-18604,-10962,-14442,-13601,-8275,-4956,-1772,-57,-58,-88864
+ "30000","Montana",7,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35422
+ "30000","Montana",7,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25010
+ "30000","Montana",7,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-191963
+ "30000","Montana",7,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29916
+ "30000","Montana",7,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5436
+ "30000","Montana",7,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24480
+ "30000","Montana",7,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-162047
+ "30000","Montana",7,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54504
+ "30000","Montana",7,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-107543
+ "30000","Montana",7,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-57694
+ "30000","Montana",7,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-34425,-28326,-28821,-30980,-42910,-60029,-59215,-59611,-76222,-72854,-76477,-106903,-132417,-89273,-109572,-116260,-151644,-139988,-118949,-120183,-119730,-130777,-125245,-143282
+ "30000","Montana",7,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-17242,-15816,-15407,-18894,-28598,-41104,-39100,-38613,-55909,-50341,-56275,-87168,-108073,-58334,-81027,-93063,-128718,-116016,-93412,-98180,-98267,-108837,-102719,-103085
+ "30000","Montana",7,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "30000","Montana",7,SAGDP5N,86,"...","  State and local","Thousands of dollars",-17183,-12510,-13415,-12086,-14312,-18925,-20115,-20998,-20313,-22512,-20202,-19734,-24344,-30939,-28545,-23196,-22926,-23972,-25537,-22003,-21463,-21940,-22526,-40197
+ "30000","Montana",7,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-195797,-306776,-424901,-421500,-424273,-227117,-305063,-241073,-327293,-235224,-230219,-248793,-218063,-277599,-252922,-197055,-202782,-121437,-103954,-195281,-307788,-294260,-294666,-783058
+ "30000","Montana",7,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-10146,-1079,-10,0,0,0,0,0,0,0,0,-256539
+ "30000","Montana",7,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-2888,-2605,-3133,-3284,-10441,-3987,-7486,-4296,-5030,-5488,-4638,-5921,-6877,-8493,-5293,-5701,-5679,-4812,-4559,-4782,-5726,-6445,-5293,-135276
+ "30000","Montana",7,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-3,-2,-34,-274,-1335,-1890,-3831,-1195,-1589,-256,-68,-92,-84,-97,-99746
+ "30000","Montana",7,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-195797,-306776,-424901,-421500,-424273,-227117,-305063,-241073,-327293,-235227,-230220,-248827,-218254,-278692,-253746,-199385,-203168,-122850,-104029,-195359,-307858,-294333,-294751,-1066686
+ "30000","Montana",7,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-26393,-27361,-32278,-31818,-39891,-34576,-41346,-41562,-55245,-49607,-45024,-47761,-63859,-61781,-79705,-71871,-76818,-75094,-70619,-69431,-70906,-66745,-67327,-1298429
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "48000","Texas",6,SAGDP5N,1,"...","All industry total","Thousands of dollars",-1820274,-2145560,-3014000,-2738958,-3556435,-2488632,-3244358,-2570569,-3667832,-3240070,-2959661,-2751762,-3525681,-2988263,-3462735,-3389133,-3736731,-3755883,-3434383,-3596998,-3570136,-3715498,-4596212,-59161653
+ "48000","Texas",6,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-1250500,-1596499,-2439206,-2181273,-2958183,-1828490,-2546379,-1833582,-2922895,-2411441,-2122485,-1883086,-2453912,-2012168,-2266694,-2194347,-2369703,-2331049,-2124860,-2256380,-2224942,-2175280,-3122603,-57064772
+ "48000","Texas",6,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-549966,-852169,-1694083,-1435780,-1793311,-1103296,-1500284,-947214,-1797897,-1287948,-1202639,-1002757,-1196812,-864127,-776924,-690222,-911607,-879213,-748206,-813093,-769628,-733903,-1630107,-3139971
+ "48000","Texas",6,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-549966,-852169,-1694083,-1435780,-1793311,-1103296,-1500284,-947214,-1797897,-1287948,-1202639,-1002757,-1196812,-864127,-776924,-690222,-911607,-879213,-748206,-813093,-769628,-733903,-1630107,-3074507
+ "48000","Texas",6,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65464
+ "48000","Texas",6,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2007257
+ "48000","Texas",6,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-445854
+ "48000","Texas",6,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-100194
+ "48000","Texas",6,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1461209
+ "48000","Texas",6,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-174500
+ "48000","Texas",6,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5692707
+ "48000","Texas",6,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-238,-99,-5763,-22985,-82592,-86443,-113641,-39855,-46244,-15317,-13900,-14491,-15907,-17744,-4548910
+ "48000","Texas",6,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-5655,-15834,-45053,-52323,-35773,-18265,-13374,-12112,-10759,-11645,-12811,-15721,-3249133
+ "48000","Texas",6,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-119441
+ "48000","Texas",6,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-153178
+ "48000","Texas",6,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-171666
+ "48000","Texas",6,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-921365
+ "48000","Texas",6,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-712083
+ "48000","Texas",6,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-282802
+ "48000","Texas",6,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-5655,-15834,-45053,-52323,-35773,-18265,-13374,-12112,-10759,-11645,-12811,-15721,-121939
+ "48000","Texas",6,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-120166
+ "48000","Texas",6,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-189698
+ "48000","Texas",6,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-182775
+ "48000","Texas",6,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-274020
+ "48000","Texas",6,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-238,-99,-108,-7151,-37538,-34120,-77868,-21590,-32870,-3205,-3141,-2847,-3096,-2023,-1299777
+ "48000","Texas",6,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-380938
+ "48000","Texas",6,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-238,-99,-108,-145,-117,-124,-121,-133,-169,-893,-794,-696,-717,-720,-31368
+ "48000","Texas",6,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67760
+ "48000","Texas",6,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-40896
+ "48000","Texas",6,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-147958
+ "48000","Texas",6,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-5391,-35058,-16487,-71518,-14015,-25132,0,0,0,0,0,-88635
+ "48000","Texas",6,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-1616,-2364,-17508,-6228,-7442,-7568,-2313,-2347,-2151,-2379,-1303,-389147
+ "48000","Texas",6,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-153075
+ "48000","Texas",6,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2775932
+ "48000","Texas",6,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-240234,-25893,-253,0,0,0,0,0,0,0,0,-4447279
+ "48000","Texas",6,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-18280,-8078,-6189,-10749,-528503,-53037,-283157,-70080,-51512,-67772,-49756,-45925,-66686,-55604,-56142,-78451,-49733,-41386,-41201,-45004,-41191,-40644,-40961,-4067326
+ "48000","Texas",6,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-2018,101,0,-101,-507320,-16144,-253761,-1715,-6155,-9384,-9485,-14227,-17254,-20684,-23812,-26133,-23610,-22097,-24216,-22148,-21854,-20415,-25700,-2293706
+ "48000","Texas",6,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-4037,-3077,-4000,-6008,-5567,-7160,-7355,-8613,-9716,-9128,-7529,-10757,-14712,-19782,-16159,-16284,-16071,-14395,-14322,-13800,-16572,-18861,-14423,-74343
+ "48000","Texas",6,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-12225,-5102,-2189,-4640,-15616,-29733,-21828,-58310,-34218,-45268,-31679,-19770,-34225,-15138,-16170,-36034,-10052,-4893,-2664,-9056,-2765,-1368,-838,-22420
+ "48000","Texas",6,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-213,-1441,-1423,-3992,-1064,-1172,-496,0,0,0,0,0,0,0,0,0,0,-955060
+ "48000","Texas",6,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75498
+ "48000","Texas",6,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21167
+ "48000","Texas",6,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-512935
+ "48000","Texas",6,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-112199
+ "48000","Texas",6,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-3451,-9682,-42874,-62230,-34532,-8149,-7995,431,-983,-455,-538,-605950
+ "48000","Texas",6,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-196161
+ "48000","Texas",6,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-89297
+ "48000","Texas",6,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-3451,-9682,-42874,-62230,-34532,-8149,-7995,431,-983,-455,-538,-176277
+ "48000","Texas",6,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-144215
+ "48000","Texas",6,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-682254,-736252,-738934,-734744,-636369,-672157,-762938,-816288,-1073487,-1055483,-869990,-828641,-923744,-937194,-1003388,-1073721,-1117237,-1152876,-1191639,-1314791,-1374684,-1383611,-1432492,-4622252
+ "48000","Texas",6,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-2513,-2881,-4181,-4039,-5247,-5744,-2155,-1251,-2309,-1734,-1855,-1356,-7688,-17743,-29989,-45796,-37813,-50454,-32564,-37008,-39869,-40519,-34114,-1449216
+ "48000","Texas",6,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-2513,-2881,-4181,-4039,-5247,-5744,-2155,-1251,-2309,-1734,-1855,-1356,-7688,-17743,-29989,-45796,-37813,-50454,-32564,-37008,-39869,-40519,-34114,-416433
+ "48000","Texas",6,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-414976
+ "48000","Texas",6,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-596141
+ "48000","Texas",6,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21666
+ "48000","Texas",6,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-679741,-733371,-734753,-730705,-631123,-666413,-760782,-815037,-1071177,-1053749,-868135,-827285,-916056,-919450,-973400,-1027925,-1079423,-1102422,-1159075,-1277783,-1334815,-1343092,-1398377,-3173036
+ "48000","Texas",6,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-679741,-733371,-734753,-730705,-631123,-666413,-760782,-815037,-1071177,-1053749,-868135,-827285,-916056,-919450,-973400,-1027925,-1079423,-1102422,-1159075,-1277783,-1334815,-1343092,-1398377,-2865735
+ "48000","Texas",6,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-307301
+ "48000","Texas",6,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8019569
+ "48000","Texas",6,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5129526
+ "48000","Texas",6,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-829087
+ "48000","Texas",6,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-995889
+ "48000","Texas",6,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3304551
+ "48000","Texas",6,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-299984
+ "48000","Texas",6,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2590058
+ "48000","Texas",6,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2395963
+ "48000","Texas",6,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-194095
+ "48000","Texas",6,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-37076,-300671,-176083,-216739,-203180,-120502,-70024,-23964,-760,-760,-9339290
+ "48000","Texas",6,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-246913
+ "48000","Texas",6,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-37076,-300671,-176083,-216739,-203180,-120502,-70024,-23964,-760,-760,-9092377
+ "48000","Texas",6,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7041544
+ "48000","Texas",6,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-37076,-300671,-176083,-216739,-203180,-120502,-70024,-23964,-760,-760,-926879
+ "48000","Texas",6,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-598461
+ "48000","Texas",6,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-525494
+ "48000","Texas",6,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5500010
+ "48000","Texas",6,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-500471
+ "48000","Texas",6,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-211530
+ "48000","Texas",6,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-288941
+ "48000","Texas",6,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4999539
+ "48000","Texas",6,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-652592
+ "48000","Texas",6,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4346947
+ "48000","Texas",6,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2123820
+ "48000","Texas",6,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-569774,-549061,-574795,-557685,-598252,-660142,-697979,-736986,-744937,-828629,-837176,-868676,-1071769,-976094,-1196040,-1194786,-1367027,-1424834,-1309524,-1340618,-1345193,-1540219,-1473610,-2096881
+ "48000","Texas",6,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-123360,-130619,-137372,-171669,-198649,-193456,-193417,-197479,-196671,-221894,-233160,-291963,-378011,-291082,-449139,-522491,-695225,-750713,-617845,-617371,-658423,-794667,-703022,-722877
+ "48000","Texas",6,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "48000","Texas",6,SAGDP5N,86,"...","  State and local","Thousands of dollars",-446414,-418442,-437422,-386015,-399603,-466686,-504562,-539507,-548266,-606736,-604016,-576713,-693758,-685012,-746901,-672295,-671802,-674120,-691679,-723247,-686770,-745552,-770588,-1374004
+ "48000","Texas",6,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-549966,-852169,-1694083,-1435780,-1793311,-1103296,-1500284,-947214,-1797897,-1287948,-1202639,-1002757,-1196812,-864127,-776924,-690222,-911607,-879213,-748206,-813093,-769628,-733903,-1630107,-5147228
+ "48000","Texas",6,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-240234,-25893,-253,0,0,0,0,0,0,0,0,-7223210
+ "48000","Texas",6,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-18280,-8078,-6189,-10749,-528503,-53037,-283157,-70080,-51512,-67772,-49756,-45925,-66686,-55604,-56142,-78451,-49733,-41386,-41201,-45004,-41191,-40644,-40961,-4241826
+ "48000","Texas",6,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-238,-99,-5763,-26436,-92274,-129317,-175870,-74387,-54394,-23312,-13469,-15474,-16362,-18283,-5154860
+ "48000","Texas",6,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-549966,-852169,-1694083,-1435780,-1793311,-1103296,-1500284,-947214,-1797897,-1288186,-1202738,-1008520,-1219797,-946719,-863366,-803863,-951462,-925458,-763523,-826993,-784120,-749811,-1647851,-15388845
+ "48000","Texas",6,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-700533,-744330,-745123,-745493,-1164873,-725194,-1046095,-886368,-1124998,-1123255,-919747,-874566,-1234115,-1065450,-1403328,-1390484,-1418241,-1405591,-1361337,-1429388,-1440822,-1425469,-1474751,-41675927
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

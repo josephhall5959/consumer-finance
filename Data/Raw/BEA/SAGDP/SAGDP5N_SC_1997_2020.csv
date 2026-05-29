@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "45000","South Carolina",5,SAGDP5N,1,"...","All industry total","Thousands of dollars",-221569,-241766,-320840,-334299,-349979,-308611,-391387,-357956,-574934,-488952,-464054,-442274,-542199,-511333,-570462,-532549,-522142,-506969,-466161,-524562,-515072,-499522,-590380,-7858630
+ "45000","South Carolina",5,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-162954,-187210,-264977,-276602,-283191,-225431,-300786,-260619,-478671,-386091,-361955,-332770,-411734,-380959,-423441,-393556,-373384,-364601,-327364,-373682,-367668,-343326,-428720,-7609446
+ "45000","South Carolina",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-36512,-53252,-110347,-124511,-116951,-64162,-110802,-61389,-223588,-157409,-146771,-129226,-128083,-106497,-96165,-90726,-85922,-83040,-49919,-76021,-69858,-48785,-128507,-301947
+ "45000","South Carolina",5,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-36512,-53252,-110347,-124511,-116951,-64162,-110802,-61389,-223588,-157409,-146771,-129226,-128083,-106497,-96165,-90726,-85922,-83040,-49919,-76021,-69858,-48785,-128507,-264706
+ "45000","South Carolina",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37241
+ "45000","South Carolina",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4316
+ "45000","South Carolina",5,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-42
+ "45000","South Carolina",5,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3119
+ "45000","South Carolina",5,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1155
+ "45000","South Carolina",5,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-49917
+ "45000","South Carolina",5,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-647912
+ "45000","South Carolina",5,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-825,-365,-4820,-14590,-40736,-53264,-36271,-17569,-14103,-14537,-14770,-11839,-12163,-13543,-918467
+ "45000","South Carolina",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-4485,-14051,-40001,-51086,-35239,-16617,-12996,-12057,-12332,-9574,-9800,-11308,-553930
+ "45000","South Carolina",5,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-38563
+ "45000","South Carolina",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-47824
+ "45000","South Carolina",5,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19401
+ "45000","South Carolina",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-126269
+ "45000","South Carolina",5,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-78404
+ "45000","South Carolina",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19547
+ "45000","South Carolina",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-4485,-14051,-40001,-51086,-35239,-16617,-12996,-12057,-12332,-9574,-9800,-11308,-35157
+ "45000","South Carolina",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67376
+ "45000","South Carolina",5,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52313
+ "45000","South Carolina",5,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-20781
+ "45000","South Carolina",5,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-48295
+ "45000","South Carolina",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-825,-365,-335,-539,-735,-2178,-1032,-952,-1107,-2480,-2437,-2265,-2363,-2235,-364537
+ "45000","South Carolina",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-62823
+ "45000","South Carolina",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-825,-365,-335,-358,-437,-472,-418,-399,-385,-2265,-2236,-2079,-2161,-2118,-99544
+ "45000","South Carolina",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8332
+ "45000","South Carolina",5,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25871
+ "45000","South Carolina",5,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-25931
+ "45000","South Carolina",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-15,-72,-20,-97,-18,-119,0,0,0,0,0,-4579
+ "45000","South Carolina",5,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-166,-226,-1685,-518,-535,-603,-216,-201,-186,-202,-117,-76886
+ "45000","South Carolina",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60571
+ "45000","South Carolina",5,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-298814
+ "45000","South Carolina",5,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-42145,-4537,-43,0,0,0,0,0,0,0,0,-730676
+ "45000","South Carolina",5,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-4738,-3838,-4447,-4477,-19500,-6620,-13275,-7636,-7282,-9498,-7750,-8748,-11521,-13672,-10859,-11686,-9856,-8686,-8843,-8632,-8976,-9752,-7720,-300066
+ "45000","South Carolina",5,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-61,3,0,-3,-15315,-487,-7660,-52,-186,-283,-286,-429,-521,-624,-719,-789,-713,-667,-731,-410,-527,-452,-570,-65511
+ "45000","South Carolina",5,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-4507,-3741,-4404,-4368,-3779,-5390,-4973,-5750,-5825,-6960,-6116,-7323,-9536,-12079,-9019,-8563,-8581,-7798,-8001,-7761,-8315,-9223,-7095,-36885
+ "45000","South Carolina",5,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-170,-100,-44,-106,-406,-743,-602,-1571,-1019,-1565,-1171,-816,-1389,-968,-1122,-2334,-563,-220,-111,-461,-134,-76,-55,-864
+ "45000","South Carolina",5,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-40,-263,-253,-690,-177,-180,-75,0,0,0,0,0,0,0,0,0,0,-113173
+ "45000","South Carolina",5,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7870
+ "45000","South Carolina",5,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4846
+ "45000","South Carolina",5,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54245
+ "45000","South Carolina",5,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-16672
+ "45000","South Carolina",5,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-345,-973,-4135,-5868,-3250,-806,-868,46,-105,-47,-54,-61859
+ "45000","South Carolina",5,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14561
+ "45000","South Carolina",5,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6566
+ "45000","South Carolina",5,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-345,-973,-4135,-5868,-3250,-806,-868,46,-105,-47,-54,-16273
+ "45000","South Carolina",5,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24459
+ "45000","South Carolina",5,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-121704,-130120,-150182,-147614,-146740,-154648,-176709,-191594,-247801,-218359,-207068,-189975,-215051,-209880,-221635,-226421,-232207,-235134,-239843,-266688,-274301,-272500,-278824,-706468
+ "45000","South Carolina",5,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-298,-408,-547,-596,-733,-875,-359,-269,-430,-264,-437,-481,-1146,-2193,-3611,-5948,-4596,-5862,-3694,-4362,-4574,-4067,-3548,-186989
+ "45000","South Carolina",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-298,-408,-547,-596,-733,-875,-359,-269,-430,-264,-437,-481,-1146,-2193,-3611,-5948,-4596,-5862,-3694,-4362,-4574,-4067,-3548,-61680
+ "45000","South Carolina",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27573
+ "45000","South Carolina",5,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-93045
+ "45000","South Carolina",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4692
+ "45000","South Carolina",5,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-121406,-129712,-149635,-147018,-146007,-153773,-176350,-191325,-247371,-218095,-206632,-189494,-213905,-207686,-218024,-220473,-227611,-229272,-236149,-262326,-269726,-268433,-275276,-519478
+ "45000","South Carolina",5,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-121406,-129712,-149635,-147018,-146007,-153773,-176350,-191325,-247371,-218095,-206632,-189494,-213905,-207686,-218024,-220473,-227611,-229272,-236149,-262326,-269726,-268433,-275276,-487764
+ "45000","South Carolina",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-31714
+ "45000","South Carolina",5,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1109615
+ "45000","South Carolina",5,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-608276
+ "45000","South Carolina",5,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-152911
+ "45000","South Carolina",5,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-73446
+ "45000","South Carolina",5,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-381920
+ "45000","South Carolina",5,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-34643
+ "45000","South Carolina",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-466696
+ "45000","South Carolina",5,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-421046
+ "45000","South Carolina",5,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-45650
+ "45000","South Carolina",5,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4665,-37340,-22584,-24579,-22832,-13354,-7617,-2590,-80,-72,-1232380
+ "45000","South Carolina",5,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-59117
+ "45000","South Carolina",5,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4665,-37340,-22584,-24579,-22832,-13354,-7617,-2590,-80,-72,-1173263
+ "45000","South Carolina",5,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-898838
+ "45000","South Carolina",5,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-4665,-37340,-22584,-24579,-22832,-13354,-7617,-2590,-80,-72,-93848
+ "45000","South Carolina",5,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-96812
+ "45000","South Carolina",5,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-83765
+ "45000","South Carolina",5,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-886785
+ "45000","South Carolina",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-103423
+ "45000","South Carolina",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27769
+ "45000","South Carolina",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75654
+ "45000","South Carolina",5,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-783362
+ "45000","South Carolina",5,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-132060
+ "45000","South Carolina",5,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-651302
+ "45000","South Carolina",5,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-360224
+ "45000","South Carolina",5,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-58614,-54556,-55863,-57698,-66788,-83181,-90602,-97337,-96263,-102860,-102099,-109504,-130465,-130374,-147020,-138993,-148758,-142368,-138797,-150880,-147404,-156195,-161660,-249184
+ "45000","South Carolina",5,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-9291,-9845,-10534,-13577,-15124,-15445,-16155,-17384,-17861,-17559,-19626,-26356,-31423,-25459,-33903,-37342,-48657,-52282,-43674,-47722,-53023,-55013,-58482,-65173
+ "45000","South Carolina",5,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "45000","South Carolina",5,SAGDP5N,86,"...","  State and local","Thousands of dollars",-49324,-44710,-45329,-44121,-51664,-67736,-74447,-79953,-78402,-85301,-82473,-83148,-99042,-104915,-113117,-101651,-100101,-90086,-95123,-103157,-94381,-101182,-103177,-184011
+ "45000","South Carolina",5,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-36512,-53252,-110347,-124511,-116951,-64162,-110802,-61389,-223588,-157409,-146771,-129226,-128083,-106497,-96165,-90726,-85922,-83040,-49919,-76021,-69858,-48785,-128507,-306263
+ "45000","South Carolina",5,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-42145,-4537,-43,0,0,0,0,0,0,0,0,-1029490
+ "45000","South Carolina",5,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-4738,-3838,-4447,-4477,-19500,-6620,-13275,-7636,-7282,-9498,-7750,-8748,-11521,-13672,-10859,-11686,-9856,-8686,-8843,-8632,-8976,-9752,-7720,-349983
+ "45000","South Carolina",5,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-825,-365,-4820,-14935,-41709,-57399,-42139,-20819,-14909,-15405,-14724,-11944,-12210,-13597,-980326
+ "45000","South Carolina",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-36512,-53252,-110347,-124511,-116951,-64162,-110802,-61389,-223588,-158234,-147136,-134047,-142673,-147233,-149428,-126997,-103492,-97143,-64456,-90790,-81697,-60948,-142050,-1872642
+ "45000","South Carolina",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-126442,-133958,-154629,-152091,-166240,-161268,-189984,-199230,-255083,-227857,-214819,-198723,-269061,-233726,-274013,-266559,-269892,-267458,-262908,-282892,-285971,-282378,-286670,-5736804
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

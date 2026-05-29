@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "33000","New Hampshire",1,SAGDP5N,1,"...","All industry total","Thousands of dollars",-74890,-73086,-84582,-83784,-99108,-112155,-136847,-146490,-167839,-142420,-131718,-132140,-169102,-174010,-197606,-179500,-173391,-165368,-159249,-164853,-162606,-157237,-159509,-3019591
+ "33000","New Hampshire",1,SAGDP5N,2,"..."," Private industries","Thousands of dollars",-47296,-49725,-61374,-61258,-70290,-71963,-90017,-94028,-116008,-99822,-92069,-93120,-124591,-126362,-144562,-137426,-132014,-120248,-114600,-115701,-116037,-103767,-105016,-2922743
+ "33000","New Hampshire",1,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting","Thousands of dollars",-755,-1580,-3406,-4098,-2508,-3341,-5217,-3917,-6671,-6457,-5628,-6621,-7749,-17038,-10940,-12250,-10058,-6208,-5544,-5011,-5189,-6496,-6517,-39315
+ "33000","New Hampshire",1,SAGDP5N,4,"111-112","   Farms","Thousands of dollars",-755,-1580,-3406,-4098,-2508,-3341,-5217,-3917,-6671,-6457,-5628,-6621,-7749,-17038,-10940,-12250,-10058,-6208,-5544,-5011,-5189,-6496,-6517,-28224
+ "33000","New Hampshire",1,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11091
+ "33000","New Hampshire",1,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2859
+ "33000","New Hampshire",1,SAGDP5N,7,"211","   Oil and gas extraction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "33000","New Hampshire",1,SAGDP5N,8,"212","   Mining (except oil and gas)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2124
+ "33000","New Hampshire",1,SAGDP5N,9,"213","   Support activities for mining","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-736
+ "33000","New Hampshire",1,SAGDP5N,10,"22","  Utilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8435
+ "33000","New Hampshire",1,SAGDP5N,11,"23","  Construction","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-360659
+ "33000","New Hampshire",1,SAGDP5N,12,"31-33","  Manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-38,-23,-1275,-3123,-8247,-9718,-7349,-3939,-3421,-3949,-3961,-3516,-3370,-3783,-324491
+ "33000","New Hampshire",1,SAGDP5N,13,"321,327-339","   Durable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1251,-3061,-8115,-9574,-7151,-3840,-3249,-3693,-3693,-3221,-3056,-3500,-245799
+ "33000","New Hampshire",1,SAGDP5N,14,"321","    Wood product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10585
+ "33000","New Hampshire",1,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13706
+ "33000","New Hampshire",1,SAGDP5N,16,"331","    Primary metal manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6821
+ "33000","New Hampshire",1,SAGDP5N,17,"332","    Fabricated metal product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65783
+ "33000","New Hampshire",1,SAGDP5N,18,"333","    Machinery manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-27536
+ "33000","New Hampshire",1,SAGDP5N,19,"334","    Computer and electronic product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-60108
+ "33000","New Hampshire",1,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-1251,-3061,-8115,-9574,-7151,-3840,-3249,-3693,-3693,-3221,-3056,-3500,-14899
+ "33000","New Hampshire",1,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3282
+ "33000","New Hampshire",1,SAGDP5N,22,"3364-3369","    Other transportation equipment manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7126
+ "33000","New Hampshire",1,SAGDP5N,23,"337","    Furniture and related product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7752
+ "33000","New Hampshire",1,SAGDP5N,24,"339","    Miscellaneous manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28202
+ "33000","New Hampshire",1,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,-38,-23,-24,-61,-131,-144,-198,-99,-172,-257,-268,-295,-314,-283,-78692
+ "33000","New Hampshire",1,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15131
+ "33000","New Hampshire",1,SAGDP5N,27,"313-314","    Textile mills and textile product mills","Thousands of dollars",0,0,0,0,0,0,0,0,0,-38,-23,-24,-31,-33,-37,-53,-41,-40,-242,-250,-275,-293,-268,-5395
+ "33000","New Hampshire",1,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3171
+ "33000","New Hampshire",1,SAGDP5N,29,"322","    Paper manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3947
+ "33000","New Hampshire",1,SAGDP5N,30,"323","    Printing and related support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10567
+ "33000","New Hampshire",1,SAGDP5N,31,"324","    Petroleum and coal products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-18,-84,-22,-117,-21,-94,0,0,0,0,0,-6406
+ "33000","New Hampshire",1,SAGDP5N,32,"325","    Chemical manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-12,-14,-84,-28,-37,-38,-14,-18,-20,-21,-14,-14350
+ "33000","New Hampshire",1,SAGDP5N,33,"326","    Plastics and rubber products manufacturing","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-19724
+ "33000","New Hampshire",1,SAGDP5N,34,"42","  Wholesale trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-145641
+ "33000","New Hampshire",1,SAGDP5N,35,"44-45","  Retail trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-18617,-1970,-19,0,0,0,0,0,0,0,0,-370377
+ "33000","New Hampshire",1,SAGDP5N,36,"48-49","  Transportation and warehousing","Thousands of dollars",-104,-45,-47,-59,-10358,-2257,-7499,-3502,-4306,-5528,-5116,-7798,-9790,-11143,-8364,-8141,-8402,-7616,-7107,-7064,-8906,-10419,-8761,-79999
+ "33000","New Hampshire",1,SAGDP5N,37,"481","   Air transportation","Thousands of dollars",-41,2,0,-2,-10280,-327,-5142,-35,-125,-190,-192,-288,-350,-419,-482,-530,-478,-448,-491,-181,-174,-147,-168,-12606
+ "33000","New Hampshire",1,SAGDP5N,38,"482","   Rail transportation","Thousands of dollars",-43,-38,-43,-45,-40,-1854,-2320,-3380,-4122,-5201,-4876,-7476,-9428,-10724,-7881,-7582,-7923,-7166,-6615,-6878,-8728,-10271,-8591,-8874
+ "33000","New Hampshire",1,SAGDP5N,39,"483","   Water transportation","Thousands of dollars",-20,-9,-4,-12,-39,-76,-30,-38,-12,-14,-18,-4,0,0,0,-29,0,-2,-1,-5,-4,-1,-1,-655
+ "33000","New Hampshire",1,SAGDP5N,40,"484","   Truck transportation","Thousands of dollars",0,0,0,0,0,0,-7,-50,-47,-123,-29,-30,-12,0,0,0,0,0,0,0,0,0,0,-30831
+ "33000","New Hampshire",1,SAGDP5N,41,"485","   Transit and ground passenger transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10999
+ "33000","New Hampshire",1,SAGDP5N,42,"486","   Pipeline transportation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "33000","New Hampshire",1,SAGDP5N,43,"487-488, 492","   Other transportation and support activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-14144
+ "33000","New Hampshire",1,SAGDP5N,44,"493","   Warehousing and storage","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1890
+ "33000","New Hampshire",1,SAGDP5N,45,"51","  Information","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-129,-358,-1591,-2246,-1215,-277,-308,16,-37,-17,-21,-41381
+ "33000","New Hampshire",1,SAGDP5N,46,"511","   Publishing industries (except Internet)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-30108
+ "33000","New Hampshire",1,SAGDP5N,47,"512","   Motion picture and sound recording industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3425
+ "33000","New Hampshire",1,SAGDP5N,48,"515, 517","   Broadcasting (except Internet) and telecommunications","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-129,-358,-1591,-2246,-1215,-277,-308,16,-37,-17,-21,-4562
+ "33000","New Hampshire",1,SAGDP5N,49,"518, 519","   Data processing, hosting, and other information services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3287
+ "33000","New Hampshire",1,SAGDP5N,50,"52, 53","  Finance, insurance, real estate, rental, and leasing","Thousands of dollars",-46437,-48100,-57922,-57101,-57423,-66365,-77301,-86609,-105031,-87798,-81301,-77426,-85183,-84328,-87448,-92422,-90089,-85644,-87826,-93900,-96407,-83401,-85872,-220876
+ "33000","New Hampshire",1,SAGDP5N,51,"52","   Finance and insurance","Thousands of dollars",-41,-256,-678,-838,-692,-635,-204,-167,-22,-2,-48,-5,-418,-1113,-697,-450,-361,-274,-78,-285,-687,-831,-790,-58755
+ "33000","New Hampshire",1,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services","Thousands of dollars",-41,-256,-678,-838,-692,-635,-204,-167,-22,-2,-48,-5,-418,-1113,-697,-450,-361,-274,-78,-285,-687,-831,-790,-12065
+ "33000","New Hampshire",1,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23075
+ "33000","New Hampshire",1,SAGDP5N,54,"524","    Insurance carriers and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23044
+ "33000","New Hampshire",1,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-571
+ "33000","New Hampshire",1,SAGDP5N,56,"53","   Real estate and rental and leasing","Thousands of dollars",-46396,-47844,-57244,-56263,-56731,-65729,-77097,-86442,-105009,-87796,-81253,-77422,-84766,-83215,-86750,-91972,-89727,-85369,-87748,-93615,-95720,-82569,-85082,-162121
+ "33000","New Hampshire",1,SAGDP5N,57,"531","    Real estate","Thousands of dollars",-46396,-47844,-57244,-56263,-56731,-65729,-77097,-86442,-105009,-87796,-81253,-77422,-84766,-83215,-86750,-91972,-89727,-85369,-87748,-93615,-95720,-82569,-85082,-148305
+ "33000","New Hampshire",1,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-13816
+ "33000","New Hampshire",1,SAGDP5N,59,"54, 55, 56","  Professional and business services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-369482
+ "33000","New Hampshire",1,SAGDP5N,60,"54","   Professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-230913
+ "33000","New Hampshire",1,SAGDP5N,61,"5411","    Legal services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-35288
+ "33000","New Hampshire",1,SAGDP5N,62,"5415","    Computer systems design and related services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-59423
+ "33000","New Hampshire",1,SAGDP5N,63,"5412-5414, 5416-5419","    Miscellaneous professional, scientific, and technical services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-136203
+ "33000","New Hampshire",1,SAGDP5N,64,"55","   Management of companies and enterprises","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-9628
+ "33000","New Hampshire",1,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-128941
+ "33000","New Hampshire",1,SAGDP5N,66,"561","    Administrative and support services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-113399
+ "33000","New Hampshire",1,SAGDP5N,67,"562","    Waste management and remediation services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-15542
+ "33000","New Hampshire",1,SAGDP5N,68,"61, 62","  Educational services, health care, and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3279,-26483,-15017,-18312,-17083,-9865,-5781,-1981,-63,-63,-575362
+ "33000","New Hampshire",1,SAGDP5N,69,"61","   Educational services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-24827
+ "33000","New Hampshire",1,SAGDP5N,70,"62","   Health care and social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3279,-26483,-15017,-18312,-17083,-9865,-5781,-1981,-63,-63,-550535
+ "33000","New Hampshire",1,SAGDP5N,71,"621","    Ambulatory health care services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-368076
+ "33000","New Hampshire",1,SAGDP5N,72,"622","    Hospitals","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-3279,-26483,-15017,-18312,-17083,-9865,-5781,-1981,-63,-63,-90076
+ "33000","New Hampshire",1,SAGDP5N,73,"623","    Nursing and residential care facilities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46152
+ "33000","New Hampshire",1,SAGDP5N,74,"624","    Social assistance","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46232
+ "33000","New Hampshire",1,SAGDP5N,75,"71, 72","  Arts, entertainment, recreation, accommodation, and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-286482
+ "33000","New Hampshire",1,SAGDP5N,76,"71","   Arts, entertainment, and recreation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46343
+ "33000","New Hampshire",1,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-6422
+ "33000","New Hampshire",1,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39921
+ "33000","New Hampshire",1,SAGDP5N,79,"72","   Accommodation and food services","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-240140
+ "33000","New Hampshire",1,SAGDP5N,80,"721","    Accommodation","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50078
+ "33000","New Hampshire",1,SAGDP5N,81,"722","    Food services and drinking places","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-190062
+ "33000","New Hampshire",1,SAGDP5N,82,"81","  Other services (except government and government enterprises)","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-97383
+ "33000","New Hampshire",1,SAGDP5N,83,"..."," Government and government enterprises","Thousands of dollars",-27594,-23361,-23208,-22525,-28819,-40191,-46830,-52462,-51831,-42599,-39650,-39020,-44512,-47648,-53044,-42074,-41377,-45119,-44649,-49152,-46569,-53471,-54492,-96849
+ "33000","New Hampshire",1,SAGDP5N,84,"...","  Federal civilian","Thousands of dollars",-97,-103,-105,-141,-199,-248,-275,-240,-269,-197,-215,-222,-188,-186,-200,-262,-350,-478,-405,-361,-293,-333,-274,-322
+ "33000","New Hampshire",1,SAGDP5N,85,"...","  Military","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "33000","New Hampshire",1,SAGDP5N,86,"...","  State and local","Thousands of dollars",-27497,-23258,-23103,-22385,-28620,-39944,-46555,-52222,-51562,-42402,-39435,-38799,-44324,-47462,-52844,-41812,-41027,-44642,-44245,-48791,-46276,-53138,-54218,-96527
+ "33000","New Hampshire",1,SAGDP5N,87,"11, 21","Natural resources and mining","Thousands of dollars",-755,-1580,-3406,-4098,-2508,-3341,-5217,-3917,-6671,-6457,-5628,-6621,-7749,-17038,-10940,-12250,-10058,-6208,-5544,-5011,-5189,-6496,-6517,-42175
+ "33000","New Hampshire",1,SAGDP5N,88,"42, 44-45","Trade","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-18617,-1970,-19,0,0,0,0,0,0,0,0,-516018
+ "33000","New Hampshire",1,SAGDP5N,89,"22, 48-49","Transportation and utilities","Thousands of dollars",-104,-45,-47,-59,-10358,-2257,-7499,-3502,-4306,-5528,-5116,-7798,-9790,-11143,-8364,-8141,-8402,-7616,-7107,-7064,-8906,-10419,-8761,-88434
+ "33000","New Hampshire",1,SAGDP5N,90,"31-33, 51","Manufacturing and information","Thousands of dollars",0,0,0,0,0,0,0,0,0,-38,-23,-1275,-3252,-8604,-11309,-9596,-5153,-3698,-4257,-3945,-3553,-3387,-3804,-365872
+ "33000","New Hampshire",1,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-755,-1580,-3406,-4098,-2508,-3341,-5217,-3917,-6671,-6495,-5651,-7896,-10872,-25285,-20658,-19599,-13996,-9629,-9493,-8972,-8705,-9866,-10300,-727324
+ "33000","New Hampshire",1,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-46542,-48144,-57968,-57160,-67781,-68622,-84800,-90111,-109337,-93326,-86417,-85224,-113719,-101078,-123904,-117827,-118018,-110619,-105106,-106729,-107332,-93900,-94716,-2195418
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1/"
+"Last updated: October 1, 2021-- new statistics for 2020; revised statistics for 1997-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

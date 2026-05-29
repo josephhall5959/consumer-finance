@@ -1,0 +1,30 @@
+\begingroup
+\centering
+\begin{tabular}{lcccc}
+   \tabularnewline \midrule \midrule
+   Dependent Variables: & SLS\_growth & d & \multicolumn{2}{c}{SLS\_growth}\\
+   Model:                       & (1)            & (2)           & (3)            & (4)\\  
+   \midrule
+   \emph{Variables}\\
+   acceptance                   & 0.0188$^{***}$ & -0.0194       & 0.0007         & 0.0193$^{***}$\\   
+                                & (0.0002)       & (0.1885)      & (0.0028)       & (0.0013)\\   
+   log(SLS0+1)                  & -0.0037        & 0.1777$^{**}$ & -0.0038        & -0.0039\\   
+                                & (0.0057)       & (0.0346)      & (0.0056)       & (0.0057)\\   
+   acceptance $\times$ treated  & -0.0231$^{**}$ & 0.8225$^{**}$ &                & -0.0237$^{***}$\\   
+                                & (0.0044)       & (0.1604)      &                & (0.0036)\\   
+   treated                      &                &               & -0.0074$^{**}$ & -0.0042$^{**}$\\   
+                                &                &               & (0.0013)       & (0.0010)\\   
+   \midrule
+   \emph{Fixed-effects}\\
+   STATE                        & Yes            & Yes           &                & \\  
+   SIC1                         & Yes            & Yes           & Yes            & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Observations                 & 525            & 525           & 525            & 525\\  
+   R$^2$                        & 0.32740        & 0.18762       & 0.32613        & 0.32697\\  
+   Within R$^2$                 & 0.00328        & 0.01944       & 0.00326        & 0.00451\\  
+   \midrule \midrule
+   \multicolumn{5}{l}{\emph{Clustered (STATE) standard-errors in parentheses}}\\
+   \multicolumn{5}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
