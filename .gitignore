@@ -62,6 +62,17 @@ Data/Raw/Yellow_Pages/OneDrive_2024-10-17.zip
 # --- All zip files ---
 *.zip
 
+# --- Internal memos / planning / notes-to-self (NOT for public) ---
+RESEARCH_AGENDA.md
+NOTES.md
+TODO.md
+*.notes.md
+# Scratch / prototype analyses and their outputs
+Code/scratch_*
+**/scratch/
+# Stray R plotting device artifact
+Rplots.pdf
+
 # --- OS/editor artifacts ---
 .DS_Store
 Thumbs.db
