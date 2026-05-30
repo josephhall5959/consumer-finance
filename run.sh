@@ -22,14 +22,14 @@ pdflatex -interaction=nonstopmode main.tex || true
 
 echo ""
 echo "=== Step 4: Compiling slides ==="
-pdflatex -interaction=nonstopmode slides_boc.tex || true
-pdflatex -interaction=nonstopmode slides_boc.tex || true
+pdflatex -interaction=nonstopmode slides.tex || true
+pdflatex -interaction=nonstopmode slides.tex || true
 cd ..
 
 echo ""
 echo "=== Done! ==="
 echo "  Paper:  Paper/main.pdf"
-echo "  Slides: Paper/slides_boc.pdf"
+echo "  Slides: Paper/slides.pdf"
 echo ""
 echo "  Figures: Output/Figures/"
 echo "  Tables:  Output/Tables/"

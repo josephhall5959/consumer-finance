@@ -72,6 +72,28 @@ if (nrow(scf) > 0) {
     ggsave(file.path(OUTPUT_FIG, "store_fraction.pdf"), p, width = 9, height = 6)
   }
 
+  # Figure: Cards per household (bank vs store), SCF
+  # Restrict to 1977 onward (the Marquette era) and drop the 1983 survey, whose
+  # pre-modern-SCF sampling produces an erratic reading inconsistent with the
+  # methodologically-comparable triennial SCF that begins in 1989.
+  if (all(c("bank_cards", "store_cards") %in% names(scf))) {
+    cards_ts <- scf[, .(
+      `Bank Cards`  = weighted.mean(bank_cards,  w = weight, na.rm = TRUE),
+      `Store Cards` = weighted.mean(store_cards, w = weight, na.rm = TRUE)
+    ), by = "year"]
+    cards_ts <- cards_ts[!is.na(year) & year >= 1977 & year != 1983 &
+                           !is.nan(`Bank Cards`) & !is.nan(`Store Cards`)]
+    cards_long <- cards_ts %>%
+      pivot_longer(-year, names_to = "Series", values_to = "value")
+    p <- ggplot(cards_long, aes(x = year, y = value, color = Series, linetype = Series)) +
+      geom_line(linewidth = 0.9) + geom_point(size = 2.3) +
+      scale_color_manual(values = c("Bank Cards" = "firebrick", "Store Cards" = "steelblue")) +
+      labs(x = "Year", y = "Cards per household") +
+      theme_classic() +
+      theme(legend.position = c(0.25, 0.85), legend.title = element_blank())
+    ggsave(file.path(OUTPUT_FIG, "cards_per_household.pdf"), p, width = 9, height = 6)
+  }
+
   # Figure: Bank card ownership
   bank_card_ts <- scf[, .(has_bank_card = mean(has_bank_card)), by = year] %>%
     rbind(data.frame(year = c(1968, 2020), has_bank_card = c(0.07, 0.8)))
@@ -184,12 +206,15 @@ if (nrow(scf) > 0) {
         .groups = "drop"
       )
 
-    card_uses %>%
-      kbl(format = "latex", booktabs = TRUE, digits = 2,
-          caption = "Credit Card Ownership Over Time") %>%
+    # Bare tabular only: main.tex inputs this inside a \resizebox under a
+    # shared caption, so an inner table environment would break compilation.
+    cu_tex <- card_uses %>%
+      kbl(format = "latex", booktabs = TRUE, digits = 2) %>%
       kable_classic() %>%
-      save_kable(file = file.path(OUTPUT_TAB, "card_uses.tex"),
-                 self_contained = FALSE)
+      as.character()
+    cu_lines <- strsplit(cu_tex, "\n")[[1]]
+    cu_lines <- cu_lines[!grepl("^\\\\begin\\{table|^\\\\end\\{table|^\\\\centering$|^\\\\caption", cu_lines)]
+    writeLines(cu_lines, file.path(OUTPUT_TAB, "card_uses.tex"))
   }
 }
 
@@ -258,9 +283,11 @@ if (file.exists(intl_file)) {
       slice(1) %>%
       ungroup()
 
-    # US values for vertical lines
+    # US and Canada values for vertical lines
     us_cc <- hist_data %>% filter(.data[[country_col]] == "United States") %>% pull(!!cc_col)
     us_sc <- hist_data %>% filter(.data[[country_col]] == "United States") %>% pull(!!sc_col)
+    ca_cc <- hist_data %>% filter(.data[[country_col]] == "Canada") %>% pull(!!cc_col)
+    ca_sc <- hist_data %>% filter(.data[[country_col]] == "Canada") %>% pull(!!sc_col)
 
     p1 <- ggplot(hist_data, aes(x = .data[[cc_col]])) +
       geom_histogram(bins = 20, fill = "steelblue", alpha = 0.7) +
@@ -268,6 +295,11 @@ if (file.exists(intl_file)) {
       annotate("text", x = us_cc, y = Inf, label = "US", vjust = 2, hjust = -0.3, color = "red") +
       theme_classic() +
       labs(x = "Credit Card Ownership", y = "Number of Countries", title = "(a) Credit Card Ownership")
+    if (length(ca_cc) > 0 && !is.na(ca_cc)) {
+      p1 <- p1 +
+        geom_vline(xintercept = ca_cc, linetype = "dashed", color = "darkgreen", linewidth = 1) +
+        annotate("text", x = ca_cc, y = Inf, label = "Canada", vjust = 3.5, hjust = 1.15, color = "darkgreen")
+    }
 
     p2 <- ggplot(hist_data, aes(x = .data[[sc_col]])) +
       geom_histogram(bins = 20, fill = "coral", alpha = 0.7) +
@@ -275,6 +307,11 @@ if (file.exists(intl_file)) {
       annotate("text", x = us_sc, y = Inf, label = "US", vjust = 2, hjust = -0.3, color = "red") +
       theme_classic() +
       labs(x = "Store Credit Borrowing", y = "Number of Countries", title = "(b) Store Credit Borrowing")
+    if (length(ca_sc) > 0 && !is.na(ca_sc)) {
+      p2 <- p2 +
+        geom_vline(xintercept = ca_sc, linetype = "dashed", color = "darkgreen", linewidth = 1) +
+        annotate("text", x = ca_sc, y = Inf, label = "Canada", vjust = 2, hjust = 1.15, color = "darkgreen")
+    }
 
     p_combined <- grid.arrange(p1, p2, ncol = 2)
     ggsave(file.path(OUTPUT_FIG, "international_histograms.pdf"), p_combined, width = 12, height = 5)

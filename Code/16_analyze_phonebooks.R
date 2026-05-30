@@ -50,16 +50,26 @@ in_sub <- in_books %>%
   mutate(fe = paste0(sic1, industry, city))
 
 # Adoption by industry table
-in_sub %>%
+# Emit a bare tabular (no table/caption wrapper): main.tex inputs this inside
+# its own table float and inside a \resizebox, so an inner table environment
+# would trigger "Not in outer par mode".
+# Descriptive acceptance rates use the FULL covered sample (in_books), not the
+# competitive-markets subsample (in_sub) used for the FE logit regression below.
+# Restricting to cells with >=1 acceptor would inflate denominators unevenly
+# across industries and distort the ranking. Sorted by acceptance rate.
+ae_tex <- in_books %>%
+  filter(!is.na(industry)) %>%
   group_by(industry) %>%
   summarise(acceptance = mean(acceptance), n = n(), .groups = "drop") %>%
-  mutate(firms_accepting = n * acceptance) %>%
-  arrange(desc(firms_accepting)) %>%
-  mutate(acceptance = format_pct(acceptance)) %>%
+  mutate(firms_accepting = round(n * acceptance)) %>%
+  arrange(desc(acceptance)) %>%
+  mutate(acceptance = paste0(format(round(100 * acceptance, 1), nsmall = 1), "%")) %>%
   kbl(format = "latex", booktabs = TRUE) %>%
   kable_classic() %>%
-  save_kable(file = file.path(OUTPUT_TAB, "adoption_effects.tex"),
-             self_contained = FALSE)
+  as.character()
+ae_lines <- strsplit(ae_tex, "\n")[[1]]
+ae_lines <- ae_lines[!grepl("^\\\\begin\\{table|^\\\\end\\{table|^\\\\centering$|^\\\\caption", ae_lines)]
+writeLines(ae_lines, file.path(OUTPUT_TAB, "adoption_effects.tex"))
 cat("  Created adoption_effects.tex\n")
 
 # Adoption regression (logit with marginal effects)
@@ -236,6 +246,69 @@ tryCatch({
   writeLines(tex_repr_lines, file.path(OUTPUT_TAB, "yp_representativeness.tex"))
   cat("  Created yp_representativeness.tex\n")
 }, error = function(e) cat("  Representativeness table failed:", e$message, "\n"))
+
+# --- A11d: County-level representativeness (Yellow Pages sample vs rest of US) ---
+# Compares CBP county aggregates for counties covered by the USTD collection
+# against all other US counties. Covered counties are identified via the
+# YP->CBP location crosswalk (Raw/CBP/crosswalk.dta, keyed to the 1970 CBP
+# vintage). We therefore use 1970 CBP, the year the crosswalk is built for.
+tryCatch({
+  xw_file  <- file.path(DATA_RAW, "CBP", "crosswalk.dta")
+  cbp_file <- file.path(DATA_GEN, "cbp_sic2.csv")
+  if (file.exists(xw_file) && file.exists(cbp_file)) {
+    xw  <- haven::read_dta(xw_file)
+    cov <- unique(data.table::as.data.table(xw)[, .(stcode, cocode)])
+    covkey <- paste(cov$stcode, cov$cocode)
+
+    cbp <- data.table::fread(cbp_file)
+    cbp_yr <- cbp[year == 1970 & cocode > 0 & !is.na(sic2)]
+
+    cty <- cbp_yr[, .(
+      emp    = sum(emp, na.rm = TRUE),
+      est    = sum(est, na.rm = TRUE),
+      retail = sum(est[sic2 >= 52 & sic2 <= 59], na.rm = TRUE)
+    ), by = .(stcode, cocode)]
+    cty[, covered := paste(stcode, cocode) %in% covkey]
+
+    agg <- cty[, .(
+      Counties = .N,
+      avg_emp  = mean(emp),
+      avg_est  = mean(est),
+      avg_ret  = mean(retail),
+      tot_emp  = sum(emp),
+      tot_est  = sum(est)
+    ), by = covered]
+
+    ins <- agg[covered == TRUE]
+    out <- agg[covered == FALSE]
+    fmt <- function(x) formatC(round(x), format = "d", big.mark = ",")
+
+    cty_lines <- c(
+      "\\begin{tabular}[t]{lrr}",
+      "\\toprule",
+      "Variable & In Sample & Not In Sample\\\\",
+      "\\midrule",
+      sprintf("Avg Employment ('000) & %s & %s \\\\",
+              fmt(ins$avg_emp / 1e3), fmt(out$avg_emp / 1e3)),
+      sprintf("Avg Establishments & %s & %s \\\\",
+              fmt(ins$avg_est), fmt(out$avg_est)),
+      sprintf("Avg Retail Establishments & %s & %s \\\\",
+              fmt(ins$avg_ret), fmt(out$avg_ret)),
+      sprintf("Total Employment (M) & %s & %s \\\\",
+              formatC(ins$tot_emp / 1e6, format = "f", digits = 0),
+              formatC(out$tot_emp / 1e6, format = "f", digits = 0)),
+      sprintf("Total Establishments ('000) & %s & %s \\\\",
+              fmt(ins$tot_est / 1e3), fmt(out$tot_est / 1e3)),
+      sprintf("Counties & %s & %s \\\\", fmt(ins$Counties), fmt(out$Counties)),
+      "\\bottomrule",
+      "\\end{tabular}"
+    )
+    writeLines(cty_lines, file.path(OUTPUT_TAB, "yp_county_repr.tex"))
+    cat("  Created yp_county_repr.tex\n")
+  } else {
+    cat("  Skipping yp_county_repr.tex (crosswalk.dta or cbp_sic2.csv missing)\n")
+  }
+}, error = function(e) cat("  County representativeness table failed:", e$message, "\n"))
 
 # --- A11c: Acceptance rates over time (balanced panel of cities) ---
 tryCatch({

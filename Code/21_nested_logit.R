@@ -83,9 +83,29 @@ to_optimize <- function(free_params, vector = FALSE) {
   return(errors %*% errors)
 }
 
-target_moments <- c(0.0027, -0.048)
-# Standard errors of target moments (from reduced-form regressions)
-target_se <- c(0.005, 0.02)
+# Target moments and their standard errors flow from the reduced-form sales
+# DiD regressions estimated in 13_did_marquette.R (written to smm_moments.csv):
+#   Moment 1 = average sales change from Marquette (treated x post)
+#   Moment 2 = accept-vs-not sales differential    (treated x post x card)
+# This makes structural-parameter uncertainty propagate directly from the
+# regression SEs through the SMM to SE(sigma).
+smm_file <- file.path(DATA_GEN, "smm_moments.csv")
+if (file.exists(smm_file)) {
+  smm_in <- fread(smm_file)
+  target_moments <- as.numeric(smm_in$estimate)
+  target_se <- as.numeric(smm_in$se)
+  # Full 2x2 covariance of the moments (off-diagonal from cov12 if present).
+  cov12 <- if ("cov12" %in% names(smm_in)) as.numeric(smm_in$cov12[1]) else 0
+  Sigma_m <- matrix(c(target_se[1]^2, cov12, cov12, target_se[2]^2), 2, 2)
+  cat(sprintf("  Loaded target moments from smm_moments.csv: (%.4f, %.4f), SE (%.4f, %.4f), corr %.3f\n",
+              target_moments[1], target_moments[2], target_se[1], target_se[2],
+              cov12 / (target_se[1] * target_se[2])))
+} else {
+  warning("smm_moments.csv not found; using fallback hardcoded moments.")
+  target_moments <- c(0.0027, -0.048)
+  target_se <- c(0.005, 0.02)
+  Sigma_m <- diag(target_se^2)
+}
 
 # --- Helper: estimate for a given alpha and target_moments ---
 estimate_model <- function(alpha_val, tm, verbose = FALSE) {
@@ -117,33 +137,97 @@ cat("  Cost inclusive of usage:", params[2] * 0.37, "\n")
 cat("  Model moments:", to_optimize(params, vector = TRUE), "\n")
 cat("  Target moments:", target_moments, "\n")
 
-# --- A3: Bootstrap standard errors ---
-cat("  Computing bootstrap standard errors...\n")
-n_boot <- 50  # Increase to 1000 for final version
-boot_params <- matrix(NA, nrow = n_boot, ncol = 2)
+# --- A3: Delta-method standard errors ---
+# Because the SMM is exactly identified (2 moments -> 2 parameters), the model
+# matches the targets exactly and theta(m) is the inverse of the moment map
+# M(theta).  We propagate the regression moments' covariance Sigma_m through
+# this map: Var(theta) = J Sigma_m J', with J = (dM/dtheta)^{-1} = dtheta/dm.
+# The Jacobian dM/dtheta is computed by central finite differences around the
+# estimate -- a few model solves rather than thousands of bootstrap re-solves.
+cat("  Computing delta-method standard errors...\n")
 
-# Create a version of the objective that takes target_moments as argument
-to_optimize_tm <- function(free_params, tm) {
-  result <- to_optimize(free_params, vector = TRUE)
-  errors <- result - tm
-  return(errors %*% errors)
+model_moments <- function(theta) to_optimize(theta, vector = TRUE)
+
+h_fd <- 1e-5
+K <- matrix(0, 2, 2)                       # K[, j] = dM / d theta_j
+for (j in 1:2) {
+  tp <- params; tm <- params
+  tp[j] <- tp[j] + h_fd; tm[j] <- tm[j] - h_fd
+  K[, j] <- (model_moments(tp) - model_moments(tm)) / (2 * h_fd)
 }
+J <- solve(K)                              # d theta / d m
+V_theta <- J %*% Sigma_m %*% t(J)          # full param covariance (off-diag kept)
+delta_se <- sqrt(diag(V_theta))
 
-set.seed(42)
-for (b in 1:n_boot) {
-  # Perturb target moments by their standard errors
-  tm_b <- target_moments + rnorm(2) * target_se
+cat("  Delta-method SE: sigma =", delta_se[1], ", zeta =", delta_se[2], "\n")
+cat("  Delta-method SE of cost:", delta_se[2] * 0.37, "\n")
+cat(sprintf("  corr(sigma, zeta) = %.3f\n",
+            V_theta[1, 2] / sqrt(V_theta[1, 1] * V_theta[2, 2])))
+cat(sprintf("  sigma = %.4f (SE %.4f, t = %.2f);  zeta = %.4f (SE %.4f, t = %.2f)\n",
+            params[1], delta_se[1], params[1] / delta_se[1],
+            params[2], delta_se[2], params[2] / delta_se[2]))
 
-  P_b <- tryCatch(
-    optim(params, to_optimize_tm, tm = tm_b),
-    error = function(e) list(par = c(NA, NA))
+# Calibration-results table with delta-method SEs (read by the paper, Table 5).
+# Reproduces the full Parameters + Target Moments table entirely from the model
+# objects so nothing is hardcoded in main.tex.
+tryCatch({
+  mm <- model_moments(params)                      # model-implied moments at solution
+  cost_reduction <- params[2] * u_0                # implied cost reduction (zeta * u_0)
+
+  # value/percent formatters
+  fmt_se   <- function(v, s) sprintf("$%.3f$ (%.3f)", v, s)     # signed value (s.e.)
+  fmt_pct  <- function(x) sprintf("$%+g\\%%$", round(x * 100, 1))
+  fmt_pcts <- function(x, s) sprintf("$%+g\\%%$ (%g\\%%)",
+                                     round(x * 100, 1), round(s * 100, 1))
+
+  firm_store_share <- 1 - as_share * na_firms      # firms' store-card conditional share
+  d_store <- -ss * ns                              # store-card share change (calibration)
+  d_bank  <- u_1 - u_0                             # bank-card share change (calibration)
+
+  est_lines <- c(
+    "\\begin{tabular}{lrc}",
+    "\\multicolumn{3}{c}{\\textbf{Parameters}} \\\\",
+    "Parameter & Value & Method \\\\",
+    "\\hline",
+    sprintf("$\\alpha$ & $%g$ & Literature \\\\", alpha),
+    sprintf("$\\sigma$ & %s & Matched \\\\", fmt_se(params[1], delta_se[1])),
+    sprintf("$\\zeta$ & %s & Matched \\\\", fmt_se(params[2], delta_se[2])),
+    sprintf("N Firms & %d & Observed\\\\", as.integer(nf)),
+    "N Bank Networks & 1 & Observed\\\\",
+    sprintf("Top Firm Share & %g\\%% & Observed\\\\", round(ts * 100)),
+    sprintf("Firm Store Card Share & %g\\%% & Observed\\\\", round(firm_store_share * 100)),
+    sprintf("Consumer Bank Card Share & %g\\%% & Observed", round(u_0 * 100)),
+    "\\\\ \\multicolumn{3}{c}{\\textbf{Target Moments}} \\\\",
+    "Moment & Model & Data \\\\",
+    "\\hline",
+    sprintf("$\\Delta$ Store Card Share & %s & %s \\\\", fmt_pct(d_store), fmt_pct(d_store)),
+    sprintf("$\\Delta$ Bank Card Share & %s & %s \\\\", fmt_pct(d_bank), fmt_pct(d_bank)),
+    sprintf("Avg $\\Delta$ Sales ($Treated\\times Post$) & %s & %s \\\\",
+            fmt_pct(mm[1]), fmt_pcts(target_moments[1], target_se[1])),
+    sprintf("Accept Differential ($\\times Accept$) & %s & %s",
+            fmt_pct(mm[2]), fmt_pcts(target_moments[2], target_se[2])),
+    "\\end{tabular}"
   )
-  boot_params[b, ] <- P_b$par
-}
+  writeLines(est_lines, file.path(OUTPUT_TAB, "estimation_results.tex"))
+  cat("  Created estimation_results.tex\n")
 
-boot_se <- apply(boot_params, 2, sd, na.rm = TRUE)
-cat("  Bootstrap SE: sigma =", boot_se[1], ", zeta =", boot_se[2], "\n")
-cat("  Bootstrap SE of cost:", boot_se[2] * 0.37, "\n")
+  # Compact slide version: calibrated parameters (slides.tex)
+  slide_lines <- c(
+    "\\begin{tabular}{lc}",
+    "\\toprule",
+    "Parameter & Value \\\\",
+    "\\midrule",
+    sprintf("$\\alpha$ (price sensitivity) & $%g$ \\\\", alpha),
+    sprintf("$\\sigma$ (card differentiation) & %.3f (%.3f) \\\\", params[1], delta_se[1]),
+    sprintf("$\\zeta$ (cost change) & $%.3f$ (%.3f) \\\\", params[2], delta_se[2]),
+    "\\midrule",
+    sprintf("Implied cost reduction & %g\\%% \\\\", round(abs(cost_reduction) * 100, 1)),
+    "\\bottomrule",
+    "\\end{tabular}"
+  )
+  writeLines(slide_lines, file.path(OUTPUT_TAB, "estimation_results_slide.tex"))
+  cat("  Created estimation_results_slide.tex\n")
+}, error = function(e) cat("  Estimation table output failed:", e$message, "\n"))
 
 # --- A4: Sensitivity to alpha ---
 cat("  Computing sensitivity to alpha...\n")
@@ -288,6 +372,8 @@ solve_counterfactual <- function(a_cf, g_cf, label) {
 
   data.frame(
     Scenario = label,
+    Price_level = mean(p_cf),
+    Cost_level = mean(c_cf),
     Price_change = mean(p_cf) / b0 - 1,
     Cost_change = mean(c_cf) / b1 - 1,
     Profit_change = as.numeric(s_cf %*% (p_cf - c_cf)) / b2 - 1,
@@ -314,5 +400,54 @@ cf_results <- rbind(
 
 cat("\nCounterfactual Results:\n")
 print(cf_results)
+
+# --- Decomposition table (Price / Cost / Markup) read by the paper ---
+# Express changes as basis-point movements of the index level relative to the
+# baseline (treated = Post-Marquette; "No cost changes" = nests only; "Only cost
+# changes" = costs only).  Markup level = price level - cost level.
+tryCatch({
+  mk_base <- b0 - b1
+  bp <- function(x) sprintf("%+dbp", round(x * 1e4))
+  get_row <- function(lbl) cf_results[cf_results$Scenario == lbl, ]
+  tr <- get_row("Post-Marquette")
+  nc <- get_row("Change nests only")
+  oc <- get_row("Change costs only")
+  d_price <- function(r) r$Price_level - b0
+  d_cost  <- function(r) r$Cost_level  - b1
+  d_mk    <- function(r) (r$Price_level - r$Cost_level) - mk_base
+  cf_lines <- c(
+    "\\begin{tabular}{c|cccc}",
+    "Variable & Baseline & Treated & No Cost & Only Cost \\\\",
+    " & & (Marquette) & Changes & Changes \\\\",
+    "\\hline",
+    " & (1) & (2) & (3) & (4) \\\\",
+    sprintf("Price Index & %.2f & %s & %s & %s \\\\", b0,
+            bp(d_price(tr)), bp(d_price(nc)), bp(d_price(oc))),
+    sprintf("Cost Index & %.2f & %s & %s & %s \\\\", b1,
+            bp(d_cost(tr)), bp(d_cost(nc)), bp(d_cost(oc))),
+    sprintf("Markup & %.2f & %s & %s & %s \\\\", mk_base,
+            bp(d_mk(tr)), bp(d_mk(nc)), bp(d_mk(oc))),
+    "\\end{tabular}"
+  )
+  writeLines(cf_lines, file.path(OUTPUT_TAB, "counterfactuals.tex"))
+  cat("  Created counterfactuals.tex\n")
+  cat(sprintf("  Decomposition: total price %s = cost %s + markup %s\n",
+              bp(d_price(tr)), bp(d_cost(tr)), bp(d_mk(tr))))
+
+  # Compact slide version: cost/markup decomposition (slides.tex)
+  cf_slide <- c(
+    "\\begin{tabular}{lcc}",
+    "\\toprule",
+    " & Cost & Markup \\\\",
+    "\\midrule",
+    sprintf("Baseline $\\to$ Marquette & %s & %s \\\\", bp(d_cost(tr)), bp(d_mk(tr))),
+    sprintf("Cost only & %s & %s \\\\", bp(d_cost(oc)), bp(d_mk(oc))),
+    sprintf("Competition only & %s & %s \\\\", bp(d_cost(nc)), bp(d_mk(nc))),
+    "\\bottomrule",
+    "\\end{tabular}"
+  )
+  writeLines(cf_slide, file.path(OUTPUT_TAB, "counterfactuals_slide.tex"))
+  cat("  Created counterfactuals_slide.tex\n")
+}, error = function(e) cat("  Counterfactual table output failed:", e$message, "\n"))
 
 cat("Nested logit model complete.\n")

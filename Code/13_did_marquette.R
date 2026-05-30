@@ -104,6 +104,72 @@ if (file.exists(state_file) && file.info(state_file)$size > 100) {
   cat("  db_state.csv not available for event study.\n")
 }
 
+# ---- 1b. SMM target moments: sales DiD (feeds the structural model) ----
+# Moment 1: average sales change from Marquette   (avg treated firm, post)
+# Moment 2: accept-vs-not sales differential       (card interaction)
+# We use the CONTINUOUS usury-tightness intensity gap = max(0, 18 - r_77) rather
+# than a binary treated dummy: the gap exploits the full cross-state variation in
+# how strongly Marquette relaxed each state's binding rate ceiling, which extracts
+# more signal (lower moment SEs) than a 0/1 split.  Both moments come off a SINGLE
+# interaction regression so we keep their full 2x2 joint covariance, then scale to
+# the average binding gap among treated states so the moments retain the "effect
+# for a typical treated state" interpretation that the structural model expects.
+#   moment1 (avg effect)   = gbar * (b_gp + p_card * b_gp:card)
+#   moment2 (differential) = gbar *  b_gp:card
+# where gbar = mean(gap | treated).  Note the scaling cancels in the t-statistics,
+# so the precision gain over the binary spec reflects genuine added signal.  The
+# clustered estimates AND covariance are written to smm_moments.csv and read by
+# 21_nested_logit.R, so structural-parameter uncertainty propagates from these
+# reduced-form regressions through the SMM to SE(sigma)/SE(cost) via delta method.
+if (file.exists(retail_file) && file.info(retail_file)$size > 1000) {
+  cat("  Estimating SMM target moments from firm-level sales...\n")
+  tryCatch({
+    rs <- fread(retail_file,
+                select = c("STATE", "YEAR", "SIC1", "DUNSNO",
+                           "log_sls", "card", "treated", "r_77"))
+    rs <- rs[!is.na(log_sls) & is.finite(log_sls) & !is.na(treated) & !is.na(r_77)]
+    rs[, post := as.integer(YEAR >= 1978)]
+    rs[, gap := pmax(0, 18 - r_77)]      # usury bindingness (0 for control states)
+    rs[, gap_post := gap * post]
+
+    m <- feols(log_sls ~ gap_post * card | DUNSNO + YEAR,
+               data = rs, cluster = ~STATE)
+    b <- coef(m); V <- vcov(m); nm <- names(b)
+    i_g  <- which(nm == "gap_post")
+    i_gc <- which(nm == "gap_post:card")
+
+    # Average binding gap among treated states and card share among treated-post
+    # firm-years -- the weights that turn per-unit-gap coefficients into the
+    # average effect for a typical treated state.
+    gbar   <- rs[treated == 1, mean(gap)]
+    p_card <- rs[gap_post > 0, mean(card)]
+
+    # Linear map L: moments = L %*% b  (scaled to gbar)
+    L <- matrix(0, nrow = 2, ncol = length(b))
+    L[1, i_g] <- gbar; L[1, i_gc] <- gbar * p_card
+    L[2, i_gc] <- gbar
+    moments <- as.numeric(L %*% b)
+    Sigma_m <- L %*% V %*% t(L)          # full 2x2 covariance, off-diagonal kept
+
+    smm <- data.frame(
+      moment   = c("avg_sales_change", "accept_differential"),
+      estimate = moments,
+      se       = sqrt(diag(Sigma_m)),
+      cov12    = Sigma_m[1, 2]           # covariance between the two moments
+    )
+    fwrite(smm, file.path(DATA_GEN, "smm_moments.csv"))
+    cat(sprintf("    Avg treated usury gap (gbar):   %.2f pts\n", gbar))
+    cat(sprintf("    Moment 1 (avg sales change):    %.4f (se %.4f)\n",
+                moments[1], sqrt(Sigma_m[1, 1])))
+    cat(sprintf("    Moment 2 (accept differential): %.4f (se %.4f)\n",
+                moments[2], sqrt(Sigma_m[2, 2])))
+    cat(sprintf("    Moment correlation:             %.3f\n",
+                Sigma_m[1, 2] / sqrt(Sigma_m[1, 1] * Sigma_m[2, 2])))
+    cat("    Created smm_moments.csv\n")
+    rm(rs, m); gc()
+  }, error = function(e) cat("    SMM moment estimation failed:", e$message, "\n"))
+}
+
 # ---- 2. Recession triple-difference ----
 # Aggregate to state-SIC1-year-single cells to fit in memory, then run DiD.
 if (file.exists(retail_file) && file.info(retail_file)$size > 1000) {

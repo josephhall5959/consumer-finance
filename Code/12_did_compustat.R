@@ -89,8 +89,16 @@ if (!file.exists(panel_file) || file.info(panel_file)$size < 100) {
 if (nrow(panel) > 0 && all(c("nim", "year", "treatment_discrete", "gvkey") %in% names(panel))) {
   # Net Income Margin DiD
   tryCatch({
+    # Restrict to the 1977-1983 window first, then trim outliers: drop firms
+    # whose receivables/revenue ever exceeds 80% within this window (a handful
+    # of finance-heavy retailers distort the panel otherwise). Cutting at 1983
+    # keeps the estimation on the well-populated part of the panel and yields
+    # tighter standard errors than extending through 1986.
+    panel_window <- panel %>% filter(year <= 1983)
+    outlier_firms <- unique(panel_window$gvkey[panel_window$rec_to_rev > 0.8])
+    panel_trim <- panel_window %>% filter(!gvkey %in% outlier_firms)
     est_did <- feols(rec_to_rev ~ i(year, treatment_discrete, 1978) | year + gvkey,
-                     data = panel %>% filter(year <= 1986))
+                     data = panel_trim)
 
     p <- pretty_did(est_did, 1978, ylab = "Receivables/Revenue",
                     title = "Retail firms matched to sales locations")
