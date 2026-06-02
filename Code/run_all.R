@@ -75,6 +75,19 @@ run_script("Code/20_permutation_test.R",    "Permutation test")
 run_script("Code/21_nested_logit.R",        "Nested logit model")
 run_script("Code/22_macro_model.R",         "Macro model")
 
+# ===== Phase 3: Yellow Pages / US Telephone Directory corpus (public data) ==
+# These scripts characterize the public Library of Congress phonebook corpus
+# released alongside this paper (see README + fetch_data.sh). The OCR-corpus
+# scripts require the corpus downloaded from Zenodo and skip gracefully if it
+# is absent; yp_visualizations.R additionally uses the proprietary D&B match
+# for three panels and skips those if D&B is unavailable. None of these halt
+# the pipeline when their inputs are missing.
+cat("\n--- Phase 3: Yellow Pages corpus (public data) ---\n")
+
+run_script("Code/yp_visualizations.R",      "YP supplementary visualizations")
+run_script("Code/yp_ocr_analysis.R",        "YP OCR corpus (merged book-level)")
+run_script("Code/yp_ocr_full_analysis.R",   "YP OCR corpus (full: merged + page-level)")
+
 # ===== Done =================================================================
 OUTPUT_FIG <- file.path(ROOT, "Output", "Figures")
 OUTPUT_TAB <- file.path(ROOT, "Output", "Tables")

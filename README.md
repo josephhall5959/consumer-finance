@@ -19,6 +19,18 @@ by Joseph P. Hall (Georgia Institute of Technology)
 
 ## How to Run
 
+### (Optional) Fetch the public Yellow Pages corpus
+
+```bash
+bash fetch_data.sh
+```
+
+Downloads the public US Telephone Directory OCR corpus (Library of Congress,
+public domain) from Zenodo into `Data/Raw/Yellow_Pages/OCR/`. The pipeline runs
+without it — corpus-dependent scripts skip gracefully — but this enables the
+full Yellow Pages corpus analysis (Phase 3). See
+[Public Data Release](#public-data-release-yellow-pages--us-telephone-directory-corpus).
+
 ### One-click execution
 
 ```bash
@@ -49,6 +61,10 @@ cd Paper && latexmk -pdf -interaction=nonstopmode main.tex
 ```
 Replication/
 ├── run.sh                    # One-click execution script
+├── fetch_data.sh             # Download the public Yellow Pages corpus (Zenodo)
+├── CLAUDE.md                 # Orientation guide for AI assistants / new users
+├── .zenodo.json              # Zenodo deposit metadata
+├── ZENODO_DEPOSIT.md         # Step-by-step to publish the data deposit
 ├── Code/
 │   ├── 00_setup.R            # Package installation and path configuration
 │   ├── helpers/
@@ -78,7 +94,10 @@ Replication/
 │   ├── 20_permutation_test.R    # Permutation inference
 │   ├── 21_nested_logit.R        # Nested logit demand model
 │   ├── 22_macro_model.R         # General equilibrium model
-│   └── run_all.R                # Master script (sources 00-22)
+│   ├── yp_visualizations.R      # Yellow Pages supplementary figures (Phase 3)
+│   ├── yp_ocr_analysis.R        # OCR corpus: merged book-level layer (Phase 3)
+│   ├── yp_ocr_full_analysis.R   # OCR corpus: full merged + page-level (Phase 3)
+│   └── run_all.R                # Master script (Phases 1-3)
 │
 ├── Data/
 │   ├── Raw/              # Source data files (do not modify)
@@ -107,9 +126,9 @@ Replication/
 | Panel Study of Income Dynamics (PSID) | University of Michigan | 05, 09, 14 |
 | Bureau of Economic Analysis (BEA) | BEA.gov | 06, 11 |
 | Compustat | S&P Global via WRDS | 07, 12, 20 |
-| Dun & Bradstreet | Historical establishment records | 08, 13, 15, 16 |
+| Dun & Bradstreet | Historical establishment records (**proprietary — not redistributed**) | 08, 13, 15, 16 |
 | Quarterly Financial Reports (QFR) | Census Bureau | 17 |
-| Yellow Pages | Historical phonebooks | 16, 19 |
+| Yellow Pages / US Telephone Directory corpus | Library of Congress (**public domain**; via Zenodo, `fetch_data.sh`) | 16, 19, `yp_visualizations`, `yp_ocr_analysis`, `yp_ocr_full_analysis` |
 | Usury Rate Laws | Author compilation | 01 |
 | FRED (Fed Funds, CPI) | Federal Reserve Bank of St. Louis | 01 |
 
@@ -150,8 +169,34 @@ Replication/
 | Industry adoption | `adoption_industries.tex` | 15 |
 | Recession DiD | `recession.tex` | 13 |
 
+## Public Data Release: Yellow Pages / US Telephone Directory Corpus
+
+This package releases a machine-readable corpus of historical Yellow Pages as a
+stand-alone public good. It is built from the **Library of Congress US Telephone
+Directories collection** (public domain), digitized via OCR.
+
+- **Scope:** 168 phonebooks, 5 states, 44 cities, 1950–1978; ~2.1M business
+  listings; 49,447 category headers; 13 books with detected "Credit Card" sections.
+  A richer 110-book merged layer adds word-level bounding boxes and automated
+  category-header detection (~3.7M tokens).
+- **Get it:** `bash fetch_data.sh` (downloads from Zenodo into
+  `Data/Raw/Yellow_Pages/OCR/`).
+- **Schema & provenance:** `Data/Raw/Yellow_Pages/OCR_CORPUS_DATA_DICTIONARY.md`.
+- **Reuse:** released **CC-BY-4.0** (attribution). The proprietary Dun &
+  Bradstreet records used to attach establishment sales are **not** included and
+  must be licensed separately.
+- **Publishing the deposit:** see `ZENODO_DEPOSIT.md` (metadata in `.zenodo.json`).
+
+The corpus is analyzed in Phase 3 of `Code/run_all.R`
+(`yp_visualizations.R`, `yp_ocr_analysis.R`, `yp_ocr_full_analysis.R`) and
+characterized in Appendix "US Telephone Directory Data Collection" of the paper.
+
 ## Notes
 
-- Some D&B establishment-level data files are proprietary and may not be available. The pipeline includes fallback logic that uses pre-generated outputs when raw data is unavailable.
+- Some D&B establishment-level data files are proprietary and are never
+  redistributed (see `.gitignore`). The pipeline degrades gracefully: scripts
+  whose inputs are missing print a NOTE and skip, so the run completes and the
+  paper still builds from committed outputs.
+- New researchers / AI assistants: see `CLAUDE.md` for an orientation guide.
 - All Stata code from the original project has been translated to R.
 - The pipeline uses `fixest` for difference-in-differences estimation with two-way fixed effects.

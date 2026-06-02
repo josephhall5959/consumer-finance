@@ -11,15 +11,27 @@ library(stringr)
 library(scales)
 library(sf)
 
-DATA_RAW <- "Data/Raw"
-OUTPUT <- "Output/Figures/yp_review"
+if (!exists("DATA_RAW")) DATA_RAW <- file.path(getwd(), "Data", "Raw")
+OUTPUT <- if (exists("OUTPUT_FIG")) file.path(OUTPUT_FIG, "yp_review") else "Output/Figures/yp_review"
 dir.create(OUTPUT, recursive = TRUE, showWarnings = FALSE)
+
+# Figures 1, 4 and 6 use the proprietary Dun & Bradstreet match
+# (db_phonebooks_merged.csv); figures 2, 3 and 5 are built entirely from the
+# public Library of Congress phonebook files. Skip the D&B panels gracefully
+# when the proprietary file is absent so the public figures still build.
+DB_PB <- file.path(DATA_RAW, "DB", "db_phonebooks_merged.csv")
+HAVE_DB <- file.exists(DB_PB)
+if (!HAVE_DB) {
+  cat("  NOTE: db_phonebooks_merged.csv (proprietary D&B) not found —\n")
+  cat("        skipping D&B-dependent figures 1, 4, 6.\n")
+}
 
 # ============================================================
 # 1. Card Plan Market Shares
 # ============================================================
 cat("  1. Card plan market shares...\n")
 
+if (HAVE_DB) {
 db <- fread(file.path(DATA_RAW, "DB", "db_phonebooks_merged.csv"),
             select = c("offers_credit", "phonebook_credit_plan", "year"))
 acceptors <- db[offers_credit != 0 & offers_credit != "0"]
@@ -47,6 +59,7 @@ p1 <- ggplot(plan_agg, aes(x = reorder(plan, N), y = N, fill = plan)) +
   labs(x = NULL, y = "Merchant-year listings")
 ggsave(file.path(OUTPUT, "1_plan_shares.pdf"), p1, width = 8, height = 4)
 cat("    Created 1_plan_shares.pdf\n")
+}  # end HAVE_DB (figure 1)
 
 # ============================================================
 # 2. Card Introduction Map (state-level)
@@ -117,6 +130,7 @@ cat("    Created 3_coverage_by_state.pdf\n")
 # ============================================================
 cat("  4. Acceptance by industry and firm size...\n")
 
+if (HAVE_DB) {
 db2 <- fread(file.path(DATA_RAW, "DB", "db_phonebooks_merged.csv"),
              select = c("covered_by_phonebooks", "offers_credit", "sic1", "sls", "year"))
 in_pb <- db2[covered_by_phonebooks != "0" & covered_by_phonebooks != ""]
@@ -161,6 +175,7 @@ ggsave(file.path(OUTPUT, "4_acceptance_heatmap.pdf"), p4, width = 8, height = 5)
 cat("    Created 4_acceptance_heatmap.pdf\n")
 
 rm(db2, in_pb, in_pb_sales); gc()
+}  # end HAVE_DB (figure 4)
 
 # ============================================================
 # 5. Phonebook Size Trends
@@ -189,6 +204,7 @@ cat("    Created 5_phonebook_size.pdf\n")
 # ============================================================
 cat("  6. Geographic concentration of early adopters...\n")
 
+if (HAVE_DB) {
 db3 <- fread(file.path(DATA_RAW, "DB", "db_phonebooks_merged.csv"),
              select = c("offers_credit", "city", "state", "year", "sic1",
                          "covered_by_phonebooks"))
@@ -222,6 +238,10 @@ p6 <- ggplot(top15, aes(x = reorder(city_label, n_accepting), y = n_accepting)) 
 ggsave(file.path(OUTPUT, "6_geographic_concentration.pdf"), p6, width = 8, height = 5)
 cat("    Created 6_geographic_concentration.pdf\n")
 
-rm(db, db3, acceptors, acceptors2); gc()
+rm(db3, acceptors2); gc()
+}  # end HAVE_DB (figure 6)
 
-cat("All 6 visualizations generated.\n")
+# Clean up any D&B objects that were created
+rm(list = intersect(c("db", "acceptors"), ls())); gc()
+
+if (HAVE_DB) cat("All 6 visualizations generated.\n") else cat("Public visualizations (2, 3, 5) generated; D&B figures skipped.\n")

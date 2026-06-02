@@ -59,6 +59,11 @@ Data/Raw/pooled_microdata.csv
 # Yellow Pages zip archive
 Data/Raw/Yellow_Pages/OneDrive_2024-10-17.zip
 
+# Fetched OCR corpus (~1GB; downloaded via fetch_data.sh from Zenodo — do not commit)
+Data/Raw/Yellow_Pages/OCR/
+# fetch_data.sh scratch dir (auto-removed, but ignore in case of interruption)
+.fetch_tmp.*/
+
 # --- All zip files ---
 *.zip
 

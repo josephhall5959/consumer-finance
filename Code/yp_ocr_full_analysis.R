@@ -10,9 +10,26 @@ library(stringr)
 library(scales)
 library(mapproj)
 
-OCR_MERGED <- "/workspace/Input/_extracted/Yellow_Pages_OCR/Merged Files"
-OCR_PAGES  <- "/workspace/Input/_extracted/CSV_MANUAL/CSV_MANUAL"
-OUTPUT     <- "Output/Figures/yp_review"
+# Public OCR corpus location. The corpus is distributed via Zenodo (see the
+# repo README / fetch_data.sh) and extracts into Data/Raw/Yellow_Pages/OCR/,
+# preserving the "Merged Files/" and "CSV_MANUAL/CSV_MANUAL/" subfolders.
+# Override the root with the YP_OCR_DIR environment variable if needed.
+.data_raw <- if (exists("DATA_RAW")) DATA_RAW else file.path(getwd(), "Data", "Raw")
+.ocr_root <- Sys.getenv("YP_OCR_DIR",
+                        unset = file.path(.data_raw, "Yellow_Pages", "OCR"))
+OCR_MERGED <- file.path(.ocr_root, "Merged Files")
+OCR_PAGES  <- file.path(.ocr_root, "CSV_MANUAL", "CSV_MANUAL")
+OUTPUT     <- if (exists("OUTPUT_FIG")) file.path(OUTPUT_FIG, "yp_review") else "Output/Figures/yp_review"
+dir.create(OUTPUT, recursive = TRUE, showWarnings = FALSE)
+
+if (!dir.exists(OCR_MERGED) && !dir.exists(OCR_PAGES)) {
+  cat(sprintf(paste0(
+    "  NOTE: OCR corpus not found (looked in %s).\n",
+    "  Run `bash fetch_data.sh` to download it from Zenodo, then re-run.\n",
+    "  Skipping full-corpus analysis (committed ocr_full_summary.tex is retained).\n"),
+    .ocr_root))
+  quit(save = "no", status = 0)
+}
 
 # ============================================================
 # Step 1: Scan merged books (110)

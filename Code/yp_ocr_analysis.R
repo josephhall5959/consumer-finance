@@ -9,8 +9,24 @@ library(ggplot2)
 library(stringr)
 library(scales)
 
-OCR_DIR <- "/workspace/Input/_extracted/Yellow_Pages_OCR/Merged Files"
-OUTPUT <- "Output/Figures/yp_review"
+# Public OCR corpus location. The corpus is distributed via Zenodo (see the
+# repo README / fetch_data.sh) and extracts into Data/Raw/Yellow_Pages/OCR/.
+# Override with the YP_OCR_DIR environment variable if it lives elsewhere.
+.data_raw <- if (exists("DATA_RAW")) DATA_RAW else file.path(getwd(), "Data", "Raw")
+.ocr_root <- Sys.getenv("YP_OCR_DIR",
+                        unset = file.path(.data_raw, "Yellow_Pages", "OCR"))
+OCR_DIR <- file.path(.ocr_root, "Merged Files")
+OUTPUT  <- if (exists("OUTPUT_FIG")) file.path(OUTPUT_FIG, "yp_review") else "Output/Figures/yp_review"
+dir.create(OUTPUT, recursive = TRUE, showWarnings = FALSE)
+
+if (!dir.exists(OCR_DIR) ||
+    length(list.files(OCR_DIR, pattern = "\\.csv$", ignore.case = TRUE)) == 0) {
+  cat(sprintf(paste0(
+    "  NOTE: OCR corpus not found at %s\n",
+    "  Run `bash fetch_data.sh` to download it from Zenodo, then re-run.\n",
+    "  Skipping OCR analysis (committed ocr_summary.tex is retained).\n"), OCR_DIR))
+  quit(save = "no", status = 0)
+}
 
 # ============================================================
 # Pass 1: Lightweight scan of all 110 files

@@ -1,0 +1,38 @@
+{
+  "title": "US Telephone Directory OCR Corpus: A Machine-Readable Panel of Mid-Century American Yellow Pages (1950-1978)",
+  "description": "<p>A machine-readable corpus of 168 historical Yellow Pages phonebooks digitized from the Library of Congress US Telephone Directories collection (public domain), spanning five states, 44 cities, and the years 1950-1978. The corpus contains approximately 2.1 million business listings with page locations and Yellow Pages category headings; a richer merged layer of 110 books adds word-level bounding boxes and automated category-header detection (~3.7 million tokens, 17,995 categories). Also included are 510 hand-transcribed merchant-year records of bank credit card acceptance drawn from the directories' dedicated 'Credit Card' sections.</p><p>Released as the public-data companion to 'Credit Cards and Retail Firms: Historical Evidence from the United States' (Joseph P. Hall). The proprietary Dun &amp; Bradstreet establishment microdata used in the paper is NOT included and must be licensed separately. See the included data dictionary for schema and provenance.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Hall, Joseph P.",
+      "affiliation": "Georgia Institute of Technology"
+    }
+  ],
+  "keywords": [
+    "Yellow Pages",
+    "US Telephone Directories",
+    "credit cards",
+    "retail",
+    "economic history",
+    "OCR",
+    "Library of Congress",
+    "Dun and Bradstreet",
+    "consumer credit",
+    "1970s"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/josephhall5959/consumer-finance",
+      "scheme": "url"
+    },
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://www.loc.gov/collections/united-states-telephone-directory-collection/",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Source scans are public domain (Library of Congress). OCR processing by Hi-Tech Inc. Corpus compilation and analysis code by Joseph P. Hall, released under CC-BY-4.0."
+}
