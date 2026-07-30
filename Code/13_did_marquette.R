@@ -244,8 +244,13 @@ if (file.exists(retail_file) && file.info(retail_file)$size > 1000) {
                          treated_recession_single = "Treated $\\times$ Recession $\\times$ Single-estab.",
                          exit_rate = "Exit rate",
                          fe = "State $\\times$ Industry $\\times$ Year FE")
+    # Column headers: 1983 vs 1975 recession, each split into all-retail and
+    # the high-adoption (clothing) subsample.
+    rec_headers <- list("Recession / sample" = c("1983, All", "1983, Clothing",
+                                                 "1975, All", "1975, Clothing"))
     tex_out <- capture.output(etable(res83[[1]], res83[[2]], res75[[1]], res75[[2]],
-                                     tex = TRUE, dict = recession_dict))
+                                     tex = TRUE, dict = recession_dict,
+                                     headers = rec_headers))
     writeLines(tex_out, file.path(OUTPUT_TAB, "recession.tex"))
     cat("    Created recession.tex\n")
 

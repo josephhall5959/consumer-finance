@@ -198,5 +198,4 @@ characterized in Appendix "US Telephone Directory Data Collection" of the paper.
   whose inputs are missing print a NOTE and skip, so the run completes and the
   paper still builds from committed outputs.
 - New researchers / AI assistants: see `CLAUDE.md` for an orientation guide.
-- All Stata code from the original project has been translated to R.
 - The pipeline uses `fixest` for difference-in-differences estimation with two-way fixed effects.

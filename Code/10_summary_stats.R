@@ -61,8 +61,12 @@ if (nrow(scf) > 0) {
 
   # Figure: Store card fraction
   if ("has_store_card" %in% names(scf) && "has_bank_card" %in% names(scf)) {
+    # Drop years with no usable SCF card data (the survey did not ask
+    # consistently between the early 1970s and 1989) so the line connects the
+    # early observations to the modern triennial series rather than breaking.
     frac_ts <- card_ts %>%
-      mutate(store_frac = has_store_card / (has_store_card + has_bank_card))
+      mutate(store_frac = has_store_card / (has_store_card + has_bank_card)) %>%
+      filter(!is.na(store_frac) & !is.nan(store_frac))
 
     p <- ggplot(frac_ts, aes(x = year, y = store_frac)) +
       geom_line() + geom_point() +
@@ -103,6 +107,33 @@ if (nrow(scf) > 0) {
     scale_y_continuous(name = "Households with bank credit card", labels = scales::percent) +
     theme_classic()
   ggsave(file.path(OUTPUT_FIG, "has_bank_card.pdf"), p, width = 9, height = 6)
+
+  # Figure: Bank card ownership by income quartile. Quartiles are weighted and
+  # computed within survey year so that diffusion down the income distribution
+  # is not mechanically driven by income growth across waves.
+  if (all(c("income", "has_bank_card") %in% names(scf))) {
+    inc_scf <- scf[!is.na(income) & !is.na(has_bank_card) &
+                     !is.na(weight) & weight > 0]
+    setorder(inc_scf, year, income)
+    inc_scf[, cw := cumsum(weight) / sum(weight), by = year]
+    inc_scf[, inc_q := cut(cw, breaks = c(0, .25, .5, .75, 1),
+                           include.lowest = TRUE,
+                           labels = c("Bottom quartile", "2nd quartile",
+                                      "3rd quartile", "Top quartile"))]
+    byq <- inc_scf[, .(has_bank_card = weighted.mean(has_bank_card, weight),
+                       n = .N), by = .(year, inc_q)]
+    byq <- byq[n >= 100]
+    p <- ggplot(byq, aes(x = year, y = has_bank_card,
+                         color = inc_q, linetype = inc_q)) +
+      geom_line(linewidth = 0.9) + geom_point(size = 2) +
+      labs(x = "Year", y = "Households with bank credit card") +
+      scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
+      theme_classic() +
+      theme(legend.position = c(0.82, 0.16), legend.title = element_blank())
+    ggsave(file.path(OUTPUT_FIG, "bank_card_by_income.pdf"), p, width = 9, height = 6)
+  } else {
+    cat("NOTE: income/has_bank_card missing; skipping bank_card_by_income.pdf\n")
+  }
 
   # Figure: Card growth stacked (call report data by bank HQ state)
   call_report_file <- file.path(DATA_RAW, "Call_Reports", "call_reports.csv")
@@ -193,28 +224,41 @@ if (nrow(scf) > 0) {
                  self_contained = FALSE)
   }
 
-  # Table: Card uses (card_uses.tex) - from comparison 1970.do
-  if (all(c("has_bank_card", "has_store_card", "year") %in% names(scf))) {
-    card_uses <- scf %>%
-      filter(year %in% c(1970, 1977, 1983, 2019)) %>%
-      group_by(year) %>%
-      summarise(
-        `Bank card` = weighted.mean(has_bank_card, weight, na.rm = TRUE),
-        `Store card` = weighted.mean(has_store_card, weight, na.rm = TRUE),
-        `Any card` = weighted.mean(has_card, weight, na.rm = TRUE),
-        N = n(),
-        .groups = "drop"
-      )
+  # Table: Card uses (card_uses.tex) — which consumer-item categories were most
+  # often purchased on a revolving credit instrument in the early 1970s. The
+  # 1971 SCF asks, for each card type, what types of goods are bought on it, as
+  # a MULTIPLE-RESPONSE item (up to three mentions): V223-V225 for bank cards,
+  # V233-V235 for store ("special credit") cards. For each category we report
+  # the share of holders who mention it on that card type (shares can exceed
+  # 100% across categories). Clothing is the dominant use for both card types.
+  scf71_file <- file.path(DATA_RAW, "SCF", "1971", "07451-0001-Data.dta")
+  if (file.exists(scf71_file)) {
+    s71 <- as.data.table(haven::read_dta(scf71_file))
+    s71[, has_bank  := as.integer(V219 == 1)]
+    s71[, has_store := as.integer(V229 == 1)]
+    use_labs <- c("Clothing", "Appliances", "Hardware", "Household goods",
+                  "Furniture", "Recreation items", "Travel", "Misc.")
+    share_mentioned <- function(dt, vars) sapply(1:8, function(g)
+      mean(rowSums(sapply(vars, function(v) dt[[v]] == g), na.rm = TRUE) > 0))
+    bank_share  <- share_mentioned(s71[has_bank  == 1], c("V223", "V224", "V225"))
+    store_share <- share_mentioned(s71[has_store == 1], c("V233", "V234", "V235"))
+    cu <- data.table(use = use_labs, store_share = store_share,
+                     bank_share = bank_share)
+    cu <- cu[order(-store_share)]
+    cu[, `Store cards` := paste0(round(100 * store_share), "%")]
+    cu[, `Bank cards`  := paste0(round(100 * bank_share),  "%")]
+    cu_out <- cu[, .(`Card use` = use, `Store cards`, `Bank cards`)]
 
     # Bare tabular only: main.tex inputs this inside a \resizebox under a
     # shared caption, so an inner table environment would break compilation.
-    cu_tex <- card_uses %>%
-      kbl(format = "latex", booktabs = TRUE, digits = 2) %>%
+    cu_tex <- cu_out %>%
+      kbl(format = "latex", booktabs = TRUE) %>%
       kable_classic() %>%
       as.character()
     cu_lines <- strsplit(cu_tex, "\n")[[1]]
     cu_lines <- cu_lines[!grepl("^\\\\begin\\{table|^\\\\end\\{table|^\\\\centering$|^\\\\caption", cu_lines)]
     writeLines(cu_lines, file.path(OUTPUT_TAB, "card_uses.tex"))
+    cat("  Created card_uses.tex (1971 SCF card-use categories)\n")
   }
 }
 
@@ -236,15 +280,41 @@ if (file.exists(fedfunds_file) && file.exists(inflation_file)) {
            inflation = as.numeric(get(inf_val_col))) %>%
     dplyr::select(year, inflation)
 
-  macro_ts <- full_join(ff, inf, by = "year") %>% filter(year >= 1960 & year <= 2000)
+  # Usury ceilings by year: the minimum (most-binding) limit across states and
+  # the modal limit, drawn as dashed horizontal ceilings against inflation and
+  # the fed funds rate over the years the limits were in force. The point is to
+  # show how severely the caps bound as inflation rose toward 1980 -- the
+  # minimum ceiling (10%) sat well below both inflation and the cost of funds.
+  mode_fn <- function(x) { x <- x[!is.na(x)]; ux <- unique(x)
+                           ux[which.max(tabulate(match(x, ux)))] }
+  usury_ts <- usury %>%
+    group_by(year) %>%
+    summarise(`Min. usury limit`  = min(r_usury, na.rm = TRUE),
+              `Modal usury limit` = mode_fn(r_usury), .groups = "drop")
+  yr_lo <- min(usury_ts$year); yr_hi <- max(usury_ts$year)
 
-  macro_long <- macro_ts %>%
-    pivot_longer(-year, names_to = "series", values_to = "value")
+  rates_long <- full_join(ff, inf, by = "year") %>%
+    filter(year >= yr_lo & year <= yr_hi) %>%
+    rename(`Fed funds rate` = fedfunds, `Inflation` = inflation) %>%
+    pivot_longer(-year, names_to = "series", values_to = "value") %>%
+    filter(!is.na(value)) %>%
+    mutate(kind = "rate")
+  usury_long <- usury_ts %>%
+    pivot_longer(-year, names_to = "series", values_to = "value") %>%
+    mutate(kind = "usury")
+  macro_long <- bind_rows(rates_long, usury_long)
+  macro_long$series <- factor(macro_long$series,
+    levels = c("Fed funds rate", "Inflation", "Min. usury limit", "Modal usury limit"))
 
-  p <- ggplot(macro_long, aes(x = year, y = value, color = series)) +
-    geom_line() +
-    theme_classic() +
-    labs(x = "Year", y = "Percent", color = "") +
+  p <- ggplot(macro_long, aes(x = year, y = value, color = series, linetype = kind)) +
+    geom_line(linewidth = 1) +
+    scale_linetype_manual(values = c(rate = "solid", usury = "dashed"), guide = "none") +
+    scale_color_manual(values = c("Fed funds rate" = "firebrick",
+                                  "Inflation" = "darkgoldenrod",
+                                  "Min. usury limit" = "steelblue",
+                                  "Modal usury limit" = "mediumpurple")) +
+    theme_classic(base_size = 14) +
+    labs(x = "Year", y = "Percent per year", color = "") +
     theme(legend.position = "bottom")
   ggsave(file.path(OUTPUT_FIG, "inflation_ts.pdf"), p, width = 9, height = 6)
 }
@@ -295,11 +365,6 @@ if (file.exists(intl_file)) {
       annotate("text", x = us_cc, y = Inf, label = "US", vjust = 2, hjust = -0.3, color = "red") +
       theme_classic() +
       labs(x = "Credit Card Ownership", y = "Number of Countries", title = "(a) Credit Card Ownership")
-    if (length(ca_cc) > 0 && !is.na(ca_cc)) {
-      p1 <- p1 +
-        geom_vline(xintercept = ca_cc, linetype = "dashed", color = "darkgreen", linewidth = 1) +
-        annotate("text", x = ca_cc, y = Inf, label = "Canada", vjust = 3.5, hjust = 1.15, color = "darkgreen")
-    }
 
     p2 <- ggplot(hist_data, aes(x = .data[[sc_col]])) +
       geom_histogram(bins = 20, fill = "coral", alpha = 0.7) +
@@ -307,11 +372,6 @@ if (file.exists(intl_file)) {
       annotate("text", x = us_sc, y = Inf, label = "US", vjust = 2, hjust = -0.3, color = "red") +
       theme_classic() +
       labs(x = "Store Credit Borrowing", y = "Number of Countries", title = "(b) Store Credit Borrowing")
-    if (length(ca_sc) > 0 && !is.na(ca_sc)) {
-      p2 <- p2 +
-        geom_vline(xintercept = ca_sc, linetype = "dashed", color = "darkgreen", linewidth = 1) +
-        annotate("text", x = ca_sc, y = Inf, label = "Canada", vjust = 2, hjust = 1.15, color = "darkgreen")
-    }
 
     p_combined <- grid.arrange(p1, p2, ncol = 2)
     ggsave(file.path(OUTPUT_FIG, "international_histograms.pdf"), p_combined, width = 12, height = 5)
@@ -483,19 +543,26 @@ if (nrow(scf_a12) > 0 && "card_rate" %in% names(scf_a12)) {
     ggsave(file.path(OUTPUT_FIG, "card_rates_raw.pdf"), p_rates, width = 12, height = 6)
     cat("  Created card_rates_raw.pdf\n")
   } else if ("mean_rate" %in% names(rate_ts)) {
+    ymax <- max(rate_ts$mean_rate, na.rm = TRUE)
     p <- ggplot(rate_ts, aes(x = year)) +
-      geom_line(aes(y = mean_rate), linewidth = 1, color = "steelblue") +
-      geom_point(aes(y = mean_rate), size = 2, color = "steelblue") +
-      geom_line(aes(y = zero_frac * max(rate_ts$mean_rate, na.rm = TRUE)),
-                linewidth = 1, color = "firebrick", linetype = "dashed") +
+      geom_line(aes(y = mean_rate, color = "Mean interest rate (left axis)",
+                    linetype = "Mean interest rate (left axis)"), linewidth = 1) +
+      geom_point(aes(y = mean_rate, color = "Mean interest rate (left axis)"), size = 2) +
+      geom_line(aes(y = zero_frac * ymax, color = "Fraction with zero rate (right axis)",
+                    linetype = "Fraction with zero rate (right axis)"), linewidth = 1) +
+      scale_color_manual(name = NULL,
+        values = c("Mean interest rate (left axis)" = "steelblue",
+                   "Fraction with zero rate (right axis)" = "firebrick")) +
+      scale_linetype_manual(name = NULL,
+        values = c("Mean interest rate (left axis)" = "solid",
+                   "Fraction with zero rate (right axis)" = "dashed")) +
       scale_y_continuous(
         name = "Mean interest rate (%)",
-        sec.axis = sec_axis(~ . / max(rate_ts$mean_rate, na.rm = TRUE),
-                            name = "Fraction with zero rate")
+        sec.axis = sec_axis(~ . / ymax, name = "Fraction with zero rate")
       ) +
       theme_classic(base_size = 14) +
       labs(x = "Year") +
-      theme(axis.title = element_text(size = 13))
+      theme(axis.title = element_text(size = 13), legend.position = "bottom")
     ggsave(file.path(OUTPUT_FIG, "card_rates_raw.pdf"), p, width = 9, height = 6)
     cat("  Created card_rates_raw.pdf\n")
   }

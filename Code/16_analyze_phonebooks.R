@@ -49,28 +49,31 @@ in_sub <- in_books %>%
   left_join(in_books, by = c("sic1", "city", "year")) %>%
   mutate(fe = paste0(sic1, industry, city))
 
-# Adoption by industry table
+# Card acceptance by industry table (descriptive).
 # Emit a bare tabular (no table/caption wrapper): main.tex inputs this inside
 # its own table float and inside a \resizebox, so an inner table environment
 # would trigger "Not in outer par mode".
-# Descriptive acceptance rates use the FULL covered sample (in_books), not the
-# competitive-markets subsample (in_sub) used for the FE logit regression below.
-# Restricting to cells with >=1 acceptor would inflate denominators unevenly
-# across industries and distort the ranking. Sorted by acceptance rate.
-ae_tex <- in_books %>%
-  filter(!is.na(industry)) %>%
+# Rates are computed within COMPETITIVE markets (in_sub: sic1-city-year cells
+# with >=1 acceptor) -- i.e. places where bank cards are actually present -- so
+# the fractions reflect adoption where it is a live choice rather than being
+# diluted by markets with no card presence. The catch-all "Misc." retail group
+# is excluded, and rows are sorted by the number of accepting firms, which puts
+# clothing (the dominant card-using sector) at the top.
+ae_tex <- in_sub %>%
+  filter(!is.na(industry) & industry != "Misc.") %>%
   group_by(industry) %>%
-  summarise(acceptance = mean(acceptance), n = n(), .groups = "drop") %>%
-  mutate(firms_accepting = round(n * acceptance)) %>%
-  arrange(desc(acceptance)) %>%
-  mutate(acceptance = paste0(format(round(100 * acceptance, 1), nsmall = 1), "%")) %>%
+  summarise(`Fraction Accepting` = mean(acceptance),
+            `Firms Accepting` = sum(acceptance), .groups = "drop") %>%
+  arrange(desc(`Firms Accepting`)) %>%
+  mutate(`Fraction Accepting` = paste0(format(round(100 * `Fraction Accepting`, 2), nsmall = 2), "%")) %>%
+  rename(Industry = industry) %>%
   kbl(format = "latex", booktabs = TRUE) %>%
   kable_classic() %>%
   as.character()
 ae_lines <- strsplit(ae_tex, "\n")[[1]]
 ae_lines <- ae_lines[!grepl("^\\\\begin\\{table|^\\\\end\\{table|^\\\\centering$|^\\\\caption", ae_lines)]
-writeLines(ae_lines, file.path(OUTPUT_TAB, "adoption_effects.tex"))
-cat("  Created adoption_effects.tex\n")
+writeLines(ae_lines, file.path(OUTPUT_TAB, "card_acceptance_by_industry.tex"))
+cat("  Created card_acceptance_by_industry.tex\n")
 
 # Adoption regression (logit with marginal effects)
 lm1 <- tryCatch({
@@ -147,8 +150,23 @@ cat("  Created adoption_firms.tex\n")
 # We use the pre-generated output from that analysis.
 ypdb_src <- file.path(DATA_RAW, "DB", "ypdb_difdif.tex")
 if (file.exists(ypdb_src)) {
-  file.copy(ypdb_src, file.path(OUTPUT_TAB, "ypdb_difdif.tex"), overwrite = TRUE)
-  cat("  Copied ypdb_difdif.tex from Raw/DB/\n")
+  # Copy the pre-generated regression table and relabel its column/row headers
+  # in plain English. The log(sales+1) detail is moved to the table notes in
+  # main.tex; order of substitutions matters (compound labels before substrings).
+  ypdb <- readLines(ypdb_src, warn = FALSE)
+  subs <- list(
+    c("SLS\\_growth",                    "Sales growth"),
+    c("& d &",                           "& Survival (years) &"),
+    c("acceptance $\\times$ treated",    "Accepts card $\\times$ Treated"),
+    c("acceptance",                      "Accepts bank card"),
+    c("log(SLS0+1)",                     "Log sales, 1977"),
+    c("treated",                         "Treated"),
+    c("STATE",                           "State"),
+    c("SIC1",                            "Industry (SIC)")
+  )
+  for (s in subs) ypdb <- gsub(s[[1]], s[[2]], ypdb, fixed = TRUE)
+  writeLines(ypdb, file.path(OUTPUT_TAB, "ypdb_difdif.tex"))
+  cat("  Created ypdb_difdif.tex (relabeled headers)\n")
 } else {
   stop("ypdb_difdif.tex not found. This table requires merging phonebook acceptance ",
        "with the full D&B panel (retail.csv) — originally done on the Yen servers.")
@@ -178,12 +196,14 @@ tryCatch({
   in_books_n <- nrow(in_books)
   match_rate <- round(in_books_n / total_firms, 3)
 
-  # Acceptance rates
-  accept_rate <- mean(in_books$acceptance, na.rm = TRUE)
+  # Acceptance rate: computed within competitive markets (in_sub), i.e. places
+  # where bank cards are actually present, rather than over all covered firm-
+  # years (which dilutes the rate with markets that have no card presence).
+  accept_rate <- mean(in_sub$acceptance, na.rm = TRUE)
 
   yp_stats <- data.frame(
     Variable = c("Total firm-year observations", "Firms in phonebook coverage",
-                  "Match rate", "Bank card acceptance rate",
+                  "Match rate", "Bank card acceptance rate (competitive markets)",
                   "N unique cities", "N unique years"),
     Value = c(
       total_firms, in_books_n,
