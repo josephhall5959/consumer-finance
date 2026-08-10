@@ -144,6 +144,15 @@
 % Replace for the following line if want to print notes in the margin...
 %\usepackage[colorinlistoftodos]{todonotes}
 
+% ---- Blind-review toggle ---------------------------------------------------
+% Compile main.tex for the regular PDF; compile main_blind.tex (which defines
+% \BLIND and inputs this file) for the anonymized RFS submission copy.
+\newif\ifblind
+\ifdefined\BLIND \blindtrue \else \blindfalse \fi
+% Accessibility: visible alternative-text description beneath figure captions,
+% per SFS/RFS submission guidelines.
+\newcommand{\alttext}[1]{\par\vspace{0.2em}\noindent{\footnotesize \emph{Alt text:} #1}}
+
 \makeatother
 
 
@@ -151,15 +160,19 @@
 
 \begin{singlespace}
 \title{\textbf{\Large {CREDIT CARDS AND RETAIL FIRMS: 
-} \\ {HISTORICAL EVIDENCE FROM THE UNITED STATES} \thanks{{\footnotesize{}This version: \today. I thank Amit Seru, Greg Buchak, Arvind Krishnamurthy, Stephen Haber, Christopher Tonetti, Sarah Anderson, Susan Cherry, Antonio Coppola, Jos\'e Ignacio Cuesta, Mohammad Davoodalhosseini (discussant), Liran Einav, Benjamin H\'ebert, Kim P. Huynh, Claudia Robles-Garcia, Lulu Wang, Chenzi Xu, Oliver Xie, Christine Zulehner (discussant), and Jeffrey Zweibel, as well as two anonymous referees, for various assistance, comments, and advice. I thank seminar participants for useful comments at the InterFinance Online Seminar, the SEC Division of Economic Risk Analysis, the Cherry Blossom Financial Institute, the Bank of Canada, the Financial Services Innovation Lab at the Georgia Institute of Technology, the Virtual Household Finance Seminar, the Economics of Payments XIII Conference, and the Canadian Economics Association 2026 annual meeting. I thank the GSB LEAD fund and SIEPR for financial support, and Hitech Digital Solutions and Sarah Anderson for data collection and auditing. All code and public data for this project are available at \url{https://github.com/josephhall5959/consumer-finance}. %I thank my wife Sarah Anderson for moral support and research assistance detailed in Appendix \ref{sec:construction}. %This paper is dedicated to J.W. Hall's Steak and Seafood Inn at 2284 Brodhead Rd, Aliquippa, PA. 
-}}
+} \\ {HISTORICAL EVIDENCE FROM THE UNITED STATES} \ifblind\else\thanks{{\footnotesize{}This version: \today. I thank Amit Seru, Greg Buchak, Arvind Krishnamurthy, Stephen Haber, Christopher Tonetti, Sarah Anderson, Susan Cherry, Antonio Coppola, Jos\'e Ignacio Cuesta, Mohammad Davoodalhosseini (discussant), Liran Einav, Benjamin H\'ebert, Kim P. Huynh, Claudia Robles-Garcia, Lulu Wang, Chenzi Xu, Oliver Xie, Christine Zulehner (discussant), and Jeffrey Zweibel, as well as two anonymous referees, for various assistance, comments, and advice. I thank seminar participants for useful comments at the InterFinance Online Seminar, the SEC Division of Economic Risk Analysis, the Cherry Blossom Financial Institute, the Bank of Canada, the Financial Services Innovation Lab at the Georgia Institute of Technology, the Virtual Household Finance Seminar, the Economics of Payments XIII Conference, and the Canadian Economics Association 2026 annual meeting. I thank the GSB LEAD fund and SIEPR for financial support, and Hitech Digital Solutions and Sarah Anderson for data collection and auditing. All code and public data for this project are available at \url{https://github.com/josephhall5959/consumer-finance}. %I thank my wife Sarah Anderson for moral support and research assistance detailed in Appendix \ref{sec:construction}. %This paper is dedicated to J.W. Hall's Steak and Seafood Inn at 2284 Brodhead Rd, Aliquippa, PA. 
+}}\fi
 }}
 
 
+\ifblind
+\author{}
+\else
 \author{% 
 \normalsize Joseph P. Hall\thanks{%
    Georgia Institute of Technology. {Email: \tt jhall390@gatech.edu}. Address: 800 W Peachtree St NW, Atlanta, GA 30308. Phone: +1 (781) 715-5862 }
       }
+\fi
 
 
 \date{}
@@ -182,7 +195,7 @@
 \begin{abstract}
 \begin{singlespace} \vspace{-0.3cm}
 \noindent 
-Before 1970, almost all short-term consumer credit in the United States was extended by merchants, but now is extended by banks in the form of credit cards. To evaluate the effects of this change on merchants, I start with a simple decomposition to show that the total effect on profits depends on both reductions in cost and changes in markups. I argue markups may change if interoperable bank cards make merchants better substitutes. I estimate these changes using a natural experiment which exogenously accelerated bank credit card use relative to store credit card use: the 1978 \emph{Marquette} decision. Usury (maximum interest rate) regulation effectively ended nationwide, differently affecting states based on pre-existing regulation of revolving short-term consumer debt. I estimate that a 20\% decrease in merchant lending increased net entry (my preferred proxy for merchant profits) by about 4\%, more so for small firms. I build a new microdata panel of retail establishments with new data on bank credit card acceptance constructed from archival Yellow Pages. I use a flexible model where both costs and substitutability between merchants can be affected by credit cards and fit it to the data. I find payment networks are a real but second-order driver of where consumers shop, with lower costs the dominant channel. I present evidence that cost-reduction is created through banks' lower labor costs and superior risk-bearing capacity versus firms. %249 words 
+Before 1970, most short-term U.S.\ consumer credit was extended by merchants; today banks extend it through credit cards. Using the 1978 \emph{Marquette} decision, which unexpectedly ended binding usury regulation, I estimate that the induced 20\% decline in merchant lending raised retail net entry---my proxy for merchant profits---by about 4\%, most for small firms. New establishment-level data on card acceptance, hand-collected from archival Yellow Pages, combined with a model separating cost reduction from merchant substitutability, show lower costs rather than competition drive the effect: banks' scale and risk-bearing cut accepting merchants' costs by roughly 4\%. %96 words 
 
 \end{singlespace}
 
@@ -282,6 +295,7 @@ This study is the first to quantitatively document the transition in consumer cr
      \end{subfigure}
           \end{center}
      \noindent \small \uline{Notes:} The figure shows the change in composition of credit card supply since 1970 (the first year in which the SCF inquired about credit cards). Panel (a) shows bank- and store-card spending normalized by nominal income; panel (b) shows the store-card share of cardholders; panel (c) shows the average number of bank and store cards per household. ``Store Cards'' are cards that are only usable at specific stores, i.e. non-interoperable. Interoperable cards with store-specific branding are bank cards. Averages are weighted by SCF sample weights.
+\alttext{Three-panel line chart from the Survey of Consumer Finances, 1970--2019. Panel (a): bank-card spending as a share of income rises steadily while store-card spending falls toward zero. Panel (b): the store-card share of cardholders declines from a majority in 1970 to a small minority. Panel (c): the average number of bank cards per household rises while store cards decline.}
 \end{figure}
 
 Figure \ref{fig:bank_store} shows the changing composition of consumers' revolving credit over time. Panel (a) shows that the relative amount of credit card spending financed by stores (as opposed to banks\footnote{Following the SCF, I use "banks" to include all financial institutions, not necessarily those with ``banking licenses'' per se}) has been steadily declining since 1970: from 1970--1971, nearly 75\% of total card spending was on store credit cards, and as of 2019 that figure is less than 10\%. Panels (b) and (c) show the same transition in the share of cardholders who hold a store card and in the number of bank versus store cards per household. Bank credit cards proceeded to proliferate throughout the 1960s, and in 1970 the SCF added questions about credit cards to the survey for the first time, prefacing the question with ``There is a lot of talk about credit cards these days.'' Since the SCF tracks store credit borrowing in terms of balances, but credit cards in terms of spending amounts, I take the most conservative possible approach and only compare store credit card spending to bank credit card spending starting in 1970; the fraction of credit extended by stores early in the sample would be higher if I were to additionally attempt to estimate the flow of spending using store credit.
@@ -295,6 +309,7 @@ The replacement of store cards by bank cards was accompanied by sustained growth
   \includegraphics[width=.8\textwidth]{../Output/Figures/bank_card_by_income.pdf}
   \end{center}
   \noindent \small \uline{Notes:} The figure shows the fraction of households holding at least one bank credit card by income quartile in the Survey of Consumer Finances. Income quartiles are computed within each survey year using SCF sample weights. Year-quartile cells with fewer than 100 respondents are omitted.
+\alttext{Line chart of the share of households holding at least one bank credit card, by within-year income quartile, 1970--2019. Ownership is ordered by income throughout: the top quartile rises from 35\% in 1970 to nearly 75\% by 1983 and 95\% by 2019; the bottom quartile remains below 20\% through 1983 and reaches 45\% by 2019.}
 \end{figure}
 
 The transition from store to bank consumer credit also shows up on the aggregate balance sheet of the retail sector. The Census publishes quarterly financial reports based on all firms nationwide with over \$50 million in assets, which has tracked receivables in a consistent way since 1980. Figure \ref{fig:receivables} shows the average quarterly ratio of outstanding receivables against quarterly revenue. In ``Retail Trade'', which are firms who sell directly to consumers, the fraction of receivables to revenue has fallen from 30\% to just over 10\% by the mid-2000s. To show that this is plausibly due to the proliferation of bank credit cards among consumers, and not a general intermediation of receivables in the economy, I plot the same series for the ``Wholesale Trade'' industry which operates with similar economics to retail trade, but sells to firms rather than directly to consumers -- this series is relatively flat at nearly 40\%.\footnote{Note that while the bulk of the decline in the time series of retail lending nationwide occurs from 1990 to 2005, this paper studies a cross-sectional change in retail lending occurring around 1977 to 1986 as described in Section \ref{sec:empirical-strategy} which I argue is causally identified. I therefore stress that the interpretation of the causal evidence is about a \emph{relative} decrease in store credit borrowing in states where bank credit cards expanded faster, at a time when, nationwide, store credit was still a large and growing industry.}
@@ -306,6 +321,7 @@ The transition from store to bank consumer credit also shows up on the aggregate
   \includegraphics[width=.9\textwidth]{../Output/Figures/receivables.pdf}
   \end{center}
   %\noindent \small \uline{Notes:}  
+\alttext{Line chart of the average quarterly ratio of outstanding receivables to revenue for retail and for wholesale firms from the Quarterly Financial Reports since 1980; receivables of retail firms decline over the period.}
 \end{figure}
 
 Historical sources also emphasize the importance of the high labor costs of store credit; the merchant interviewed in \cite{nocera_piece_2013} had three full-time employees dedicated to invoicing. The transition away from store credit does in fact show up in the aggregate wage bill of the retail sector -- Figure \ref{fig:backoffice_retail} uses census data broken down by wage and industry to show the dramatic decline of two occupations which supported the administration and collection of retail firms' receivables: bookkeepers and bill collectors. Retail firms once spent 4\% of their wage bill on workers in these two job roles which has declined by a factor of more than 10. While a decline has also been observed in the Wholesale industry of about 63\% since 1960, the decline over that same time period in the retail sector has been more pronounced at 78\%. 
@@ -317,6 +333,7 @@ Historical sources also emphasize the importance of the high labor costs of stor
   \includegraphics[width=.9\textwidth]{../Output/Figures/backoffice_retail.pdf}
   \end{center}
   \noindent \small \uline{Notes:} In each year, the denominator is the sum of wages of employees whose industry of employment (1950-standardized codes: IND1950 in IPUMS) is between 636 and 699 (retail trade). The numerator is the sum of wages of such employees whose occupation (1950-standardized codes: OCC1950 in IPUMS) is 320 or 321 (bookkeepers and bill collectors). \newline 
+\alttext{Line chart, 1940--2020: the share of the retail-sector wage bill paid to bookkeepers and bill collectors falls smoothly from over 4\% in 1940 to under half a percent by 2020.}
 \end{figure}
 %\vspace{-0.5cm}
 
@@ -329,6 +346,7 @@ I conclude this section by considering the international cross-section of countr
   \includegraphics[width=.9\textwidth]{../Output/Figures/international_histograms.pdf}
   \end{center}
   \noindent \small \uline{Notes:} The figure shows the distribution of countries by (a) credit card ownership rates and (b) store credit usage rates, using the most recent available year for each country from the World Bank Global Findex (\cite{global_findex_2021}). The red dashed line marks the United States' position in each distribution.
+\alttext{Two histograms across countries from the World Bank Global Findex (most recent year per country): the distribution of credit card ownership rates and the distribution of store credit usage rates.}
 \end{figure}
 
 \section{Theoretical Framework}\label{sec:model}
@@ -419,6 +437,7 @@ The most common usury rate in 1977 was 18\%. The most direct evidence that this 
      \newline 
           \end{center}
      \noindent \small \uline{Notes:} The figure shows the empirical distribution of bank credit card interest rates in the 1977 and 1983 Surveys of Consumer Finance. Since state-level identifiers are not available in 1977, only the nationwide distributions are shown. The most popular usury rates in 1977 were 12\%, 15\%, and 18\%. Usury rates were effectively abolished nationwide in 1978. 
+\alttext{Two histograms of bank credit card interest rates from the Survey of Consumer Finances. In 1977, reported rates bunch sharply at common usury ceilings such as 18\%; by 1983 the bunching at ceilings is much weaker.}
 \end{figure}
 
 Usury regulation was especially potent due to the prevalence of inflation at the time. In the U.S. today, personal loan interest rate ceilings are often set at 36\%. Figure \ref{fig:usury_ts} makes the bind starkly visible: the \emph{minimum} usury ceiling across states stood at just 10\% through 1982, yet inflation reached 13.5\% in 1980 and the federal funds rate---a lower bound on banks' own cost of funds---climbed above 16\% in 1981. In the most-constrained states, then, a bank lending at the legal ceiling earned a deeply negative real return and could not even cover its cost of funds, so profitable card lending was essentially impossible until \emph{Marquette} lifted the cap. Even the modal ceiling of 18\% left little margin once default and servicing costs are netted out. I am therefore highly confident that the effect of \emph{Marquette} to deregulate these usury limits was material.
@@ -432,6 +451,7 @@ One might ask, then, why bank credit cards did not proliferate in the 1960s, whe
   \includegraphics[width=.9\textwidth]{../Output/Figures/inflation_ts.pdf}
   \end{center}
   \noindent \small \uline{Notes:} The figure plots, for 1971--1990, the U.S.\ inflation rate and the federal funds rate (a lower bound on banks' marginal cost of funds) as solid lines, and two summaries of state usury ceilings as dashed lines: the minimum (most-binding) limit across states and the modal limit. The minimum ceiling of 10\% sat well below both inflation and the federal funds rate as they peaked around 1980, indicating how severely the caps bound before \emph{Marquette}.
+\alttext{Line chart, 1971--1990: U.S.\ inflation and the federal funds rate (solid lines) against the minimum and modal state usury ceilings (dashed lines); around 1980 inflation and the federal funds rate peak well above the minimum ceiling of 10\%.}
 \end{figure}
 
 Figure \ref{fig:total_card_growth} shows the growth in total credit card lending in the United States scaled by nominal GDP, as well as the fraction of such lending originating in states without usury limits as of 1982. Credit card lending was barely \$50 billion in 1976, and grew to \$500 billion by 1990. Prior to 1982, less than 20\% of credit card lending originated in no-limit states -- by 1988 this fraction had grown to over 50\%. The growth of credit card lending also displays a notable kink after the deregulation of state-level usury limits, suggesting that usury deregulation played an important part in the rapid growth of credit card lending during the 1980s. In aggregate, the quantity of credit card lending scaled by nominal GDP more than tripled during this period, and almost all of the growth can be attributed to banks headquartered in deregulated states. 
@@ -444,6 +464,7 @@ Figure \ref{fig:total_card_growth} shows the growth in total credit card lending
   \end{center}
   \noindent \small \uline{Notes:} The figure shows the aggregate growth in credit card lending by banks in the United States as recorded in the Call Reports. %The solid black line shows the aggregate credit card lending outstanding in billions of US Dollars (left axis). 
   Deregulated states are those who abolished usury limits by 1982: Arizona, Delaware, Illinois, Idaho, Montana, Nevada, New Hampshire, New Jersey, New Mexico, Oregon, South Dakota, Utah, and Wisconsin. Arizona removed its usury limit in 1981 and New Hampshire had no limit as of at least 1971; each other such state removed its usury limit in 1982. %Vertical lines mark 1978, the year of the \emph{Marquette} decision, and 1982, after several states deregulated to attract bank HQs. 
+\alttext{Time-series chart of aggregate bank credit card lending from the Call Reports, with states that abolished usury limits by 1982 shown separately; aggregate lending accelerates from the mid-1970s.}
 \end{figure}
 
 Importantly, I do not argue that this particular evidence is itself informative about the causal effects of bank credit cards on retail firms. The reason is that Call Reports data is aggregated by the location of the lending bank, not the customer who borrows. These locations may not be the same, and indeed the content of the unexpected regulatory shock was to enable inter-state lending. Therefore I do not hypothesize that banks located in states with strict usury rates in 1977 would increase their credit card lending in response to \emph{Marquette}, but rather that banks located in high-limit or no-limit states would increase credit card lending across state borders to consumers in states in which tight usury limits still bind local banks. This particular evidence is important for establishing the relevance of the shock, but is not in itself useful for identifying its causal effect. This evidence is also useful to establish the time window in which the financial system re-optimized in response to \emph{Marquette}, justifying my decision to focus mainly on changes from 1977 to 1983. 
@@ -483,6 +504,7 @@ Firstly, there was no clear geographic pattern to usury regulation in 1977. Figu
   \includegraphics[width=.9\textwidth]{../Output/Figures/rate_77.png}
   \end{center}
   \noindent \small \uline{Notes:} The figure shows the usury rate (maximum legal interest rate) for consumer lending in each state as of 1977. \newline 
+\alttext{Choropleth map of the United States showing each state's maximum legal interest rate for consumer lending in 1977; states with ceilings below 18\% form the treated group.}
 \end{figure}
 \vspace{-0.5cm}
 
@@ -505,6 +527,7 @@ To estimate the magnitude of the reduction in firm lending, I perform a differen
   \includegraphics[width=.9\textwidth]{../Output/Figures/receivables_revenue.pdf}
   \end{center}
   \noindent \small \uline{Notes:} Sample of 179 retail firms based on accounting data from Compustat linked to sales locations in Dun \& Bradstreet, excluding firms with receivables-to-revenue ratios above 0.8. 95\% confidence intervals are shown in shaded bands. The year of \emph{Marquette}, when bank credit card lending increased more in ``Treated'' states, is denoted with a dashed vertical line. Default standard errors are shown, and robustness to state-level correlation is analyzed in Appendix \ref{sec:permutation} -- the most conservative bootstrapped standard errors yield a p-value of 0.07.
+\alttext{Event-study plot of yearly difference-in-difference coefficients for store lending (receivables over revenue) with 95\% confidence bands, for 179 Compustat retail firms; store lending in treated states falls after the 1978 \emph{Marquette} decision.}
 \end{figure}
 \vspace{-0.5cm}
 
@@ -596,6 +619,7 @@ To overcome the limitations of accounting data, namely (1) the discrepancy betwe
         \end{center}
 \small \uline{Notes:} This graph shows the results of equation \ref{eq:triple_dif} for number of establishments by 2-digit SIC code-county. Standard errors are clustered by state. The omitted year is 1977, the year before \emph{Marquette}.
  
+\alttext{Three event-study panels of yearly triple-difference coefficients (omitted year 1977) for clothing retail by county: total establishments, establishments with fewer than 20 employees, and the fraction of small establishments, each with confidence intervals.}
 \end{figure}
 
 As can be seen, there is an economically and statistically significant increase in the number of firms operating in the clothing retail industry in treated states after \emph{Marquette}. The average retail industry in the average county at this time had 91 establishments (see Appendix \ref{tab:summary_cbp}), so the entry of about 4 firms represents nearly a 4\% increase in the number of firms. Although the estimated cost reductions per firm are modest in magnitude (on the order of 2--3\% of marginal cost), the large entry response is consistent with the economics of competitive industries. Entry and exit are threshold decisions: in a competitive industry such as retail, where profit margins are thin, even a small reduction in marginal cost can push many marginal firms from below to above the zero-profit threshold. This is a standard feature of models of entry under competition, such as \cite{hopenhayn_entry_1992} and \cite{melitz_impact_2003}, where the entry margin amplifies small changes in underlying profitability. Furthermore, the firms entering are relatively small, and small firms do not appear to grow to keep the distribution of firm sizes the same -- there is an increase of 2\%, from a mean of 90\%, in the fraction of firms which have less than 20 employees. This is consistent with a channel of cost reduction being economies of scale, which predicts that firms of a smaller scale will benefit more from being able to outsource credit supply functions to large banks. 
@@ -758,6 +782,7 @@ To test this mechanism, I look at establishment exits, which are a measure of fi
     \includegraphics[width = .9\textwidth]{Static/unemployment-rate-and-recessions-since-1948.pdf}
     \end{center}
     \noindent \small \uline{Source:} NBER
+\alttext{Line chart of the U.S.\ unemployment rate since 1948 with NBER recessions shaded; unemployment peaks near 11\% in the 1982--83 recession.}
 \end{figure}
 
 I  use the following analogue of Equation \ref{eq:dif_dif}, with heterogeneity by firm size (single-establishment or multi-establishment. 19\% of establishments are part of a multi-establishment firm). 
@@ -858,7 +883,7 @@ I obtain Call Reports data from the Federal Reserve Bank of Chicago in order to 
 
 \subsection{Compustat}\label{subsec:compustat}
 
-In order to measure the substitution of bank credit for store credit, I use quarterly data from 1970-1990 on the universe of retail firms (SIC codes 5200-5999) which fit Compustat's inclusion criteria. The key variables are accounts receivable (RECTRQ), total revenue (REVTQ), total assets (ATQ), and net income (NIQ). For each firm, I calculate its ratio of receivables to revenue in each period to measure the amount of credit extended to its customers. Then, I manually match Compustat firms to sales locations in Dun \& Bradstreet with the help of research assistant Sarah Anderson. I then calculate a measure of treatment for each firm as the sales-weighted average treatment intensity across its operating states. I then apply this treatment variable to the difference-in-differences analysis in Section \ref{sec:profits}. There are a total of 195 firms which fit the inclusion criteria for this analysis. The average receivables-to-revenue ratio in the panel is 21.8\%. Table \ref{tab:compustat_summary} in the Appendix reports detailed summary statistics for this sample, including the distribution of geographic treatment exposure. A limitation of the Compustat data is that it covers only large, publicly traded firms and therefore may not be representative of the modal retail establishment, motivating the complementary analysis using County Business Patterns and Dun \& Bradstreet.
+In order to measure the substitution of bank credit for store credit, I use quarterly data from 1970-1990 on the universe of retail firms (SIC codes 5200-5999) which fit Compustat's inclusion criteria. The key variables are accounts receivable (RECTRQ), total revenue (REVTQ), total assets (ATQ), and net income (NIQ). For each firm, I calculate its ratio of receivables to revenue in each period to measure the amount of credit extended to its customers. Then, I manually match Compustat firms to sales locations in Dun \& Bradstreet with the help of \ifblind a research assistant\else research assistant Sarah Anderson\fi. I then calculate a measure of treatment for each firm as the sales-weighted average treatment intensity across its operating states. I then apply this treatment variable to the difference-in-differences analysis in Section \ref{sec:profits}. There are a total of 195 firms which fit the inclusion criteria for this analysis. The average receivables-to-revenue ratio in the panel is 21.8\%. Table \ref{tab:compustat_summary} in the Appendix reports detailed summary statistics for this sample, including the distribution of geographic treatment exposure. A limitation of the Compustat data is that it covers only large, publicly traded firms and therefore may not be representative of the modal retail establishment, motivating the complementary analysis using County Business Patterns and Dun \& Bradstreet.
 
 \subsection{Dun and Bradstreet}
 
@@ -881,6 +906,7 @@ I collect novel data on firms' credit card acceptance decision using the US Tele
      \end{subfigure}
         \caption{Examples of USTD Data}
         \label{fig:ustd}
+\alttext{Two scanned Yellow Pages excerpts showing merchant listings under bank card program headings (BankAmericard and Master Charge), the raw records used to code credit card acceptance.}
 \end{figure}
 
 From these data, I identify the firms most likely to be early adopters of bank cards and their characteristics, which are informative about the mechanisms which incentivize firms to accept bank cards. Table \ref{tab:card_uses} shows the fraction of firms by industry which adopt bank cards in the 1970s, and compares to the categories of goods purchased with store and bank cards reported by households in the 1971 SCF. These results motivate the heterogeneity analyses by industry in Section \ref{sec:profits}. These data are also the basis of empirical tests in Sections \ref{sec:adoption_effects} and \ref{sec:adoption_effects} which seek to distinguish between the two major mechanisms of cost-reduction and payment friction reduction. 
@@ -912,7 +938,7 @@ The Dun and Bradstreet (D\&B) database was filtered for the states and years cov
 Individual companies listed under the ``Credit Card'' portion of each phonebook's Yellow Pages were manually transcribed to create a dataset of 510 company-years. Each of these company-years represent a merchant that accepted interoperable credit cards in that given year. Other listings pertaining to credit (credit unions, credit reporting agencies, branches of the credit-offering bank, credit card supply or technology companies) were excluded. The phonebook listings are assumed to be a nearly exhaustive list of merchants who accepted credit cards, as both credit card companies and merchants have strong economic incentives to publicize their offerings. Only one credit card plan, Cap Charge Account Plan, noted that the phonebook listing was a partial member list; this plan only appeared in one phonebook. Information represented in the dataset of merchants includes the company's name, phone number, whether the listing was in bold or large font (presumed to represent paid marketing), the industry / sector the company was listed under, and the credit card plan in which it participated. 
 This list of credit-card-accepting merchants was then merged with the D\&B dataset to identify which D\&B-listed company-years accepted credit cards. The initial merge used a concatenated year-phone number merge index, where the phone number used was the last seven digits of the phone number provided. This was done to remove noise from area codes or other phone dialing prefixes that sometimes appeared in the D\&B dataset. From this merge, 366 (72\%) company-years from the phonebook data were matched with a record in the D\&B dataset. Manual comparisons of company names confirmed that the records were all correctly matched. The remaining 142 merchant-years were manually matched with D\&B records based on company names, street addresses, and industries, yielding another 47 confident matches. Ultimately, 81.3\% of the merchant-year observations in phonebooks were matched with a D\&B record. The remainder likely did not have a match because the merchant-year predated D\&B's database (starting in 1970), or D\&B did not record the business as operational in the corresponding year. Finally, the matching phonebook records were merged back into the D\&B database. A total of 410 firms were found to have a matching phonebook listing under a card-accepting merchant. Finally, the D\&B dataset was filtered to only include cities, 4-digit SIC codes, and years in which at least one firm was found that is confirmed to accept the bank credit card, resulting in a population of 2,956 firms from 1970 through 1977. 1,177 of these firms exist as of 1977, i.e. at the time of the \emph{Marquette} shock, of which 525 have verified sales data. 
 
-Company matching was performed by research assistant Sarah Anderson. I (Joseph Hall) specified the procedure, audited a random subsample of results, and accept responsibility for any remaining errors.
+\ifblind Company matching was performed by a research assistant; the author specified the procedure, audited a random subsample of results, and accepts responsibility for any remaining errors. \else Company matching was performed by research assistant Sarah Anderson. I (Joseph Hall) specified the procedure, audited a random subsample of results, and accept responsibility for any remaining errors. \fi
 
 \begin{figure}[H]
  \caption{USTD Coverage Over Time}\label{fig:books_by_year}
@@ -920,6 +946,7 @@ Company matching was performed by research assistant Sarah Anderson. I (Joseph H
  \begin{center}
   \includegraphics[width=.9\textwidth]{../Output/Figures/books_by_year.pdf}
   \end{center}
+\alttext{Bar chart of the number of phone books in the Library of Congress US Telephone Directories collection per year since 1950, colored by state.}
 \end{figure}
 \vspace{-0.5cm}
 \noindent \small \uline{Notes:} This figure shows the number of phone books available from the U.S. Telephone Directories collection of the Library of Congress by year since 1950, categorized by state. 
@@ -931,6 +958,7 @@ Company matching was performed by research assistant Sarah Anderson. I (Joseph H
   \includegraphics[width=.9\textwidth]{../Output/Figures/intro_lb.png}
   \end{center}
   \noindent \small \uline{Notes:} Counties included in the USTD Collection are marked in shades of blue according to the lower bound of possible introduction dates of bank credit cards. 
+\alttext{Map of US counties covered by the US Telephone Directories collection, shaded in blues by the lower bound on the possible introduction date of bank credit cards.}
 \end{figure}
 \vspace{-0.5cm}
 
@@ -973,10 +1001,11 @@ The credit card listings used above are the visible output of a much larger digi
 \includegraphics[width=\textwidth]{../Output/Figures/yp_review/D_credit_section_intro.pdf}
 \caption{First appearance of a ``Credit Card'' section}
 \end{subfigure}
+\alttext{Two panels summarizing the machine-readable phonebook corpus: counts of phonebooks by state and year, and the first year a ``Credit Card'' section appears in each book.}
 \end{figure}
 \vspace{-0.25cm}
 
-\noindent The full corpus, the hand-transcribed credit card acceptance records, a data dictionary, and the code that produces every figure and table in this section are archived on Zenodo at \href{https://doi.org/10.5281/zenodo.20513427}{\texttt{doi.org/10.5281/zenodo.20513427}} and mirrored in the paper's public replication repository. Because the corpus derives from public-domain materials, it may be freely reused; the proprietary Dun \& Bradstreet records used to attach establishment sales are not redistributed and must be licensed separately.
+\noindent The full corpus, the hand-transcribed credit card acceptance records, a data dictionary, and the code that produces every figure and table in this section \ifblind are archived in a public data repository and mirrored in the paper's public replication repository (links redacted for peer review). \else are archived on Zenodo at \href{https://doi.org/10.5281/zenodo.20513427}{\texttt{doi.org/10.5281/zenodo.20513427}} and mirrored in the paper's public replication repository. \fi Because the corpus derives from public-domain materials, it may be freely reused; the proprietary Dun \& Bradstreet records used to attach establishment sales are not redistributed and must be licensed separately.
 
 \newpage
 
@@ -993,6 +1022,7 @@ The credit card listings used above are the visible output of a much larger digi
   \includegraphics[width=.8\textwidth]{../Output/Figures/rates_all.png}
   \end{center}
   \noindent \small \uline{Notes:} The figure shows the distribution of credit card rates reported in the SCF. Respondents are grouped by whether their largest balance is held on a store or bank credit card; they report the interest rate on that credit card. 
+\alttext{Histograms of credit card interest rates reported in the Survey of Consumer Finances, with respondents grouped by whether their largest balance is on a store or a bank credit card.}
 \end{figure}
 \vspace{-0.5cm}
 
@@ -1047,6 +1077,7 @@ The credit card listings used above are the visible output of a much larger digi
   \includegraphics[width=.9\textwidth]{../Output/Figures/card_rates_raw.pdf}
   \end{center}
   \noindent \small \uline{Notes:} This figure shows the mean interest rate on credit cards over time from the Survey of Consumer Finances, with the fraction of cards carrying zero interest rates overlaid.
+\alttext{Line chart, 1977--2019: the mean interest rate on credit cards from the Survey of Consumer Finances, with the share of cards carrying a zero interest rate overlaid.}
 \end{figure}
 
 \begin{figure}[H]
@@ -1056,6 +1087,7 @@ The credit card listings used above are the visible output of a much larger digi
   \includegraphics[width=.7\textwidth]{../Output/Figures/msw_correlation.pdf}
   \end{center}
   \noindent \small \uline{Notes:} The figure shows the correlation between states' 1977 usury rates and the average year of banking deregulation (computed from branch banking, full banking, and interstate banking deregulation dates from \cite{kroszner_regulation_2014}). The near-zero correlation supports the identifying assumption that usury treatment is orthogonal to other forms of financial deregulation.
+\alttext{Scatter plot relating states' 1977 usury ceilings to their average year of banking deregulation; the correlation is near zero.}
 \end{figure}
 
 \newpage
@@ -1072,6 +1104,7 @@ A potential concern is that errors are correlated between firms selling in the s
   \includegraphics[width=.7\textwidth]{../Output/Figures/permutation_test.pdf}
   \end{center}
   \noindent \small \uline{Notes:} The black CDF represents the distribution of $\beta_{1983}$ under the null hypothesis that usury rates are unrelated to the receivables-to-revenue ratio. The red line represents the empirical point estimate of $\beta_{1983}$. The one-sided permutation $p$-value is 0.07.
+\alttext{Cumulative distribution of placebo estimates of the 1983 coefficient from permuting usury treatment across states (black curve), with the empirical point estimate marked by a red vertical line in the upper tail; the one-sided permutation p-value is 0.07.}
 \end{figure}
 \vspace{-0.5cm}
 
@@ -1092,6 +1125,7 @@ A potential concern is that errors are correlated between firms selling in the s
      \end{subfigure}
         \caption{Selected Newspaper Articles, 1959-1969}
         \label{fig:newspapers}
+\alttext{Scans of two newspaper articles from 1959--1969 covering merchant credit plans and legislation to curb unsolicited credit cards.}
 \end{figure}
 
 
